@@ -1,0 +1,270 @@
+<TEI.2
+TEIFORM="TEI.2"
+><TEIHEADER
+TYPE="text"
+STATUS="NEW"
+TEIFORM="teiHeader"
+><FILEDESC
+TEIFORM="fileDesc"
+><TITLESTMT
+TEIFORM="titleStmt"
+><TITLE
+TEIFORM="title"
+>Adresse au Grand Lama de Rome: ou le bon sens veng&eacute;: electronic edition</TITLE
+><AUTHOR
+TEIFORM="author"
+>A. Clesse</AUTHOR
+><RESPSTMT
+TEIFORM="respStmt"
+><RESP
+TEIFORM="resp"
+>Compiled and edited by</RESP
+><NAME
+TEIFORM="name"
+>Michael Kazanjian</NAME
+></RESPSTMT
+></TITLESTMT
+><PUBLICATIONSTMT
+TEIFORM="publicationStmt"
+><PUBLISHER
+TEIFORM="publisher"
+>Lewis H. Beck Center</PUBLISHER
+><PUBPLACE
+TEIFORM="pubPlace"
+>Emory University</PUBPLACE
+><ADDRESS
+TEIFORM="address"
+><ADDRLINE
+TEIFORM="addrLine"
+>Atlanta, Georgia  30322</ADDRLINE
+></ADDRESS
+><AVAILABILITY
+STATUS="UNKNOWN"
+TEIFORM="availability"
+><P
+TEIFORM="p"
+>2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</P
+></AVAILABILITY
+><DATE
+TEIFORM="date"
+>2002</DATE
+></PUBLICATIONSTMT
+><SERIESSTMT
+TEIFORM="seriesStmt"
+><TITLE
+TEIFORM="title"
+>French Revolution Pamphlet Collection</TITLE
+></SERIESSTMT
+><SOURCEDESC
+DEFAULT="NO"
+TEIFORM="sourceDesc"
+><BIBL
+DEFAULT="NO"
+TEIFORM="bibl"
+><TITLE
+TEIFORM="title"
+> Adresse au Grand Lama de Rome: ou le bon sens veng&eacute;.</TITLE
+>
+<PUBPLACE
+TEIFORM="pubPlace"
+>Paris</PUBPLACE
+><DATE
+TEIFORM="date"
+>1792</DATE
+></BIBL
+></SOURCEDESC
+></FILEDESC
+><ENCODINGDESC
+TEIFORM="encodingDesc"
+><PROJECTDESC
+DEFAULT="NO"
+TEIFORM="projectDesc"
+><P
+TEIFORM="p"
+>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</P
+><P
+TEIFORM="p"
+>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</P
+></PROJECTDESC
+><EDITORIALDECL
+DEFAULT="NO"
+TEIFORM="editorialDecl"
+><P
+TEIFORM="p"
+>I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  I omitted the only page signature "A2" (on p. 3) as it was the only one for the entire text.  For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</P
+></EDITORIALDECL
+></ENCODINGDESC
+><PROFILEDESC
+TEIFORM="profileDesc"
+><CREATION
+TEIFORM="creation"
+><DATE
+TEIFORM="date"
+>1792</DATE
+></CREATION
+></PROFILEDESC
+><REVISIONDESC
+TEIFORM="revisionDesc"
+><CHANGE
+TEIFORM="change"
+><DATE
+TEIFORM="date"
+>2002</DATE
+><RESPSTMT
+TEIFORM="respStmt"
+><NAME
+TEIFORM="name"
+>Michael Kazanjian</NAME
+><RESP
+TEIFORM="resp"
+>staff</RESP
+></RESPSTMT
+><ITEM
+TEIFORM="item"
+>Sgml tags inserted in compliance with TEI guidelines using TEI P3</ITEM
+></CHANGE
+></REVISIONDESC
+></TEIHEADER
+><TEXT
+TEIFORM="text"
+><FRONT
+TEIFORM="front"
+><TITLEPAGE
+TEIFORM="titlePage"
+><DOCTITLE
+TEIFORM="docTitle"
+><TITLEPART
+TYPE="main"
+TEIFORM="titlePart"
+>Adresse au Grand Lama de Rome: ou le bon sens veng&eacute;.</TITLEPART
+></DOCTITLE
+><DOCAUTHOR
+TEIFORM="docAuthor"
+>A. Clesse.</DOCAUTHOR
+><DOCDATE
+TEIFORM="docDate"
+>1792.</DOCDATE
+></TITLEPAGE
+></FRONT
+><BODY
+TEIFORM="body"
+><DIV1
+ID="ADRESSE"
+N="Adresse au Grand Lama de Rome: ou le bon sens vengé"
+TYPE="Adresse"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><PB
+N="2"
+TEIFORM="pb"
+></PB
+><PB
+N="3"
+TEIFORM="pb"
+></PB
+><P
+REND="center"
+TEIFORM="p"
+> LA MORALE EST LA FILLE AIN&Eacute;E DE LA NATURE ;<LB
+TEIFORM="lb"
+></LB
+>
+Elle est immortelle comme sa m&egrave;re.<LB
+TEIFORM="lb"
+></LB
+> </P
+><P
+REND="rule center"
+TEIFORM="p"
+></P
+><P
+TEIFORM="p"
+>L'ignorance de toute &eacute;ternit&eacute;, -- les hommes aux sottises avoit encha&icirc;n&eacute;s. -- Ce n'est point le plus fort qui leur a le plus de mal caus&eacute; ; -- c'est le fanatisme et ses pr&eacute;jug&eacute;s, -- qui l'esp&egrave;ce humaine ont subjug&eacute;e, -- ma&icirc;tris&eacute;e, -- d&eacute;shonor&eacute;e.</P
+><P
+TEIFORM="p"
+>Les pr&ecirc;tres d'un p&ocirc;le &agrave; l'autre le mot se sont donn&eacute;s, -- pour nous &eacute;pouvanter, -- notre ame troubler, -- ils ont dans tous
+
+<PB
+N="4"
+TEIFORM="pb"
+></PB
+>
+les tems l'imposture pour du vrai fait passer. -- Toutes les nations de la terre bern&eacute;es, -- par le bout du nez men&eacute;es ; -- les bonnes places du paradis argent comptant vendues, mais non pas livr&eacute;es, -- le purgatoire par eux invent&eacute;, -- des fleuves d'or et d'argent leur a amen&eacute;. -- L'int&eacute;r&eacute;t, leur seul mobile, les a constamment guide, -- pour nous tromper, -- afin d'avoir ample aisance et commodit&eacute;. -- Le tr&ocirc;ne de leur religieuse imposture, d&eacute;ja avili, m&eacute;pris&eacute;, -- dans peu va crouler ; -- la raison &eacute;ternelle sur ses d&eacute;bris poudreux va si&eacute;ger, -- le voile de ses odieux myst&egrave;res, par elle sera d&eacute;chir&eacute;, -- le talisman de leurs incompr&eacute;hensibles sottises sera expliqu&eacute;, -- ensuite bris&eacute;, -- et sa folle nullit&eacute; enfin au grand jour sera montr&eacute;e.</P
+><P
+TEIFORM="p"
+>La raison &eacute;ternelle aux humains ainsi va parler : -- O vous, mortels insens&eacute;s, -- que l'erreur a toujours guid&eacute;s, -- et qui toujours avez -- dans les t&eacute;n&egrave;bres trembl&eacute;s, -- &agrave; la lumi&egrave;re enfin vos yeux ouvrez, -- par elle seule la v&eacute;rit&eacute; saurez, -- et votre bonheur trouverez, -- ce sera par elle
+
+<PB
+N="5"
+TEIFORM="pb"
+></PB
+>
+que vous apprendrez, -- que tous les cultes pr&eacute;ch&eacute;s et pr&ocirc;n&eacute;s -- ne sont que le produit malade de quelques cerveaux troubl&eacute;s, -- par la v&eacute;rit&eacute; que l'histoire a burin&eacute;e, -- vous apprendrez -- que les dieux de l'ancienne Rome de m&eacute;tal fabriqu&eacute;s -- &eacute;toient aux temples nourris d'animaux sacrifi&eacute;s, -- chaque jour du plus au moins &eacute;toit c&eacute;l&eacute;br&eacute;, -- par des dons nouveaux &agrave; l'autel apport&eacute;s, -- le gros b&eacute;tail de fleurs orn&eacute;, par le riche au templ&eacute; conduit, amen&eacute;, -- veaux, moutons, poules et &oelig;ufs par le pauvre pr&eacute;sent&eacute;s : -- chaque d&eacute;vot imb&eacute;cile fermement pour lors persuad&eacute;, -- que la volaille et b&eacute;tes corn&eacute;es -- pour la table de Jupiter, Junon et compagnie &eacute;toient destin&eacute;s, appr&ecirc;t&eacute;s. -- L'incroyable d&eacute;mence de ces hommes abus&eacute;s, -- &agrave; son comble sans doute &eacute;toit port&eacute;e ; -- mais faites attention, et remarquez -- cette d&eacute;vorante religion sera substitu&eacute;e -- par une autre mille fois plus digne de piti&eacute; ; -- ce ne seront plus les dieux d'airain qui se rempliront le gisier, -- mais ce sera le p&egrave;re &eacute;ternel et son fils bien-aim&eacute;, -- qui &agrave; leur tour
+
+<PB
+N="6"
+TEIFORM="pb"
+></PB
+>
+seront sacrifi&eacute;s, mang&eacute;s et dig&eacute;r&eacute;s. - Les mangeurs d'hommes antropophages sont nomm&eacute;s, -- les mangeurs de dieux comment les appeller?</P
+><P
+TEIFORM="p"
+>Ce culte immoral et insens&eacute; -- est encore de nos jours observ&eacute;, conserv&eacute;, pratiqu&eacute;, r&eacute;v&eacute;r&eacute;, -- qui pendant pr&egrave;s de dix-huit si&egrave;cles dans le monde entier -- des fleuves de larmes et de sang a fait couler. -- Des arlequins et pierrots ridiculement bariol&eacute;s, habill&eacute;s, -- l'ont pr&ocirc;n&eacute;, pr&ecirc;ch&eacute;, perp&eacute;tu&eacute;, -- la sottise et l'erreur furent d&eacute;ifi&eacute;es, -- le bon sens et la raison outrag&eacute;s, -- cette longue d&eacute;mence fut appuy&eacute;e par des brigands couronn&eacute;s, -- qui tous leur compte y ont amplement trouv&eacute;.</P
+><P
+TEIFORM="p"
+>Cinq mots hypocritement prononc&eacute;s, -- par un fourbe ignare ou insens&eacute;, -- fut un ordre en dernier ressort dict&eacute; -- au dieu-fant&ocirc;me de venir s'incorporer -- en cinq ou six mille petits p&acirc;t&eacute;s, -- vulgairement hosties appell&eacute;s. -- Ce dieu en p&acirc;te-cuite une fois l'an pompeusement par-tout est promen&eacute;, -- les vieux enfans le matin en sont occup&eacute;s, -- les petits en
+
+<PB
+N="7"
+TEIFORM="pb"
+></PB
+>
+font autant l'apr&egrave;s-d&icirc;n&eacute;. -- Ce dieu de farineuse essence toute la tournure aristocrate a conserv&eacute; ; -- car il a &agrave; son service plusieurs sortes de livr&eacute;es : -- chez le. riche il paro&icirc;t en pompe fastueusement accompagn&eacute;, -- chez le pauvre il apparo&icirc;t mesquin et d&eacute;guenill&eacute;. -- Le pauvre du riche fut toujours distingu&eacute;, -- m&ecirc;me par le dieu pendu-crucifi&eacute;.</P
+><P
+TEIFORM="p"
+>Hommes libres , hommes raisonnables et sens&eacute;s, -- il est tems de vous r&eacute;veiller, -- du sommeil fantasque dans lequel vous &ecirc;tes plong&eacute;s, -- depuis dix-huit cents ann&eacute;es, il est tems d'abjurer vos erreurs d&eacute;ifi&eacute;es, -- qui de torrens de larmes et de sang vous ont fait couler, -- qui le monde d'un bout &agrave; l'autre ont d&eacute;chir&eacute;, incendi&eacute;, de sang arros&eacute; ; -- &agrave; jamais vous devez renoncer &agrave; ce culte barbare et insens&eacute;, -- que le mensonge et l'imposture vous ont pr&ocirc;n&eacute;, -- par l'organe des moines capuchonn&eacute;s, -- ensuite triplement couronn&eacute;s.</P
+><P
+TEIFORM="p"
+>Que la raison, justice et v&eacute;rit&eacute;, soient &agrave; l'avenir vos d&eacute;it&eacute;s, -- qu'elles soient &eacute;ternellement
+
+<PB
+N="8"
+TEIFORM="pb"
+></PB
+>
+accompagn&eacute;es -- de leurs filles ch&eacute;ries la libert&eacute;, l'&eacute;galit&eacute; ; -- c'est &agrave; ces divinit&eacute;s toute-puissantes et sens&eacute;es, -- que vous devez des temples &eacute;riger. -- C'est pour la patrie seule due vous devez sacrifier, -- force, talens et facult&eacute;s. -- Votre existence dans celle d'autrui respecter, -- &ecirc;tre homme enfin pour l'amour de l'humanit&eacute;, -- et soyez apr&egrave;s tout de cette maxime p&eacute;n&eacute;tr&eacute; : Que les esclaves fanatiquement aveugl&eacute;s, -- ne sauroient jamais devenir les enfans de la lumi&egrave;re et de la libert&eacute;.</P
+><P
+TEIFORM="p"
+>Cette nouvelle foi publiquement avou&eacute;e, -- est l'ouvrage d'un sans-culotte d&eacute;baptis&eacute; -- de la commune de Mons administrateur, &agrave; Paris r&eacute;fugi&eacute;.</P
+><BYLINE
+TEIFORM="byline"
+>A. CLESSE.</BYLINE
+><TRAILER
+REND="rule center"
+TEIFORM="trailer"
+></TRAILER
+><TRAILER
+REND="rule center"
+TEIFORM="trailer"
+></TRAILER
+></DIV1
+></BODY
+><BACK
+TEIFORM="back"
+><DIV1
+ID="COLOPHON"
+TYPE="Colophon"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><P
+TEIFORM="p"
+>A PARIS, de l'imprimerie de H. J. JANSEN et comp., clo&icirc;tre Saint-Germain-l' Auxerrois. </P
+></DIV1
+></BACK
+></TEXT
+></TEI.2
+>

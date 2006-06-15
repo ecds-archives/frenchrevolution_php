@@ -1,0 +1,8330 @@
+<TEI.2
+TEIFORM="TEI.2"
+><TEIHEADER
+TYPE="text"
+STATUS="NEW"
+TEIFORM="teiHeader"
+><FILEDESC
+TEIFORM="fileDesc"
+><TITLESTMT
+TEIFORM="titleStmt"
+><TITLE
+TEIFORM="title"
+> L'ATTENTAT DE VERSAILLES, ou LA CL&Eacute;MENCE DE LOUIS XVI: electronic edition</TITLE
+><AUTHOR
+TEIFORM="author"
+>anonymous</AUTHOR
+><RESPSTMT
+TEIFORM="respStmt"
+><RESP
+TEIFORM="resp"
+>Compiled and edited by</RESP
+><NAME
+TEIFORM="name"
+>Michael Kazanjian</NAME
+></RESPSTMT
+></TITLESTMT
+><PUBLICATIONSTMT
+TEIFORM="publicationStmt"
+><PUBLISHER
+TEIFORM="publisher"
+>Lewis H. Beck Center</PUBLISHER
+><PUBPLACE
+TEIFORM="pubPlace"
+>Emory University</PUBPLACE
+><ADDRESS
+TEIFORM="address"
+><ADDRLINE
+TEIFORM="addrLine"
+>Atlanta, Georgia  30322</ADDRLINE
+></ADDRESS
+><AVAILABILITY
+STATUS="UNKNOWN"
+TEIFORM="availability"
+><P
+TEIFORM="p"
+>2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</P
+></AVAILABILITY
+><DATE
+TEIFORM="date"
+>2002</DATE
+></PUBLICATIONSTMT
+><SERIESSTMT
+TEIFORM="seriesStmt"
+><TITLE
+TEIFORM="title"
+>French Revolution Pamphlet Collection</TITLE
+></SERIESSTMT
+><SOURCEDESC
+DEFAULT="NO"
+TEIFORM="sourceDesc"
+><BIBL
+DEFAULT="NO"
+TEIFORM="bibl"
+><TITLE
+TEIFORM="title"
+> L'ATTENTAT DE VERSAILLES, ou LA CL&Eacute;MENCE DE LOUIS XVI.</TITLE
+>
+<PUBPLACE
+TEIFORM="pubPlace"
+>Paris?</PUBPLACE
+><DATE
+TEIFORM="date"
+>1790</DATE
+></BIBL
+></SOURCEDESC
+></FILEDESC
+><ENCODINGDESC
+TEIFORM="encodingDesc"
+><PROJECTDESC
+DEFAULT="NO"
+TEIFORM="projectDesc"
+><P
+TEIFORM="p"
+>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</P
+><P
+TEIFORM="p"
+>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</P
+></PROJECTDESC
+><EDITORIALDECL
+DEFAULT="NO"
+TEIFORM="editorialDecl"
+><P
+TEIFORM="p"
+>I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  I also omitted page signatures: B from p. 9, B2 from p. 11, C from p. 17, C2 from p. 19, D from p. 25, D2 from p. 27, E from p. 33, E2 from p. 35, F from p. 41, F2 from p. 43. For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</P
+></EDITORIALDECL
+></ENCODINGDESC
+><PROFILEDESC
+TEIFORM="profileDesc"
+><CREATION
+TEIFORM="creation"
+><DATE
+TEIFORM="date"
+>1790</DATE
+></CREATION
+></PROFILEDESC
+><REVISIONDESC
+TEIFORM="revisionDesc"
+><CHANGE
+TEIFORM="change"
+><DATE
+TEIFORM="date"
+>2002</DATE
+><RESPSTMT
+TEIFORM="respStmt"
+><NAME
+TEIFORM="name"
+>Michael Kazanjian</NAME
+><RESP
+TEIFORM="resp"
+>staff</RESP
+></RESPSTMT
+><ITEM
+TEIFORM="item"
+>Sgml tags inserted in compliance with TEI guidelines using TEI P3</ITEM
+></CHANGE
+></REVISIONDESC
+></TEIHEADER
+><TEXT
+TEIFORM="text"
+><FRONT
+TEIFORM="front"
+><TITLEPAGE
+TEIFORM="titlePage"
+><DOCTITLE
+TEIFORM="docTitle"
+><TITLEPART
+TYPE="main"
+TEIFORM="titlePart"
+>L'Attentat de Versailles, ou la cl&eacute;mence de Louis XVI.</TITLEPART
+><TITLEPART
+TYPE="main"
+TEIFORM="titlePart"
+>Trag&eacute;die.  Nouvelle &eacute;dition; revue et corrig&eacute;e.</TITLEPART
+></DOCTITLE
+><DOCAUTHOR
+TEIFORM="docAuthor"
+>Anonymous.</DOCAUTHOR
+><DOCDATE
+TEIFORM="docDate"
+>1790.</DOCDATE
+><PB
+N="1"
+TEIFORM="pb"
+></PB
+><EPIGRAPH
+TEIFORM="epigraph"
+><Q
+DIRECT="UNSPECIFIED"
+TEIFORM="q"
+><HI
+REND="italic"
+TEIFORM="hi"
+>Ut Trojanas opes, &amp; lamentabile regnum eruerint Danai....... </HI
+></Q
+></EPIGRAPH
+><DOCIMPRINT
+TEIFORM="docImprint"
+>A GENEVE, ET SE VEND A PARIS<LB
+TEIFORM="lb"
+></LB
+>
+1790.</DOCIMPRINT
+></TITLEPAGE
+><PB
+N="2"
+TEIFORM="pb"
+></PB
+><DIV1
+ID="AVERT"
+TYPE="Avertissement"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><PB
+N="3"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+>AVERTISSEMENT.</P
+><P
+TEIFORM="p"
+>J'OFFRE &agrave; mes concitoyens une piece vraiment nationale, dont le sujet n'a point &eacute;t&eacute; puis&eacute; dans les annales obscures de l'histoire, mais pris sur le temps m&ecirc;me.</P
+><P
+TEIFORM="p"
+>J'ai vu &amp; j'ai voulu consacrer un des plus extraordinaires &amp; des plus affreux &eacute;v&eacute;nemens dont un Fran&ccedil;ais puisse &ecirc;tre le t&eacute;moin dans sa Patrie. J'ai cru pouvoir substituter M. de Calonne &agrave; sa lettre au Roi, o&ugrave; il disoit, au mois de f&eacute;vrier dernier, avec autant d'&eacute;nergie que de v&eacute;rit&eacute; : VOYEZ CE QUE VOUS &Eacute;TIEZ, ET VOYEZ CE QUE VOUS &Ecirc;TES ; que ne pourroit-il pas ajouter aujourd'hui ? ....</P
+><P
+TEIFORM="p"
+>Je ne dirai qu'un mot sur la composition &amp; le style de cet ouvgage ; on s'appercevra facilement, sans doute, que je me suis &eacute;tudi&eacute; &agrave; rapprocher dans cette piece toutes les plus belles situations de nos plus c&eacute;lebres tragiques, j'en ai m&ecirc;me souvent pris des vers entiers, imit&eacute; beaucoup d'autres, &amp; presque toujours rappel&eacute; chaque scene par un des premiers vers de celle contre laquelle j'osois me proposer de jo&ucirc;ter. Le public me trouvera sans doute bien audacieux ; les connoisseurs jugeront si j'ai r&eacute;ussi.</P
+><P
+TEIFORM="p"
+>Qu'on ne me reproche point ici de personnalit&eacute;s ; j'avertis mes lecteurs qu'il faut se porter &agrave; un siecle du n&ocirc;tre pour voir cette piece &agrave; son v&eacute;ritable point d'optique, &amp; par cons&eacute;quent nous supposer tous morts ; d'ailleurs je dirai avec Juv&eacute;nal :<LB
+TEIFORM="lb"
+></LB
+>
+<Q
+DIRECT="UNSPECIFIED"
+TEIFORM="q"
+><HI
+REND="italic"
+TEIFORM="hi"
+>Semper ego, auditor tantum, nunquamque reponam, vexatus toties rauci, Theseide Codry.<REF
+TARGORDER="U"
+TARGET="NOTE001"
+TEIFORM="ref"
+>*</REF
+></HI
+></Q
+></P
+><NOTE
+ID="NOTE001"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+> * Note from editor: The quote is from Juv&eacute;nal's Satire I.</NOTE
+></DIV1
+><DIV1
+ID="PERS"
+TYPE="Personnages"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><PB
+N="4"
+TEIFORM="pb"
+></PB
+><LIST
+TYPE="simple"
+TEIFORM="list"
+><HEAD
+TEIFORM="head"
+>PERSONNAGES.</HEAD
+><ITEM
+TEIFORM="item"
+>LE ROI.</ITEM
+><ITEM
+TEIFORM="item"
+>LA REINE.</ITEM
+><ITEM
+TEIFORM="item"
+>LE DAUPHIN.</ITEM
+><ITEM
+TEIFORM="item"
+>Le Duc D'ORL&Eacute;ANS.</ITEM
+><ITEM
+TEIFORM="item"
+>La Duchesse D'ORL&Eacute;ANS.</ITEM
+><ITEM
+TEIFORM="item"
+>La Marquise DE TOURZEL, Gouvernante du Dauphin.</ITEM
+><ITEM
+TEIFORM="item"
+>Le Duc DE GUICHE, Capitaine des Gardes.</ITEM
+><ITEM
+TEIFORM="item"
+>Le Comte DE MONTMORIN, Ministre.</ITEM
+><ITEM
+TEIFORM="item"
+>Le Mar&eacute;chal DE BEAUVEAU, Ministre.</ITEM
+><ITEM
+TEIFORM="item"
+><REF
+TARGORDER="U"
+TARGET="NOTE002"
+TEIFORM="ref"
+>*</REF
+>NEKRE.</ITEM
+><ITEM
+TEIFORM="item"
+>CALONNE.</ITEM
+><ITEM
+TEIFORM="item"
+>Le Comte DE MIRABEAU.</ITEM
+><ITEM
+TEIFORM="item"
+>Le Comte DE LALLY.</ITEM
+><ITEM
+TEIFORM="item"
+>Le Marquis DE SAINT-HURUGE.</ITEM
+><ITEM
+TEIFORM="item"
+>C&Eacute;RUTTI, Ex-Jesuite, Confident de Nekre.</ITEM
+><ITEM
+TEIFORM="item"
+>DURUEY, Ami de Colonne.</ITEM
+><ITEM
+TEIFORM="item"
+>Le Comte DE LA TOUCHE, Chancelier du duc d'Orl&eacute;ans.</ITEM
+><ITEM
+TEIFORM="item"
+>Le Marquis DE LA FAYETTE.</ITEM
+><ITEM
+TEIFORM="item"
+>CHAPELIER, D&eacute;put&eacute; de Bretagne.</ITEM
+><ITEM
+TEIFORM="item"
+>BARNAVE,  D&eacute;put&eacute; du Dauphine.</ITEM
+><ITEM
+TEIFORM="item"
+>LA CLOS, Serviteur intime du Duc D'Orleans.</ITEM
+><ITEM
+TEIFORM="item"
+>D&eacute;put&eacute;s de l'Assembl&eacute;e Nationale.</ITEM
+><ITEM
+TEIFORM="item"
+>Gardes.</ITEM
+><ITEM
+TEIFORM="item"
+>Peuples.</ITEM
+></LIST
+><STAGE
+TYPE="location"
+TEIFORM="stage"
+>La scene est dans differens apatemens du ch&acirc;teau de Versailles.</STAGE
+><P
+REND="rule center"
+TEIFORM="p"
+></P
+><NOTE
+ID="NOTE002"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+>*On est permis d'&eacute;crire son nom comme on le prononce pour la facilit&eacute; &amp; la douceur de la verification.</NOTE
+></DIV1
+></FRONT
+><BODY
+TEIFORM="body"
+><PB
+N="5"
+TEIFORM="pb"
+></PB
+><DIV1
+ID="A1"
+N="1"
+TYPE="Acte"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><HEAD
+TEIFORM="head"
+>ACTE PREMIER</HEAD
+><DIV2
+ID="A1S1"
+N="1"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE PREMIERE</HEAD
+><P
+TEIFORM="p"
+>CALONNE, DURUEY.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="speech"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Oui, je viens dans Paris faire entendre ma voix ; </L
+><L
+PART="N"
+TEIFORM="l"
+>Du sceptre chancelant je viens plaider les droits,</L
+><L
+PART="N"
+TEIFORM="l"
+>Rappeler les Bourbons au rang de leurs anc&ecirc;tres ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et le Peuple Fran&ccedil;ais &agrave; l'amour de ses ma&icirc;tres.</L
+><L
+PART="N"
+TEIFORM="l"
+>Que les temps sont chang&eacute;s ! quand je vins au Conseil, </L
+><L
+PART="N"
+TEIFORM="l"
+>La cour brilloit encor d'un pompeux appareil ;</L
+><L
+PART="N"
+TEIFORM="l"
+>De Versailles sur-tout, de ces lieux magnifiques,</L
+><L
+PART="N"
+TEIFORM="l"
+>Les courtisans en foule inondoient les portiques ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et les autres Etats, &eacute;galement soumis, </L
+><L
+PART="N"
+TEIFORM="l"
+>Confondoient dans leurs v&oelig;ux Antoinette &amp; Louis.</L
+><L
+PART="N"
+TEIFORM="l"
+>Un &eacute;tranger sorti d'une secte ennemie,</L
+><L
+PART="N"
+TEIFORM="l"
+>En un vaste d&eacute;s&egrave;rt a chang&eacute; ma Patrie ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ses perfides conseils, sur le front de Louis,</L
+><PB
+N="6"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Ont fl&eacute;tri la couronne &amp; dessech&eacute; les lys ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Tout a p&eacute;ri, grands Dieu ! entre ses mains funestes !</L
+><L
+PART="N"
+TEIFORM="l"
+>De nos Fran&ccedil;ais, dis-moi, que font ici les restes ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Les droits sont-ils sans force &amp; les lois sans vertu ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Enfin Nekre &agrave; ses pieds a-t-il tout abattu ? </L
+><L
+PART="N"
+TEIFORM="l"
+>De ce qui c'est pass&eacute; ; je suis instruit &agrave; peine.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>DURUEY</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Dans la tombe on venoit de descendre Vergenne,</L
+><L
+PART="N"
+TEIFORM="l"
+>Quand Montmorin parut ; ses commis afflig&eacute;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>L'observent en silence autour de lui rang&eacute;s.</L
+><L
+PART="N"
+TEIFORM="l"
+>Il quitte les &eacute;tats de la fiere Armorique ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Il fonde sur G&eacute;rard toute sa politique ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ce tortueux G&eacute;rard qui soutint autrefois</L
+><L
+PART="N"
+TEIFORM="l"
+>Du d&eacute;bile Gravier la trop timide voix ;</L
+><L
+PART="N"
+TEIFORM="l"
+>L'&oelig;il morne maintenant, les paupieres baiss&eacute;es ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Craint de payer lui seul leurs sottises pass&eacute;es ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour Montmorin il offre, en parole, en &eacute;crit,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans un tr&egrave;s-petit corps, un plus petit esprit ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Des bienfaits de Louis, combl&eacute; d&egrave;s son enfance ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Il ne sut le servir que de son ignorance ;</L
+><L
+PART="N"
+TEIFORM="l"
+>La guide de l'Europe &eacute;chapp&eacute;e &agrave; les mains,</L
+><L
+PART="N"
+TEIFORM="l"
+>Voltige au gr&eacute; des v&oelig;ux de tous les Souverains ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Gustave le d&eacute;daigne, &amp; Joseph le commande,</L
+><L
+PART="N"
+TEIFORM="l"
+>L'aigle de Fr&eacute;d&eacute;ric plane sur la Hollande :</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais un bruit qui bient&ocirc;t s'accr&eacute;dite &agrave; la cour,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vient d'un premier Ministre annoncer le retour,</L
+><L
+PART="N"
+TEIFORM="l"
+>De l'&oelig;il de b&oelig;uf &eacute;mu les vo&ucirc;tes retentissent,</L
+><L
+PART="N"
+TEIFORM="l"
+>Du Courtisan pillard les cheveux se h&eacute;rissent ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Castries fuit, S&eacute;gur fuit, poussant des cris aigus ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Breteuil m&ecirc;me &eacute;tonn&eacute; regarde vers Dangus :</L
+><L
+PART="N"
+TEIFORM="l"
+>Brienne, s'asseyant sur les marches du Tr&ocirc;ne,</L
+><L
+PART="N"
+TEIFORM="l"
+>Du pouvoir souverain cependant s'environne,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et du hardi pr&eacute;lat l'esprit insidieux</L
+><L
+PART="N"
+TEIFORM="l"
+>Contre nous se d&eacute;ploie en &eacute;dits d&eacute;sastreux ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le enfans de Themis, fuyant leur domicile,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans des Temples obscurs vont chercher un asile,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et prisonniers au sein d'un nouvel Ilion,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il pr&eacute;disent le trouble &amp; la confusion,</L
+><PB
+N="7"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Sabatier, qui des siens anime le courage,</L
+><L
+PART="N"
+TEIFORM="l"
+>Propose les Etats pour arr&ecirc;ter l'orage,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et redoutant l'essor de ce nouveau Visir,</L
+><L
+PART="N"
+TEIFORM="l"
+>Tout bon Fran&ccedil;ais bient&ocirc;t marque m&ecirc;me d&eacute;sir.</L
+><L
+PART="N"
+TEIFORM="l"
+>Nos S&eacute;nats r&eacute;unis, brillans de renomm&eacute;e,</L
+><L
+PART="N"
+TEIFORM="l"
+>Entra&icirc;nent sur leurs pas &amp; la m&icirc;tre &amp; l'&eacute;p&eacute;e ;</L
+><L
+PART="N"
+TEIFORM="l"
+>La Cour paro&icirc;t c&eacute;der ; &amp; Brienne aux abois,</L
+><L
+PART="N"
+TEIFORM="l"
+>Fixe un terme &agrave; nos v&oelig;ux qu'il retarde vingt fois.</L
+><L
+PART="N"
+TEIFORM="l"
+>Des Peuples en suspens la trop vaine esp&eacute;rance</L
+><L
+PART="N"
+TEIFORM="l"
+>Fonde sur les Etats le salut de la France.</L
+><L
+PART="N"
+TEIFORM="l"
+>Cependant le Pr&eacute;lat sans mesure ni frein,</L
+><L
+PART="N"
+TEIFORM="l"
+>Rompt &amp; d&eacute;truit le soir ce qu'il fait le matin ;</L
+><L
+PART="N"
+TEIFORM="l"
+>En arr&ecirc;ts impuissans en vain il se consume ;</L
+><L
+PART="N"
+TEIFORM="l"
+>En vain des beaux esprits il emprunte la plume ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Il est contraint de fuir, suivi de Lamoignon,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui depuis... Mais alors on estimoit son nom ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans ce moment d'effroi, de trouble &amp; de scandale ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Nekre fait retentir les cris de sa cabale ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le Peuple s'en &eacute;meut, Versaille est effray&eacute; ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Enfin le Roi le nomme, &amp; Lambert est ray&eacute; ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le G&eacute;nevois soudain &amp; son ardente clique,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sappent &agrave; coups press&eacute;s le pouvoir monarchique :</L
+><L
+PART="N"
+TEIFORM="l"
+>Des mains de C&eacute;rutti pleuvent mille pamphlets ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Les Princes, les Pr&eacute;lats sont livr&eacute;s aux sifflets,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et de l'Italien la plume incendiaire,</L
+><L
+PART="N"
+TEIFORM="l"
+>De Geneve en nos murs veut allumer la guerre.</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est en vain que d'Artois, Cond&eacute;, Bourbon, Conti,</L
+><L
+PART="N"
+TEIFORM="l"
+>S'opposent aux efforts d'un esprit perverti ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ils sont pr&ecirc;ts &agrave; p&eacute;rir sous les d&eacute;bris d'un Tr&ocirc;ne</L
+><L
+PART="N"
+TEIFORM="l"
+>Que ne conno&icirc;troit plus l'&oelig;il m&ecirc;me de Calonne.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Comment un tel projet manqu&eacute; dans tous les temps,</L
+><L
+PART="N"
+TEIFORM="l"
+>Peut-il encore avoir de nombreux partisans ?</L
+><L
+PART="N"
+TEIFORM="l"
+>On fait qu'&agrave; ses Barons, trop fiers de leur fortune,</L
+><L
+PART="N"
+TEIFORM="l"
+>Philippe osa jadis opposer la Commune ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais un plan si voisin de la confusion,</L
+><L
+PART="N"
+TEIFORM="l"
+>Obtint bien rarement son ex&eacute;cution.</L
+></LG
+></SP
+><PB
+N="8"
+TEIFORM="pb"
+></PB
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>DURUEY</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Nekre, d'un esprit vain &amp; tout plein de lui-m&ecirc;me,</L
+><L
+PART="N"
+TEIFORM="l"
+>Croit que tout doit c&eacute;der &agrave; son vaste syst&egrave;me ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Que la France &agrave; genoux, l'encensoir &agrave; la main,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour tout autre que lui, n'aura que du d&eacute;dain ;</L
+><L
+PART="N"
+TEIFORM="l"
+>L'insens&eacute; ne voit pas que tout pr&ecirc;t du naufrage....</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je viens, s'il en est temps pour conjurer l'orage ;</L
+><L
+PART="N"
+TEIFORM="l"
+>D'un billet, que dans Londre on m'adresse d'ici,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans ce jour, m'a-t-on dit, je dois &ecirc;tre &eacute;clairci ;</L
+><L
+PART="N"
+TEIFORM="l"
+>On parle d'attentat, de r&eacute;volte &amp; de crimes ;</L
+><L
+PART="N"
+TEIFORM="l"
+>On tait les criminels, ainsi que les victimes. </L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>DURUEY</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Prot&eacute;gez cet Empire, &ocirc; Dieux de mon pays ! </L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Sans doute il faut pleurer le superbe Paris. </L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>DURUEY</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ce n'est plus cette ville en merveilles f&eacute;conde,</L
+><L
+PART="N"
+TEIFORM="l"
+>Que la Seine autrefois, l'arrosant de son onde,</L
+><L
+PART="N"
+TEIFORM="l"
+>Contemploit &amp; voyoit la reine des cit&eacute;s ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ce n'est plus qu'un amas d'horribles cruaut&eacute;s.</L
+><L
+PART="N"
+TEIFORM="l"
+>Effray&eacute;s des appr&ecirc;ts de nos guerres civiles,</L
+><L
+PART="N"
+TEIFORM="l"
+>L'abondance &amp; les arts ont fui de leurs asiles ;</L
+><L
+PART="N"
+TEIFORM="l"
+>On y souffre le meurtre, &amp; de la trahison</L
+><L
+PART="N"
+TEIFORM="l"
+>On offre &agrave; prix d'argent de payer le poison.</L
+><L
+PART="N"
+TEIFORM="l"
+>Le citoyen y foule une terre etrangere ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le bourgeois veut pour lois donner sa regle austere ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et le bruit de guerriers, aux armes l'appelant,</L
+><L
+PART="N"
+TEIFORM="l"
+>L'artiste dans ses mains voit mourir son talent.</L
+><L
+PART="N"
+TEIFORM="l"
+>La libert&eacute; pour nous ne fut que la licence ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le c&oelig;ur droit de Louis est dans la confiance,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et ne croyant c&eacute;der qu'aux v&oelig;ux des bons Fran&ccedil;ais,</L
+><L
+PART="N"
+TEIFORM="l"
+>D'une affreuse anarchie il souffre les exc&egrave;s. </L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Le voile des Rh&eacute;teurs &eacute;tendu sur la France,</L
+><L
+PART="N"
+TEIFORM="l"
+>Annonce de l'Etat l'entiere d&eacute;cadence.</L
+><L
+PART="N"
+TEIFORM="l"
+>O&ugrave; le raisonnement vient g&acirc;ter la raison ; </L
+><L
+PART="N"
+TEIFORM="l"
+>Richelieu m&ecirc;me doit le pas P&eacute;tion :</L
+><L
+PART="N"
+TEIFORM="l"
+>Des</L
+><PB
+N="9"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Des abus de l'esprit trop ordinaire exemple ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Colbert &amp; Chapelier disputeroient ensemble ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et le sophisme admis pour maxime d'&eacute;tat,</L
+><L
+PART="N"
+TEIFORM="l"
+>Target doit dans Denain d&eacute;cider du combat. </L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>DURUEY</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Nekre fut des premiers &agrave; franchir la barriere ;</L
+><L
+PART="N"
+TEIFORM="l"
+>A tous nos raisonneurs il ouvrit la carriere ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et dans moins de vingt ans, ces publiques le&ccedil;ons</L
+><L
+PART="N"
+TEIFORM="l"
+>Ont produit les &eacute;cueils auxquels nous p&eacute;r&iacute;ssons ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Lui-m&ecirc;me &amp; C&eacute;rutti. </L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je vais ici l'attendre ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Toi, passe chez la Reine, o&ugrave; je devais me rendre. </L
+></LG
+></SP
+></DIV2
+><DIV2
+ID="A1S2"
+N="2"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE II</HEAD
+><P
+TEIFORM="p"
+>NEKRE, CALONNE, C&Eacute;RUTTI.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Enfin vous l'emportez, Mon&iacute;eur, &amp; notre Roi</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous &eacute;leve en un rang qui fut jadis &agrave; moi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il vous fait Directeur des tr&eacute;sors de la France.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Un titre entre nous deux met quelque diff&eacute;rence ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Par-l&agrave;, Louis est juste, &amp; fait conno&icirc;tre assez</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'il veut r&eacute;compenser les services pass&eacute;s. </L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Sans nous en rapporter aux jugements des hommes,</L
+><L
+PART="N"
+TEIFORM="l"
+>Le destin de l'Etat montrera qui nous sommes ;</L
+><L
+PART="N"
+TEIFORM="l"
+>J'ai pr&eacute;vu, j'ai parl&eacute; : dans un conflit si grand,</L
+><L
+PART="N"
+TEIFORM="l"
+>On cede &agrave; des raisons dont vous &ecirc;tes garant. </L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Si j'avois &agrave; parler &agrave; d'autres qu'&agrave; Calonne,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je laisserois briller l'&eacute;clat qui m'environne ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et mon compte rendu dans mes habiles mains,</L
+><L
+PART="N"
+TEIFORM="l"
+>Les tiendroit au niveau du reste des humains.</L
+><PB
+N="10"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Je dirois qu'un ministre ayant mon caractere,</L
+><L
+PART="N"
+TEIFORM="l"
+>A droit, sur sa parole, aux respects de la terre.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais enfin, puisqu'ici le Ciel veut nous unir,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vois Nekre tout entier, &amp; parle sans rougir.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je rougis pour toi seul, pour toi, dont l'artifice</L
+><L
+PART="N"
+TEIFORM="l"
+>A conduit ma patrie au bord du pr&eacute;cipice,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dont l'ignorante main seme ici les forfaits,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et fait na&icirc;tre la guerre au milieu de la paix.</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour moi qui, de l'Etat dirigeant la Finance,</L
+><L
+PART="N"
+TEIFORM="l"
+>Laissai chacun jouir des droits de la naissance ;</L
+><L
+PART="N"
+TEIFORM="l"
+>L'on ne m'a jamais vu, trahissant mon devoir,</L
+><L
+PART="N"
+TEIFORM="l"
+>Confondre en m&ecirc;me rang le soc &amp; l'encensoir;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et p&eacute;rsse &agrave; jamais la fausse politique</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui con&ccedil;oit sans degr&eacute;s un Etat monarchique,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui veut au m&ecirc;me poids peser tous les mortels,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui du sang des Fran&ccedil;ais cimente ses Autels,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et n'ayant que Raynal &amp; Guillotin pour guides,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne peut nous rendre &eacute;gaux qu'&agrave; force d'homicides !</L
+><L
+PART="N"
+TEIFORM="l"
+>Oui, je doute, Monsieur, que les yeux de Louis,</L
+><L
+PART="N"
+TEIFORM="l"
+>D'un prestige aussi vain soient long-temps &eacute;blouis ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Il pourroit entra&icirc;ner des suites trop sinistres. </L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je d&eacute;daigne, Monsieur, la foule des ministres,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui se tra&icirc;nant toujours sur des formes d'Etat,</L
+><L
+PART="N"
+TEIFORM="l"
+>Gouvernent d'habitude, &amp; regnent sans &eacute;clat.</L
+><L
+PART="N"
+TEIFORM="l"
+>Avant moi, Richelieu fit tout c&eacute;der au Tr&ocirc;ne,</L
+><L
+PART="N"
+TEIFORM="l"
+>De Louis sur sa t&ecirc;te il pla&ccedil;a la couronne,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et portant le Monarque au fa&icirc;te des grandeurs,</L
+><L
+PART="N"
+TEIFORM="l"
+>Laissa loin de les pas ramper ses successeurs.</L
+><L
+PART="N"
+TEIFORM="l"
+>Je viens apr&egrave;s cent ans, jaloux de sa m&eacute;moire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Par un nouveau chemin ravir la m&ecirc;me gloire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et me fesant du Peuple un bien plus fort appui,</L
+><L
+PART="N"
+TEIFORM="l"
+>R&eacute;gner tout-&agrave;-la-fois sur le tr&ocirc;ne &amp; sur lui.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Mais la Cour fera-t-elle aussi d'intelligence ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je saurai, croyez-moi, la r&eacute;duire au silence ;</L
+><PB
+N="11"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>De la philosophie embrassant les autels ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Je porte ma fortune au-dessus des mortels.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je ne puis encenser une philosophie,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sous laquelle je vois toute gloire avilie ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui seme le d&eacute;sordre &amp; la division ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Respectant, comme vous, l'homme, &amp; la Nation ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne doit-elle pas tout &agrave; ceux, dont le g&eacute;nie</L
+><L
+PART="N"
+TEIFORM="l"
+>La tira de l'enfance &amp; de la barbarie ?</L
+><L
+PART="N"
+TEIFORM="l"
+>A ceux dont le talent, dans le plus grand des Arts ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Toujours en sa faveur sut fixer les hasards ?</L
+><L
+PART="N"
+TEIFORM="l"
+>A ceux qui des destins, ma&icirc;tres pour ainsi dire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pr&eacute;parerent de loin la grandeur de l'Empire ?</L
+><L
+PART="N"
+TEIFORM="l"
+>S'il nous est glorieux de nous dire Fran&ccedil;ais,</L
+><L
+PART="N"
+TEIFORM="l"
+>La multitude eut peu de part &agrave; ces succ&egrave;s ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et quand il faut, Monsieur, conjurer la tempt&ecirc;te,</L
+><L
+PART="N"
+TEIFORM="l"
+>Que peuvent mille bras d&eacute;pourvus d'une t&ecirc;te ?</L
+><L
+PART="N"
+TEIFORM="l"
+>D'une fausse lumiere on doit craindre l'&eacute;clat ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Par-tout elle perdit &amp; le culte &amp; l'Etat,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et le peuple changeant seulement de t&eacute;nebres,</L
+><L
+PART="N"
+TEIFORM="l"
+>Marque de flots de sang ces &eacute;poques c&eacute;lebres,</L
+><L
+PART="N"
+TEIFORM="l"
+>Le temps &amp; la raison ramenent les esprits ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Les Fran&ccedil;ais rougiront d'avoir &eacute;t&eacute; surpris.</L
+><L
+PART="N"
+TEIFORM="l"
+>Du Roi d&eacute;sabus&eacute; que ne peut la furie ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Suffren dans Sisteron tremble encor pour sa vie.</L
+><L
+PART="N"
+TEIFORM="l"
+>Vois le peuple Breton instruit par Montmorin,</L
+><L
+PART="N"
+TEIFORM="l"
+>Soutenir mes projets les armes &agrave; la main,</L
+><L
+PART="N"
+TEIFORM="l"
+>D'Orl&eacute;ans, dans Paris, arbore ma banniere ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le bourgeois n'y tient plus son front dans la poussiere ;</L
+><L
+PART="N"
+TEIFORM="l"
+>A Marseille &amp; dans Aix, le tribun Mirabeau</L
+><L
+PART="N"
+TEIFORM="l"
+>Au rochet, &agrave; la robe, ouvre plus d'un tombeau ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et sans gloire aujourd'hui, cette Noblesse antique</L
+><L
+PART="N"
+TEIFORM="l"
+>Pr&eacute;fere &agrave; ses lauriers la palme acad&eacute;mique ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ignorant qu'en cet art, d&egrave;s long-temps d&eacute;nigr&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui ne vole au sommet rampe au dernier degr&eacute;.</L
+><L
+PART="N"
+TEIFORM="l"
+>Des enfans d'Apollon caressant la rudesse,</L
+><L
+PART="N"
+TEIFORM="l"
+>On la voir mendier les myrthes du Permesse ;</L
+><PB
+N="12"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Les Boufflers, les Duras savent faire un discours ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Sedaine le Ma&ccedil;on s'asseoit pr&egrave;s des Harcours ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Nivernois au conseil, &amp; Beauveau dans l'arm&eacute;e,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne doivent qu'&agrave; moi seul toute leur renomm&eacute;e.</L
+><L
+PART="N"
+TEIFORM="l"
+>Lauraguais n'est qu'un fou, Biron un partisan ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Liancourt croit d&eacute;ja n'&ecirc;tre plus courtisan ;</L
+><L
+PART="N"
+TEIFORM="l"
+>P&eacute;zensac m'ob&eacute;it, &amp; P&eacute;rigord v&eacute;gete ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mouchy de son salut seulement s'inquiete ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Bouillon vit ignor&eacute; ; Montmorin aujourd'hui</L
+><L
+PART="N"
+TEIFORM="l"
+>Couvre sa nullit&eacute; de mon utile appui ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Narbonne aux pieds de Staal voit &eacute;couler sa vie ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le sang de vos h&eacute;ros au publicain s'allie ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et riche de l'emploi de Ma&icirc;tre de l'H&ocirc;tel,</L
+><L
+PART="N"
+TEIFORM="l"
+>Descars, le fier Descars succede &agrave; Montmartel.</L
+><L
+PART="N"
+TEIFORM="l"
+>De Louis, par son c&oelig;ur conduit d&egrave;s sa naiss&agrave;nce,</L
+><L
+PART="N"
+TEIFORM="l"
+>Le rus&eacute; Maurepas sut prolonger l'enfance ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Confiant dans Vergenne, il crut r&eacute;gner par toi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Despote sous Brienne, &amp; Pl&eacute;b&eacute;ien sous moi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Une ame noble &amp; franche est tout son caractere ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et le mal qui fut fait fut de son ministere.</L
+><L
+PART="N"
+TEIFORM="l"
+>Voil&agrave; ce dont on veut que je sois alarm&eacute; :</L
+><L
+PART="N"
+TEIFORM="l"
+>Le reste ne vaut pas l'honneur d'&ecirc;tre nomm&eacute;.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>En &eacute;tranger jaloux, c'est juger ma patrie ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Quoi! vous comptez pour rien nos h&eacute;ros dans l'Asie ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et Cond&eacute; dans Friberg, dans nos &icirc;les Bouill&eacute; ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Rochambeau dans Boston, peut-il &ecirc;tre oubli&eacute; ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Je vous rappellerois d'Estaing &amp; la Grenade,</L
+><L
+PART="N"
+TEIFORM="l"
+>De Quel&eacute;n, jeune encor, la c&eacute;lebre Ambassade ;</L
+><L
+PART="N"
+TEIFORM="l"
+>D'Albert, Broglie, Laval, qui tous sujets soumis,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sont encor la terreur de tous nos ennemis.</L
+><L
+PART="N"
+TEIFORM="l"
+>Toujours on trouve en vous cette orgueilleuse ivresse,</L
+><L
+PART="N"
+TEIFORM="l"
+>D'une ame folle &amp; vaine, &amp; sans sc&eacute;l&eacute;ratesse ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ma d&eacute;taillant un peu votre vaste tableau,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne soup&ccedil;onnez-vous pas ce m&ecirc;me Mirabeau ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans vous, l'ambition peut n'&ecirc;tre pas un vice ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Burrhus ambitieux fut tromp&eacute; par Narcisse ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et ce bruyant Philippe idole de Paris,</L
+><PB
+N="13"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Et-il aussi flatt&eacute; d'&ecirc;tre de vos amis ?</L
+><L
+PART="N"
+TEIFORM="l"
+>D'Albion, pr&eacute;f&eacute;rant les m&oelig;urs &amp; les maximes ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Des mains d'un sc&eacute;l&eacute;rat, il peut voler aux crimes.</L
+><L
+PART="N"
+TEIFORM="l"
+>Cet homme est Mirabeau, redoutez tout de lui.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Que peuvent-ils sans moi ? j'ai le Peuple aujourd'hui ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Tout doit fl&eacute;chir ici sous le joug populaire.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>C'est estimer trop haut la faveur du vulgaire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Car de ce Peuple enfin dont on fait tant de cas...</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je s&eacute;duirai les c&oelig;urs.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ils folderont les bras ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et tournant contre vous votre propre artifice,</L
+><L
+PART="N"
+TEIFORM="l"
+>De la ch&ucirc;te du Tr&ocirc;ne ils vous rendront complice :</L
+><L
+PART="N"
+TEIFORM="l"
+>Mon amour pour mon Roi ....</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>C'est le pousser trop loin.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Sans doute, &amp; c'est vous seul que regarde ce soin.</L
+></LG
+></SP
+></DIV2
+><DIV2
+ID="A1S3"
+N="3"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE III</HEAD
+><P
+TEIFORM="p"
+>NEKRE, C&Eacute;RUTTI.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ambitieux esclave, &amp; n&eacute; pour toujours l'&ecirc;tre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Avec peine dans moi tu reconnois un ma&icirc;tre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Tu voudrois m'effrayer du nom de Mirabeau ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le cedre voit en paix cro&icirc;tre l'humble roseau ;</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est &agrave; toi qu'appartient l'honneur de le confondre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ami, je te chargeai du soin de lui r&eacute;pondre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sur-tout quand tes &eacute;crits ......</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>C&Eacute;RUTTI</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Oui, j'ai tout pr&eacute;par&eacute; ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ce que jusqu'&agrave; pr&eacute;sent le Peuple a r&eacute;v&eacute;r&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Est pr&eacute;sent&eacute; par moi comme un culte frivole ;</L
+><PB
+N="14"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>J'ai renvers&eacute; le temple, &amp; j'ai bris&eacute; l'idole ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Nourri, vous le savez, &agrave; l'ombre des autels,</L
+><L
+PART="N"
+TEIFORM="l"
+>J'allois y b&eacute;gayer des sermens &eacute;ternels,</L
+><L
+PART="N"
+TEIFORM="l"
+>Quand d'un Ministre altier la ferme politique</L
+><L
+PART="N"
+TEIFORM="l"
+>Brisa de Loyola le sceptre tyrannique,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il ouvroit la carriere &agrave; mes jeunes talens ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Je d&eacute;fendis Ignace &amp; ses nombreux enfans,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et de l'ambition la premiere &eacute;tincelle,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans mon novice c&oelig;ur fut le fruit d'un faint zele ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Depuis &eacute;tudiant le monde &amp; ses secrets,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je servis avec vous de plus grands int&eacute;r&ecirc;ts ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais en me partageant entre Geneve &amp; Rome,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je fus &agrave; tous les deux pr&eacute;f&eacute;rer le grand-homme.</L
+><L
+PART="N"
+TEIFORM="l"
+>Comptez sur moi, Seigneur, &amp; soyez mon appui.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Mon c&oelig;ur reconno&icirc;tra ce service aujourd'hui ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais d&eacute;daignant des Cours la vieille politique ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Consultons le moment par qui tout est permis,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et le besoin d'argent &agrave; qui tout est soumis.</L
+></LG
+></SP
+></DIV2
+></DIV1
+><DIV1
+ID="A2"
+N="2"
+TYPE="Acte"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><HEAD
+TEIFORM="head"
+>ACTE II</HEAD
+><DIV2
+ID="A2S1"
+N="1"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE PREMIERE</HEAD
+><P
+TEIFORM="p"
+>Le Comte de MIRABEAU, le Marquis de SAINT-HURUGE.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Viens, suis moi, d'Orl&eacute;ans en ces lieux se doit rendre ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Je pourai cependant te parler &amp; t'entendre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Instruis-moi des secrets que doit avoir appris</L
+><L
+PART="N"
+TEIFORM="l"
+>Le s&eacute;jour que pour moi tu viens faire &agrave; Paris ;</L
+><L
+PART="N"
+TEIFORM="l"
+>De ce qu'ont vu tes yeux parle en t&eacute;moin sincere ;</L
+><PB
+N="15"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Songe que du r&eacute;cit enfin que tu vas faire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>D&eacute;pendent les destins de l'Empire Fran&ccedil;ais ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Que fait-on dans Paris ? que dit-on au Palais ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Marquis de SAINT-HURUGE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>La capitale encore &agrave; son Prince fidelle,</L
+><L
+PART="N"
+TEIFORM="l"
+>Voyoit, sans s'&eacute;tonner, une arm&eacute;e autour d'elle ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Les Gardes seulement, assur&eacute;s de secours,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pay&eacute;s par d'Orl&eacute;ans, murmurent tous les jours.</L
+><L
+PART="N"
+TEIFORM="l"
+>La foiblesse du chef &agrave; leurs yeux d&eacute;couverte,</L
+><L
+PART="N"
+TEIFORM="l"
+>De Biron au cercueil leur fair pleurer la perte.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais, sans &eacute;terniser des regrets impuissans,</L
+><L
+PART="N"
+TEIFORM="l"
+>Port&eacute;s &agrave; la r&eacute;volte, ils suivent d'Orl&eacute;ans.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Nous saurons employer ces nouveaux janissaires.</L
+><L
+PART="N"
+TEIFORM="l"
+>Que font en ce moment nos secrets &eacute;missaires ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans les replis des c&oelig;urs, amis n'as-tu rien lu ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Philippe y jouit-il d'un pouvoir absolu ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Marquis de SAINT-HURUGE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>D'Orl&eacute;ans est content, si nous voulons l'en croire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et semble se promettre une heureuse victoire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais en vain par ce calme il croit nous &eacute;blouir,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il affecte un repos dont il ne peut jouir.</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est en vain que, trompant son calcul ordinaire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Limon cherche en son nom &agrave; gagner le vulgaire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le Peuple se souvient, malgr&eacute; son amiti&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'il l'a de son palais priv&eacute; de la moiti&eacute; ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Lorsque pour agrandir sa fortune nouvelle,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il fit &agrave; ses voisins une injuste querelle.</L
+><L
+PART="N"
+TEIFORM="l"
+>Moi-m&ecirc;me, j'ai souvent entendu tes discours :</L
+><L
+PART="N"
+TEIFORM="l"
+>Le Peuple craint Philippe, &amp; le craindra toujours ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ses caresss n'ont point effac&eacute; cette injure.</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour lui votre absence est un sujet de murmure.</L
+><L
+PART="N"
+TEIFORM="l"
+>Tous regrettent le temps &agrave; leurs penchans si doux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Quand au Palais royal on n'entendoit que vous.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Quoi! tu croirois, ami, que mes fautes pass&eacute;s</L
+><L
+PART="N"
+TEIFORM="l"
+>D&eacute;j&agrave; des mains du temps pourroient &ecirc;tre effac&eacute;es ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Tu crois, qu'ob&eacute;issant &agrave; mon plus chaud d&eacute;sir,</L
+><PB
+N="16"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Paris m'&eacute;couteroit encore avec plasir ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Marquis de SAINT-HURUGE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Le succ&egrave;s d&eacute;sormais r&eacute;glera sa conduite ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Il faut voir de la Cour la victoire ou la fuite :</L
+><L
+PART="N"
+TEIFORM="l"
+>L'habitant de Paris, aimant toujours ses Rois.</L
+><L
+PART="N"
+TEIFORM="l"
+>Ob&eacute;it sans murmure &agrave; leurs plus dures lois:</L
+><L
+PART="N"
+TEIFORM="l"
+>Il ne trahira point l'amour de tant d'ann&eacute;es ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais enfin le succ&egrave;s d&eacute;pend des destin&eacute;es ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Si l'heureux d'Orl&eacute;ans, f&eacute;condant notre ardeur,</L
+><L
+PART="N"
+TEIFORM="l"
+>Au ch&acirc;teau de Versaille est d&eacute;clar&eacute; vainqueur,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous verrez ces bourgeois lui rendre dans leur ville,</L
+><L
+PART="N"
+TEIFORM="l"
+>Avec l'ob&eacute;issance, un hommage servile ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais si dans son dessein, les hasards plus puissans,</L
+><L
+PART="N"
+TEIFORM="l"
+>Marquent de quelqu'affront le nom de d'Orl&eacute;ans,</L
+><L
+PART="N"
+TEIFORM="l"
+>Alors je l'avouerai, tremblant de votre audace,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je crains pour vous, monsieur, quelqu'affreuse disgrace ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Nekre, vous le savez .....</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Peut &ecirc;tre avant ce temps</L
+><L
+PART="N"
+TEIFORM="l"
+>Je saurai l'occuper de soins plus importans.</L
+><L
+PART="N"
+TEIFORM="l"
+>Je fais que ce Ministre a jur&eacute; ma ruine,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je fais, s'il triomphoit, le fort qu'il me destine ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Il regne seu1, &amp; moi, perdu dans nos Etats,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je me vois le h&eacute;ros de futiles d&eacute;bats.</L
+><L
+PART="N"
+TEIFORM="l"
+>Voil&agrave; le Peuple, ami ; l'apparence le guide.</L
+><L
+PART="N"
+TEIFORM="l"
+>Nekre est tout &agrave; ses yeux ; &amp; nouvel Aristide,</L
+><L
+PART="N"
+TEIFORM="l"
+>A cet homme hautain, cupide, ambitieux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je prodigue aujourd'hui le nom de vertueux ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais j'ai su lui donner plus d'un sujet de veilles,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et le bruit en ira bient&ocirc;t &agrave; ses oreilles.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Marquis de SAINT-HURUGE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Quoi donc ! qu'avez-vous fait ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je pr&eacute;tends aujourd'hui</L
+><L
+PART="N"
+TEIFORM="l"
+>Que cet homme p&eacute;risse, &amp; la Reine avec lui.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Marquis de SAINT-HURUGE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Quoi ! la Reine, Monsieur, cette auguste Marie,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui dans tant de beaut&eacute;s pour le Roi fut choisie ?</L
+></LG
+></SP
+><PB
+N="17"
+TEIFORM="pb"
+></PB
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Que parle-tu de Roi, quand l'ain&eacute; des Bourbons,</L
+><L
+PART="N"
+TEIFORM="l"
+>Louis, d'un vil banquier &eacute;coutant les le&ccedil;ons,</L
+><L
+PART="N"
+TEIFORM="l"
+>Quitte, pour suivre Nekre en des sentiers vulgaires,</L
+><L
+PART="N"
+TEIFORM="l"
+>Les glorieux chemins que lui tra&ccedil;oient ses peres ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Un tel discours dans moi, te doit &ecirc;tre nouveau ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Approche, Saint-Huruge, &amp; connois Mirabeau.</L
+><L
+PART="N"
+TEIFORM="l"
+>J'ai su, m&ecirc;me &agrave; tes yeux, d&egrave;s mes jeunes ann&eacute;es,</L
+><L
+PART="N"
+TEIFORM="l"
+>Paro&icirc;tre d&eacute;daigner mes hautes destin&eacute;es ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais les temps sont venus o&ugrave; je dois de mon c&oelig;ur,</L
+><L
+PART="N"
+TEIFORM="l"
+>Te d&eacute;voiler enfin la sombre profondeur.</L
+><L
+PART="N"
+TEIFORM="l"
+>Altier, imp&eacute;rieux, mais souple &amp; populaire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Du Peuple incessamment je plaignis la misere ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Sentant que par lui seul je pouvois m'&eacute;lever,</L
+><L
+PART="N"
+TEIFORM="l"
+>Du ton de mes pareils je sus me pr&eacute;server ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et si Nekre avant moi se servit de les larmes,</L
+><L
+PART="N"
+TEIFORM="l"
+>Que ne peut Mirabeau muni des m&ecirc;mes armes ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Du Peuple, en nos Etats, je me fis le tribun ;</L
+><L
+PART="N"
+TEIFORM="l"
+>J'excitai d'Orl&eacute;ans, je s&eacute;duisis d'Autun ;</L
+><L
+PART="N"
+TEIFORM="l"
+>D'Autun dont le c&oelig;ur jeune, &amp; la bouche encor pure,</L
+><L
+PART="N"
+TEIFORM="l"
+>Contre le Sacerdoce invoque la nature ;</L
+><L
+PART="N"
+TEIFORM="l"
+>A Philippe, soumis &agrave; ses avares go&ucirc;ts,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je promis les tr&eacute;sors qu'il prodiguoit pour nous ;</L
+><L
+PART="N"
+TEIFORM="l"
+>M&ecirc;me je fis briller aux yeux de sa compagne</L
+><L
+PART="N"
+TEIFORM="l"
+>Le sceptre du r&eacute;gent, &amp; l'oubli de l'Espagne ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ainsi me pr&eacute;parant &agrave; de plus grands combats</L
+><L
+PART="N"
+TEIFORM="l"
+>Je devins le fanal de nos jeunes Etats ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Fondateur de leurs lois, sans avoir leur estime,</L
+><L
+PART="N"
+TEIFORM="l"
+>J'y pr&ecirc;chai les vertus, &amp; m&eacute;ditai le crime.</L
+><L
+PART="N"
+TEIFORM="l"
+>D'Orl&eacute;ans, me dis-tu, se croit roi dans Paris !</L
+><L
+PART="N"
+TEIFORM="l"
+>Je le mettrai lui-m&ecirc;me au nombre des proscrits ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Oui, ne t'y trompe pas, ce Philippe si brave,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ce fanfaron du crime a l'ame d'un esclave.</L
+><L
+PART="N"
+TEIFORM="l"
+>Pr&ecirc;t &agrave; r&eacute;gner, ami, si nous sommes heureux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pr&ecirc;t &agrave; fuir, si le sort contrarioit nos v&oelig;ux.</L
+><L
+PART="N"
+TEIFORM="l"
+>Enfin, pour m'assurer la faveur souveraine,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il faut perdre avec Nekre, Orl&eacute;ans &amp; la Reine ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Sans femme, sans ministre, abhorrant nos Etats,</L
+><PB
+N="18"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Le timide Louis va me tendre les bras.</L
+><L
+PART="N"
+TEIFORM="l"
+>J'ai pour tromper Philippe, assur&eacute; mes mesures,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et parmi ses agens, su choisir des mains s&ucirc;res.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Marquis de SAINT-HURUGE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ainsi donc vous pouvez douter de ses vertus ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ce seroit m'occuper de soins trop superflus.</L
+><L
+PART="N"
+TEIFORM="l"
+>Laissons les longs secours d'une vaine prudence,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et fixons d&egrave;s ce jour le destin de la France.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Marquis de SAINT-HURUGE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Qu'&agrave; tous les bons Fran&ccedil;ais ce moment sera doux !</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous r&eacute;gnerez par eux, ils r&eacute;gneront par vous.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Tu voudrois que pour prix de ce projet sinistre,</L
+><L
+PART="N"
+TEIFORM="l"
+>D'un fant&ocirc;me de roi, trop abjecte ministre,</L
+><L
+PART="N"
+TEIFORM="l"
+>D&egrave;s long-temps d&eacute;vor&eacute; de la soif de r&eacute;gner,</L
+><L
+PART="N"
+TEIFORM="l"
+>Au gr&eacute; de tes Fran&ccedil;ais j'aille me gouverner ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Au peuple j'ai rendu d'ambitieux services,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sans pr&eacute;tendre jamais adorer ses caprices ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et je laisse &agrave; Guignard, au modeste Cic&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>A signer un arr&ecirc;t qu'ils n'ont pas prononc&eacute;.</L
+><L
+PART="N"
+TEIFORM="l"
+>Va, le foible LOUIS nous fit ce que nous sommes,</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais le peuple toujours fut fait pour les grands hommes.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Marquis de SAINT-HURUGE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>De vos vastes desseins je n'&eacute;tois point instruit ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous savez, contre vous on r&eacute;pand plus d'un bruit,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui, quoique d&eacute;nu&eacute;s de toute vraisemblance,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pourroient tromper vos v&oelig;ux, m&ecirc;me d&egrave;s leurs naissance.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Tu verras, m'&eacute;rigeant en Richelieu nouveau</L
+><L
+PART="N"
+TEIFORM="l"
+>LOUIS &amp; ses sujets aux pieds de Mirabeau :</L
+><L
+PART="N"
+TEIFORM="l"
+>D'orgueilleux orateurs, l'ignorante &eacute;loquence,</L
+><L
+PART="N"
+TEIFORM="l"
+>Par les lois de Cujas, voudroient r&eacute;gler la France ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et des nobles sans nom, honte de leurs a&iuml;eux,</L
+><L
+PART="N"
+TEIFORM="l"
+>S'honorent de les suivre &amp; de ramper sous eux :</L
+><L
+PART="N"
+TEIFORM="l"
+>Malgr&eacute; ces mirmidons au temple de m&eacute;moire,</L
+><PB
+N="19"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Dieu-donn&eacute; de sa vie &eacute;norgueillit 1'histoire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Par lui le nom Fran&ccedil;ais, &agrave; l'univers port&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Brille encor des rayons de l'immortalit&eacute;.</L
+><L
+PART="N"
+TEIFORM="l"
+>L est temps d'arr&ecirc;ter cette d&eacute;magogie ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Si je fus des premiers &agrave; lui donner la vie,</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est que je dus chercher dans la confusion,</L
+><L
+PART="N"
+TEIFORM="l"
+>Les seuls degr&eacute;s permis &agrave; mon ambition ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais ces premiers pas faits, effort de mon g&eacute;nie ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Je veux rendre au conseil sa premiere &eacute;nergie :</L
+><L
+PART="N"
+TEIFORM="l"
+>Que de ce vain s&eacute;nat le temple soit ferm&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et que rout rentre ici dans l'ordre accoutum&eacute;.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Marquis de SAINT-HURUGE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Etes-vous sans soup&ccedil;on du jeune la Fayette?</L
+><L
+PART="N"
+TEIFORM="l"
+>Sa prudence, en tous seas, s'agite &amp; s'inquiete:</L
+><L
+PART="N"
+TEIFORM="l"
+>Commandant de la garde, &amp; ma&icirc;tre dans Paris,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans le parti du peuple il a tous bes amis.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>La Fayette n'est point ce qu'un vain peuple pense ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le hasard le servit &agrave; Boston comme en France ;</L
+><L
+PART="N"
+TEIFORM="l"
+>O&ugrave; croyant voir en lui l'esprit de Washington,</L
+><L
+PART="N"
+TEIFORM="l"
+>Le bourgeois se croit brave &agrave; l'abri de son nom ;</L
+><L
+PART="N"
+TEIFORM="l"
+>De cette trag&eacute;die, un muet personnage,</L
+><L
+PART="N"
+TEIFORM="l"
+>Un garde de Bailly pourroit me faire ombrage :</L
+><L
+PART="N"
+TEIFORM="l"
+>Aujourd'hui la Fayette, aux yeux de nations,</L
+><L
+PART="N"
+TEIFORM="l"
+>N'est que l'ex&eacute;cuteur de nos proscriptions ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et bien plus command&eacute;, crois-moi, qu'il ne commande,</L
+><L
+PART="N"
+TEIFORM="l"
+>D'un, ou d'autre c&ocirc;t&eacute;, qu'&agrave; p&eacute;rir il s'attende ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ou massacr&eacute; par eux, ou condamn&eacute; par moi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Comme un chef de parti qui menace son roi ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais, voici d'Orl&eacute;ans, suivi de son la Touche.</L
+><L
+PART="N"
+TEIFORM="l"
+>Toi, prends garde qu'un mot n'echappe de ta bouche.</L
+></LG
+></SP
+></DIV2
+><PB
+N="20"
+TEIFORM="pb"
+></PB
+><DIV2
+ID="A2S2"
+N="2"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE II</HEAD
+><P
+TEIFORM="p"
+>Le Duc D'ORL&Eacute;ANS, le Comte DE LA TOUCHE, le Comte de MIRABEAU, le Marquis DE SAINT-HURUGE.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU,</SPEAKER
+><STAGE
+TYPE="delivery"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>au Duc d'Orl&eacute;ans</HI
+></STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Enfin, voici le jour marqu&eacute; pour vos exploits ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous seul tenez le fort des peuples &amp; des rois.</L
+><L
+PART="N"
+TEIFORM="l"
+>Souple &agrave; mes volont&eacute;s, le s&eacute;nat de la France</L
+><L
+PART="N"
+TEIFORM="l"
+>Se range de lui-m&ecirc;me &agrave; votre ob&eacute;issance :</L
+><L
+PART="N"
+TEIFORM="l"
+>Saint-Huruge, Seigneur, nous r&eacute;pond de Paris,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et dans ce chateau seul sont tous vos ennemis.</L
+><L
+PART="N"
+TEIFORM="l"
+>Bient&ocirc;t pour vos neveux, par un titre plus juste.</L
+><L
+PART="N"
+TEIFORM="l"
+>Philippe d'Orl&eacute;ans sera Philippe Auguste.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je sais, en dirigeant nos desseins importans,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ce que je dois, Monsieur, &agrave; vos soins obligeans :</L
+><L
+PART="N"
+TEIFORM="l"
+>Et j'espere avant peu reconno&icirc;tre ce zele ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais je vais vous parler en complice fidele :</L
+><L
+PART="N"
+TEIFORM="l"
+>Plus j'approche du but de mon ambition,</L
+><L
+PART="N"
+TEIFORM="l"
+>Plus je sens dans mon c&oelig;ur d'irr&eacute;solution.</L
+><L
+PART="N"
+TEIFORM="l"
+>Si la Cour me punit, je fus un peu sincere :</L
+><L
+PART="N"
+TEIFORM="l"
+>Ma hardiesse au roi, sans doute a pu d&eacute;plaire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et de Brienne errant en pays &eacute;tranger,</L
+><L
+PART="N"
+TEIFORM="l"
+>L'exil a pu suffire, enfin, &agrave; me venger.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Pourquoi parler, Seigneur, d'exil &amp; de vengeance,</L
+><L
+PART="N"
+TEIFORM="l"
+>Votre grand c&oelig;ur suffit aux destins de la France ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et si, pour commander en ma&icirc;tre aux nations,</L
+><L
+PART="N"
+TEIFORM="l"
+>L'homme foible a besoin du feu des passions,</L
+><L
+PART="N"
+TEIFORM="l"
+>Philippe du m&ecirc;me &oelig;il qui confond le superbe,</L
+><L
+PART="N"
+TEIFORM="l"
+>Doit voir l'aigle dans l'air, &amp; l'insecte sous l'herbe,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sous les d&eacute;bris du tr&ocirc;ne &eacute;touffer ses rivaux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et par l'&eacute;galit&eacute; r&eacute;gner sur ses &eacute;gaux.</L
+></LG
+></SP
+><PB
+N="21"
+TEIFORM="pb"
+></PB
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte DE LA TOUCHE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Mais ne craignez-vous pas que cette politique</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui conduit sur nos pas un peuple fanatique,</L
+><L
+PART="N"
+TEIFORM="l"
+>appr&eacute;ci&eacute;e enfin par tous les bons esprits, </L
+><L
+PART="N"
+TEIFORM="l"
+>Au lieu de les respects, n'attire ses m&eacute;pris?</L
+><L
+PART="N"
+TEIFORM="l"
+>D&eacute;ja de Charles Cinq on lui trace l'histoire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Bailly, comme Marcel, si l'on veut les en croire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Par le peuple &eacute;lev&eacute; doit tomber comme lui ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Il est......</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Pour un Maillard cent Marcel aujourd'hui.</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne craignez point, Seigneur, qu'un puisse vous nuire :</L
+><L
+PART="N"
+TEIFORM="l"
+>Si par l'exemple seul on pouvoit se conduire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Je voue rappellerois un de ces mots fameux,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Qui fut tout par lui-m&ecirc;me, &amp; rien par ses a&iuml;eux.</L
+><L
+PART="N"
+TEIFORM="l"
+>&raquo; Nous sommes ici-bas ce que nous voulons &ecirc;tre ;</L
+><L
+PART="N"
+TEIFORM="l"
+>&raquo; L'homme doit ob&eacute;ir, le grand homme &ecirc;tre ma&icirc;tre.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Mais pour mettre &agrave; profit vos utiles le&ccedil;ons,</L
+><L
+PART="N"
+TEIFORM="l"
+>Avons-nous de Paris les soixante cantons ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Le soldat pourra-t-il, en tra&icirc;nant la Fayette,</L
+><L
+PART="N"
+TEIFORM="l"
+>Le d&eacute;signer l'auteur du coup que je projette ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Marquis de SAINT-HURUGE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Oui, Seigneur, vous pouvez compter sur nos amis ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Les gardes, les bourgeois, tout vous sera soumis ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et du peuple gag&eacute;, les cohortes sans nombre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Couvriront nos desseins du voile le plus sombre.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte DE LA TOUCHE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Mais la Duchess ici.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU, </SPEAKER
+><STAGE
+TYPE="delivery"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>au Marquis de Saint-Huruge </HI
+></STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Vas, je reste en ces lieux ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Sur tous ses mouvemens je fixerai les yeux.</L
+></LG
+></SP
+></DIV2
+><PB
+N="22"
+TEIFORM="pb"
+></PB
+><DIV2
+ID="A2S3"
+N="3"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE III</HEAD
+><P
+TEIFORM="p"
+>Le Duc D'ORL&Eacute;ANS, la Duchesse D'ORL&Eacute;ANS, le Comte DE MIRABEAU, le Comte DE LA TOUCHE.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ou courez-vous, Madame, &amp; d'o&ugrave; viennent ces larmes ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Duchesse D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Vous seul pouvez, Seigneur, dissiper mes alarmes.</L
+><L
+PART="N"
+TEIFORM="l"
+>On dit, m&ecirc;me ce bruit ne paro&icirc;t pas nouveau,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'en vous montrant le tr&ocirc;ne, on vous mene au tombeau,</L
+><L
+PART="N"
+TEIFORM="l"
+>Que parmi vos amis ; puis-je achever le reste ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Moi, que je craigne d'eux un dessein si funeste ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Ah ! Madame, &eacute;coutez un plus heureux transport ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Nous allons au triomphe. &amp; non pas &agrave; la mort ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et voulant &eacute;carter la Cour &amp; ses ministres,</L
+><L
+PART="N"
+TEIFORM="l"
+>Nous n'avons point form&eacute; de projets plus sinistres.</L
+><L
+PART="N"
+TEIFORM="l"
+>De mon bonheur, enfin, pourquoi, vous affliger ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Duchesse D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Dans quels siecles de soins vous allez vous plonger !</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous le savez, Seigneur, Penthievre vous adore ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais de l'ambition, si la soif vous d&eacute;vore,</L
+><L
+PART="N"
+TEIFORM="l"
+>Si l'honneur de r&eacute;gner de mon bonheur jaloux,</L
+><L
+PART="N"
+TEIFORM="l"
+>M'enlevoit mon seul bien, m'arrachoit mon &eacute;poux ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Enfin, si quelque main &agrave; tous les deux contraire,</L
+><L
+PART="N"
+TEIFORM="l"
+>D&eacute;tournoit contre vous la fureur populaire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Allons, loin de ces lieux attendre le succ&egrave;s ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne vous refusez pas &agrave; mes tristes regrets,</L
+><L
+PART="N"
+TEIFORM="l"
+>Un c&oelig;ur comme le mien ne peut-il vous suffire ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Pourquoi ces mots sans suite, &amp; que voulez-vous dire ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Quelqu'un pourroit-il nuire &agrave; Philippe aujourd'hui ?</L
+></LG
+></SP
+><PB
+N="23"
+TEIFORM="pb"
+></PB
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Duchesse D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Vous qui le conduisez, r&eacute;pondez-vous de lui ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Ah ! d'une ambition, que mon amour redoute,</L
+><L
+PART="N"
+TEIFORM="l"
+>Quel but pourra jamais vous adoucir la route ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Eh ! quoi, n'&ecirc;tes-vous pas au plus sublime rang ?</L
+><L
+PART="N"
+TEIFORM="l"
+>N'est-ce pas vous manquer, manquant &agrave; votre sang ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Un jour, il m'en souvient, dans un tendre d&eacute;lire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je voudrois, disiez-vous que ma&icirc;tre d'un empire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais d&eacute;plaire &agrave; Penthievre encor plus jaloux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Elle e&ucirc;t avec mon c&oelig;ur mon sceptre &agrave; ses genoux :</L
+><L
+PART="N"
+TEIFORM="l"
+>Oui, c'est m'en donner un, que, cesser d'y pr&eacute;tendre.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je ne puis r&eacute;sister &agrave; cette voix si tendre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et je cede, sans doute, &agrave; d'injustes soup&ccedil;ons ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais soyez d&eacute;sormais toutes mes pallions,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je vous le dis sans fard, sans aucun artifice.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Duchesse D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je connois mon &eacute;poux, &amp; je lui rend justice.</L
+></LG
+></SP
+></DIV2
+><DIV2
+ID="A2S4"
+N="4"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE IV</HEAD
+><P
+TEIFORM="p"
+>Le Duc D'ORL&Eacute;ANS, Le comte DE MIRABEAU.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Les ministres, Seigneur, se l'&eacute;toient bien promis.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Les ministres, dis-tu ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>R&eacute;pandent dans Paris ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais je crains cependant d'&ecirc;tre un peu trop sincere ;</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Non, parle.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>J'ob&eacute;is : on dit que votre mere,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ecartant de son sein le vieux sang de Bourbon,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne transmit &agrave; son fils des Capets que le nom ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'&agrave; la gloire, opposant les plaisirs les plus minces,</L
+><L
+PART="N"
+TEIFORM="l"
+>Philippe n'e&ucirc;t jamais les go&ucirc;ts chers aux grands princes.</L
+><PB
+N="24"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>S'il fut un moment fait pour &eacute;touffer ce bruit....</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>J'entends, de tes conseils je cueillerai le fruit.</L
+><L
+PART="N"
+TEIFORM="l"
+>Viens ; &amp; for&ccedil;ant enfin cette c&oelig;ur &agrave; se taire,</L
+><L
+PART="N"
+TEIFORM="l"
+>je saurai lui montrer ce qu'Orl&eacute;ans peut faire.</L
+></LG
+></SP
+></DIV2
+></DIV1
+><DIV1
+ID="A3"
+N="3"
+TYPE="Acte"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><HEAD
+TEIFORM="head"
+>ACTE III</HEAD
+><DIV2
+ID="A3S1"
+N="1"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE PREMIERE</HEAD
+><P
+TEIFORM="p"
+>La Marquise DE TOURZEL, CALONNE.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Marquise DE TOURZEL</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Est-ce une illusion ! en croirai-je mes yeux !</L
+><L
+PART="N"
+TEIFORM="l"
+>Calonne ! quel chemin vous conduit en ces lieux ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je viens payer, Madame, excit&eacute; par mon z&eacute;l&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ce que doit &agrave; son Roi tout serviteur fidele ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Je sais que je me livre &agrave; tous mes ennemis ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Que je dois craindre Nekre &amp; ses nombreux amis,</L
+><L
+PART="N"
+TEIFORM="l"
+>Que j'irrite &agrave; la fois son orgueil &amp; sa haine ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais sauvons, s'il se peut, &amp; Louis, &amp; la Reine.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Marquise DE TOURZEL</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Depuis trois mois la Reine en son appartement</L
+><L
+PART="N"
+TEIFORM="l"
+>Cherche un peu de repos, &amp; toujours vainement.</L
+><L
+PART="N"
+TEIFORM="l"
+>Elle rejette, h&eacute;las ! de son ame agit&eacute;e,</L
+><L
+PART="N"
+TEIFORM="l"
+>Toute distraction par nos soins projet&eacute;e ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Elle embrasse son fils, tant&ocirc;t pleure avec nous</L
+><L
+PART="N"
+TEIFORM="l"
+>Celui dont la priva le destin en courroux ;</L
+><L
+PART="N"
+TEIFORM="l"
+>M&egrave;me, depuis huit jours, &amp; plus triste &amp; plus sombre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Quelquefois elle semble appercevoir une ombre.</L
+><L
+PART="N"
+TEIFORM="l"
+>De mots entrecoup&eacute;s elle presse les sons ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Jusques</L
+><PB
+N="25"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Jusques sur ses amis elle &eacute;tend les soup&ccedil;ons.</L
+><L
+PART="N"
+TEIFORM="l"
+>Les yeux remplis de pleurs, souvent d'un air austere,</L
+><L
+PART="N"
+TEIFORM="l"
+>Elle appelle &agrave; grands cris, &amp; Choiseul, &amp; sa mere ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Elle accuse le ciel, ou bien se plaint &agrave; tous</L
+><L
+PART="N"
+TEIFORM="l"
+>D'avoir &eacute;t&eacute; tromp&eacute;e, ainsi que son &eacute;poux.</L
+><L
+PART="N"
+TEIFORM="l"
+>Oui, plus je la connois, plus mon courroux s'enfl&acirc;me,</L
+><L
+PART="N"
+TEIFORM="l"
+>Quand je vois des Fran&ccedil;ois calomnier son &acirc;me.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Tout le mal vient de Nekre, &amp; de sa vanit&eacute; ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Genevois &amp; Sectaire, avec la Royaut&eacute;</L
+><L
+PART="N"
+TEIFORM="l"
+>Il poursuit aujourd'hui la croyance romaine,</L
+><L
+PART="N"
+TEIFORM="l"
+>Le sceptre &amp; la tiare ont des droits &agrave; sa haine ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et d'un comptoir obscur au grand jour parvenu,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il ne veut plus, dit-il, de rang que la vertu.</L
+><L
+PART="N"
+TEIFORM="l"
+>Tel est des Novateurs le langage ordinaire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et comme en tous les rangs il excite un vulgaire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il a trouv&eacute; des grands dont les yeux fascin&eacute;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>grossissent le troupeau de ses illumin&eacute;s ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ou qui, peut-&ecirc;tre aussi, plus adroits que les autres,</L
+><L
+PART="N"
+TEIFORM="l"
+>Esperent tout d'un Dieu dont ils sont les ap&ocirc;tres.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais on ouvre : La Reine.</L
+></LG
+></SP
+></DIV2
+><DIV2
+ID="A3S2"
+N="2"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE II</HEAD
+><P
+TEIFORM="p"
+>LA REINE, LA MARQUISE DE TOURZEl, CALONNE</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LA REINE</SPEAKER
+><STAGE
+TYPE="delivery"
+TEIFORM="stage"
+>&agrave; Calonne.</STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>H&eacute;las ! je vous revois ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et peut-&ecirc;tre, Monsieur, pour la derniere fois.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ah Madame ! un moment, daignez tarir ces larmes.</L
+><L
+PART="N"
+TEIFORM="l"
+>Que peuvent &agrave; vos maux de st&eacute;riles alarmes ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Le monde est juste enfin, sur vous, sur votre &eacute;poux,</L
+><PB
+N="26"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Un jugement plus lent n'en sera que plus doux.</L
+><L
+PART="N"
+TEIFORM="l"
+>Eloignez de votre ame une douleur si vive.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LA REINE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Pr&ecirc;tez-moi l'un &amp; l'autre une oreille attentive.</L
+><L
+PART="N"
+TEIFORM="l"
+>Un songe qui m'effraie, &amp; par-tout me poursuit,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vient troubler mon repos &amp; le jour &amp; la nuit.</L
+><L
+PART="N"
+TEIFORM="l"
+>Je fais ce que l'on doit &agrave; de grossiers prestiges,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et mon esprit arm&eacute; contre ces vains prodiges,</L
+><L
+PART="N"
+TEIFORM="l"
+>M&eacute;prisa d&egrave;s long-temps la faiblesse &amp; l'erreur ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais ce songe en mes sens a port&eacute; la terreur.</L
+><L
+PART="N"
+TEIFORM="l"
+>Epouse &amp; mere enfin, pourrai-je &ecirc;tre insensible</L
+><L
+PART="N"
+TEIFORM="l"
+>Aux avis bienfaisans d'une main invisible ?</L
+><L
+PART="N"
+TEIFORM="l"
+>J'errois dans les d&eacute;tours du parc de Trianon,</L
+><L
+PART="N"
+TEIFORM="l"
+>Seule au d&eacute;clin du jour, dans un sombre abandon,</L
+><L
+PART="N"
+TEIFORM="l"
+>Quand je vois pr&egrave;s de moi s'&eacute;lever de la terre</L
+><L
+PART="N"
+TEIFORM="l"
+>Un spectre, je veux fuir ; grands Dieux ! c'&eacute;toit ma mere,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dont la main soulevant ses longs habits de deuil,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pr&eacute;sente &agrave; mes regards la t&ecirc;te de Choiseuil.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mon c&oelig;ur, malgr&eacute; mes sens, vers tous les deux m'entra&icirc;ne.</L
+><L
+PART="N"
+TEIFORM="l"
+>Tremble, me dit le Duc, &ocirc; malheureuse Reine !</L
+><L
+PART="N"
+TEIFORM="l"
+>D'inf&acirc;mes assassins redoute le courroux ;</L
+><L
+PART="N"
+TEIFORM="l"
+>On en veut &agrave; tes jours, &agrave; ceux de ton &eacute;poux,</L
+><L
+PART="N"
+TEIFORM="l"
+>D'Orl&eacute;ans ; .... A ces mots les &eacute;clats du tonnerre</L
+><L
+PART="N"
+TEIFORM="l"
+>D&eacute;robent &agrave; mes yeux, &amp; Choiseuil, &amp; ma mere,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et le Roi s'empressent &agrave; mes lugubres cris,</L
+><L
+PART="N"
+TEIFORM="l"
+>De cet affreux sommeil vient tirer mes esprits.</L
+><L
+PART="N"
+TEIFORM="l"
+>Que peut me pr&eacute;sager cette vue effroyable ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Pourroit-on ajouter au malheur qui m'accable ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Et r&eacute;duite &agrave; pleurer, &amp; mon fils, &amp; l'Etat,</L
+><L
+PART="N"
+TEIFORM="l"
+>Faut-il pour mon &eacute;poux craindre un assassinat ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Marquise DE TOURZEL</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ah ! Madame, pourquoi vous effrayer d'un songe ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Peut-&ecirc;tre cet avis n'est point un vain mensonge,</L
+><L
+PART="N"
+TEIFORM="l"
+>Madame, &amp; dans ce jour un peu mieux &eacute;clairci,</L
+><L
+PART="N"
+TEIFORM="l"
+>J'aurai le mot secret du billet que voici :</L
+><PB
+N="27"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Puisse un vent favorable &eacute;carter ces nuages ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et le calme en nos c&oelig;urs succeder aux orages !</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais, Nekre vient.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LA REINE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Allez, j'attends votre retour ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Je veux seule avec lui m'expliquer en ce jour.</L
+></LG
+></SP
+></DIV2
+><DIV2
+ID="A3S3"
+N="3"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE III</HEAD
+><P
+TEIFORM="p"
+>LA REINE, NEKRE.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Quoi ! pendant que Louis est sorti sans escorte ;</L
+><L
+PART="N"
+TEIFORM="l"
+>La c&oelig;ur de l'Empereur attend seule &agrave; sa porte !</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LA REINE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je vous cherchois, Monsieur.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Qui, moi, Madame ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LA REINE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Vous.</L
+><L
+PART="N"
+TEIFORM="l"
+>Certains faits doivent &ecirc;tre &eacute;claircis entre nous ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et pendant que du Roi la Cour cherche la trace,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il faut sur mes soup&ccedil;ons que l'on me satisfasse.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>J'ignore de quel crime on a pu me noircir.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LA REINE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>De tout ce que j'ai fait, je vais vous &eacute;claircir.</L
+><L
+PART="N"
+TEIFORM="l"
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>Elle s'assied.</HI
+></STAGE
+></L
+><L
+PART="N"
+TEIFORM="l"
+>Quinze ans sont &eacute;coul&eacute;s depuis que la Couronne</L
+><L
+PART="N"
+TEIFORM="l"
+>Nous fit conno&icirc;tre, h&eacute;las ! les soucis qu'elle donne ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et quinze ans, d&eacute;sirant de voir son Peuple heureux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Le Roi n'a pu jouir du plus doux de ses v&oelig;ux.</L
+><L
+PART="N"
+TEIFORM="l"
+>Maurepas, vous savez, indiqu&eacute; par son pere,</L
+><L
+PART="N"
+TEIFORM="l"
+>Nous parut &agrave; tous deux un ange tut&eacute;laire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais son exp&eacute;rience &amp; sa capacit&eacute;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le c&eacute;doient de beaucoup &agrave; sa l&eacute;g&eacute;ret&eacute;.</L
+><PB
+N="28"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Il fut rendre du Roi le d&eacute;sir inutile,</L
+><L
+PART="N"
+TEIFORM="l"
+>En lui peignant toujours l'art de r&eacute;gner facile.</L
+><L
+PART="N"
+TEIFORM="l"
+>Vergenne le suivit ; docile &agrave; mes souhaits,</L
+><L
+PART="N"
+TEIFORM="l"
+>sans achever la guerre, il accepta la paix ,</L
+><L
+PART="N"
+TEIFORM="l"
+>Esp&eacute;rant avec elle, au sein de l'abondance,</L
+><L
+PART="N"
+TEIFORM="l"
+>Par d'aussidus travaux r&eacute;g&eacute;n&eacute;rer la France.</L
+><L
+PART="N"
+TEIFORM="l"
+>Vains d&eacute;sirs ! vains projets ! de mon bonheur jaloux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Le fort s'est constamment d&eacute;clar&eacute; contre nous,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et le ciel ajoutant aux malheurs de la terre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous v&icirc;mes succ&eacute;der la famine &agrave; la guerre.</L
+><L
+PART="N"
+TEIFORM="l"
+>On changea de principes, on changea de conseil,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sans pouvoir &agrave; nos maux mettre un s&ucirc;r appareil ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et sans nous arr&ecirc;ter &agrave; la prompte disgrace</L
+><L
+PART="N"
+TEIFORM="l"
+>Du Pr&eacute;lat dont ici vous occupez la place,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je viens &agrave; ce moment o&ugrave; mes heureuses mains</L
+><L
+PART="N"
+TEIFORM="l"
+>De Louis, contre vous, tromperent les chagrins.</L
+><L
+PART="N"
+TEIFORM="l"
+>Sans doute, vous sentez, sorti du ministere,</L
+><L
+PART="N"
+TEIFORM="l"
+>Combien votre conduite avoit d&ucirc; lui d&eacute;plaire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et vos premiers travaux au Public consacr&eacute;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>Etoient m&ecirc;me, sans moi, d'inutiles degr&eacute;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>Alors que Lom&eacute;nie, &agrave; ses mains incertaines,</L
+><L
+PART="N"
+TEIFORM="l"
+>Du tr&eacute;sor &eacute;puis&eacute; vit arracher les r&ecirc;nes.</L
+><L
+PART="N"
+TEIFORM="l"
+>Chacun se rappeloit votre superbe humeur.</L
+><L
+PART="N"
+TEIFORM="l"
+>De Stockholm on craignoit m&ecirc;me l'ambassadeur ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et peut-&ecirc;tre doit-on aux soins de votre gendre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Le parti que l'Europe &agrave; Gustave a vu prendre.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Madame, &agrave; qui cacher d&eacute;sormais nos malheurs ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LA REINE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Dans le secret du moins nous d&eacute;vorions nos pleurs ;</L
+><L
+PART="N"
+TEIFORM="l"
+>D'&ecirc;tre trop bien instruit, justement l'on soup&ccedil;onne</L
+><L
+PART="N"
+TEIFORM="l"
+>Un Prince &agrave; qui la France assura sa Couronne.</L
+><L
+PART="N"
+TEIFORM="l"
+>Cependant, rejetant ceux qui briguoient ma voix,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je peignis &agrave; Louis le besoin d'un bon choix.</L
+><L
+PART="N"
+TEIFORM="l"
+>Et sans vous croire exempt de cabale &amp; d'intrigue</L
+><L
+PART="N"
+TEIFORM="l"
+>On &eacute;couta le Peuple, &amp; j'&eacute;cartai la brigue.</L
+><L
+PART="N"
+TEIFORM="l"
+>Ce n'etoit rien encor, votre religion</L
+><L
+PART="N"
+TEIFORM="l"
+>S'opossoit aux &eacute;lans de votre ambition ;</L
+><PB
+N="29"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>On murmuroit, Monsieur, &amp; faut-il vous le dire ?</L
+><L
+PART="N"
+TEIFORM="l"
+>On annon&ccedil;a d&egrave;s-lors les malheurs de l'empire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Si cet obstacle enfin, par moi seule abattu,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous livroit de Louis la facile vertu.</L
+><L
+PART="N"
+TEIFORM="l"
+>Malgr&eacute; l'antique loi de l'Autel &amp; du Tr&ocirc;ne,</L
+><L
+PART="N"
+TEIFORM="l"
+>De Louis en vos mains je remis la couronne ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Il vous nomma Ministre, &amp; pour tant de bienfaits</L
+><L
+PART="N"
+TEIFORM="l"
+>Je ne vous demandai que l'amour des Fran&ccedil;ais.</L
+><L
+PART="N"
+TEIFORM="l"
+>Sans danger pour l'Etat ne pouviez-vous me plaire ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Voil&agrave; ce que j'ai fait, en voici le salaire.</L
+><L
+PART="N"
+TEIFORM="l"
+>Attentif &agrave; fixer tous les regards sur vous,</L
+><L
+PART="N"
+TEIFORM="l"
+>Du nom m&ecirc;me du Roi vous paroissez jaloux ;</L
+><L
+PART="N"
+TEIFORM="l"
+>De vos premiers projets la fausse &eacute;conomie,</L
+><L
+PART="N"
+TEIFORM="l"
+>N'offrit plus aux sujets qu'une cour avilie ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et vos comptes rendus, plus au Peuple qu'au Roi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Parloient beaucoup de vous, de votre &eacute;pouse; &amp; moi</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui, de tous vos travaux, devois &agrave; plus d'un titre,</L
+><L
+PART="N"
+TEIFORM="l"
+>&Ecirc;tre la confidente au moins, sinon l'arbitre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous semblez &eacute;viter de prononcer mon nom.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Madame, vous croiriez.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LA REINE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Sur le moindre soup&ccedil;on</L
+><L
+PART="N"
+TEIFORM="l"
+>Que mon autorit&eacute; fait pencher la balance,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je vous entends citer le malheurs de la France,</L
+><L
+PART="N"
+TEIFORM="l"
+>Comme si, trahissant, &amp; mon fils, &amp; mon Roi,</L
+><L
+PART="N"
+TEIFORM="l"
+>J'osois sacrifier tout le Royaume &agrave; moi.</L
+><L
+PART="N"
+TEIFORM="l"
+>Encor ce seroit peu, si votre ingratitude</L
+><L
+PART="N"
+TEIFORM="l"
+>A me d&eacute;plaire en tout, e&ucirc;t born&eacute; son &eacute;tude ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais, qui peut ignorer que l'&Eacute;tat aujourd'hui</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne soit pr&ecirc;t de p&eacute;rir, &amp; nous-m&ecirc;me avec lui.</L
+><L
+PART="N"
+TEIFORM="l"
+>M&eacute;pris de tous les rangs, haine de tous les Princes ;</L
+><L
+PART="N"
+TEIFORM="l"
+>La Capitale en feu, de m&ecirc;me les Provinces;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le Roi craignant son Peuple, &amp; son frere insult&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Par-dessus tous les noms, votre nom exalte ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Tout ne montre-t-il pas que votre soin perfide</L
+><L
+PART="N"
+TEIFORM="l"
+>Fut de perdre un &Eacute;tat qui vous choisit pour guide ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Car vos talents, qu'on porte &agrave; la sublimit&eacute;,</L
+><PB
+N="30"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Livrent &agrave; nos soup&ccedil;ons votre fidelit&eacute;.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Accuser &agrave; la fois ma droiture &amp; mon zele !</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LA REINE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Comme vous, Sunderland, pour son Prince infidele,</L
+><L
+PART="N"
+TEIFORM="l"
+>A Guillaume livra le cr&eacute;dule Stuart,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous n'e&ucirc;tes &agrave; nos maux, Monsieur, que trop de part.</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous rabaissez Louis, &amp; d'un ton hypocrite,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous ne parlez jamais que de votre m&eacute;rite ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous opposant toujours au bien de nos amis ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Appuyant en secret nos plus chauds ennemis ;</L
+><L
+PART="N"
+TEIFORM="l"
+>D'un peuple qu'on s&eacute;duit outrant le caractere,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous applanissez tout, alors qu'il faut lui plaire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pourvu qu'en votre nom, le bienfait accord&eacute;</L
+><L
+PART="N"
+TEIFORM="l"
+>Cache jusqu'au soup&ccedil;on que Louis l'ait c&eacute;d&eacute;.</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans ce Paris enfin, fier de votre g&eacute;nie,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous allez triompher quand le Roi s'humilie : </L
+><L
+PART="N"
+TEIFORM="l"
+>M&ecirc;me j'ajouterai, que d'un front sans &eacute;gal,</L
+><L
+PART="N"
+TEIFORM="l"
+>On vit &agrave; vos c&ocirc;t&eacute;s, &amp; votre &eacute;pouse, &amp; Staal.</L
+><L
+PART="N"
+TEIFORM="l"
+>Et ne tremblez-vous pas, en voyant votre ma&icirc;tre,</L
+><L
+PART="N"
+TEIFORM="l"
+>S'il lui reste du moins quelque d&eacute;sir de l'&ecirc;tre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sur un Peuple, par vous fidellement instruit,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne r&eacute;gner d&eacute;sormais que par votre cr&eacute;dit ?</L
+><L
+PART="N"
+TEIFORM="l"
+>De la France &agrave; l'Europe, aggravant les miseres,</L
+><L
+PART="N"
+TEIFORM="l"
+>Peignant des maux r&eacute;els, promettant des chimeres ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Voil&agrave; les fruits amers de vos brillans travaux ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Lorsque je me plains &agrave; vous ne tous nos maux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Lorsque j'ai pu vingt fois comme ici vous confondre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Par de futiles mots vous croyez me r&eacute;pondre ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous, dont j'eus pu laisser mourir l'ambition</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans le d&eacute;dale obscur de la Religion.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Madame.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LA REINE,</SPEAKER
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>Se levant.</HI
+></STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>C'est assez : j'ai trop su vous conno&icirc;tre.</L
+><L
+PART="N"
+TEIFORM="l"
+>Aux Etats, au Conseil, allez parler en ma&icirc;tre ;</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est en c&eacute;dant aux v&oelig;ux d'un peuple trop ingrat, </L
+><L
+PART="N"
+TEIFORM="l"
+>Que j'ai perdu le Roi, moi-m&ecirc;me &amp; tout l'Etat.</L
+></LG
+></SP
+></DIV2
+><PB
+N="31"
+TEIFORM="pb"
+></PB
+><DIV2
+ID="A3S4"
+N="4"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE IV</HEAD
+><P
+TEIFORM="p"
+>NEKRE, Madame NEKRE</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Avez-vous entendu cette superbe Reine ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Madame NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>H&eacute;las ! j'entendois tout, &amp; plaignois votre peine.</L
+><L
+PART="N"
+TEIFORM="l"
+>Monsieur, nous sommes seuls, &eacute;coutez en ce jour</L
+><L
+PART="N"
+TEIFORM="l"
+>Un conseil que dicta le plus sincere amour.</L
+><L
+PART="N"
+TEIFORM="l"
+>Etrangers dans ces lieux, encha&icirc;n&eacute;s l'un &agrave; l'autre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ma conduite toujours fut soumise &agrave; la v&ocirc;tre.</L
+><L
+PART="N"
+TEIFORM="l"
+>De ce premier affront songeons &agrave; profiter,</L
+><L
+PART="N"
+TEIFORM="l"
+>Peut-&ecirc;tre la fortune est pr&ecirc;te &agrave; nous quitter.</L
+><L
+PART="N"
+TEIFORM="l"
+>Evitons un retour qui serait trop funeste,</L
+><L
+PART="N"
+TEIFORM="l"
+>Toute la cour nous hait, le clerg&eacute; nous d&eacute;teste ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et s'il faut vous montrer enfin ce que je voi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ce peuple m&ecirc;me ici me cause de l'effroi ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Aux plus affreux exc&egrave;s son inconstance passe :</L
+><L
+PART="N"
+TEIFORM="l"
+>Pr&eacute;venons son caprice, &amp; craignons qu'il se lasse.</L
+><L
+PART="N"
+TEIFORM="l"
+>Gagnons le lac L&eacute;man &amp; ses bords &eacute;cart&eacute;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>O&ugrave; nos a&iuml;eux, dit-on, jadis furent jet&eacute;s.</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous pouvez du d&eacute;part me laisser la conduite ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Sur-tout de vos tr&eacute;sors j'assurerai la fuite.</L
+><L
+PART="N"
+TEIFORM="l"
+>Oui, le moindre incident, dans vos vastes projets,</L
+><L
+PART="N"
+TEIFORM="l"
+>Peut de votre carriere encombrer les trajets ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le plus simple hasard des jeux de la fortune ;</L
+><L
+PART="N"
+TEIFORM="l"
+>L'int&eacute;r&ecirc;t ou l'intrigue, &agrave; la cour si commune ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans vos amis le trouble ou la division,</L
+><L
+PART="N"
+TEIFORM="l"
+>De tous vos ennemis la constante union :</L
+><L
+PART="N"
+TEIFORM="l"
+>Rendez-vous aux avis d'une &eacute;pouse alarm&eacute;e,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui pr&eacute;fere vos jours &agrave; votre renomm&eacute;e.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Madame, il n'est plus temps, le fort en est jet&eacute; ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Au sommet du pouvoir en ce moment mont&eacute;,</L
+><PB
+N="32"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Il seroit trop honteux moi-m&ecirc;me d'en descendre ;</L
+><L
+PART="N"
+TEIFORM="l"
+>J'ignore du destin ce que je dois attendre ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais d&ucirc;t-il de mon fort alt&eacute;rer la douceur,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ailleurs, pour votre &eacute;poux, il n'est plus de bonheur.</L
+><L
+PART="N"
+TEIFORM="l"
+>Je connois de Louis l'ame molle &amp; facile ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Trop long- temps de mes mains j'ai p&eacute;tri cet argile.</L
+><L
+PART="N"
+TEIFORM="l"
+>Tout me r&eacute;pond encore, &amp; du peuple, &amp; de lui :</L
+><L
+PART="N"
+TEIFORM="l"
+>N'ai-je pas en moi-m&ecirc;me un plus solide appui ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Et pour me conserver la faveur souveraine,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je saurai me passer du cr&eacute;dit de la Reine.</L
+></LG
+></SP
+></DIV2
+></DIV1
+><DIV1
+ID="A4"
+N="4"
+TYPE="Acte"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><HEAD
+TEIFORM="head"
+>ACTE IV</HEAD
+><DIV2
+ID="A4S1"
+N="1"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE PREMIERE</HEAD
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE COMTE DE LALLY,</SPEAKER
+><STAGE
+TYPE="location"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>seul.</HI
+></STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Souverains Protecteurs de l'empire des Lys,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dieux ! t&eacute;moins de la foi que je dois &agrave; Louis :</L
+><L
+PART="N"
+TEIFORM="l"
+>Ah! quand sous son a&iuml;eul j'ai vu p&eacute;rir mon pere,</L
+><L
+PART="N"
+TEIFORM="l"
+>En dois-je &agrave; ses enfans un respect moins sincere ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Eloignez-vous de moi coupable ambition,</L
+><L
+PART="N"
+TEIFORM="l"
+>Trop criminel esprit de la s&eacute;dition.</L
+><L
+PART="N"
+TEIFORM="l"
+>Si jadis cette Cour &eacute;tait fertile en brigues,</L
+><L
+PART="N"
+TEIFORM="l"
+>Voit-on dans nos Etats de moins noires intrigues ?</L
+><L
+PART="N"
+TEIFORM="l"
+>A trahir mon honneur, si j'&eacute;tois defin&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Reprenez le pouvoir que vous m'avez donn&eacute; ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous, qui toujours sournis &agrave; nos illustres Princes,</L
+><L
+PART="N"
+TEIFORM="l"
+>D&eacute;sirez seulement le bien de leurs Provinces.</L
+><L
+PART="N"
+TEIFORM="l"
+>Lally... rentre en toi-m&ecirc;me, &amp; vois s'il t'est permis ;</L
+><L
+PART="N"
+TEIFORM="l"
+>De livrer un secret qui perd tous tes amis.</L
+><L
+PART="N"
+TEIFORM="l"
+>Des amis... des amis... le sont-ils de ma gloire ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Craignons de voir unir leurs noms &amp; ma m&eacute;moire.</L
+><L
+PART="N"
+TEIFORM="l"
+>Perisse bien plut&ocirc;t jusques au souvenir</L
+><L
+PART="N"
+TEIFORM="l"
+>De forfaits que jamais ne croira l'avenir.</L
+><L
+PART="N"
+TEIFORM="l"
+>Disciple</L
+><PB
+N="33"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Disciple humili&eacute; d'un Laclos, d'un Barnave,</L
+><L
+PART="N"
+TEIFORM="l"
+>Respirer sous des Rois, est-ce vivre en esclave ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Ah ! cet antique tr&ocirc;ne de l'Empire Fran&ccedil;ais,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne dut qu'&agrave; ce pouvoir sa gloire &amp; ses succ&egrave;s.</L
+><L
+PART="N"
+TEIFORM="l"
+>Oui... que Calonne instruit... Sauvons le Roi, la France ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le bien de mon pays sera ma r&eacute;compense.</L
+><L
+PART="N"
+TEIFORM="l"
+>Je p&eacute;rirai peut-&ecirc;tre en un si beau dessein ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le parti que je fuis a plus d'un assassin.</L
+><L
+PART="N"
+TEIFORM="l"
+>P&eacute;rissons s'il le faut ; mais qu'on entende dire :</L
+><L
+PART="N"
+TEIFORM="l"
+>Maltrait&eacute; de son Roi , Lally sauva L'Empire.</L
+><L
+PART="N"
+TEIFORM="l"
+>J'apper&ccedil;ois d'Orl&eacute;ans, &amp; tous ses conjur&eacute;s :</L
+><L
+PART="N"
+TEIFORM="l"
+>Dieux ! voil&agrave; les vertus que vous couronnerez.</L
+><L
+PART="N"
+TEIFORM="l"
+>Sortons.</L
+></LG
+></SP
+></DIV2
+><DIV2
+ID="A4S2"
+N="2"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE II</HEAD
+><P
+TEIFORM="p"
+>Le Duc D'ORL&Eacute;ANS, le Comte DE MIRABEAU, LACLOS, CHAPELIER, BARNAVE.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Vous mes amis, contre une Cour parjure,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui voulez me servir &agrave; venger mon injure,</L
+><L
+PART="N"
+TEIFORM="l"
+>Mirabeau, Chapelier, vous Barnave &amp; Laclos,</L
+><L
+PART="N"
+TEIFORM="l"
+>Antoinette fut seul auteur de tous mes maux ;</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est elle dont la main f&eacute;conde en artifices,</L
+><L
+PART="N"
+TEIFORM="l"
+>Fit rompre deux hymens &agrave; mes v&oelig;ux si propices.</L
+><L
+PART="N"
+TEIFORM="l"
+>Ses orgueilleux d&eacute;dains rappeloient &agrave; Louis</L
+><L
+PART="N"
+TEIFORM="l"
+>L'&eacute;pouse du R&eacute;gent , &amp; la mienne, &amp; leur fils.</L
+><L
+PART="N"
+TEIFORM="l"
+>De son esprit mordant la piq&ucirc;re profonde,</L
+><L
+PART="N"
+TEIFORM="l"
+>Compare ces beaux jours aux brouillards de la fronde ;</L
+><L
+PART="N"
+TEIFORM="l"
+>De Broussel &amp; de Retz rappellant le tableau,</L
+><L
+PART="N"
+TEIFORM="l"
+>Elle peint d'Orl&eacute;ans comme un Beaufort nouveau.</L
+><L
+PART="N"
+TEIFORM="l"
+>Vengez-vous, vengez-moi, notre cause est commune;</L
+><L
+PART="N"
+TEIFORM="l"
+>Je mets entre vos mains mon nom &amp; ma fortune ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Prodiguez mes tr&eacute;sors au Peulpe de Paris,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ecartons de ces lieux, &amp; la Reine &amp; Louis :</L
+><PB
+N="34"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>De Ministres obscurs dispersons la cohue ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et lorsque cette Cour, &agrave; nos pieds abattue,</L
+><L
+PART="N"
+TEIFORM="l"
+>De sa perte, en fuyant , donnera le signal,</L
+><L
+PART="N"
+TEIFORM="l"
+>Du Royaume pour lors Lieutenant G&eacute;n&eacute;ral,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je puis r&eacute;compenser dignement votre zele ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous, Chapelier, des sceaux le gardien fid&egrave;le,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous apprendrez &agrave; tous &agrave; respecter mon nom.</L
+><L
+PART="N"
+TEIFORM="l"
+>Laclos, prenez ma garde &amp; remplacez Lomont.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mirabeau de Paris aura le ministere ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Barnave choisira la marine ou la guerre.</L
+><L
+PART="N"
+TEIFORM="l"
+>Moi , je me guiderai toujours par vos avis,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et nul n'aura d'emploi que vous &amp; nos amis.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Suspendez un discours dont la bont&eacute; me blesse,</L
+><L
+PART="N"
+TEIFORM="l"
+>Seigneur, de l'amiti&eacute; redoutons la foiblesse ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Sa balance perfide aux plus grands int&eacute;r&ecirc;ts</L
+><L
+PART="N"
+TEIFORM="l"
+>A des plus sages plans arr&ecirc;t&eacute; les progr&egrave;s ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Sous un Prince absolu, d&eacute;daignant ces mesures;</L
+><L
+PART="N"
+TEIFORM="l"
+>Un Ministre affermi choisit ses cr&eacute;atures ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais en ce moment m&ecirc;me o&ugrave; nous cr&eacute;ons l'Etat ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Tout choix est important, tout emploi d&eacute;licat ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et, par exemple, au Ciel sa demeure ordinaire,</L
+><L
+PART="N"
+TEIFORM="l"
+>L'Astronome Bailly peut-il r&eacute;gler la terre ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Liancourt d'une excuse &eacute;ludant le combat,</L
+><L
+PART="N"
+TEIFORM="l"
+>Guidera-t-il jamais les troupes de l'Etat ?</L
+><L
+PART="N"
+TEIFORM="l"
+>L'un &agrave; sa passion doit tout son caractere.</L
+><L
+PART="N"
+TEIFORM="l"
+>D'Aiguillon n'a pour but que de venger son pere ;</L
+><L
+PART="N"
+TEIFORM="l"
+>L'autre qui de courage a manqu&eacute; de tour temps,</L
+><L
+PART="N"
+TEIFORM="l"
+>Peut , dans la politique, essayer ses talens.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais sur-tout &eacute;cartons ces Gracques subalternes,</L
+><L
+PART="N"
+TEIFORM="l"
+>Par mode conjur&eacute;s, Catilina modernes,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui dans une bergere, un Salluste &agrave; la main,</L
+><L
+PART="N"
+TEIFORM="l"
+>Eu pariant d'un Fran&ccedil;ais, citent un nom Romain.</L
+><L
+PART="N"
+TEIFORM="l"
+>A tout un &eacute;difice une pierre peut nuire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Un homme seul &eacute;leve ou d&eacute;truit un Empire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais Saint-Huruge accourt, &amp; semble vous cherchez.</L
+></LG
+></SP
+></DIV2
+><PB
+N="35"
+TEIFORM="pb"
+></PB
+><DIV2
+ID="A4S3"
+N="3"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE III</HEAD
+><P
+TEIFORM="p"
+>Le Duc D'ORL&Eacute;ANS, le Comte de MIRABEAU, Le marquis de SAINT-HURUGE, LACLOS, CHAPELIER, BARNAVE.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Marquis de SAINT-HURUGE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Vous pouvez de Paris, Seigneur, vous approcher.</L
+><L
+PART="N"
+TEIFORM="l"
+>Aux Gardes r&eacute;volt&eacute;s la Fayette est en bute ;</L
+><L
+PART="N"
+TEIFORM="l"
+>J'ai donn&eacute; le conseil, un autre l'ex&eacute;cute ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et dans quelques momens tout Versaille investi,</L
+><L
+PART="N"
+TEIFORM="l"
+>D&eacute;sormais &agrave; la Cour ne laisse qu'un parti.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Soit que la Cour demeure, ou bien prenne la fuite,</L
+><L
+PART="N"
+TEIFORM="l"
+>De ces lieux importans laissez-moi la conduite,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je sais de qui l'on doit ici se d&eacute;fier,</L
+><L
+PART="N"
+TEIFORM="l"
+>J'observerai Lally, j'aurai l'&oelig;il sur Mounier,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et faisant de tous deux une justice prompte,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je saurai, s'il le faut, vous en rendre un bon compte.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE Duc D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Nous nous abandonnons, Monsieur, &agrave; votre foi ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Aux Etats assembl&eacute;s, allez donner la loi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pendant que de la Cour, observateur fidele,</L
+><L
+PART="N"
+TEIFORM="l"
+>J'exciterai du Peuple, ou retiendrai le zele.</L
+></LG
+></SP
+></DIV2
+><DIV2
+ID="A4S4"
+N="4"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE IV</HEAD
+><P
+TEIFORM="p"
+>Le Comte de MIRABEAU, le marquis de SAINT-HURUGE.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Demeure, Saint-Huruge. Enfin voici le tems</L
+><L
+PART="N"
+TEIFORM="l"
+>O&ugrave; le Tr&ocirc;ne &eacute;branl&eacute; jusqu'en ses fondemens,</L
+><L
+PART="N"
+TEIFORM="l"
+>Peut aussi dans la ch&ucirc;te entra&icirc;ner notre perte :</L
+><L
+PART="N"
+TEIFORM="l"
+>Le peuple, assure-tu...</L
+></LG
+></SP
+><PB
+N="36"
+TEIFORM="pb"
+></PB
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Marquis de SAINT-HURUGE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>La plaine en est couverte,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et dans quelques momens, Monsieur, il sont &agrave; nous</L
+><L
+PART="N"
+TEIFORM="l"
+>Des soldats nous avons s&eacute;duit l'esprit jaloux ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Du H&eacute;ros de Boston ils &eacute;chauffent le zele.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Les H&eacute;ros ne sont point taill&eacute;s sur ce modele.</L
+><L
+PART="N"
+TEIFORM="l"
+>La nature leur donne un bien autre ressort ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Des Pilotes pareils sont habiles au port ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Profitons seulement de sa fr&ecirc;le sagesse.</L
+><L
+PART="N"
+TEIFORM="l"
+>Un soin plus important en ce moment me presse ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et sans me confier &agrave; ce Peuple nouveau,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui court s'asseoir au Tr&ocirc;ne, &eacute;chapp&eacute; du barreau,</L
+><L
+PART="N"
+TEIFORM="l"
+>J'ai fond&eacute; les esprits, &amp; la Cour interdite,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pr&eacute;f&eacute;rera, crois-moi , la prison &agrave; la fuite ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Celle-ci de la guerre ouvriroit le chemin ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Eh ! que peut ce Conseil les armes &agrave; la main !</L
+><L
+PART="N"
+TEIFORM="l"
+>Non, nous ne sommes plus au temps des Henri quatre,</L
+><L
+PART="N"
+TEIFORM="l"
+>O&ugrave; les Sully savoient conseiller &amp; combattre.</L
+><L
+PART="N"
+TEIFORM="l"
+>A quelques gens d'esprit l'Etat abandonn&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>A perdu cet honneur qui l'avoit gouvern&eacute;.</L
+><L
+PART="N"
+TEIFORM="l"
+>Les talens ne sont plus qu'un vain jeu de m&eacute;moire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>On calcule aujourd'hui tout, except&eacute; la gloire.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Marquis de SAINT-HURUGE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Eh ! que faire, Monsieur, en ce p&eacute;ril nouveau ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MIRABEAU</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Jj'ai pr&eacute;vu d&egrave;s long-temps jusques &agrave; mon tombeau,</L
+><L
+PART="N"
+TEIFORM="l"
+>Si le foible Louis, le courbant sous l'orage,</L
+><L
+PART="N"
+TEIFORM="l"
+>Croit, se livrant au Peuple, &eacute;chapper au naufrage ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'en habile usurier, &amp; peu propre au combat,</L
+><L
+PART="N"
+TEIFORM="l"
+>Nekre &eacute;vite la guerre, &amp; plus l'assassinat ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'Orl&eacute;ans effray&eacute; des maux qu'il n'a su faire,</L
+><L
+PART="N"
+TEIFORM="l"
+>En fuyant pare un coup qui devoit m'en d&eacute;faire :</L
+><L
+PART="N"
+TEIFORM="l"
+>Que la Fayette enfin , &amp; vingt mille soldats,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sauvant mes ennemis, suspendent leurs tr&eacute;pas ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Alors tout mon projet n'&eacute;tant plus que chimere,</L
+><L
+PART="N"
+TEIFORM="l"
+>J'ouvre une main avide &agrave; l'or de l'Angleterre :</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne pouvant de la France ennoblir le destin,</L
+><PB
+N="37"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Je porterai le trouble &amp; la mort dans son sein.</L
+><L
+PART="N"
+TEIFORM="l"
+>De cette libert&eacute; l'esprit incendiaire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Gagnera par mes soins jusques au militaire.</L
+><L
+PART="N"
+TEIFORM="l"
+>Le marin redoutant de libres matelots,</L
+><L
+PART="N"
+TEIFORM="l"
+>Craindra leur inconstance encor plus que les flots.</L
+><L
+PART="N"
+TEIFORM="l"
+>Que les chefs irrit&eacute;s par de sanglans outrages,</L
+><L
+PART="N"
+TEIFORM="l"
+>Au souffle de la haine allument leurs courages ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Que par-tout ces tyrans, tant &eacute;lus qu'&eacute;lecteurs,</L
+><L
+PART="N"
+TEIFORM="l"
+>Trouvent, au lieu de paix, d'&eacute;ternelles clameurs ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Que les Francs adoptant de nouvelles patries,</L
+><L
+PART="N"
+TEIFORM="l"
+>Abandonnent la leur aux torches des furies.</L
+><L
+PART="N"
+TEIFORM="l"
+>Et puisse en ce n&eacute;ant, moi seul pensant en Roi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Voir p&eacute;rir un Etat qui ne vit pas pour moi.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais on vient : poursuivons nos destins favorables,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et s'il le faut, ami, perdons ces mis&eacute;rables.</L
+></LG
+></SP
+></DIV2
+><DIV2
+ID="A4S5"
+N="5"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE V</HEAD
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><STAGE
+TYPE="location"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>seul.</HI
+></STAGE
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>( Il s'avance de pas lents, &amp; paro&icirc;t absorb&eacute; en lui-m&eacute;me. )</HI
+> </STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Non, je ne croirai point que ce Peuple aujourd'hui</L
+><L
+PART="N"
+TEIFORM="l"
+>Ecoutant d'Orl&eacute;ans ; m'abandonne pour lui.</L
+><L
+PART="N"
+TEIFORM="l"
+><STAGE
+TYPE="delivery"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>( apr&egrave;s un silence. )</HI
+></STAGE
+></L
+><L
+PART="N"
+TEIFORM="l"
+>Tu ne le croiras point ? vain espoir qui te flatte ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Crois-en ce peuple au moins, lorsque sa rage &eacute;clate.</L
+><L
+PART="N"
+TEIFORM="l"
+>Crois-le, quand transgressant les plus faintes des loix,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il ose violer l'asile de ses Rois.</L
+><L
+PART="N"
+TEIFORM="l"
+>Ministre trop aveugle ! &ocirc; fortune cruelle !</L
+><L
+PART="N"
+TEIFORM="l"
+>J'avois cru t'&eacute;chapper dans la race mortelle.</L
+><L
+PART="N"
+TEIFORM="l"
+>Ah ! pourquoi d'un vain nom d&eacute;sirant trop l'&eacute;clat,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ai-je remis la main au timon de l'Etat ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Montagnes de la Suisse ! horrible sollitude !</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous n'eussiez &agrave; mon c&oelig;ur offert rien d'aussi rude !</L
+><L
+PART="N"
+TEIFORM="l"
+>De la Reine comment soutenir le regard ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Moi, d'un peuple gag&eacute;, ridicule &eacute;tendard,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je croyois qu'&agrave; mon nom couloient ses seules larmes,</L
+><PB
+N="38"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Et j'&eacute;tois le signal de coupables alarmes ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Je croyois m'enivrer du plus doux des encens ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et j'&eacute;tois le jouet des plus vils courtisans.</L
+><L
+PART="N"
+TEIFORM="l"
+>O&ugrave; fuir ! d'une maison ardente &agrave; ma ruine,</L
+><L
+PART="N"
+TEIFORM="l"
+>J'ai d&eacute;ssech&eacute; le tronc jusque dans sa racine :</L
+><L
+PART="N"
+TEIFORM="l"
+>Sa fureur s'&eacute;tendant sur ma post&eacute;rit&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Peut-&ecirc;tre on doutera que Nekre ait exist&eacute;.</L
+><L
+PART="N"
+TEIFORM="l"
+>H&eacute;las ! de mes travaux, affreuse r&eacute;compense !</L
+><L
+PART="N"
+TEIFORM="l"
+>Mon nom, celui de Law, seront unis en France ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et les siecles diront, parlant de nos projets :</L
+><L
+PART="N"
+TEIFORM="l"
+>L'un perdit le Monarque, &amp; l'autre les Sujets.</L
+><L
+PART="N"
+TEIFORM="l"
+>Ecartons ces pensers dont l'horreur m'environne ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Voyons s'il reste encor quelque ressource au Tr&ocirc;ne.</L
+><L
+PART="N"
+TEIFORM="l"
+>Essayons de calmer un peuple furieux.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais la Reine &amp; Calonne avancent vers ces lieux.</L
+></LG
+></SP
+></DIV2
+><DIV2
+ID="A4S6"
+N="6"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE VI</HEAD
+><P
+TEIFORM="p"
+>LA REINE, CALONNE, NEKRE</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LA REINE,</SPEAKER
+><STAGE
+TYPE="delivery"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>&agrave; Nekre.</HI
+></STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Vous entendez ce Peuple, &amp; voyez ce qu'il ose ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Quand de l'Etat trahi, croyant venger la cause,</L
+><L
+PART="N"
+TEIFORM="l"
+>Les yeux ceints du bandeau de la rebellion,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il a rompu le frein de la soumission ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous l'entendez, Monsieur, votre rare prudence ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Loin d'&eacute;teindre, alluma ce feu dans sa naissance ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et peut-&ecirc;tre les chefs, consommant leurs forfaits,</L
+><L
+PART="N"
+TEIFORM="l"
+>Du plus auguste sang vont souiller ce palais !</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Madame, je croyois !</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LA REINE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ce mot n'est pas d'un sage ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui croit toujours au calme est surpris par l'orage.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>NEKRE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Madame, permettez : quand je vins &agrave; la Cour,</L
+><L
+PART="N"
+TEIFORM="l"
+>J'avois &agrave; r&eacute;parer les torts de plus d'un jour,</L
+><PB
+N="39"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Je crus qu'&agrave; son flambeau, l'amour de la patrie</L
+><L
+PART="N"
+TEIFORM="l"
+>Pourroit rendre &agrave; ce peuple une utile &eacute;nergie ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Que l'exemple donn&eacute; par le meilleur des Rois,</L
+><L
+PART="N"
+TEIFORM="l"
+>Feroit ch&eacute;rir en lui la douceur de ses lois ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Sur-tout que les Fran&ccedil;ais, ivres des droits du Tr&ocirc;ne, </L
+><L
+PART="N"
+TEIFORM="l"
+>Epureroient encore l'&eacute;clat de la couronne ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et que loin de briser ce sublime ressort,</L
+><L
+PART="N"
+TEIFORM="l"
+>L'honneur seul parleroit, non les droits du plus fort.</L
+><L
+PART="N"
+TEIFORM="l"
+>En connoissant la France, en lisant son histoire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Madame, ainsi que moi, tout autre e&ucirc;t pu le croire.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>C'est l'histoire du jour qu'il falloit consulter.</L
+><L
+PART="N"
+TEIFORM="l"
+>Quand aux droits du Monarque on permet d'insulter,</L
+><L
+PART="N"
+TEIFORM="l"
+>Lorsque sous le vain nom d'amour de la patrie,</L
+><L
+PART="N"
+TEIFORM="l"
+>On allume par-tout les feux de l'anarchie ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Lorsqu'ennemi du Tr&ocirc;ne on en ternit l'&eacute;clat,</L
+><L
+PART="N"
+TEIFORM="l"
+>Doit-on &ecirc;tre &eacute;tonn&eacute; que quelque sc&eacute;l&eacute;rat,</L
+><L
+PART="N"
+TEIFORM="l"
+>Abusant &agrave; son tour d'un peuple trop cr&eacute;dule,</L
+><L
+PART="N"
+TEIFORM="l"
+>L'&eacute;loigne d'un respect devenu ridicule ?</L
+><L
+PART="N"
+TEIFORM="l"
+>La discorde aujourd'hui, par un secret nouveau,</L
+><L
+PART="N"
+TEIFORM="l"
+>Aux mains du philosophe a remis son flambeau ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et voyant s'allier le sabbat &amp; la p&acirc;que,</L
+><L
+PART="N"
+TEIFORM="l"
+>Elle prend pour brandons les r&ecirc;ves de Jean-Jacque.</L
+><L
+PART="N"
+TEIFORM="l"
+>Quoi ! pour rendre fameux Sieyes &amp; Chapelier,</L
+><L
+PART="N"
+TEIFORM="l"
+>Faut-il troubler vingt ans tout un Royaume entier ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Craignons qu'autour de nous, des Princes plus habiles,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne mettent &agrave; profit nos discordes civiles.</L
+><L
+PART="N"
+TEIFORM="l"
+>Voyez de ses malheurs, le Batave effray&eacute; ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le Belge encor tremblant, &amp; dans son sang noy&eacute; ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et sur-tout redoutons l'&eacute;troite politique</L
+><L
+PART="N"
+TEIFORM="l"
+>De ces adorateurs du S&eacute;nat d'Am&eacute;rique,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui voudroient, &eacute;colier de Price &amp; de Francklin,</L
+><L
+PART="N"
+TEIFORM="l"
+>Habiller un g&eacute;ant du justaucorps d'un Nain ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Que son exemple fut la regle &agrave; qui tout cede,</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais le mal &eacute;tant fait, cherchons-en le remede.</L
+><L
+PART="N"
+TEIFORM="l"
+>Ce n'est plus le moment des regrets &amp; des pleurs,</L
+><L
+PART="N"
+TEIFORM="l"
+>Voyons &agrave; pr&eacute;venir le plus grand des malheurs.</L
+></LG
+></SP
+></DIV2
+></DIV1
+><PB
+N="40"
+TEIFORM="pb"
+></PB
+><DIV1
+ID="A5"
+N="5"
+TYPE="Acte"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><HEAD
+TEIFORM="head"
+>ACTE IV</HEAD
+><DIV2
+ID="A5S1"
+N="1"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE PREMIERE</HEAD
+><P
+TEIFORM="p"
+>LE ROI, CALONNE.</P
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>( Le Roi achevant de lire un billet que Calonne vient de lui remettre. )</HI
+></STAGE
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je remplis mon devoir de fidele sujet.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Tout ce que l'on me dit peut-il &ecirc;tre croyable ?</L
+><L
+PART="N"
+TEIFORM="l"
+>J'&eacute;prouvois donc le fort d'un tyran ex&eacute;crable !</L
+><L
+PART="N"
+TEIFORM="l"
+>Moi, qui pour mes sujets le c&oelig;ur plein de bont&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ai d&eacute;pouill&eacute; les lois de leur s&eacute;v&eacute;rit&eacute;.</L
+><L
+PART="N"
+TEIFORM="l"
+>Esperent-ils trouver leur bonheur dans ma perte ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Ravir la libert&eacute;, qui leur &eacute;toit offerte,</L
+><L
+PART="N"
+TEIFORM="l"
+>Quand de leurs chefs jaloux, voyant l'ambition,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je voulus &eacute;touffer toute division.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Si l'on e&ucirc;t adopt&eacute; vos lois justes &amp; sages,</L
+><L
+PART="N"
+TEIFORM="l"
+>Les deux chefs de parti perdoient leurs avantages,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et vos peuples heureux par votre volont&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Fussent rest&eacute;s soumis &agrave; votre autorit&eacute;.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais se voyant tromp&eacute; dans leur folle carriere,</L
+><L
+PART="N"
+TEIFORM="l"
+>D'Orl&eacute;ans fut &agrave; Nekre allier sa banniere,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et de cette union l'imposant appareil,</L
+><L
+PART="N"
+TEIFORM="l"
+>Effrayant vos amis, trompa votre Conseil.</L
+><L
+PART="N"
+TEIFORM="l"
+>Nekre abus&eacute; lui-m&ecirc;me, &amp; plein de confiance,</L
+><L
+PART="N"
+TEIFORM="l"
+>Se crut en ce moment l'idole de la France,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et soudain d&eacute;truifsant l'ouvrage de son Roi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il voulut &ecirc;tre seul l'organe de la loi.</L
+><L
+PART="N"
+TEIFORM="l"
+>Ainsi des deux partis, habiles &agrave; vous nuire,</L
+><L
+PART="N"
+TEIFORM="l"
+>L'un veut r&eacute;gner sans vous, &amp; l'autre vous d&eacute;truire.</L
+></LG
+></SP
+><PB
+N="41"
+TEIFORM="pb"
+></PB
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Un Bourbon s'unissant aux plus vils sc&eacute;l&eacute;rats ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Croit se rendre fameux par des assassinats.</L
+><L
+PART="N"
+TEIFORM="l"
+>A condamner mon sang devois-je donc m'attendre ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Oui, s'il me d&eacute;shonore, il vaut mieux le reprendre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Lui qui tout bouillonnant de fureur contre moi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vouloit s'accro&icirc;tre encor de celui de son Roi ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais sur-tout qui trompant un Peuple t&eacute;m&eacute;raire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Etouffe en des enfans tout amour pour leur pere.</L
+><L
+PART="N"
+TEIFORM="l"
+><STAGE
+TYPE="delivery"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>( A Calonne, qui lui remet un papier. )</HI
+></STAGE
+></L
+><L
+PART="N"
+TEIFORM="l"
+>Voyons ceux qui de Nekre, appuyant le projets,</L
+><L
+PART="N"
+TEIFORM="l"
+>Donnent sans le vouloir, naissance &agrave; ces forfaits.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Peut-&ecirc;tre aigriront-ils la douleur qui vous blesse,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sire, vous y verrez les chefs de la Noblesse.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>lisant.</HI
+></STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Parmi mes ennemis Lameth &amp; d'Aiguillon !</L
+><L
+PART="N"
+TEIFORM="l"
+>Sans moi comment Lameth e&ucirc;t-il port&eacute; son nom ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Vignerot .... mais du moins d'Aiguillon eut un pere,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et contre lui, peut-&ecirc;tre, ai-je &eacute;t&eacute; trop s&eacute;vere.</L
+><L
+PART="N"
+TEIFORM="l"
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+> ( Il continue de lire. )</HI
+></STAGE
+></L
+><L
+PART="N"
+TEIFORM="l"
+>En croirai-je mes yeux ? Luynes, Montmorency,</L
+><L
+PART="N"
+TEIFORM="l"
+>Liancourt &amp; Clermont, vous, Noailltes aussi !</L
+><L
+PART="N"
+TEIFORM="l"
+>Oui, tous ces noms pour moi sont un trait de lumiere :</L
+><L
+PART="N"
+TEIFORM="l"
+>Accours Peuple fran&ccedil;ais, vient venger ta misere,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans le sang de tes Rois ose plonger tes mains ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mes bienfaits aujourd'hui payent mes assassins ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais si tu veux du moins de justes sacrifices,</L
+><L
+PART="N"
+TEIFORM="l"
+>Commence par tes chefs, ils furent mes complices.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mes complices !....  Que dis-je, en cet horrible jour,</L
+><L
+PART="N"
+TEIFORM="l"
+>Conjur&eacute;s au S&eacute;nat, vils flatteurs &agrave; la Cour,</L
+><L
+PART="N"
+TEIFORM="l"
+>De mes propres bont&eacute;s, me rendant la victime,</L
+><L
+PART="N"
+TEIFORM="l"
+>ils jouissent des biens dont ils me font un crime.</L
+><L
+PART="N"
+TEIFORM="l"
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+> ( Il lit. )</HI
+></STAGE
+></L
+><L
+PART="N"
+TEIFORM="l"
+>Montesquiou , mes tr&eacute;sors furent ouverts pour lui ;</L
+><L
+PART="N"
+TEIFORM="l"
+>A la Cour amen&eacute; sans parens, sans appui,</L
+><L
+PART="N"
+TEIFORM="l"
+>Orgueilleux d'un vain nom qui devoit me d&eacute;plaire,</L
+><L
+PART="N"
+TEIFORM="l"
+>D'un odieux Ministre il est le Secr&eacute;taire.</L
+><L
+PART="N"
+TEIFORM="l"
+>Et la Rochefoucault, Castellane &amp; d'Aumont,</L
+><PB
+N="42"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>L'un fait pair sans a&iuml;eux, l'autre tra&icirc;nant son nom ;</L
+><L
+PART="N"
+TEIFORM="l"
+>D'Aumont couvert, non pas de nobles cicatrices,</L
+><L
+PART="N"
+TEIFORM="l"
+>Peut-on me reprocher le moindre de leurs vices ?</L
+><L
+PART="N"
+TEIFORM="l"
+>N'&eacute;coutons d&eacute;sormais que la voix de l'Etat,</L
+><L
+PART="N"
+TEIFORM="l"
+>Craignons les mouvemens d'un c&oelig;ur trop d&eacute;licat.</L
+><L
+PART="N"
+TEIFORM="l"
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>( Rejetant les yeux sur ce qu'il a lu. )</HI
+></STAGE
+></L
+><L
+PART="N"
+TEIFORM="l"
+>Mais vous, dans tous les temps, l'appui du diad&egrave;me,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous, amis de vos Rois, &amp; nobles comme eux-m&ecirc;me,</L
+><L
+PART="N"
+TEIFORM="l"
+>Aveugle rejeton des grands Montmorenci,</L
+><L
+PART="N"
+TEIFORM="l"
+>Si ce n'est pour r&eacute;gner que faites-vous ici?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Dans cet exc&egrave;s fatal sa jeunesse le guide,</L
+><L
+PART="N"
+TEIFORM="l"
+>Des Mahomets du jour, c'est un nouveau S&eacute;&iuml;de,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et tous au m&ecirc;me pi&eacute;ge &eacute;galement surpris,</L
+><L
+PART="N"
+TEIFORM="l"
+>Conno&icirc;tront un peu tard... Mais d'o&ugrave; viennent ces cris ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Est-ce vous, Duc de Guiche ?</L
+></LG
+></SP
+></DIV2
+><DIV2
+ID="A5S2"
+N="2"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE II</HEAD
+><P
+TEIFORM="p"
+>LE ROI, Le Duc DE GUICHE, CALONNE.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc DE GUICHE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ah ! je respire &agrave; peine.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Que fait mon fils ? o&ugrave; sont le Dauphin &amp; la Reine ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc DE GUICHE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Fuyez, Sire, fuyez un Peuple furieux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dont les flots effrayans m'ont jet&eacute; vers ces lieux.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Quoi ! d'Estaing est-il mort ? mes Gardes, la Fayette...</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc DE GUICHE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ce dernier de son Roi, foiblement s'inquiette ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Sans doute il ob&eacute;it au Maire de Paris.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Expliquez-vous, enfin, o&ugrave; sont nos ennemis ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc DE GUICHE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Par-tout o&ugrave; votre Peuple &eacute;chauff&eacute; de carnage,</L
+><L
+PART="N"
+TEIFORM="l"
+>Peut tracer dans le sang les marques de sa rage ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Sire , charges du soin de veiller ce Palais,</L
+><L
+PART="N"
+TEIFORM="l"
+>De r&eacute;pondre d'un sang pr&eacute;cieux aux Fran&ccedil;ais,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vos Gardes abhorrant des trames criminelles</L
+><PB
+N="43"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Juroient jusqu'&agrave; la mort de vous &ecirc;tre fid&egrave;les,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et voyoient autour d'eux , non sans &ecirc;tre &eacute;tonn&eacute;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>Par des soldats fran&ccedil;ais les lys abandonn&eacute;s.</L
+><L
+PART="N"
+TEIFORM="l"
+>D'Estaing pr&ecirc;t &agrave; p&eacute;rir sous leurs nobles ruines,</L
+><L
+PART="N"
+TEIFORM="l"
+>Se montroit &agrave; nos yeux, tel qu'on vit &agrave; Bovines</L
+><L
+PART="N"
+TEIFORM="l"
+>Celui de ses a&iuml;eux, dont les heureux exploits,</L
+><L
+PART="N"
+TEIFORM="l"
+>M&eacute;riterent l'&eacute;cu qui distingue nos Rois ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et quoique peu nombreuse, une troupe aguerrie</L
+><L
+PART="N"
+TEIFORM="l"
+>E&ucirc;t peut-&ecirc;tre du Peuple arr&ecirc;t&eacute; la furie,</L
+><L
+PART="N"
+TEIFORM="l"
+>Si des soldats vendus n'avoient contre leur foi</L
+><L
+PART="N"
+TEIFORM="l"
+>Trafiqu&eacute;s leur honneur, &amp; le sang de leur Roi.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>O crime ! &ocirc; trahison !</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc DE GUICHE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Cependant la Fayette</L
+><L
+PART="N"
+TEIFORM="l"
+>Arrive, &amp; sans s'ouvrir du dessein qu'il projette,</L
+><L
+PART="N"
+TEIFORM="l"
+>Apr&egrave;s avoir &agrave; tous r&eacute;pondu des hasards,</L
+><L
+PART="N"
+TEIFORM="l"
+>II laisse ses soldats quitter leurs &eacute;tendards ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Lui-m&ecirc;me les suivant, en ce moment oublie</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans un l&acirc;che sommeil l'honneur &amp; votre vie.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Elev&eacute; dans Boston au m&eacute;pris de nos lois,</L
+><L
+PART="N"
+TEIFORM="l"
+>Washington lui montra comme on trahit ses Rois.</L
+><L
+PART="N"
+TEIFORM="l"
+>Docile &agrave; ses le&ccedil;ons, jaloux de sa m&eacute;moire,</L
+><L
+PART="N"
+TEIFORM="l"
+>La r&eacute;volte est pour lui le chemin de la gloire.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc DE GUICHE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Bent&ocirc;t par sa retraite au tumulte excit&eacute;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>Le Peuple &amp; les soldats fondent de tous c&ocirc;t&eacute;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et de vos gardes seuls la trop foible cohorte</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne peut de ce Palais leur d&eacute;tendre la porte ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Eux-m&ecirc;mes poursuivis jusqu'en ces murs sacr&eacute;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sur les marches du Tr&ocirc;ne ils tombent massacr&eacute;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et fideles encore &agrave; l'ordre qui les lie,</L
+><L
+PART="N"
+TEIFORM="l"
+>On les voit, sans combattre, abandonner la vie.</L
+><L
+PART="N"
+TEIFORM="l"
+>Des grands m&ecirc;me, dit-on, dans ce d&eacute;sordre affreux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Encourageant au meurtre un Peuple furieux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Excitent &agrave; pris d'or sa rage sanguinaire.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Des Chevaliers fran&ccedil;ais est-ce le caractere ?</L
+></LG
+></SP
+><PB
+N="44"
+TEIFORM="pb"
+></PB
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Voil&agrave; de d'Orl&eacute;ans les glorieux projets.</L
+><L
+PART="N"
+TEIFORM="l"
+>Lui-m&ecirc;me redoutant ces insignes succ&egrave;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et troubl&eacute; des remords d'un affreux r&eacute;gicide,</L
+><L
+PART="N"
+TEIFORM="l"
+>De la fuite m'offroit la ressource perfide.</L
+><L
+PART="N"
+TEIFORM="l"
+>Tra&icirc;tre envers sa patrie, &amp; tra&icirc;tre envers son Roi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'&agrave; l'instant on s'assure....</L
+></LG
+></SP
+></DIV2
+><DIV2
+ID="A5S3"
+N="3"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE III</HEAD
+><P
+TEIFORM="p"
+>Le ROI, La Duchesse D'ORL&Eacute;ANS, ses enfans, Le Duc DE GUICHE, CALONNE.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Duchesse D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ah ! Sire, &eacute;coutez-moi.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Que voulez-vous, Madame, &ecirc;tes-vous sa complice ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Pr&eacute;tendez-vous enfin arr&ecirc;ter ma justice ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour un sujet rebelle, un infidele &eacute;poux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Quel sentiment encor ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Duchesse D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>J'embrasse vos genoux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et mes enfans &amp; moi nous offrant pour &ocirc;tage,</L
+><L
+PART="N"
+TEIFORM="l"
+>De sa soumission vous remettons le gage.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je vous &eacute;couterois, Madame, en ce moment. </L
+><L
+PART="N"
+TEIFORM="l"
+>Si le crime e&ucirc;t &eacute;t&eacute; commis ouvertement ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Si le noble transport de son ame hautaine,</L
+><L
+PART="N"
+TEIFORM="l"
+>Les armes &agrave; la main m'e&ucirc;t d&eacute;clar&eacute; sa haine ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Si votre &eacute;poux, risquant un glorieux tr&eacute;pas,</L
+><L
+PART="N"
+TEIFORM="l"
+>Au p&eacute;ril de sa vie e&ucirc;t troubl&eacute; mes Etats :</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais coupable aujourd'hui des plus inf&acirc;mes brigues ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ourdissant dans la nuit les plus l&acirc;ches intrigues ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Corrupteur de mon Peuple, &amp; l'argent &agrave; la main,</L
+><L
+PART="N"
+TEIFORM="l"
+>Peut-&ecirc;tre parmi lui cherchant un assassin ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et pour mieux assurer ses cabales sinistres,</L
+><L
+PART="N"
+TEIFORM="l"
+>Me for&ccedil;ant &agrave; garder d'incapables Ministres.</L
+><L
+PART="N"
+TEIFORM="l"
+>De nous &amp; de l'Espagne alt&eacute;rant l'union,</L
+><L
+PART="N"
+TEIFORM="l"
+>Portant par-tout le trouble &amp; la confusion ;</L
+><PB
+N="45"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Pour tout mon sang enfin, &amp; pour mon propre frere</L
+><L
+PART="N"
+TEIFORM="l"
+>La France devenue une terre &eacute;trangere :</L
+><L
+PART="N"
+TEIFORM="l"
+>Je dois &agrave; mon honneur, je dois &agrave; mes Etats,</L
+><L
+PART="N"
+TEIFORM="l"
+>A l'Univers entier....</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Duchesse D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Sire, n'achevez pas.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Eh ! quand sur ma bont&eacute; gagnant cette victoire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous pourriez effacer ses torts de ma m&eacute;moire !</L
+><L
+PART="N"
+TEIFORM="l"
+>Sept Princes de mon sang en pays &eacute;tranger,</L
+><L
+PART="N"
+TEIFORM="l"
+>Suffiront bien sans moi, Madame, &agrave; nous venger ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et passat-il des mers les profondes abymes,</L
+><L
+PART="N"
+TEIFORM="l"
+>Jamais le Ciel vengeur n'oublia de tels crimes.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Duchesse D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ah ! Sire, pour l'honneur de votre auguste nom,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ces forfaits n'entrent point dans l'ame d'un Bourbon.</L
+><L
+PART="N"
+TEIFORM="l"
+>D'un peu d'ambition le souffle trop funeste</L
+><L
+PART="N"
+TEIFORM="l"
+>Egara mon &eacute;poux, un tra&icirc;tre a fait le reste.</L
+><L
+PART="N"
+TEIFORM="l"
+>La bont&eacute; dans mon Roi brille en tout son &eacute;clat...</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>CALONNE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Si j'osois ajouter quelques raisons d'Etat,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sire, je vous dirois que dans ce moment m&ecirc;me,</L
+><L
+PART="N"
+TEIFORM="l"
+>On doit craindre de prendre un parti trop extr&ecirc;me.</L
+><L
+PART="N"
+TEIFORM="l"
+>Que ce Peuple abus&eacute; d&eacute;ja depuis long-temps,</L
+><L
+PART="N"
+TEIFORM="l"
+>Peut se croire oblig&eacute; de fauver d'Orl&eacute;ans,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et ne m&eacute;nageant rien pour emp&ecirc;cher sa perte,</L
+><L
+PART="N"
+TEIFORM="l"
+>Se porter, du tumulte, &agrave; la r&eacute;volte ouverte.</L
+><L
+PART="N"
+TEIFORM="l"
+>Que vous pouvez sans bl&acirc;me &eacute;couter la bont&eacute; ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Que ce n'est pas le temps de la s&eacute;v&eacute;rit&eacute;.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais &eacute;loignant Philippe avec quelque prudence,</L
+><L
+PART="N"
+TEIFORM="l"
+>Craignez tout d'un parti dont il est l'esp&eacute;rance,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et sur-tour &eacute;vitez qu'un sentiment trop doux</L
+><L
+PART="N"
+TEIFORM="l"
+>Ne lui fournisse encor des armes contre vous.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Duchesse D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Obtiendrois-je de vous cette faveur supr&ecirc;me ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Puissent tous les Bourbons lui pardonner de m&ecirc;me !</L
+></LG
+></SP
+><PB
+N="46"
+TEIFORM="pb"
+></PB
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Duchesse D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>M&eacute;ritez cette gr&acirc;ce, &amp; tombez avec moi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Enfans trop malheureux, aux pieds dw votre Roi.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>la retenant.</HI
+></STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Que je vous plains, Madame &amp; qu'en cette occurrence.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>La Duchesse D'ORL&Eacute;ANS</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ah ! que mon &eacute;poux... mais votre Conseil s'avance,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et je dois respecter des momens pr&eacute;cieux</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'au prix de tout mon sang je voudrois plus heureux.</L
+></LG
+></SP
+></DIV2
+><DIV2
+ID="A5S4"
+N="4"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE IV</HEAD
+><P
+TEIFORM="p"
+>Le ROI, le Mar&eacute;chal DE BEAUVEAU, le Comte DE MONTMORIN, NEKRE, le Duc DE GUICHE, CALONNE.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><STAGE
+TYPE="delivery"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>&agrave; ses minstres.</HI
+></STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Sur vos fronts abattus je juge de l'orage ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Que devient aujourd'hui ce superbe langage ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Assurant tout pr&eacute;voir, &eacute;tant toujours surpris,</L
+><L
+PART="N"
+TEIFORM="l"
+>Tout pr&ecirc;ts a commander alors qu'on est soumis,</L
+><L
+PART="N"
+TEIFORM="l"
+>D&eacute;truisant mon pouvoir, en vantant ma puissance,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et flatteurs consomm&eacute;s, trompant ma confiance.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte de MONTMORIN</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Sire, le Peuple encor n'a point trahi sa foi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il respecte dans vous, &amp; son ma&icirc;tre, &amp; son roi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et du l'autorit&eacute; l'antique &amp; saint usage,</L
+><L
+PART="N"
+TEIFORM="l"
+>De votre auguste sang doit &ecirc;tre l'apanage ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Paris veut seulement, au sein de ses sujets,</L
+><L
+PART="N"
+TEIFORM="l"
+>Voir son roi ramener l'abondance &amp; la paix ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Ecarter de ses murs les discordes civiles,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et donner par sa voix l'exemple aux autres villes.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Pour jouir des d&eacute;bris de mon autorit&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Joignez la perfidie &agrave; l'imb&eacute;cillit&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Voil&agrave; ce qu'a produit ce ton acad&eacute;mique,</L
+><PB
+N="47"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Qui le croit propre &agrave; tout, m&ecirc;me &agrave; la politique,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et qui, de son vernis, couvrant tous ses d&eacute;fauts,</L
+><L
+PART="N"
+TEIFORM="l"
+>Donne pour clair l'obscur, veut rendre vrai le faut.</L
+><L
+PART="N"
+TEIFORM="l"
+>Maurepas, abusant de ma simple jeunesse,</L
+><L
+PART="N"
+TEIFORM="l"
+>Employa le premier cette funeste adresse,</L
+><L
+PART="N"
+TEIFORM="l"
+>M'offant dans l'avenir un chim&eacute;rique appui,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il pr&eacute;para l'abyme o&ugrave; je tombe aujourd'hui.</L
+><L
+PART="N"
+TEIFORM="l"
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+> ( Regardant ses Ministres. )</HI
+></STAGE
+></L
+><L
+PART="N"
+TEIFORM="l"
+>Et de ses successeurs le coupable langage,</L
+><L
+PART="N"
+TEIFORM="l"
+>A de l'Etat enfin consomm&eacute; le naufrage.</L
+><L
+PART="N"
+TEIFORM="l"
+>Oui, j'ob&eacute;is en brave &agrave; de l&acirc;che conseils !</L
+><L
+PART="N"
+TEIFORM="l"
+>Puisse-je au moins servir d'exemple &agrave; mes pareils !</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais sur-tout &eacute;clair&eacute;s par mon experience,</L
+><L
+PART="N"
+TEIFORM="l"
+>Puissent mes h&eacute;ritiers au tr&ocirc;ne de la France,</L
+><L
+PART="N"
+TEIFORM="l"
+>Voyant quel est mon fort, conno&icirc;tre le danger</L
+><L
+PART="N"
+TEIFORM="l"
+>D'admettre &agrave; ses conseils le perfide &eacute;tranger !</L
+></LG
+></SP
+></DIV2
+><DIV2
+ID="A5S5"
+N="5"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE V</HEAD
+><P
+TEIFORM="p"
+>LE ROI, le Duc D'ORL&Eacute;ANS, le Mar&eacute;chal de BEAUVEAU, le Comte DE MONTMORIN, le Duc DE GUICHE, CALONNE, NEKRE.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE Duc D'ORL&Eacute;ANS,</SPEAKER
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+>se jetant aux pieds du Roi.</STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ah ! mon Roi.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI,</SPEAKER
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>le relevant.</HI
+></STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Levez-vous ; allez, je vous pardonne,</L
+><L
+PART="N"
+TEIFORM="l"
+>Malheureux ! ignorez le poids d'une couronne ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Cependant &eacute;vitant un trop juste courroux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Que la mer d&egrave;s ce jour me s&eacute;pare de vous.</L
+></LG
+></SP
+></DIV2
+><PB
+N="48"
+TEIFORM="pb"
+></PB
+><DIV2
+ID="A5S6"
+N="6"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE VI</HEAD
+><P
+TEIFORM="p"
+>LES PR&Eacute;C&Eacute;DENS, LA REINE <STAGE
+TYPE="business"
+TEIFORM="stage"
+>&eacute;chappant aux assassins qui arriverent a son lit, au moment o&ugrave; elle en sortoit, suivie de </STAGE
+>La Marquise DE TOURZEL, conduisant le DAUPHIN &amp; MADAME, fille du Roi.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Madame, en quel &eacute;tat ?</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LA REINE</SPEAKER
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>On en veut &agrave; ma vit.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Duc DE GUICHE, </SPEAKER
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+>mettant la main &agrave; son &eacute;p&eacute;e.</STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ah ! tout mon sang avant qu'elle vous soit ravie.</L
+></LG
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>LE ROI,</SPEAKER
+><STAGE
+TYPE="delivery"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>&agrave; la Reine.
+( Au Duc de Guiche.)</HI
+></STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Demeurez pr&egrave;s de moi. Vous, Monsieur, il suffit ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour le salut de tous, s'il fall&ucirc;t qu'un p&eacute;r&icirc;t,</L
+><L
+PART="N"
+TEIFORM="l"
+>Je connois me devoirs, &amp; dans mon rang sublime,</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est &agrave; moi qu'appartient d'&ecirc;tre cette victime.</L
+></LG
+></SP
+><STAGE
+TYPE="business"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+> ( On entend battre la g&eacute;n&eacute;rale. Le Marquis de la Fayette, que l'on a &eacute;t&eacute; r&eacute;veiller, paro&icirc;t d'un c&ocirc;t&eacute; du th&eacute;&acirc;tre, &agrave; la t&ecirc;te des ci-devant Gardes-Fran&ccedil;oises ; de l'autre c&ocirc;t&eacute; s'avancent les D&eacute;put&eacute;s des Etats, nomm&eacute;s pour accompagner le Roi, parmi lesquels on distingue le comte de Mirabeau. )
+( Le Dauphin effray&eacute; se jette dans le bras de son pere. )
+( Les Troupes enveloppent la famille Royale, &amp; l'emmenet : les D&eacute;put&eacute;s les suivent , except&eacute; Mirabeau )</HI
+></STAGE
+></DIV2
+><DIV2
+ID="A5S7"
+N="7"
+TYPE="Scene"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div2"
+><HEAD
+TEIFORM="head"
+>SCENE DERNIERE</HEAD
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Comte DE MIRABEAU,</SPEAKER
+><STAGE
+TYPE="location"
+TEIFORM="stage"
+><HI
+REND="italic"
+TEIFORM="hi"
+>seul.</HI
+></STAGE
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Nous, sans perdre de temps en regrets inutiles,</L
+><L
+PART="N"
+TEIFORM="l"
+>Cherchons des instrumens sous ma main plus dociles ;</L
+><L
+PART="N"
+TEIFORM="l"
+>A mes hardis projets une fois parvenu.</L
+><L
+PART="N"
+TEIFORM="l"
+>Peu m'importe qu'apr&egrave;s Mirabeau soit connu.</L
+></LG
+></SP
+><TRAILER
+REND="center"
+TEIFORM="trailer"
+> FIN </TRAILER
+></DIV2
+></DIV1
+></BODY
+><BACK
+TEIFORM="back"
+></BACK
+></TEXT
+></TEI.2
+>

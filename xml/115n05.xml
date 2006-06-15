@@ -1,0 +1,1308 @@
+<TEI.2
+TEIFORM="TEI.2"
+><TEIHEADER
+TYPE="text"
+STATUS="NEW"
+TEIFORM="teiHeader"
+><FILEDESC
+TEIFORM="fileDesc"
+><TITLESTMT
+TEIFORM="titleStmt"
+><TITLE
+TEIFORM="title"
+> Lettre de l'honorable Jean Rablu: electronic edition</TITLE
+><AUTHOR
+TEIFORM="author"
+>anonymous</AUTHOR
+><RESPSTMT
+TEIFORM="respStmt"
+><RESP
+TEIFORM="resp"
+>Compiled and edited by</RESP
+><NAME
+TEIFORM="name"
+>Michael Kazanjian</NAME
+></RESPSTMT
+></TITLESTMT
+><PUBLICATIONSTMT
+TEIFORM="publicationStmt"
+><PUBLISHER
+TEIFORM="publisher"
+>Lewis H. Beck Center</PUBLISHER
+><PUBPLACE
+TEIFORM="pubPlace"
+>Emory University</PUBPLACE
+><ADDRESS
+TEIFORM="address"
+><ADDRLINE
+TEIFORM="addrLine"
+>Atlanta, Georgia  30322</ADDRLINE
+></ADDRESS
+><AVAILABILITY
+STATUS="UNKNOWN"
+TEIFORM="availability"
+><P
+TEIFORM="p"
+>2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</P
+></AVAILABILITY
+><DATE
+TEIFORM="date"
+>2002</DATE
+></PUBLICATIONSTMT
+><SERIESSTMT
+TEIFORM="seriesStmt"
+><TITLE
+TEIFORM="title"
+>French Revolution Pamphlet Collection</TITLE
+></SERIESSTMT
+><SOURCEDESC
+DEFAULT="NO"
+TEIFORM="sourceDesc"
+><BIBL
+DEFAULT="NO"
+TEIFORM="bibl"
+><TITLE
+TEIFORM="title"
+>Lettre de l'honorable Jean Rablu.</TITLE
+>
+<PUBPLACE
+TEIFORM="pubPlace"
+>Paris?</PUBPLACE
+><DATE
+TEIFORM="date"
+>1790</DATE
+></BIBL
+></SOURCEDESC
+></FILEDESC
+><ENCODINGDESC
+TEIFORM="encodingDesc"
+><PROJECTDESC
+DEFAULT="NO"
+TEIFORM="projectDesc"
+><P
+TEIFORM="p"
+>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</P
+><P
+TEIFORM="p"
+>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</P
+></PROJECTDESC
+><EDITORIALDECL
+DEFAULT="NO"
+TEIFORM="editorialDecl"
+><P
+TEIFORM="p"
+>In the original text, the sentence marked by the marker "l" appears in the notes as both "i" and "l".  Also, footnotes "j" and "k" do not exist.  I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  I also omitted page signatures: A2 from p. 3, A3 from p. 5, and A4 from p. 7.  For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</P
+></EDITORIALDECL
+></ENCODINGDESC
+><PROFILEDESC
+TEIFORM="profileDesc"
+><CREATION
+TEIFORM="creation"
+><DATE
+TEIFORM="date"
+>1790</DATE
+></CREATION
+></PROFILEDESC
+><REVISIONDESC
+TEIFORM="revisionDesc"
+><CHANGE
+TEIFORM="change"
+><DATE
+TEIFORM="date"
+>2002</DATE
+><RESPSTMT
+TEIFORM="respStmt"
+><NAME
+TEIFORM="name"
+>Michael Kazanjian</NAME
+><RESP
+TEIFORM="resp"
+>staff</RESP
+></RESPSTMT
+><ITEM
+TEIFORM="item"
+>Sgml tags inserted in compliance with TEI guidelines using TEI P3</ITEM
+></CHANGE
+></REVISIONDESC
+></TEIHEADER
+><TEXT
+TEIFORM="text"
+><FRONT
+TEIFORM="front"
+><TITLEPAGE
+TEIFORM="titlePage"
+><DOCTITLE
+TEIFORM="docTitle"
+><TITLEPART
+TYPE="main"
+TEIFORM="titlePart"
+>Lettre de l'Honorable Jean Rablu, Maitre Crocheteur, et Caporal-Major de la Milice de C&eacute;na, a l'Honorable Pierre Tubeuf, Gar&ccedil;on Boucher de Poissy.</TITLEPART
+></DOCTITLE
+><DOCAUTHOR
+TEIFORM="docAuthor"
+>Anonymous.</DOCAUTHOR
+><DOCDATE
+TEIFORM="docDate"
+>1790.</DOCDATE
+><PB
+N="1"
+TEIFORM="pb"
+></PB
+><EPIGRAPH
+TEIFORM="epigraph"
+><Q
+DIRECT="UNSPECIFIED"
+TEIFORM="q"
+><L
+PART="N"
+TEIFORM="l"
+><HI
+REND="italic"
+TEIFORM="hi"
+>Les premiers seront les derniers,</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+><HI
+REND="italic"
+TEIFORM="hi"
+> Et les derniers seront les premiers.</HI
+></L
+></Q
+><BIBL
+DEFAULT="NO"
+TEIFORM="bibl"
+> Evangile s&eacute;lon S. Luc.</BIBL
+><P
+REND="rule center"
+TEIFORM="p"
+></P
+></EPIGRAPH
+><DOCDATE
+TEIFORM="docDate"
+>1790</DOCDATE
+></TITLEPAGE
+><DIV1
+ID="EDITORIAL"
+TYPE="Note de l'Éditeur"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><PB
+N="2"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+>QUATRE LIGN&Eacute;S<LB
+TEIFORM="lb"
+></LB
+>
+DE L'&Eacute;DITEUR.<LB
+TEIFORM="lb"
+></LB
+>
+<HI
+REND="italic"
+TEIFORM="hi"
+> Il y a quelque temps que cette lettre me fut communiqu&eacute;e par l'honorable Jean Rablu, qui me fait l'honneur de me prot&eacute;ger un peu. J'en ai &eacute;t&eacute; si frapp&eacute;, que je l'ai engag&eacute; &agrave; la rendre publique ; j'y ai seulement ajout&eacute; quelques notes pour les amateurs, &amp; je profite de l'occasion pour offrir mes respectueux hommages &agrave; tous les honorables camarades de Jean Rablu, qui, comme on fait, menent la brouette de C&eacute;na.</HI
+></P
+></DIV1
+></FRONT
+><BODY
+TEIFORM="body"
+><DIV1
+ID="BODY"
+TYPE="Body"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><PB
+N="3"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+>LETTRE DE L'HONORABLE JEAN RABLU,<LB
+TEIFORM="lb"
+></LB
+>
+<HI
+REND="italic"
+TEIFORM="hi"
+> Ma&icirc;tre Crocheteur, &amp; Caporal-Major de la
+Milice de C&eacute;na,</HI
+><LB
+TEIFORM="lb"
+></LB
+>
+A L'HONORABLE PIERRE TUBEUF,<LB
+TEIFORM="lb"
+></LB
+>
+<HI
+REND="italic"
+TEIFORM="hi"
+> Gar&ccedil;on Boucher &agrave; Poissi.</HI
+></P
+><P
+TEIFORM="p"
+>Eh ! bon jour notre ami Tubeuf ; comment va la joie ? &agrave; merveille chez moi, gai comme pinson ; je ne pese pas une once depuis que je suis de la Nation. <REF
+TARGORDER="U"
+TARGET="NOTEA"
+TEIFORM="ref"
+>(a)</REF
+> Vive la libert&eacute;, morbleu ! vivent les enfants de la Balle ! Je vous salue, honorables personnes, Gar&ccedil;ons Bouchers, Brouettiers, Crocheteurs, porte-chaises, Marchands de Merlans, &amp;c. ; sans
+<PB
+N="4"
+TEIFORM="pb"
+></PB
+>
+vous oublier, Dames de la Halle, qui vous &ecirc;tes si bien montr&eacute;es. A genoux, mes amis, &amp; remercions 89. Il y a six mois que nous n'&eacute;tions rien ici ; &agrave; pr&eacute;sent nous sommes tout : nous voil&agrave; devenus Comtes, Marquis, Barons ; nous avons droit de chasse, de p&ecirc;che, de colombier, &amp; nous prenons notre revanche avec ces gens &agrave; parchemins, qui faisoient toujours blanc de leur &eacute;p&eacute;e, &amp; nous traitoient de Turc &agrave; More. La corde &eacute;toit trop tendue, Tubeuf, il falloit bien qu'elle cass&acirc;t ; chacun &agrave; son tour dans ce monde ; entendez-vous les Aristocrates ? c'est Jean Rablu qui vous le dit, le Capitan Rablu !qui est remont&eacute; sur sa b&ecirc;te, &amp; qui vous chante ce petit air :</P
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je vous m&eacute;prise, </L
+><L
+PART="N"
+TEIFORM="l"
+>Et le vous prise, </L
+><L
+PART="N"
+TEIFORM="l"
+>Moins qu'une prise</L
+><L
+PART="N"
+TEIFORM="l"
+>De tabac.</L
+></LG
+><P
+TEIFORM="p"
+>R&eacute;pete, Tubeuf.</P
+><P
+TEIFORM="p"
+>Il y a mille ans que tu dois venir &agrave; C&eacute;na. Eh ! arrive donc ; tu me verras dans toute ma gloire. Oh ! comme tu seras &eacute;bahi ! comme tu ouvriras tes grandes oreilles , lorsque
+
+<PB
+N="5"
+TEIFORM="pb"
+></PB
+>
+qu'entre la poire &amp; le fromage, le pied sur les chenets, le coude sur la table, je te raconterai nos exploits, car, tiens, ce n'est pas pour nous vanter, mais <HI
+REND="italic"
+TEIFORM="hi"
+> c'est &agrave; nous seuls que C&eacute;na doit toute sa bonne renom&eacute;e,</HI
+> nous y avons tout culbut&eacute;, tout refondu ; nous en avons tellement chang&eacute; la face, qu'on n'y reconno&icirc;t plus rien : bref, nous avons fait des choses ! des choses qui passent toute croyance ; <REF
+TARGORDER="U"
+TARGET="NOTEB"
+TEIFORM="ref"
+>(b)</REF
+> on en parlera long-temps. Ils en ont tous &eacute;t&eacute; si &eacute;baubis, qu'ils en font demeur&eacute;s les bras pendants, la bouche b&eacute;ante, comme des statues d'<HI
+REND="italic"
+TEIFORM="hi"
+> in exitu.</HI
+> Ils nous ont regard&eacute; faire, &amp; n'oseroient plus souffler le mot. Eh ! ma foi il n'y feroit pas bon, <REF
+TARGORDER="U"
+TARGET="NOTEC"
+TEIFORM="ref"
+>(c)</REF
+> nous avons le haut du pav&eacute;, nous tenons la queue de la po&euml;le, &amp; c'est nous qui faisons la pluie &amp; le beau temps.</P
+><P
+TEIFORM="p"
+>La police est au diable. Nous avons d&eacute;trouss&eacute; le G&eacute;n&eacute;ral, &amp; l'avons envoy&eacute; pa&icirc;tre avec ses quatre renards, <REF
+TARGORDER="U"
+TARGET="NOTED"
+TEIFORM="ref"
+>(d)</REF
+> qui n'ayant plus rien &agrave; croquer font car&ecirc;me &amp; vivent de r&eacute;gime. Leurs robes sont chez les Frippiers, en attendant celles des Avocats &amp; des Procureurs ; car la bonne Dame Justice est bien malade, &amp; ses vieilles balances ne servent
+
+<PB
+N="6"
+TEIFORM="pb"
+></PB
+>
+plus que pour quelques petites affaires de chicane que nous lui laissons par charit&eacute;. Tout le reste est sur nos crochets, &amp; nous faisons ce qu'on appelle la grande police &amp; l'almanach du Comit&eacute;. Tu ne fais pas ce qu'on entend par ce mot <HI
+REND="italic"
+TEIFORM="hi"
+> Comit&eacute;</HI
+> ? ni moi non plus, ni personne. C'est un tas de gens pris de tous c&ocirc;t&eacute;s, qui se sont assembl&eacute;s, je ne sais comment, qui jugent je ne sais quoi, &amp; &agrave; qui l'on ob&eacute;it je ne sais quand. Le plus comique de tous les Comit&eacute;s est bien celui de C&eacute;na, <REF
+TARGORDER="U"
+TARGET="NOTEE"
+TEIFORM="ref"
+>(e)</REF
+> &amp; quand ils sont r&eacute;unis, je les d&eacute;fie de se regarder sans rire. Ce Comit&eacute; est une girouette dont nous sommes les vents : nous le menons d'un leste ! &amp; nous lui disons : allez-l&agrave;, &amp; il y va : faites ceci, &amp; il le fait ; &amp; malheur &agrave; lui s'il regimboit, nous le casserions net comme un verre. Il y a quelques mois que le dr&ocirc;le y fut pris, <REF
+TARGORDER="U"
+TARGET="NOTEF"
+TEIFORM="ref"
+>(f)</REF
+> il fut oblig&eacute; de grimper sur le toit comme un chat, &amp; de se sauver par les gouttieres. Notre maniere d'agir est toute simple. Nous ne nous amusons pas &agrave; faire de belles phrases ; nous mettons un canon &agrave; la place d'un raisonnement ; nous nous pr&eacute;sentons tambour battant , m&eacute;che
+
+<PB
+N="7"
+TEIFORM="pb"
+></PB
+>
+allum&eacute;e , &amp; nous n'avons que trois mots &agrave; la bouche, <HI
+REND="italic"
+TEIFORM="hi"
+> Nation, Libert&eacute;, R&eacute;verbere :</HI
+> ces trois mots bien appliqu&eacute;s sont des prodiges, c'est comme une baguette de sorcier.</P
+><P
+TEIFORM="p"
+>Attention, Tubeuf, sois toute oreille. J'ai &agrave; te parler de notre belle Milice perlim-pinpin, dont nous sommes la cheville ouvriere. Oh ! mon ami, quelle milice ! il n'y en a pas de pareille en France, &amp; il n'y en aura jamais. Il faut la voir, c'est la piece curieuse.</P
+><P
+TEIFORM="p"
+>Exceptons parmi les &eacute;paulettes, quelques Messieurs qui ne font pas tout-&agrave;-fait de notre genre, <REF
+TARGORDER="U"
+TARGET="NOTEG"
+TEIFORM="ref"
+>(g)</REF
+> mais que par honn&ecirc;tet&eacute; nous n'avons pas voulu &eacute;conduire : tout le reste est bien, admirablement bien. Nous y avons pouss&eacute; tous nos parents, tous nos amis <REF
+TARGORDER="U"
+TARGET="NOTEH"
+TEIFORM="ref"
+>(h).</REF
+> Moi, je ne suis que Caporal-Major ; Officier demain si je vouloir tinter ; mais j'aime mieux mon poste, &agrave; cause du pot au feu ; &amp; puis ce sont les Caporaux qui donnent le branle &agrave; tout. C'est-l&agrave;, mon ami, qu'on peut voir le grand effet de la r&eacute;volution ! tout y eft p&ecirc;le-m&ecirc;le, &amp; c'est une merveille de voir l'habit bleu, l'&eacute;paulette &amp; l'&eacute;p&eacute;e au derriere &agrave; tel homme qui vient de vous
+
+<PB
+N="8"
+TEIFORM="pb"
+></PB
+>
+faire la barbe, de faire r&ocirc;tir votre poulet, de vous verser une bavaroise, de vous prendre la mesure d'une culotte<REF
+TARGORDER="U"
+TARGET="NOTEI"
+TEIFORM="ref"
+>(i)</REF
+> ou d'une paire de souliers <REF
+TARGORDER="U"
+TARGET="NOTEL"
+TEIFORM="ref"
+>(l)</REF
+> Eh bien ! &agrave; la parade cela ne se reconno&icirc;t plus ; il semble que ce soient d'autres gens. Je conviendrai cependant que parmi ces ma&icirc;tres Jacques, tout franchement mis au bleu, il y en a quelques-uns qui ont l'air un peu neufs, un peu gauches, m&ecirc;me comm&eacute; sortant de leur coque ; mais, patience, tout vient avec le temps, &amp; dans une soixantaine d'ann&eacute;es, je r&eacute;ponds qu'ils seront presque tous d'excellents mililitaires. Tu aime &agrave; rire, Tubeuf, moi de m&ecirc;me ; ainsi , &agrave; propos de ces gens tout neufs, je vais te r&eacute;galer d'une petite histoire. J'&eacute;tois un de ces matins chez un ancien ami , R&ocirc;tisseur depuis trente ans, &amp; Officier depuis deux jours. C'&eacute;toit un grand jour pour lui, jour de garde &amp; de cuisson. En attendant la parade, il &eacute;toit devant sa chemin&eacute;e dans son costume de l&eacute;chefrite, arrosant, quelques pieces de viande qui tournoient lentement ; dans un coin de la cuisine &eacute;toit une petite broche de remplacement , &amp; tout &agrave; c&ocirc;t&eacute; reposoit sa rapiere, fabriqu&eacute;e du
+
+<PB
+N="9"
+TEIFORM="pb"
+></PB
+>
+temps de Charlemagne, &amp; de la longueur de la broche. Elle sortoit du garde-meuble d'un Frippier, qui i'avoit tout r&eacute;cemment troqu&eacute;e avec lui contre un canard.</P
+><P
+TEIFORM="p"
+>La parade arrive, &amp; voil&agrave; mon homme qui quitte l'arrosoir endosse l'habit bleu, arbore la cocarde, attache le hosse-col &amp; passe le baudrier ; il ne lui manquoit que l'&eacute;p&eacute;e pour &eacute;tre arm&eacute; de pied-en-cap. Il se m&eacute;connoissoit d&eacute;j&agrave; ; mais il eut beau se prendre pour un guerrier, le naturel revint au galop, &amp; le cuisinier reparut. Au moment de se saisir de sa redoutable flamberge, il se trompe de lamme, empoigne la brochette, la passe dans le baudrier, &amp; sort. Fort heuresement pour lui, je me trouve &agrave; sa rencontre ; des &eacute;clats de rire, &agrave; me fendre le cr&acirc;ne, l'&eacute;veille comme en sursaut ; il se contemple, apper&ccedil;oit la m&eacute;prise, rentre brusquement chez lui, se d&eacute;sembroche, &amp; ressort enfin la rapiere au c&ocirc;t&eacute;, au grand d&eacute;sagr&eacute;ment des rieurs de C&eacute;na, qui regretteront long-temps de ne l'avoir pas vu &agrave; la parade, arm&eacute; de maniere &agrave; faire trembler la volaille.</P
+><P
+TEIFORM="p"
+>Revenons bien vite &agrave; nos moutons de la
+
+<PB
+N="10"
+TEIFORM="pb"
+></PB
+>
+milice perlimpinpin, je ne me lasse point d'en parler. Tu ne saurois croire quel z&egrave;le nous y mettons, quelle importance, quelle dignit&eacute; ; une noble fiert&eacute; m&ecirc;me, que les gens qui ne s'y connoissent pas prennent pour de l'insolence. Quand il est question du service, nous ne respectons rien, &amp; il falloit nous voir dans nos belles campagnes, contre les granges, entrant chez le Fermier, comme chez l'ennemi , le sabre &agrave; la main, la mine haute, l'air de Sacripans &amp; de Rodomonts, d&eacute;clarant la guerre.... &agrave; des facs de bled. Nosseigneurs de l'Assembl&eacute;e, un petit mot, s'il vous pla&icirc;t ; nous comptons ma foi bien que vous aurez &eacute;gard &agrave; tant de services, &amp; que vous nous sanctionnerez pour nos &eacute;trennes ; vous s&ccedil;avez que nous sommes un peu b&acirc;tards, &amp; que pour nous &ecirc;tablir, nous avons &eacute;t&eacute; oblig&eacute;s d'&eacute;trangler toutes les formes ; n'allez pas au moins nous soussler au manche. La gloire est une belle chose, Nosseigneurs, mais toute seule, c'est une viande bien creuse.</P
+><P
+TEIFORM="p"
+>Nous avons, Tubeuf, les plus beaux projets du monde, nous voulons mettre cette Milice sur le plus grand pied de la guerre.
+
+<PB
+N="11"
+TEIFORM="pb"
+></PB
+>
+Exercice soir &amp; matin, inspection tous les Dimanches &amp; exercice &agrave; feu ; grande revue tous les quinze jours, &amp; puis les parafernaux : Colonel-G&eacute;n&eacute;ral, Colonel-Commandant, Colonel-Lieutenant, quatre Lieutenant-Cololonels, six Majors, douze Adjudents, grand Commissaire, Inspecteurs, enfin, toutes les pr&eacute;tentailles. Je suis charg&eacute; de montrer l'exercice &agrave; tout cela. Ce printemps il y aura un camp, j'en faute d'aise quand j'y pense. Ah! Tubeuf, quel beau coup-d'&oelig;il que cela fera. En attendant, il y a un tr&egrave;s-beau R&eacute;glement sur le chantier militaire, c'est un homme tr&egrave;s-connu qui s'en m&ecirc;le, M. <HI
+REND="italic"
+TEIFORM="hi"
+> Buche,</HI
+> Membredu Comit&eacute; ; ce R&egrave;glement sera fait dans le go&ucirc;t de celui de Rouen <REF
+TARGORDER="U"
+TARGET="NOTEM"
+TEIFORM="ref"
+>(m)</REF
+> fabriqu&eacute; par MM. <HI
+REND="italic"
+TEIFORM="hi"
+> Butord, Lourdis, Faquinville &amp; compagnie,</HI
+> qui depuis quelques mois sont le pivot de la Ville ; ce sera le Cat&eacute;chisme de nos Soldats. Ils ont la t&ecirc;te si dure ! Je crois que nous ferons oblig&eacute;s d'en exp&eacute;dier quelques douzaines, pour servir d'exemple aux autres, car le Service se ralentit, la discipline se perd. Dans les commencements, c'&eacute;toit une rage que cette Garde, une maladie &eacute;pid&eacute;mique : tout nouveau tout beau. L'hyver
+
+<PB
+N="12"
+TEIFORM="pb"
+></PB
+>
+est venu , &amp; a mis de l'eau dans le vin bourgeois ; ils alloient comme des l&eacute;vriers &amp; ne vont plus que comme des &eacute;crevisses :mais voici une bonne recette pour leur d&eacute;gourdir les jambes <REF
+TARGORDER="U"
+TARGET="NOTEN"
+TEIFORM="ref"
+>(n).</REF
+> Nous allons les trouver au nombre d'une demi-douzaine ; nous enfon&ccedil;ons la porte, nous nous jettons tous ensemble sur notre homme, nous le happons au collet &amp; le menons &agrave; la Garde, par les oreilles. A la fin nous en viendrons &agrave; bout, &amp; nous ferons jouer toutes nos machines, pour ratifer le feu &amp; soutenir ce bel &eacute;difice. C'est le Comit&eacute; qui en est la grue : &amp; nous venous de l'embabou&iuml;ner encore ; &amp; coup sur coup nous lui avons souffl&eacute; dans l'oreille deux terribles D&eacute;crets, qu'il faut lire pour s'en faire une id&eacute;e. C'est aussi beau que Barbe-bleue : quelques impertinents pr&eacute;tendent qu'il n'y a pas le sens commun <REF
+TARGORDER="U"
+TARGET="NOTEO"
+TEIFORM="ref"
+>(o),</REF
+> que c'est de la bouillie pour les chats ; que ces gens du Comit&eacute; sont des intrus qui n'ont ni principes ni mission, &amp; qu'il ne leur convient pas de monter sur de si grands chevaux.... Tout cela m'est fort &eacute;gal, pourvu que la besogne se fasse &amp; que l'eau vienne au moulin ; ou le mousquet sur l'&eacute;paule, ou un petit &eacute;cu,
+
+<PB
+N="13"
+TEIFORM="pb"
+></PB
+>
+&amp; ce petit &eacute;cu tombera en grande partie dans notre gousset, car nous soummes abonn&eacute;s &agrave; vingt-quatre sols par homme <REF
+TARGORDER="U"
+TARGET="NOTEP"
+TEIFORM="ref"
+>(p).</REF
+> Les honn&ecirc;tes tiens ne sont point tax&eacute;s, mais rien &agrave; moins d'un petit &eacute;cu ; &amp; criez tant que vous voudrez, nos bons amis les Aristocrates, &eacute;crivez, imprimez, pour t&acirc;cher de nous couler &agrave; fonds. Parole en l'air, papier perdu, du canon pour vous r&eacute;pondre, des culottes de li&eacute;ge &agrave; notre service : &amp; toujours mon refrain.</P
+><P
+REND="rule center"
+TEIFORM="p"
+></P
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Je vous m&eacute;prise</L
+><L
+PART="N"
+TEIFORM="l"
+>Et je vous prise</L
+><L
+PART="N"
+TEIFORM="l"
+>Moins qu'une prise</L
+><L
+PART="N"
+TEIFORM="l"
+>De tabac. </L
+></LG
+><P
+TEIFORM="p"
+>Toujours <HI
+REND="italic"
+TEIFORM="hi"
+> chorus,</HI
+>Tubeuf ; ce petit air me pla&icirc;t infiniment.</P
+><P
+TEIFORM="p"
+>Je dirai par parenth&eacute;se, que nos habits bleus ne nous coutent pas un sol, ce sont les Canonniers Gardes-C&ocirc;tes qui nous ont habill&eacute;s. Leurs habits , qu'ils ne portoient que quelques jours par an, d'p&eacute;rissioient au magasin ; de peur que le ver ne s'y mette, nous les portons. Autant d'&eacute;pargne pour la ville qui auroit &eacute;t&eacute; oblig&eacute;e d'habiller la plus grande
+
+<PB
+N="14"
+TEIFORM="pb"
+></PB
+>
+partie de nos camarades, gueux comme des rats d'Eglise, &amp; dont le derriere demandoit la charit&eacute;. Cette prise d'habit est une excellente id&eacute;e, dont on m'a fait honneur dans le monde ; mais pourquoi se parer des plumes du paon ? A tout Seigneur tout honneur ; ainsi j'avouerai que c'est un nouveau trait de g&eacute;nie de notre, Major <HI
+REND="italic"
+TEIFORM="hi"
+> Soliveau </HI
+> <REF
+TARGORDER="U"
+TARGET="NOTEQ"
+TEIFORM="ref"
+>(q),</REF
+> bonne t&ecirc;te, s'il en f&ucirc;t jamais ; brave comme un C&eacute;sar, de l'esprit comme un livre, &amp; sachant la tactique comme la Coutume. Si tu veux un couple d'habits bleus, tu n'as qu'&agrave; parler ; j'en ai attrapp&eacute; une pacotille, &amp; me voil&agrave; habill&eacute; pour la vie.
+J'ai aussi des carottes de tabac &agrave; ton service, car mes amis &amp; moi nous nous sommes charg&eacute;s d'en fournir la Ville, ainsi que de sel. Nous avons pr&eacute;venu l'intention de l'assembl&eacute;e Nationale, qui, dit-on, doit simplifier les Imp&ocirc;ts &amp; rendre le sel &amp; le tabac marchands. Nous vendons publiquement le sel six liards la livre, <REF
+TARGORDER="U"
+TARGET="NOTER"
+TEIFORM="ref"
+>(r)</REF
+> &amp; le tabac tout rap&eacute; trente sols, &amp; du bon ; si tu en prends un certain nombre de livres , je te le passerai &agrave; vingt-huit sols, parce que c'est toi ; tu vois que l'Etat nous a de grandes obligations,
+
+<PB
+N="15"
+TEIFORM="pb"
+></PB
+>
+&amp; que si cela continue &amp; que par-tout on nous imite, les dettes seront bient&ocirc;t pay&eacute;es,</P
+><P
+TEIFORM="p"
+>Adrien Tubeuf, j'aurois encore mille choses &agrave; te dire ; mais je garde cela pour une autre Ep&icirc;tre qui ne tardera pas. Il faut que j'aille au Comit&eacute;. Je finirai la pr&eacute;sente par te demander un petit service ; tu vas toutes les semaines &agrave; Paris : passe, je te prie, chez un certain M. <HI
+REND="italic"
+TEIFORM="hi"
+> Gorsas,</HI
+> qui demeure rue Galande. C'est lui qui fait le Courier, &amp; je lis ce Courier tous les jours, depuis que je me m&ecirc;le des affaires publiques. Il y a quelque temps, j'y ai vu une inf&agrave;me lettre sign&eacute;e, J.J. <HI
+REND="italic"
+TEIFORM="hi"
+>Cadom</HI
+> ; se disant journalier de C&eacute;na ; &amp; demeurant rue Saint-Jean. Ce coquin nous traite d'Aristocrates, &amp; se donne le bal &agrave; nos d&eacute;pens ; nous avons couru sur le champ dans la rue pour en faire bonne justice, &amp; point de J.J. <HI
+REND="italic"
+TEIFORM="hi"
+>Cadom,</HI
+>  nous avons arpent&eacute; toute la Ville, demandant &agrave; tout le monde : ne connoissez-vous pas J.J. <HI
+REND="italic"
+TEIFORM="hi"
+>Cadom</HI
+>, journalier de C&eacute;na ? &amp; point de J.J. <HI
+REND="italic"
+TEIFORM="hi"
+>Cadom.</HI
+> Le frippon a pris un nom de contrebande pour nous attrapper, mais, patience, nous le d&eacute;terrerons, nos furets sont en campagne. Toi, t&acirc;che d'en avoir quelque r&eacute;v&eacute;lation par ce bon M. Gorsas &amp; de lui tirer les vers du nez ; tu nous feras
+
+<PB
+N="16"
+TEIFORM="pb"
+></PB
+>
+un grand coup ; nous avons &agrave; l'H&ocirc;tel-de-Ville un tr&egrave;s-beau r&eacute;verbere, qui n'a pas encore &eacute;trenn&eacute; ; il ne manque plus que cela &agrave; notre gloire. Tubeuf ! nous n'avons encore pendu personne !</P
+><P
+TEIFORM="p"
+>Adieu, l'ami ; donne-nous de tes nouvelles ; tout &agrave; toi ; je t'embrasse au nom de la Nation.</P
+><SIGNED
+TEIFORM="signed"
+>JEAN RABLU, avec paraphe.</SIGNED
+></DIV1
+><DIV1
+ID="POSTSCRIPT"
+TYPE="P.S."
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><P
+TEIFORM="p"
+>P. S.  Mon fils qui a fait un petit brin d'&eacute;tudes, &amp; qui depuis la r&eacute;volution me sert de Secr&eacute;taire, te fait bien ses complimens ; c'est un gars qui ne manque pas d'esprit : s'il continue, &amp; que les choses ne changent pas, je le pousserai dans le ministere.</P
+><P
+TEIFORM="p"
+>J'oubliois parbleu de te dire que nous avons re&ccedil;u ces jours pass&eacute;s parmi d&eacute;s hausse-cols, M. <UNCLEAR
+TEIFORM="unclear"
+><HI
+REND="italic"
+TEIFORM="hi"
+>Moka</HI
+></UNCLEAR
+><REF
+RESP="Michael Kazanjian"
+TARGORDER="U"
+TARGET="NOTET"
+TEIFORM="ref"
+>(s)</REF
+> mon beau frere, galant homme, qui a fait ses premieres armes dans le R&eacute;giment du Roi, &amp; qui a fait une petite fortune par les grands services qu'il a rendus. Il est le seul qui les ait oubli&eacute;s ; &amp; quand tu viendras a C&eacute;na, je te le recommande, comme faisant d'excellent caf&eacute; ; je te demande aussi ta pratique pour le Capitaine <HI
+REND="italic"
+TEIFORM="hi"
+>Toupet, </HI
+>mon cousin Remu&eacute; de germain ; il raze tr&egrave;s proprement, &amp;
+a un grand air sous les armes.  NOTES</P
+></DIV1
+></BODY
+><BACK
+TEIFORM="back"
+><DIV1
+ID="NOTES"
+TYPE="Notes"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><HEAD
+TEIFORM="head"
+> NOTES TR&Egrave;S-INT&Eacute;RESSANTES.</HEAD
+><PB
+N="17"
+TEIFORM="pb"
+></PB
+><NOTE
+ID="NOTEA"
+N="a"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(a)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Depuis que je suis de la Nation.</HI
+></P
+><P
+TEIFORM="p"
+><HI
+REND="italic"
+TEIFORM="hi"
+>Nation, </HI
+> grand mot qui retentit dans toutes les bouches, &amp; qu'on emploie &agrave; tout, ainsi que celui de libert&eacute; ; ils sont comme les effets publics, ils haussent ou baissent s&eacute;lon les agioteurs.</P
+></NOTE
+><NOTE
+ID="NOTEB"
+N="b"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(b)</HI
+> <HI
+REND="italic"
+TEIFORM="hi"
+> Qui passoit toute croyance. </HI
+></P
+><P
+TEIFORM="p"
+>Comme a dit quelque part le bon M. <HI
+REND="italic"
+TEIFORM="hi"
+> Gorsas, </HI
+> il n'y avoit que le bon Dieu qui pouvait s&ccedil;avoir cela. L'honorable Rablu m'a avou&eacute; qu'il ne s'attendoit pas &agrave; tant d'honneurs, &amp; que si tous ceux qui pouvoient contrecarrer ses grandes op&eacute;rations eussent bien voulu s'entendre, ils auroient donn&eacute; du <HI
+REND="italic"
+TEIFORM="hi"
+>fil </HI
+> &agrave; retordre &agrave; l'<HI
+REND="italic"
+TEIFORM="hi"
+> honorable bande, </HI
+> &amp; peut-&ecirc;tre n'aurions-nous pas ce grand homme. Mais il sembloit qu'il avoit un esprit de vertige qui couroit toute la Ville : toutes les t&ecirc;tes &eacute;toient perdues ici comme ailleurs ; elles ne sont pas encore bien remises, &amp; l'on peut dire du bon sens comme de Malbroug,</P
+><Q
+DIRECT="UNSPECIFIED"
+TEIFORM="q"
+>On ne fait quand il reviendra.</Q
+></NOTE
+><NOTE
+ID="NOTEC"
+N="c"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(c)</HI
+> <HI
+REND="italic"
+TEIFORM="hi"
+>Et, ma foi, il n'y seroit pas bon.</HI
+></P
+><P
+TEIFORM="p"
+>Ceci me rappelle une petite aventure arriv&eacute;e &agrave; un grand Orateur nomm&eacute; M. de Saint S..... c'&eacute;toit lors de la bagarre du bled. M. de Saint S...... indign&eacute; se mit en devoir deharanguer la populace ; M. de Saint S.... disoit d'or ; mais au milieu d'une tr&egrave;s-belle phrase, quelques voisines de M. de Saint s.... lui couperont la parole, &amp; lui <HI
+REND="italic"
+TEIFORM="hi"
+>apostropherent</HI
+> une demi-douzaine de soufflets. M. de Saint S...... tout <HI
+REND="italic"
+TEIFORM="hi"
+>&eacute;berlu&eacute;,</HI
+> &amp; la mine toute rouge, d&eacute;nicha bien vite, &amp; a jur&eacute; que de sa vie il ne mettroit son nez dans de pareilles affaires.</P
+></NOTE
+><PB
+N="18"
+TEIFORM="pb"
+></PB
+><NOTE
+ID="NOTED"
+N="d"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(d)</HI
+> <HI
+REND="italic"
+TEIFORM="hi"
+>Les quatre renards.</HI
+></P
+><P
+TEIFORM="p"
+>Tout le monde sait qu'il y a quelques mois, la Police est morte subitement, &amp; que les quatre Conmmissaires ont &eacute;t&eacute; oblig&eacute;s de faire leurs paquets : c'est M. Bar.... de glorieuse m&eacute;moire qui en a h&eacute;rit&eacute;, &amp; qui a endoss&eacute; les quatre robes.</P
+></NOTE
+><NOTE
+ID="NOTEE"
+N="e"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(e)</HI
+> <HI
+REND="italic"
+TEIFORM="hi"
+>Le plus cornique de tous Ics Comit&eacute;s ef bien celui de C&eacute;na.</HI
+></P
+><P
+TEIFORM="p"
+>C'est un vrai pot-pourri. Calot y e&ucirc;t trouv&eacute; de quoi s exercer. Rendons cependant justice aux gens de bon sens &amp; de m&eacute;rite, qui s'y sont trouv&eacute;s ou qui s'y trouvent encore ; mais comme dit Virgile :</P
+><Q
+DIRECT="UNSPECIFIED"
+TEIFORM="q"
+>Apparent tari nantes in gurgite vasto.</Q
+><P
+TEIFORM="p"
+>Du reste, plat orgueil, imb&eacute;cille ent&ecirc;tement, lourde sottise, craisse ignorance..... Voil&agrave; les voix au Chapitre, &amp; l'insolent Stentor qui crie le plus haut, est toujours s&ucirc;r d'avoir raison. On y diftingue entr'autres M. l'Apothicaire <HI
+REND="italic"
+TEIFORM="hi"
+>Salourdin, </HI
+> qui, suivant le D&eacute;cret de l'Assembl&eacute;e, ne devroit &ecirc;tre admis nulle part, attendu qu'il est banqueroutier : &agrave; la bonne heure qu'il ait la pratique du Comit&eacute;, &amp; qu'il lui pr&ecirc;te son petit ministere dans les fr&eacute;quentes crises que ce pauvre Comit&eacute; &eacute;prouve : mais que jamais il ne le regarde en face. Entendez-vous, <HI
+REND="italic"
+TEIFORM="hi"
+>Salourdin ? </HI
+> Vous vous m&ecirc;lez de tout, mon ami &amp; vous n'&ecirc;tes bon &agrave; rien. Vous allez, vous venez, vous vous d&eacute;menez, vous bourdonnez...... S&ccedil;avez-vous &agrave; quoi vous ressemblez ? &agrave; la mouche du coche.</P
+></NOTE
+><NOTE
+ID="NOTEF"
+N="f"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(f)</HI
+> <HI
+REND="italic"
+TEIFORM="hi"
+> Il y a quelques mois que le dr&ocirc;le y fut pris.</HI
+></P
+><P
+TEIFORM="p"
+>C'est &agrave; cette fameuse nuit du 12 <HI
+REND="italic"
+TEIFORM="hi"
+> Avril, </HI
+> &amp; c'est de tous les Comit&eacute;s celui qui a &eacute;t&eacute; le mieux compos&eacute; ; mais il avoit eu le malheur de d&eacute;plaire aux honorables camarades du grand Rablu : eh ! que r&eacute;pondre &agrave; du Canon ?</P
+></NOTE
+><PB
+N="19"
+TEIFORM="pb"
+></PB
+><NOTE
+ID="NOTEG"
+N="g"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(g)</HI
+> <HI
+REND="italic"
+TEIFORM="hi"
+>Exceptons parmi les &eacute;paullettes quelques Messieurs qui ne sont pas de notre genre.</HI
+></P
+><P
+TEIFORM="p"
+>Rablu a bien raison ; ces Messieurs devroient bien s'appercevoir qu'ils sont l&agrave; fort d&eacute;plac&eacute;s, &amp; qu'ils d&eacute;parent toute cette belle Milicie ; une partie s'est d&eacute;j&agrave; rendu justice, &amp; est d&eacute;camp&eacute; ; le reste devroit bien en faire autant, &amp; profiter de la judicieuse r&eacute;flexion de Rablu. Cela fait une si plaisante Caricature !</P
+></NOTE
+><NOTE
+ID="NOTEH"
+N="h"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(h)</HI
+> <HI
+REND="italic"
+TEIFORM="hi"
+> Nous y avons pens&eacute; ; tous nos parents, tous nos amis.......</HI
+></P
+><P
+TEIFORM="p"
+>En admirant la composition de cette Milice, j'ai &eacute;t&eacute; un peu scandalis&eacute; d'y voir des banqueroutiers qui ne sont pas l&agrave; plus de mise qu'au Comit&eacute; ; cela r&eacute;pand une tr&egrave;s-mauvaise odeur, &amp; suffit pour rendre tout ill&eacute;gal. Entr'autres personnages, nous citerons l'honn&ecirc;t&eacute; M. L. dont la <HI
+REND="italic"
+TEIFORM="hi"
+>Barque</HI
+> a tant de fois fait naufrage, agioteur, insigne fabricateur de fausses lettres-de-change, &amp; qui a d&eacute;j&agrave; eu quelques d&eacute;m&ecirc;l&eacute;s avec la Justice pour de fr&eacute;quentes distractions qui lui font arriv&eacute;es ; voil&agrave;, grand Dieu ! les hommes qu'on met &agrave; la t&ecirc;te d'honn&ecirc;tes gens. Je n'ai pu m'emp&ecirc;cher d'en t&eacute;moigner tout mon &eacute;tonnement &agrave; J. R. qui m'a avou&eacute; que sa religion avoit &eacute;t&eacute; surprise ; mais m'a donn&eacute; sa parole d'honneur qu'il feroit sauter ces faquins au premier jour.</P
+></NOTE
+><NOTE
+ID="NOTEI"
+N="i"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(i)</HI
+> <HI
+REND="italic"
+TEIFORM="hi"
+>La mesure d'une Culotte.</HI
+></P
+><P
+TEIFORM="p"
+>Il y a un Tailleur dans l'&Eacute;tat-Major ; il ne s&ccedil;auroit &ecirc;tre mieux plac&eacute;.</P
+></NOTE
+><NOTE
+ID="NOTEL"
+N="l"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(l)</HI
+> <HI
+REND="italic"
+TEIFORM="hi"
+>D'une paire de Souliers.</HI
+></P
+><Q
+DIRECT="UNSPECIFIED"
+TEIFORM="q"
+>"Vous n'allez pas, disoit, il y a quelque-tems, &agrave; un de ses Soldats, le Capitain <HI
+REND="italic"
+TEIFORM="hi"
+>Tirebotte</HI
+>..... pardon, mon Capitain  mais vous m'avez fait des soulliers si &eacute;troits, que je ne s&ccedil;aurois marcher"</Q
+></NOTE
+><PB
+N="20"
+TEIFORM="pb"
+></PB
+><NOTE
+ID="NOTEM"
+N="m"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(m)</HI
+> <HI
+REND="italic"
+TEIFORM="hi"
+>Ce r&eacute;glement sera dans le go&ucirc;t de celui de Rouen.</HI
+></P
+><P
+TEIFORM="p"
+>C'est un chef-d'¦uvre que ce r&egrave;glement ! je travaille &agrave; le mettre en vers, pour rompre en visiere &agrave; certains plaisans qui pr&eacute;tendent qu'il n'a ni rime ni raison ; j'en ai d&eacute;j&agrave; quatre-vingt couplets de faits, sur l'air : <HI
+REND="italic"
+TEIFORM="hi"
+> sans devant derriere, sans dessus dessous</HI
+> ; il m'en reste encore douze &agrave; faire ; car je consacre un couplet &agrave; chaque article. Quand j`aurai fini, j'immortaliserai chacun des 0fficiers. C'est dommage que le Colonel-G&eacute;n&eacute;ral, qui, au sortir de la coque, se croyoit d&eacute;j&agrave; un G&eacute;n&eacute;ral d'Arm&eacute;e, n'ait pas r&eacute;ussi &agrave; avoir des <HI
+REND="italic"
+TEIFORM="hi"
+>Aydes-de-Camp</HI
+>, comme il les demandoit ; j'aurois eu quelques Messieurs de plus &agrave; chansonner.</P
+></NOTE
+><NOTE
+ID="NOTEN"
+N="n"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(n)</HI
+> <HI
+REND="italic"
+TEIFORM="hi"
+> Mais voici une bonne recette pour leur d&eacute;gourdir les jambes. </HI
+></P
+><P
+TEIFORM="p"
+>On assure que l'Assembl&eacute;e Nationale a proscrit cette recette, quelque bonne qu'elle soit ; mais le grand Rablu qui n'a pas <HI
+REND="italic"
+TEIFORM="hi"
+> de froid aux yeux, </HI
+> doit en &eacute;crire &agrave; l'Assembl&eacute;e, &amp; aller toujours son petit train.</P
+></NOTE
+><NOTE
+ID="NOTEO"
+N="o"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(o)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Certains insolents pr&eacute;tendent qu'il n'y a pas le sens commun. </HI
+></P
+><P
+TEIFORM="p"
+>Effectivement j'ai entendu dire &agrave; cet insolent, que cette Garde n est qu'un &eacute;pouvantail de cheneviere ; que le poste du Comit&eacute; est fort ridicule, puisque la troupe n'est qu'&agrave; un pas &amp; que le Comit&eacute;, compos&eacute; comme il est, ne vaut pas la peine d'&ecirc;tre gard&eacute;, &amp; ne m&eacute;rite pas le coup de fusil ; que le poste du Chateau est une sotte gloriole &amp; une desob&eacute;issance journaliere aux vues du Roi &amp; de l'Assembl&eacute;e ;qu'on n'a tout au plus besoin de patrouille que le jour &amp; la nuit ; que le servce ne devroit &ecirc;tre fait que par ceux qui peuvent se passer de leur travail, parce qu'il n'y a pas de garde qui ne co&ucirc;te deux journ&eacute;es au Soldat National, sans compter les autres frais, ce qui est une perte immense pour la Ville  que d'ailleurs
+<PB
+N="21"
+TEIFORM="pb"
+></PB
+>
+cette Milice, compos&eacute;e comme elle est, est un monstre qui ne peut exister, &amp; qu'il faut an&eacute;antir, comme ill&eacute;gal, illusoire &amp; tyrannique ; qu'enfin, en supposant la Milice Nationale utile , on ne peut en recueillir le fruit qu'autant que tout le monde se pr&ecirc;tera , &amp; que tout se sera de bonne amiti&eacute; ; qu'on ne doit &amp; qu'on ne peut forcer personne, &amp; que tout Citoyen opprim&eacute; a le droit de r&eacute;clamer aux pieds de la Justice contre les vexations qu'il &eacute;prouve, &amp;c., &amp;c., &amp;c., &amp; quatre pages. <HI
+REND="italic"
+TEIFORM="hi"
+> d'&amp; cetera........ </HI
+> grands mots que tout cela ! mais <HI
+REND="italic"
+TEIFORM="hi"
+>paroles en l'air,</HI
+> comme dit le grand Rablu. II s&ccedil;ait bien &agrave; qui il a affaire ; ils crient contre le joug, &amp; tous baissent honteusement la t&ecirc;te. Je m'imagine voir le conseil des rats : aucun ne se presse d'attacher le grelot. Oh ! mes amis !</P
+></NOTE
+><NOTE
+ID="NOTEP"
+N="p"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(p)</HI
+> <HI
+REND="italic"
+TEIFORM="hi"
+> Nous sommes abonn&eacute;s &agrave; vingt-quatre sols par homme. </HI
+></P
+><P
+TEIFORM="p"
+>On appelle ces gens-l&agrave; des <HI
+REND="italic"
+TEIFORM="hi"
+> Locatis</HI
+> ; il est des jours ou presque toute la Garde en est compos&eacute;e, cela lui donne un grand air.</P
+></NOTE
+><NOTE
+ID="NOTEQ"
+N="q"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(q)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Le Major Soliveau.</HI
+></P
+><P
+TEIFORM="p"
+>Une note est fort inutile ici. Le nom dit tout.</P
+></NOTE
+><NOTE
+ID="NOTER"
+N="r"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(r)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Nous vendons publiquement le sel &agrave; six liards la livre...... </HI
+></P
+><P
+TEIFORM="p"
+>Non - seulement &agrave; six liards, mais &agrave; un sol : on crie le sel dans les rues comme les autres denr&eacute;es, &amp; &agrave; tous les march&eacute;s on voit des petites boutiques de Marchands de sel &amp; de tabac. Tous les n&eacute;s de C&eacute;na sont approvisionn&eacute;s pour six ans. <HI
+REND="italic"
+TEIFORM="hi"
+> Vive la libert&eacute;, </HI
+> comme dit le grand Rablu. Ces jours derniers un gar&ccedil;on Perruquier vient de s'&eacute;tablir &agrave; la barbe de la Communaut&eacute;. Il a pris pour enseigne <HI
+REND="italic"
+TEIFORM="hi"
+>la libert&eacute;</HI
+>  ; en vain lui a-t-on parl&eacute; de Statuts, de Regles, de Lettres de .Ma&icirc;trise ; il a r&eacute;pondu bravement : <HI
+REND="italic"
+TEIFORM="hi"
+> cela fait rasoir.</HI
+></P
+></NOTE
+><NOTE
+ID="NOTET"
+N="t"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(s)</HI
+>Note from editor: the typeset of the name in italics <HI
+REND="italic"
+TEIFORM="hi"
+>Moka</HI
+> is unclear in the original text.  Please see the page image.</P
+></NOTE
+></DIV1
+><DIV1
+ID="POSTFACE"
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><PB
+N="22"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+><TITLE
+TEIFORM="title"
+>POST-FACE</TITLE
+></P
+><P
+TEIFORM="p"
+>Il y a un mois que la Lettre de <HI
+REND="italic"
+TEIFORM="hi"
+>l'honorable </HI
+>devoit paro&icirc;tre, mais <HI
+REND="italic"
+TEIFORM="hi"
+> l'homme propose, &amp; Dieu dispose</HI
+> : de f&acirc;cheux contre-temps ont jusqu'ici priv&eacute; le public de ce chef-d'&oelig;uvre..... Au moment o&ugrave; l'impression s'achev&eacute;, h&eacute;las ! nous apprenons l'accablante nouvelle de la mort de J. Rablu. Ce grand homme est parti subitement pour l'autre monde. Depuis quinze jours il ne se sentoit pas bien : il avoit beaucoup travaill&eacute; depuis six mois, &amp; il avoit sur-tout su&eacute; sang &amp; eau pour amener &agrave; bien sa chere &amp; rare Milice Perlimpinpin... Il avoit pour elle des entrailles de pere ; mais il n'&eacute;toit pas trop pay&eacute; de reconnoissance ; &amp; l'auguste Assembl&eacute;e lui avoit manqu&eacute; de garantie, en ne lui envoyant pas la Sanction pour ses &eacute;trennes. Cette mortification, &agrave; laquelle il &eacute;toit bien loin de s'attendre, lui a donn&eacute; un fond de chagrin qu'il t&acirc;choit en vain de dissimuler ; (il est des momens o&ugrave; le plus grand philosophe &eacute;choue.) Ensuite est venu le combat des cochons : tout le monde s&ccedil;ait qu'un Caporal de Perlimpinpin &eacute;tant de gard&eacute; au Ch&acirc;teau, a &eacute;t&eacute; saisi du plus bel enthousiasme patriotique, &amp; qu'il a pour-fendu d'un coup de sabre, un cochon du Major, qu'il a pris pour un Aristocrate... Les deux parties ont &eacute;t&eacute; traduites devant leurs Pairs : c'est le cochon qui a gagn&eacute;, &amp; quoique le Caporal se f&ucirc;t comport&eacute; en brave homme, il n'en a pas moins &eacute;t&eacute; d&eacute;galonn&eacute;, &amp; mis &agrave; la queue de la Compagnie, attendu qu'&eacute;tant d&eacute;grad&eacute;, il ne lui convenoit pas de se trouver en combat singulier.</P
+><P
+TEIFORM="p"
+>Cette histoire de cochon a vivement affect&eacute; J. Rablu, jaloux comme un tigre de l'honneur de sa Milice, &amp; qui craignoit que le sang du cochon ne rejaillit sur tout le corps ; mais ce qui l'a achev&eacute;, c'est la nouvelle de ces Municipalit&eacute;s pr&ecirc;tes &agrave; se former ; changement de d&eacute;coration qui peut influer sur la Milice Perlimpinpin  : c'est lorsque Rablu a
+<PB
+N="23"
+TEIFORM="pb"
+></PB
+>
+appris que tous ces personnages qu'il croyoit morts &amp; enterr&eacute;s, n'&eacute;toient qu'engourdis, &amp; qu'apr&egrave;s avoir dormi fix mois comme les marmotes, ils venoient enfin de se r&eacute;veiller, qu'ils commen&ccedil;oient &agrave; se frotter les yeux, &amp; que leur dessein &eacute;toit de montrer leurs n&eacute;s aux districts, &amp; peut-&ecirc;tre de le r&eacute;unir pour secouer le joug des <HI
+REND="italic"
+TEIFORM="hi"
+> honorables. </HI
+> A cette nouvelle, le grand Rablu est entr&eacute; dans une colere terrible; il a jett&eacute; feu &amp; flamme, &amp; en sortant du Comit&eacute;, l'honorable a &eacute;t&eacute; frapp&eacute; d'apopl&eacute;xie, &amp; est mort en vingt-quatre heures entre les bras de ses amis. Peut-&ecirc;tre auroit-on pu le conserver &agrave; l'Etat, si on l'e&ucirc;t saign&eacute; ses quatre membres sur le champ ; mais dans ce moment fatal, il n'y avoit qu'un Chirurgien &agrave; port&eacute;e, &amp; ce mis&eacute;rable &eacute;toit <HI
+REND="italic"
+TEIFORM="hi"
+> Aristocrate...</HI
+> La perte d'un si grand homme, est vraiment irr&eacute;parable, &amp; la plume nous tombe des mains !.....</P
+><P
+REND="rule center"
+TEIFORM="p"
+></P
+><P
+TEIFORM="p"
+>CHANSON.</P
+><P
+TEIFORM="p"
+>Air : <HI
+REND="italic"
+TEIFORM="hi"
+> C'est ce qui vous console.</HI
+></P
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Sergents, Caporaux, Comit&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Trois fl&eacute;aux pour l'humanit&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est ce qui la d&eacute;sole ; <HI
+REND="italic align-right"
+TEIFORM="hi"
+>bis.</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>Mais bient&ocirc;t ils seront r&eacute;duits</L
+><L
+PART="N"
+TEIFORM="l"
+>Au n&eacute;ant dont ils sont sortis,</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est ce qui la console. <HI
+REND="italic align-right"
+TEIFORM="hi"
+>bis.</HI
+></L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Caporaux, braves en commun,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vont toujours marchant dix contre un,</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est ce qui nous d&eacute;sole ; <HI
+REND="italic align-right"
+TEIFORM="hi"
+>bis.</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>Mais &agrave; l'un d'eux t&acirc;tons le pouls,</L
+><L
+PART="N"
+TEIFORM="l"
+>Nous le voyons fuir devant nous,</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est ce qui nous console. <HI
+REND="italic align-right"
+TEIFORM="hi"
+>bis.</HI
+></L
+></LG
+><PB
+N="24"
+TEIFORM="pb"
+></PB
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Sabre en main, les yeux mena&ccedil;ants, </L
+><L
+PART="N"
+TEIFORM="l"
+>Chez les fermiers ils vont jurants, </L
+><L
+PART="N"
+TEIFORM="l"
+>C'est ce qui les d&eacute;sole ; <HI
+REND="italic align-right"
+TEIFORM="hi"
+>bis.</HI
+> </L
+><L
+PART="N"
+TEIFORM="l"
+>Mais l'or, le vin sont des raisons</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui de ces loups font des moutons, </L
+><L
+PART="N"
+TEIFORM="l"
+>C'est ce qui les console. <HI
+REND="italic align-right"
+TEIFORM="hi"
+>bis.</HI
+> </L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Enfin, Caporaux, Comit&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Tout honn&ecirc;te homme ont tourment&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est ce qui nous d&eacute;sole ; <HI
+REND="italic align-right"
+TEIFORM="hi"
+>bis.</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>Mais la Municipalit&eacute;</L
+><L
+PART="N"
+TEIFORM="l"
+>En va purger notre Cit&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est ce qui nous console. <HI
+REND="italic align-right"
+TEIFORM="hi"
+>bis.</HI
+></L
+></LG
+><TRAILER
+REND="center"
+TEIFORM="trailer"
+>FIN</TRAILER
+></DIV1
+></BACK
+></TEXT
+></TEI.2
+>
