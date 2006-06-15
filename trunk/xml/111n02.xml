@@ -1,0 +1,2842 @@
+<TEI.2
+TEIFORM="TEI.2"
+><TEIHEADER
+TYPE="text"
+STATUS="NEW"
+TEIFORM="teiHeader"
+><FILEDESC
+TEIFORM="fileDesc"
+><TITLESTMT
+TEIFORM="titleStmt"
+><TITLE
+TEIFORM="title"
+> L'&Eacute;PIDEMIE FRAN&Ccedil;AISE: electronic edition</TITLE
+><AUTHOR
+TEIFORM="author"
+>anonymous</AUTHOR
+><RESPSTMT
+TEIFORM="respStmt"
+><RESP
+TEIFORM="resp"
+>Compiled and edited by</RESP
+><NAME
+TEIFORM="name"
+>Michael Kazanjian</NAME
+></RESPSTMT
+></TITLESTMT
+><PUBLICATIONSTMT
+TEIFORM="publicationStmt"
+><PUBLISHER
+TEIFORM="publisher"
+>Lewis H. Beck Center</PUBLISHER
+><PUBPLACE
+TEIFORM="pubPlace"
+>Emory University</PUBPLACE
+><ADDRESS
+TEIFORM="address"
+><ADDRLINE
+TEIFORM="addrLine"
+>Atlanta, Georgia  30322</ADDRLINE
+></ADDRESS
+><AVAILABILITY
+STATUS="UNKNOWN"
+TEIFORM="availability"
+><P
+TEIFORM="p"
+>2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</P
+></AVAILABILITY
+><DATE
+TEIFORM="date"
+>2002</DATE
+></PUBLICATIONSTMT
+><SERIESSTMT
+TEIFORM="seriesStmt"
+><TITLE
+TEIFORM="title"
+>French Revolution Pamphlet Collection</TITLE
+></SERIESSTMT
+><SOURCEDESC
+DEFAULT="NO"
+TEIFORM="sourceDesc"
+><BIBL
+DEFAULT="NO"
+TEIFORM="bibl"
+><TITLE
+TEIFORM="title"
+>L'&Eacute;PIDEMIE FRAN&Ccedil;AISE.</TITLE
+>
+<PUBPLACE
+TEIFORM="pubPlace"
+>Paris?</PUBPLACE
+><DATE
+TEIFORM="date"
+>1790</DATE
+></BIBL
+></SOURCEDESC
+></FILEDESC
+><ENCODINGDESC
+TEIFORM="encodingDesc"
+><PROJECTDESC
+DEFAULT="NO"
+TEIFORM="projectDesc"
+><P
+TEIFORM="p"
+>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</P
+><P
+TEIFORM="p"
+>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</P
+></PROJECTDESC
+><EDITORIALDECL
+DEFAULT="NO"
+TEIFORM="editorialDecl"
+><P
+TEIFORM="p"
+>The seventh footnote was missing in the original document. I therefore fixed the numbering scheme so the note markers would correspond with their correct notes. Punctuation: I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  I also omitted page signatures: A2 from p. 3, B from p. 9, B2 from p. 11, C from p. 17 and C2 from p. 19.  For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</P
+></EDITORIALDECL
+></ENCODINGDESC
+><PROFILEDESC
+TEIFORM="profileDesc"
+><CREATION
+TEIFORM="creation"
+><DATE
+TEIFORM="date"
+>1790</DATE
+></CREATION
+></PROFILEDESC
+><REVISIONDESC
+TEIFORM="revisionDesc"
+><CHANGE
+TEIFORM="change"
+><DATE
+TEIFORM="date"
+>2002</DATE
+><RESPSTMT
+TEIFORM="respStmt"
+><NAME
+TEIFORM="name"
+>Michael Kazanjian</NAME
+><RESP
+TEIFORM="resp"
+>staff</RESP
+></RESPSTMT
+><ITEM
+TEIFORM="item"
+>Sgml tags inserted in compliance with TEI guidelines using TEI P3</ITEM
+></CHANGE
+></REVISIONDESC
+></TEIHEADER
+><TEXT
+TEIFORM="text"
+><FRONT
+TEIFORM="front"
+><TITLEPAGE
+TEIFORM="titlePage"
+><DOCTITLE
+TEIFORM="docTitle"
+><TITLEPART
+TYPE="main"
+TEIFORM="titlePart"
+>L'&Eacute;pid&eacute;mie fran&ccedil;aise.  Satyre.</TITLEPART
+></DOCTITLE
+><DOCAUTHOR
+TEIFORM="docAuthor"
+>Anonymous.</DOCAUTHOR
+><DOCDATE
+TEIFORM="docDate"
+>1790.</DOCDATE
+><PB
+N="i"
+TEIFORM="pb"
+></PB
+><EPIGRAPH
+TEIFORM="epigraph"
+><P
+REND="rule center"
+TEIFORM="p"
+></P
+><Q
+DIRECT="UNSPECIFIED"
+TEIFORM="q"
+>Un tas d'hommes perdus de dettes &amp; de crimes,
+Que pressent de mes loix les ordres l&eacute;gitimes,
+Et qui d&eacute;sesp&eacute;rant de les plus &eacute;viter,
+Si tout n'est renvers&eacute;, ne saur&ocirc;ient subsister.</Q
+><BIBL
+DEFAULT="NO"
+TEIFORM="bibl"
+>CORNEILLE.</BIBL
+><P
+REND="rule center"
+TEIFORM="p"
+></P
+></EPIGRAPH
+><TITLEPART
+TYPE="main"
+TEIFORM="titlePart"
+><FIGURE
+TEIFORM="figure"
+><FIGDESC
+TEIFORM="figDesc"
+>Angel motif imprint</FIGDESC
+></FIGURE
+></TITLEPART
+><DOCIMPRINT
+TEIFORM="docImprint"
+><HI
+REND="center"
+TEIFORM="hi"
+>DE L'IMPRIMERIE DE LA LUNE,
+Dans le Palais o&ugrave; Astolfe a retrouv&eacute; la raison
+de Rolland.
+1790.</HI
+></DOCIMPRINT
+></TITLEPAGE
+><DIV1
+ID="DEDIC"
+TYPE="Dedicace"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><PB
+N="ii"
+TEIFORM="pb"
+></PB
+><PB
+N="iii"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+><HI
+REND="center"
+TEIFORM="hi"
+>DEDICACE
+&agrave; <NAME
+TEIFORM="name"
+>M. L'ABB&Eacute; MAURY.</NAME
+></HI
+></P
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Toi, qu'outrage le peuple et qu'honore le sage</L
+><L
+PART="N"
+TEIFORM="l"
+>Toi, dont le plus grand tort est d'avoir eu raison,</L
+><L
+PART="N"
+TEIFORM="l"
+>Abb&eacute; noble, &eacute;loquent, je t'offre cet Ouvrage ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'on l'accueille par-tout en faveur de ton nom ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Que ce nom redout&eacute; devienne son &eacute;gide,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et bravant la cabale et les s&eacute;ditieux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Au peuple, ainsi que toi, qu'il dessille les yeux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et d&eacute;masque &agrave; jamais un parti R&Eacute;GICIDE.</L
+></LG
+><P
+REND="rule center"
+TEIFORM="p"
+></P
+></DIV1
+><DIV1
+ID="PREF"
+TYPE="Avis"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><PB
+N="iv"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+><HI
+REND="center"
+TEIFORM="hi"
+>AVIS</HI
+></P
+><P
+TEIFORM="p"
+>Cette Satyre est un Dialogue entre un Patriote <REF
+TARGORDER="U"
+TARGET="NOTE001"
+TEIFORM="ref"
+>(I)</REF
+> et les Muses.  L'Auteur, peu amateur des scenes charmantes qu'a donn&eacute; &agrave; la Capitale le beau sexe des Halles ; avoit saisi ce moment de r&eacute;cr&eacute;ation de la part des Parisiens pour voyager chez l'&Eacute;tranger. C'est dans le cours de ses voyages qu'il a compos&eacute; cet Ouvrage. Il le restitue aux Parisiens &agrave; qui il appartient de droit, puisque ce sont eux qui lui en ont fourni les m&agrave;t&eacute;riaux.</P
+><P
+REND="rule center"
+TEIFORM="p"
+></P
+><NOTE
+ID="NOTE001"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+> (I) Il est clair que l'&ecirc;tre qu'on nomme Patriote ici, n'en a que le nom.
+&laquo; Il usurpe un beau titre &amp; n'en a pas l'effet.&raquo;
+
+Je ne donnerai pas la d&eacute;finition de ce mot : le vrai Patriotisme est comme l'honneur, il se sent mieux qu'il ne s'explique.</NOTE
+></DIV1
+></FRONT
+><BODY
+TEIFORM="body"
+><DIV1
+ID="BODY"
+TYPE="Body"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><PB
+N="1"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+><TITLE
+TEIFORM="title"
+>L'&Eacute;PIDEMIE FRAN&Ccedil;AISE.
+SATYRE.</TITLE
+></P
+><P
+TEIFORM="p"
+>LES MUSES<REF
+TARGORDER="U"
+TARGET="NOTE002"
+TEIFORM="ref"
+>(*)</REF
+>UN PATRIOTE.</P
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Le front encor par&eacute; des fleurs de la jeunesse,</L
+><L
+PART="N"
+TEIFORM="l"
+>O vous, jadis l'amour de Rome &amp; de la Grece,</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est trop long-tems languir dans un honteux repos ;</L
+><L
+PART="N"
+TEIFORM="l"
+>MUSES, reparoissez, &amp; chantez nos H&eacute;ros.</L
+><L
+PART="N"
+TEIFORM="l"
+>Vos accords, autrefois, consacr&eacute;s aux grands hommes,</L
+><L
+PART="N"
+TEIFORM="l"
+>Resteroient-ils oisifs dans le si&egrave;cle o&ugrave; nous sommes ?</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Vos H&eacute;ros ! qui sont-ils ?</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Ne le savez-vous pas?</L
+><L
+PART="N"
+TEIFORM="l"
+>Quoi donc, ignorez-vous ce qu'on fait ici bas ?</L
+></SP
+><P
+REND="rule center"
+TEIFORM="p"
+></P
+><NOTE
+ID="NOTE002"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+> (*) <HI
+REND="italic"
+TEIFORM="hi"
+>On sent que les Muses sont comme la Nation Francaise, qu'elles parlent par Repr&eacute;sentant, c'est-&agrave;-dire qu'une prend la parole pour toutes. </HI
+></NOTE
+><PB
+N="2"
+TEIFORM="pb"
+></PB
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Oui sans doute : aujourd'hui rarement les Po&euml;tes</L
+><L
+PART="N"
+TEIFORM="l"
+>Nous attirent encor dans les lieux ou vous &ecirc;tes.</L
+><L
+PART="N"
+TEIFORM="l"
+>Paris a m&eacute;connu nos accords s&eacute;duisans ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et nous n'y venons plus quatre fois en dix ans.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Ce que vous m'apprenez me paro&icirc;t bien &eacute;trange ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et quoi ! pour nourri&ccedil;on, n'avez-vous pas Saint-Ange ?</L
+><L
+PART="N"
+TEIFORM="l"
+>D&eacute;glantine <REF
+TARGORDER="U"
+TARGET="NOTE1"
+TEIFORM="ref"
+>(I)</REF
+>, Falet, le Comte de Langeac,</L
+><L
+PART="N"
+TEIFORM="l"
+>Mille autres noms parant votre bel Almanach ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et le fameux Imbert, <HI
+REND="italic"
+TEIFORM="hi"
+>-ci-devant</HI
+>  &agrave; la mode.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Ces illustres Messieurs, par un art plus commode</L
+><L
+PART="N"
+TEIFORM="l"
+>Conforme au go&ucirc;t du jour, se passent bien de nous,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et que ferions nous, m&ecirc;me, aujourd'hui parmi vous</L
+><L
+PART="N"
+TEIFORM="l"
+>Sans l'aimable Colin, la Muse facile,</L
+><L
+PART="N"
+TEIFORM="l"
+>De cet Abb&eacute; charmant, Traducteur de Virgile ?</L
+><L
+PART="N"
+TEIFORM="l"
+>C'en est fait pour jamais, nous quitterons vos bords,</L
+><L
+PART="N"
+TEIFORM="l"
+>La France est insensible &agrave; nos tendres accords :</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans notre asyle, h&eacute;las ! paisible &amp; solitaire,</L
+><L
+PART="N"
+TEIFORM="l"
+>Nous regrettons encor la perte de Voltaire.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Laissez-l&agrave; les soupirs, Mesdames, s'il vous pla&icirc;t.</L
+><L
+PART="N"
+TEIFORM="l"
+>Par tant d'objets divers le Francais fut distrait,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'il a pu quelque temps mettre en oubli vos charmes ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais un seul jour suffit pour essuyer vos larmes.</L
+><L
+PART="N"
+TEIFORM="l"
+>Reprenez vos accords ; pleines d'un feu nouveau,</L
+><L
+PART="N"
+TEIFORM="l"
+>C&eacute;l&eacute;brez d'Orl&eacute;ans &amp; le grand Mirabeau,</L
+><L
+PART="N"
+TEIFORM="l"
+>L'Abb&eacute; Sieyes, Barnave &amp; tant d'hommes sublimes,</L
+><PB
+N="3"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Dignes de votre encens, ainsi que de vos rimes.</L
+><L
+PART="N"
+TEIFORM="l"
+>N'oubliez pas non plus ces braves Charbonniers,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et de Bic&ecirc;tre encor les nobles prisonniers.</L
+><L
+PART="N"
+TEIFORM="l"
+>Songez, &agrave; ce grand jour o&ugrave; leur courage brille,</L
+><L
+PART="N"
+TEIFORM="l"
+>Aux exploits de la Gr&ecirc;ve, &agrave; ceux de la Bastille ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Voil&agrave;, certes, voil&agrave; des faits dignes de vous.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Allez les raconter &agrave; l'H&ocirc;pital des fous <REF
+TARGORDER="U"
+TARGET="NOTE2"
+TEIFORM="ref"
+>(2)</REF
+>,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et laissez, croyez-moi, vos gazettes v&eacute;nales,</L
+><L
+PART="N"
+TEIFORM="l"
+>Trompetter en tous lieux ces beaux exploits des Halles,</L
+><L
+PART="N"
+TEIFORM="l"
+><HI
+REND="italic"
+TEIFORM="hi"
+> Vos grands hommes du jour, </HI
+> de la fange tir&eacute;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>D'un brillant oripeau noblement d&eacute;cores ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais nous, ah ! nous serions vraiment bien compromises</L
+><L
+PART="N"
+TEIFORM="l"
+>Si nous allions chanter vos illustres sottises.</L
+><L
+PART="N"
+TEIFORM="l"
+>On nous avoit cont&eacute; vos lourdes visions ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Nous avons beaucoup ri de vos pr&eacute;tentions.</L
+><L
+PART="N"
+TEIFORM="l"
+>Quel ridicule heureux ! quelle belle mati&egrave;re !</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour vos Jourdains nouveaux que n'est-il un Moli&egrave;re <REF
+TARGORDER="U"
+TARGET="NOTE3"
+TEIFORM="ref"
+>(3)</REF
+>.</L
+><L
+PART="N"
+TEIFORM="l"
+>Son pinceau saisiroit avec feu ces objets.</L
+><L
+PART="N"
+TEIFORM="l"
+>On se plaint chaque jour qu'on manque de sujets,</L
+><L
+PART="N"
+TEIFORM="l"
+>N'en voil&agrave;-t-il pas un ?</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>O D&eacute;esses ingrates !</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous n'&ecirc;tes, je le vois, que des Aristocrates <REF
+TARGORDER="U"
+TARGET="NOTE4"
+TEIFORM="ref"
+>(4)</REF
+>.</L
+><L
+PART="N"
+TEIFORM="l"
+>Vos esprits sont imbus d'antiques pr&eacute;jug&eacute;s.</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous osez censurer nos principes chang&eacute;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>Nous bourgeois anoblis, Paris devenu libre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Nos travaux approuv&eacute;s du Gange jusqu'au Tibre ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Nos principes percant en cent climats divers,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour rendre libre enfin cet esclave Univers <REF
+TARGORDER="U"
+TARGET="NOTE5"
+TEIFORM="ref"
+>(5)</REF
+> !</L
+><PB
+N="4"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Si Dumoulin <REF
+TARGORDER="U"
+TARGET="NOTE6"
+TEIFORM="ref"
+>(6)</REF
+> toujours, nous seconde et nous pr&ocirc;ne,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans peu nous renversons le sophi de son tr&ocirc;ne <REF
+TARGORDER="U"
+TARGET="NOTE7"
+TEIFORM="ref"
+>(7)</REF
+>.</L
+><L
+PART="N"
+TEIFORM="l"
+>On admire en tous lieux nos plans b&eacute;nins et doux ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Cadet l'apothicaire <REF
+TARGORDER="U"
+TARGET="NOTE7"
+TEIFORM="ref"
+>(7)</REF
+> a beaucoup fait pour nous.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Bon, pour faire valoir vos projets d&eacute;bonnaires,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'aviez-vous donc besoin de vos a. apothicaires ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans d'absurdes pamphlets entassez de grands mots, <REF
+TARGORDER="U"
+TARGET="NOTE8"
+TEIFORM="ref"
+>(8)</REF
+></L
+><L
+PART="N"
+TEIFORM="l"
+>C'est un secret certain pour vous gagner les sots,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il remplira le but que Paris se propose,</L
+><L
+PART="N"
+TEIFORM="l"
+>Soyez maigres en vers, et boursoufl&eacute;s en prose.</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour imiter Mercier, <HI
+REND="italic"
+TEIFORM="hi"
+>renversez tous les arts.</HI
+> L'esprit peut en ce jour admettre ces &eacute;carts.</L
+><L
+PART="N"
+TEIFORM="l"
+>Pourquoi s'assujettir &agrave; des regles communes ?</L
+><L
+PART="N"
+TEIFORM="l"
+><HI
+REND="italic"
+TEIFORM="hi"
+>Libres,</HI
+> ne souffrez plus leurs g&ecirc;nes importunes :</L
+><L
+PART="N"
+TEIFORM="l"
+>Votre assembl&eacute;e alors, regorgeant de Normands,</L
+><L
+PART="N"
+TEIFORM="l"
+>Verra de tous c&ocirc;t&eacute;s encenser ses <HI
+REND="italic"
+TEIFORM="hi"
+> romans.</HI
+></L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Vous bl&acirc;mez l'assembl&eacute;e et son patriotisme ?</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Nous bl&acirc;mons vos travers, l'horrible fanatisme,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui reparoit encor dans les murs de Paris.</L
+><L
+PART="N"
+TEIFORM="l"
+>Plus habile en ce jour il gagne les esprits,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et pl&acirc;trant &agrave; propos son naturel fantasque,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il se dit philosophe et n'en a que le masque.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Nous , fanatiques ?</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Oui.</L
+></SP
+><PB
+N="5"
+TEIFORM="pb"
+></PB
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Parlez plus &agrave; propos,</L
+><L
+PART="N"
+TEIFORM="l"
+>Allez, le fanatisme est bon pour vos bigots,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour des lourdauds priv&eacute;s de toute exp&eacute;rience.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Vous &ecirc;tes, mes amis, plus lourdauds qu'on ne pense.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Nous parler sur ce ton, parbleu ! c'est un peu fort.</L
+><L
+PART="N"
+TEIFORM="l"
+>Prouvez-nous donc, au moins, en quoi nous avons tort.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Volontiers.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Depuis peu, sur toutes ces matieres,</L
+><L
+PART="N"
+TEIFORM="l"
+>Nous avons, comme on sait, acquis bien des lumieres.</L
+><L
+PART="N"
+TEIFORM="l"
+>Le plus petit commis, politique nouveau,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pourroit faire la barbe &agrave; Jean-Jacques Rousseau <REF
+TARGORDER="U"
+TARGET="NOTE9"
+TEIFORM="ref"
+>(9)</REF
+>.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Vos commis font piti&eacute;, leur ridicule assomme ;</L
+><L
+PART="N"
+TEIFORM="l"
+>M&eacute;ditez mes amis un peu plus ce grand homme.</L
+><L
+PART="N"
+TEIFORM="l"
+>Ah ! loin de partager vos coupables exc&egrave;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>Chacun de ses &eacute;crits feroit votre proc&eacute;s.</L
+><L
+PART="N"
+TEIFORM="l"
+>Le mot de libert&eacute; vous s&eacute;duit, vous &eacute;gare :</L
+><L
+PART="N"
+TEIFORM="l"
+>Libres et corrompus, quel ensemble bizarre !</L
+><L
+PART="N"
+TEIFORM="l"
+>Ecoutez la raison au milieu des clameurs,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour &ecirc;tre vraiment libre, il faut avoir des m&oelig;urs <REF
+TARGORDER="U"
+TARGET="NOTE10"
+TEIFORM="ref"
+>(10)</REF
+>.</L
+><L
+PART="N"
+TEIFORM="l"
+>En avez-vous ? parlez. Sans foi, plein d'artifices,</L
+><L
+PART="N"
+TEIFORM="l"
+>Subjugu&eacute; par le luxe, esclave de vos vices,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et courb&eacute; sous le joug de la cupidit&eacute;,</L
+><PB
+N="6"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Vous os&eacute; prononcer le mot de libert&eacute; !</L
+><L
+PART="N"
+TEIFORM="l"
+>Sur les d&eacute;bris &eacute;pars de l'antique noblesse,</L
+><L
+PART="N"
+TEIFORM="l"
+>La crapule enrichie &eacute;leve sa bassesse ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour atteindre &agrave; ce but elle trouve un moyen,</L
+><L
+PART="N"
+TEIFORM="l"
+>Elle va balotant le nom de citoyen ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Le donne &agrave; tous venants, &agrave; juifs, porte-faix, nobles,</L
+><L
+PART="N"
+TEIFORM="l"
+>Aux hommes vertueux, ainsi qu'aux plus ignobles ;</L
+><L
+PART="N"
+TEIFORM="l"
+>De sort que ce mot, aujourd'hui si bannal,</L
+><L
+PART="N"
+TEIFORM="l"
+>Est d'un plan monstrueux devenu le signal.</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous nommer citoyens ! quelle aveugle manie !</L
+><L
+PART="N"
+TEIFORM="l"
+>En avez-vous l'honneur, les vertus, le g&eacute;nie ?</L
+><L
+PART="N"
+TEIFORM="l"
+>O m&acirc;nes des Romains, sortez de vos tombeaux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Confondez ces gens vils, ces at&ocirc;mes nouveaux</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui, devant des b&eacute;ats, mont&eacute;s sur des &eacute;chasses,</L
+><L
+PART="N"
+TEIFORM="l"
+>Profanent sans pudeur le titre des Horaces !</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Eh ! retenez de nous ce principe, une fois,</L
+><L
+PART="N"
+TEIFORM="l"
+>Nos vices sont produits par les mauvaises lois :</L
+><L
+PART="N"
+TEIFORM="l"
+>Oui, tout autre syst&ecirc;me est une erreur grossiere.</L
+><L
+PART="N"
+TEIFORM="l"
+>Consultez l&agrave;-dessus Chapellier, Robespierre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Le doucereux Bailly, l'ambitieux Target,</L
+><L
+PART="N"
+TEIFORM="l"
+>Le financier Laborde et mon cousin Lameth <REF
+TARGORDER="U"
+TARGET="NOTE11"
+TEIFORM="ref"
+>(11)</REF
+>.</L
+><L
+PART="N"
+TEIFORM="l"
+>Ces Messiurs n'iront pas, quoiqu'en dise l'envie,</L
+><L
+PART="N"
+TEIFORM="l"
+>R&eacute;former pour vous plaire et leurs moeurs et leur vie.</L
+><L
+PART="N"
+TEIFORM="l"
+>De nos fonds chacun d'eux peut nourrir sa catin,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pourvu que Mirabeau pr&ecirc;che soir et matin.</L
+><L
+PART="N"
+TEIFORM="l"
+>On nous dit que cet homme est un fourbe, un inf&acirc;me,</L
+><L
+PART="N"
+TEIFORM="l"
+>P&eacute;tri d'ambition, sans honneur et sans ame,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et qu'importe apr&egrave;s tout ses crimes pr&eacute;tendus ?</L
+><L
+PART="N"
+TEIFORM="l"
+>N'a-t-il pas anobli les cousins des pendus ?</L
+><PB
+N="7"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Cet article doit faire Honneur &agrave; notre histoire.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Le beau titre en effet, pour voler &agrave; la gloire !</L
+><L
+PART="N"
+TEIFORM="l"
+>Francais, jadis si grands, qu'&ecirc;tes-vous devenus ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Quel poison vous enivre et vous a pr&eacute;venus ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Raisonneurs avilis, vous traitez de chimeres</L
+><L
+PART="N"
+TEIFORM="l"
+>L'opprobre qu'enfantoit les crimes de vos peres !</L
+><L
+PART="N"
+TEIFORM="l"
+>Le fils d'un usurier, cachant son deshonneur,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sous l'&eacute;clat emprunt&eacute; d'un luxe suborneur,</L
+><L
+PART="N"
+TEIFORM="l"
+>Nourri dans la rapine , et tra&icirc;n&eacute; dans la fange,</L
+><L
+PART="N"
+TEIFORM="l"
+>Va donc rivaliser, par ce principe &eacute;trange,</L
+><L
+PART="N"
+TEIFORM="l"
+>Les enfans g&eacute;n&eacute;reux , des Couci, des d'Estin ?</L
+><L
+PART="N"
+TEIFORM="l"
+>O France, d&eacute;sormais, quel sera ton destin ! </L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Qu'y faire ? des vertus l'on aime un peu l'affiche,</L
+><L
+PART="N"
+TEIFORM="l"
+>Puis, qu'importe l'honneur, pourvu que l'on soit riche ?</L
+><L
+PART="N"
+TEIFORM="l"
+>Messieurs de l'Assembl&eacute;e en sont bien convaincus,</L
+><L
+PART="N"
+TEIFORM="l"
+>A 1a place du nom ils ont mis les &eacute;cus.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Ils font voir en cela leur sage politique.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Oui, cependant contre eux s'acharne la critique</L
+><L
+PART="N"
+TEIFORM="l"
+>Et d'un parti mourant les nombreux escadrons ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais laissez faire un jour, nous les <HI
+REND="italic"
+TEIFORM="hi"
+> lanternerons.</HI
+> <REF
+TARGORDER="U"
+TARGET="NOTE12"
+TEIFORM="ref"
+>(12)</REF
+></L
+><L
+PART="N"
+TEIFORM="l"
+>Quant &agrave; ce d'Avri***** qui fit g&eacute;mir la presse</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour vanter sottement les droits de la noblesse ;</L
+><L
+PART="N"
+TEIFORM="l"
+>S'il revient de Bruxelle, aujourd'hui son abri,</L
+><L
+PART="N"
+TEIFORM="l"
+>Nous l'enverrons noyer avec l'abb&eacute; Maury.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais &agrave; propos d'Abb&eacute;s, les coquins , les inf&acirc;mes</L
+><L
+PART="N"
+TEIFORM="l"
+>D'oser.....</L
+></SP
+><PB
+N="8"
+TEIFORM="pb"
+></PB
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Qu'ont-ils donc faits ? </L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Ce qu'ils ont fait mesdames?</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est ma foi bien &agrave; eux de soutenir leurs droits;</L
+><L
+PART="N"
+TEIFORM="l"
+>Tout doit appartenir &agrave; nous autres Bourgeois.</L
+><L
+PART="N"
+TEIFORM="l"
+>Quoi, ne formons-nous pas, selon notre syst&egrave;me,</L
+><L
+PART="N"
+TEIFORM="l"
+>La Nation ?</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Qui, vous ?</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Et oui : Sieyes lui-m&eacute;me,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans ses &eacute;crits profonds, nous l'a tr&egrave;s-bien prouv&eacute; ;</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est un fait que parbleu nous n'a ons pas r&ecirc;v&eacute;.</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'on cesse de pr&ocirc;ner les citoyens de Rome,</L
+><L
+PART="N"
+TEIFORM="l"
+>Nous les surpassons tous, t&eacute;moin les droits de l'homme.</L
+><L
+PART="N"
+TEIFORM="l"
+>Oh ma foi ce chef-d'¶uvre est le comble de l'art ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Les dames de la h&acirc;lle en seront le rempart.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Fort bien : oui, les secours de cette classe illustre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vont sur ce siecle heureux r&eacute;pandre un nouveau lustre</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour soutenir encore le fruit de vos travaux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vous aurez les mouchards, les gueux, les maq ***,</L
+><L
+PART="N"
+TEIFORM="l"
+>Tous gens d&eacute;termin&eacute;s, qui d'une ardeur &eacute;gale,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sauront bien surpasser les dames de la halle.</L
+><L
+PART="N"
+TEIFORM="l"
+>Apr&egrave;s avoir servi ses inf&acirc;mes amours,</L
+><L
+PART="N"
+TEIFORM="l"
+>A <HI
+REND="italic"
+TEIFORM="hi"
+> Philippe </HI
+> ils devoient vendre encor leurs secours.</L
+><L
+PART="N"
+TEIFORM="l"
+>On nous a r&eacute;vel&eacute; ces intrigues secrettes,</L
+><L
+PART="N"
+TEIFORM="l"
+>Que voi oient prudemment vos sublimes gazettes.</L
+><L
+PART="N"
+TEIFORM="l"
+>......Ce</L
+><PB
+N="9"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Ce forfait est rest&eacute; dans l'ombre de la nuit <REF
+TARGORDER="U"
+TARGET="NOTE13"
+TEIFORM="ref"
+>(13)</REF
+> ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais il faut que par nous le monde en soit instruit.</L
+><L
+PART="N"
+TEIFORM="l"
+>Il faut que ce complot, cette horrible aventure,</L
+><L
+PART="N"
+TEIFORM="l"
+>Epouvante ce siecle et la race future.</L
+><L
+PART="N"
+TEIFORM="l"
+>Sous son empire heureux, le Monarque francais,</L
+><L
+PART="N"
+TEIFORM="l"
+>Voyoit fleurir les arts, l'abondance et la paix.</L
+><L
+PART="N"
+TEIFORM="l"
+>La police invisible et pr&eacute;sente &agrave; toute heure,</L
+><L
+PART="N"
+TEIFORM="l"
+>Pr&eacute;servant l'habitant, veilloit sur sa demeure ;</L
+><L
+PART="N"
+TEIFORM="l"
+>En &eacute;cartoit les vols, les crimes odieux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et faisoit r&eacute;gner l'ordre et le calme en tous lieux.</L
+><L
+PART="N"
+TEIFORM="l"
+>Plus de ces attentats, dont l'horrible m&eacute;moire,</L
+><L
+PART="N"
+TEIFORM="l"
+>De l'autre siecle encor souille et ternit l'histoire :</L
+><L
+PART="N"
+TEIFORM="l"
+>Sans crainte des filoux, des brigands, des esprits,</L
+><L
+PART="N"
+TEIFORM="l"
+>A minuit on erroit dans les murs de Paris.</L
+><L
+PART="N"
+TEIFORM="l"
+>Th&eacute;mis avec ardeur poursuivoit les coupables ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et l'affreuse licence aux projets d&eacute;testables,</L
+><L
+PART="N"
+TEIFORM="l"
+>Jadis par les Bourbons replong&eacute;e aux enfers,</L
+><L
+PART="N"
+TEIFORM="l"
+>De rage et de fureur rugissoit dans les fers.</L
+><L
+PART="N"
+TEIFORM="l"
+>Lorsque l'ambition, cette d&eacute;esse altiere,</L
+><L
+PART="N"
+TEIFORM="l"
+>qui tire du n&eacute;ant, plonge dans la poussiere,</L
+><L
+PART="N"
+TEIFORM="l"
+>Le mortel qu'&agrave; son gr&eacute; le caprice a choisi,</L
+><L
+PART="N"
+TEIFORM="l"
+>Paroit chez d'Or***, et d'un ton radouci ;</L
+><L
+PART="N"
+TEIFORM="l"
+>A cet &ecirc;tre impudique adresse ces paroles :</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Jusqu'&agrave; quand la molesse &amp; les plaisirs frivoles,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Retiendront-ils tes sens en leurs bras endormis ?</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Secoue enfin ta honte, et fais toi des amis.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Va, le Parisien imb&eacute;cile, cr&eacute;dule,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Malgr&eacute; ton peu de c&oelig;ur va te croire un hercule.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Oui, tu pourras sans peine &eacute;blouir les esprits ;</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Remplis de tes vertus le journal de Paris.</L
+><PB
+N="10"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Voici l'occasion, sois populaire, donne,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Ma main peut de Louis renverser la couronne.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; J'ai, pour y r&eacute;ussir, un syst&egrave;me nouveau ;</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Et d&eacute;j&agrave; j'ai gagn&eacute; Bar***. et M***.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Que dis-je, &agrave; te servir mon ardeur les excite,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; D'Au***., ce beau pr&eacute;lat, sera leur acolyte.</L
+><L
+PART="N"
+TEIFORM="l"
+> -- Quoi, l'&eacute;v&ecirc;que d'Au*** est pour nous aujourd'hui?</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; H&eacute; oui, l'abb&eacute; Si*** travaille dessous lui <REF
+TARGORDER="U"
+TARGET="NOTE14"
+TEIFORM="ref"
+>(14)</REF
+>.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Ces gens nous sont vendus, nos machines sont pr&ecirc;tes,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Et nous ferons dans peu tourner toutes les t&ecirc;tes.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Je vois de sots bavards, et cent esprits mesquins</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Calquer tous les Fran&ccedil;ais sur les Am&eacute;ricains.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Tant mieux : de la licence ils aiguisent les armes.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Aux yeux d'un peuple aveugle elle a toujours des charmes,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Je cours rompre ses fers &raquo;.  Cette D&eacute;esse alors</L
+><L
+PART="N"
+TEIFORM="l"
+>Se plonge tout-&agrave;-coup dans l'abyme des morts,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dans ce gouffre profond, elle perce, s'&eacute;lance,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et droit, sans s'&eacute;garer, vole vers la licence.</L
+><L
+PART="N"
+TEIFORM="l"
+>Sur le sommet d'un roc, aux mortels inconnu,</L
+><L
+PART="N"
+TEIFORM="l"
+>Par cent cha&icirc;nes d'airain ce monstre est retenu.</L
+><L
+PART="N"
+TEIFORM="l"
+>Son c&oelig;ur l&acirc;che et f&eacute;roce est p&eacute;tri d'artifices,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sous des dehors trompeurs, il cache tous ses vices ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Les noms les plus sacr&eacute;s, lui servent de moyen,</L
+><L
+PART="N"
+TEIFORM="l"
+>Il est selon le tems <HI
+REND="italic"
+TEIFORM="hi"
+> Philosophe ou Chr&eacute;tien.</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>Bient&ocirc;t l'ambition, d'une main inhumaine</L
+><L
+PART="N"
+TEIFORM="l"
+>Lui dictant ses forfaits, l'arme et brise sa cha&icirc;ne.</L
+><L
+PART="N"
+TEIFORM="l"
+>L'affreux monstre aussit&ocirc;t sur la terre jett&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dit, en courant par-tout, qu'il est la libert&eacute;.</L
+><L
+PART="N"
+TEIFORM="l"
+>Le voyant par ces mots suborner tous les ages,</L
+><L
+PART="N"
+TEIFORM="l"
+>D'Or*** l'alimente et le tient &agrave; ses gages.</L
+><PB
+N="11"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Au centre de Paris, est un antre pervers <REF
+TARGORDER="U"
+TARGET="NOTE15"
+TEIFORM="ref"
+>(15)</REF
+> </L
+><L
+PART="N"
+TEIFORM="l"
+>O&ugrave; le vice effront&eacute; tient ces march&eacute;s ouverts.</L
+><L
+PART="N"
+TEIFORM="l"
+>On voit avec horreur, dans ce cloaque infame,</L
+><L
+PART="N"
+TEIFORM="l"
+>Triompher la catin et l'usurier sans ame,</L
+><L
+PART="N"
+TEIFORM="l"
+>L'indigne agiotage y paro&icirc;t au grand jour ;</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est-l&agrave; que la licence a fix&eacute; son s&eacute;jour.</L
+><L
+PART="N"
+TEIFORM="l"
+>Bient&ocirc;t de ce palais d'opprobre et de scandale</L
+><L
+PART="N"
+TEIFORM="l"
+>Part de mille proscrits la sentence fatale.</L
+><L
+PART="N"
+TEIFORM="l"
+>O g&eacute;n&eacute;reux Bayards ? chevaliers triomphants ?</L
+><L
+PART="N"
+TEIFORM="l"
+>La classe la plus vile a proscrit vos enfants.</L
+><L
+PART="N"
+TEIFORM="l"
+>Les odieux complots, la sourde perfidie,</L
+><L
+PART="N"
+TEIFORM="l"
+>Sous vos paisibles toits, font voler l'incendie,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vos ch&acirc;teaux, ces s&eacute;jours de mille ans de vertus,</L
+><L
+PART="N"
+TEIFORM="l"
+>Par un peuple fougueux sont pill&eacute;s , abattus.</L
+><L
+PART="N"
+TEIFORM="l"
+>Les Nobles sont &agrave; craindre, ils soutiendroient leur ma&icirc;tre,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'on les traite par-tout d'inf&acirc;mes et de tra&icirc;tres <REF
+TARGORDER="U"
+TARGET="NOTE16"
+TEIFORM="ref"
+>(16)</REF
+>,</L
+><L
+PART="N"
+TEIFORM="l"
+>Des pamphlets..... que Paris en soit empoisonn&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est ainsi qu'au Rincy la ligue a raisonn&eacute;.</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est alors, d'Orl&eacute;ans, qu'une hydre monstrueuse,</L
+><L
+PART="N"
+TEIFORM="l"
+>D'humble, par ton cr&eacute;dit, devient imp&eacute;rieuse ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Elle d&eacute;vore tout, les fortunes, les droits,</L
+><L
+PART="N"
+TEIFORM="l"
+>La noblesse, le culte, et les antiques loix.</L
+><L
+PART="N"
+TEIFORM="l"
+>Rien n'est sacr&eacute; pour elle, et le tr&ocirc;ne lui-m&eacute;me </L
+><L
+PART="N"
+TEIFORM="l"
+>S'&eacute;branle &agrave; son aspect..... le sacr&eacute; diad&ecirc;me</L
+><L
+PART="N"
+TEIFORM="l"
+>D&eacute;pouill&eacute; sans &eacute;clat va tomber &agrave; ses pieds.</L
+><L
+PART="N"
+TEIFORM="l"
+>Ses ordres font mouvoir des brigands soudoy&eacute;s <REF
+TARGORDER="U"
+TARGET="NOTE17"
+TEIFORM="ref"
+>(17)</REF
+>,</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui portent en tous lieux, les soup&ccedil;ons, le vertige,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et la ligue de loin les pousse et les dirige.</L
+><L
+PART="N"
+TEIFORM="l"
+>Bar***, Mir *** courent de toutes parts,</L
+><L
+PART="N"
+TEIFORM="l"
+>Distribuant aux leurs l'argent et les poignards,</L
+><L
+PART="N"
+TEIFORM="l"
+>Leurs mains en traits de sang, ont marqu&eacute; les victimes </L
+><PB
+N="12"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>O soleil ! sans p&acirc;lir verras-tu tant de crimes ?</L
+><L
+PART="N"
+TEIFORM="l"
+>L'aurore avoit &agrave; peine &eacute;clair&eacute; les c&ocirc;teaux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Que tout-&agrave;-coup Versaille est rempli de bourreaux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et de ces assassins, une inf&acirc;me cohorte,</L
+><L
+PART="N"
+TEIFORM="l"
+>S'avance et de la Reine ose assi&eacute;ger la porte <REF
+TARGORDER="U"
+TARGET="NOTE18"
+TEIFORM="ref"
+>(18)</REF
+>.</L
+><L
+PART="N"
+TEIFORM="l"
+>Les gardes sont rang&eacute;s pour d&eacute;tourner leurs coups,</L
+><L
+PART="N"
+TEIFORM="l"
+>Moins nombreux, dans leur sang, ils tombent presque tous,</L
+><L
+PART="N"
+TEIFORM="l"
+>Alors dans le palais vint fondre la temp&ecirc;te ;</L
+><L
+PART="N"
+TEIFORM="l"
+>La Reine &agrave; ces fureurs veut d&eacute;rober sa t&ecirc;te,</L
+><L
+PART="N"
+TEIFORM="l"
+>Elle court demi-nue, et dans les bras du Roi</L
+><L
+PART="N"
+TEIFORM="l"
+>Va chercher un refuge et cacher son effroi.</L
+><L
+PART="N"
+TEIFORM="l"
+>Peindrons-nous ces &eacute;poux, que la licence assiege,</L
+><L
+PART="N"
+TEIFORM="l"
+>Accabl&eacute;s sous le poids d'un parti sacrilege.</L
+><L
+PART="N"
+TEIFORM="l"
+>En vain ils voudroient fuir, mais leurs tristes regards,</L
+><L
+PART="N"
+TEIFORM="l"
+>Voyent briller par-tout la pointe des poignards ;</L
+><L
+PART="N"
+TEIFORM="l"
+>La garde est &eacute;gorg&eacute;e, une horrible brigade</L
+><L
+PART="N"
+TEIFORM="l"
+>A bris&eacute; du palais la triple barricade.</L
+><L
+PART="N"
+TEIFORM="l"
+>Le Roi, grand Dieu ! le Roi, sous ses pas chancelans,</L
+><L
+PART="N"
+TEIFORM="l"
+>Cherchant &agrave; s'&eacute;chapper, foule les corps sanglans,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et les membres &eacute;pars de sa garde fidelle,</L
+><L
+PART="N"
+TEIFORM="l"
+>A ses yeux, sous ses pieds le sang encor ruisselle,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ce sang, qui fut toujours pr&ecirc;t &agrave; couler pour lui.</L
+><L
+PART="N"
+TEIFORM="l"
+>Quoi ! le meilleur des Rois d&eacute;laiss&eacute;, sans appui,</L
+><L
+PART="N"
+TEIFORM="l"
+>Va tomber sous le fer de ces brigands farouches !</L
+><L
+PART="N"
+TEIFORM="l"
+>La rage est dans leurs c&oelig;urs, le blasph&ecirc;me en leurs bouches,</L
+><L
+PART="N"
+TEIFORM="l"
+>Du malheur de leur Roi leurs yeux sont satisfaits ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et l'insulte chez eux est m&ecirc;l&eacute;e aux forfaits.</L
+><L
+PART="N"
+TEIFORM="l"
+>Du Roi, de ses enfans la tombe &eacute;toit ouverte ;</L
+><L
+PART="N"
+TEIFORM="l"
+>D&eacute;j&agrave; le peuple impie avoir jur&eacute; leur perte,</L
+><L
+PART="N"
+TEIFORM="l"
+>Quand un autre mortel, <REF
+TARGORDER="U"
+TARGET="NOTE19"
+TEIFORM="ref"
+>(19)</REF
+> non moins ambitieux</L
+><PB
+N="13"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>Mais plus adroit sans doute ouvre &agrave; chacun les yeux,</L
+><L
+PART="N"
+TEIFORM="l"
+>Fait voir de son rival le complot d&eacute;testable.</L
+><L
+PART="N"
+TEIFORM="l"
+>Les monstres sont frapp&eacute;s &agrave; sa voix redoutable.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais , &ocirc; honte ! &ocirc; douleur ! jour &agrave; jamais honteux !</L
+><L
+PART="N"
+TEIFORM="l"
+>Ils s'emparent du Roi, le tra&icirc;nent avec eux ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Et le Parisien, que ce spectacle enchante,</L
+><L
+PART="N"
+TEIFORM="l"
+>C&eacute;lebre de ce jour la pompe fl&eacute;trissante ,</L
+><L
+PART="N"
+TEIFORM="l"
+>Les sots illuminant,  jusques &agrave; leur grenier,</L
+><L
+PART="N"
+TEIFORM="l"
+>Affiche leur opprobre et leur Roi prisonnier.</L
+><L
+PART="N"
+TEIFORM="l"
+>Tel est le piege affreux, &ocirc; France trop cr&eacute;dule !</L
+><L
+PART="N"
+TEIFORM="l"
+>O&ugrave; t'a pr&eacute;cipit&eacute;e un projet ridicule ;</L
+><L
+PART="N"
+TEIFORM="l"
+>De tant de plans fameux en t'offrant les appas,</L
+><L
+PART="N"
+TEIFORM="l"
+>On creusoit sourdement un piege sous tes pas ;</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais la raison s&eacute;vere, au sein des catastrophes,</L
+><L
+PART="N"
+TEIFORM="l"
+>A poursuivi , press&eacute; tes demis philosophes :</L
+><L
+PART="N"
+TEIFORM="l"
+>Au tribunal du sage et de la v&eacute;rit&eacute;</L
+><L
+PART="N"
+TEIFORM="l"
+>Leur esprit l&acirc;che et bas sera bient&ocirc;t cit&eacute;.</L
+><L
+PART="N"
+TEIFORM="l"
+>Avec un bras d'airain l'implacable satyre</L
+><L
+PART="N"
+TEIFORM="l"
+>S'appr&ecirc;te &agrave; foudroyer ces h&eacute;ros qu'on admire.</L
+><L
+PART="N"
+TEIFORM="l"
+>D&eacute;j&agrave; des &eacute;crivains, anim&eacute;s d'un beau feu,</L
+><L
+PART="N"
+TEIFORM="l"
+>Ont arrach&eacute; le masque &agrave; ces Rois sans aveu !</L
+><L
+PART="N"
+TEIFORM="l"
+>D&eacute;j&agrave; le ciel, contr'eux, dirige les temp&ecirc;tes,</L
+><L
+PART="N"
+TEIFORM="l"
+>Et le foudre vengeur a grond&eacute; sur leurs t&ecirc;tes.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>Eh ! cessez d'employer, avec nous, ces grands mots :</L
+><L
+PART="N"
+TEIFORM="l"
+>La peur d'un Dieu terrible est faite pour les sots.</L
+><L
+PART="N"
+TEIFORM="l"
+>Mais pour nous, nous fondons notre patriotisme</L
+><L
+PART="N"
+TEIFORM="l"
+>Sur L'IRR&Eacute;LIGION et sur-tout L'ATH&Eacute;ISME <REF
+TARGORDER="U"
+TARGET="NOTE20"
+TEIFORM="ref"
+>(20)</REF
+>.</L
+></SP
+><TRAILER
+REND="center"
+TEIFORM="trailer"
+> FIN </TRAILER
+></DIV1
+></BODY
+><BACK
+TEIFORM="back"
+><DIV1
+ID="NOTES"
+TYPE="Notes"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><HEAD
+TEIFORM="head"
+>NOTES.</HEAD
+><PB
+N="14"
+TEIFORM="pb"
+></PB
+><NOTE
+ID="NOTE1"
+N="1"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(1)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> D&eacute;glantine, Falet, le comte de Lanjeac, &amp;c.</HI
+></P
+><P
+TEIFORM="p"
+>Depuis que la com&eacute;die de Philinte a paru, M. D&eacute;glantine a prouv&eacute; qu'il avoit de la verve. Avec un peu plus de go&ucirc;t, il pourroit prendre un rang distingu&eacute; dans la carriere des lettres. Quant aux autres, c'est leur faire trop d'honneur que de s'occuper d'eux ; &agrave; peine leurs noms ont-ils franchi les barrieres de la Capitale.</P
+></NOTE
+><NOTE
+ID="NOTE2"
+N="2"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(2)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Allez la raconter &agrave; l'h&ocirc;pital des fous.</HI
+></P
+><P
+TEIFORM="p"
+>Tandis que les Fran&ccedil;ais se regardent comme des grands hommes, que le journal de Paris les encense, que tous les th&eacute;&acirc;tres de la Capitale leur prodiguent des &eacute;loges, il est assez plaisant, d'un autre c&ocirc;t&eacute;, de voir tous les peuples de l'Europe les traiter de fous. Jusqu'&agrave; quel point va l'illusion !</P
+></NOTE
+><NOTE
+ID="NOTE3"
+N="3"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(3)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Pour vos Jourdains nouveaux que n'est -il un Moli&egrave;re !</HI
+></P
+><P
+TEIFORM="p"
+>Il est exauc&eacute; ce v&oelig;u : une piece de th&eacute;&acirc;tre est faite sur la manie ridicule des Fran&ccedil;ais ; elle paro&icirc;tra bient&ocirc;t pour &eacute;pouvanter la sottise, et renverser le tr&ocirc;ne qu'elle a &eacute;rig&eacute; &agrave; tant de pr&eacute;tendus grands hommes.</P
+></NOTE
+><NOTE
+ID="NOTE4"
+N="4"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(4)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Vous n'&ecirc;tes, je le vois, que des aristocrates.</HI
+></P
+><P
+TEIFORM="p"
+>Aristocrates, aristocrates ! je n'entends que r&eacute;p&eacute;ter ce mot. A peine ceux qui le prononcent en connoissent-ils la vraie signification ; mais il falloit perdre des ennemis,</P
+><PB
+N="15"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+>indisposer le peuple contre eux, et on leur a donn&eacute; le titre odieux d'<HI
+REND="italic"
+TEIFORM="hi"
+> aristocrates.</HI
+> C'est ainsi que les fanatiques de la ligue traitoient d'huguenots leurs ennemis. Croit-on qu'il y ait une grande diff&eacute;rence des fanatiques de ce tems, aux fanatiques de nos jours ? Attendez encore un moment, &ocirc; Fran&ccedil;ais ! et cette Saint-Barthelemi, dont la m&eacute;moire vous est si odieuse, se renouvellera. D&eacute;j&agrave; la motion d&eacute;gorger la Reine &amp; toute la noblesse a &eacute;t&eacute; faite au Palais-Royal.</P
+><P
+TEIFORM="p"
+><HI
+REND="center"
+TEIFORM="hi"
+>&laquo;Le fer ne conno&icirc;tra ni le sexe, ni l'&acirc;ge&raquo;</HI
+></P
+><P
+TEIFORM="p"
+>Je d&eacute;cel&eacute; ce projet infernal au tribunal des gens sensibles, au tribunal des hommes &agrave; qui il reste encore un peu de raison et d'humanit&eacute;.</P
+></NOTE
+><NOTE
+ID="NOTE5"
+N="5"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(5)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Pour rendre libre enfin cet esclave univers.</HI
+></P
+><P
+TEIFORM="p"
+>C'est peu de se nuire &agrave; eux-m&ecirc;mes, les Fran&ccedil;ais ont la manie de vouloir convertir tous les peuples ; ils portent l'aveuglement jusqu'&agrave; croire que le monde entier va les imiter. Quoi ! les Indiens, les Chinois renonceroient &agrave; leurs principes, &agrave; leurs antiques usages, pour se calquer sur un peuple de fous ? Il passeroit de l'ordre le plus parfait, dans l'anarchie la plus complette ! Quelle extravagance d'avoir eu cette id&eacute;e! &ocirc; France ! ta situation est un spectacle trop d&eacute;plorable, aucun peuple ne sera jamais assez insens&eacute; pour oser suivre ton exemple.</P
+></NOTE
+><NOTE
+ID="NOTE6"
+N="6"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(6)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Si Dumoulin toujours.....</HI
+></P
+><P
+TEIFORM="p"
+>On permet les &eacute;crits les plus incendiaires faits pour porter le peuple &agrave; mille affreux exc&egrave;s ; et l'on veut proscrire les Actes des Ap&ocirc;tres, l'Ami du Roi, la Gazette de Paris, le Journal Politique national, et d'autres encore qui ne flattent pas assez ces Messieurs. Qu'importe,</P
+><PB
+N="16"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+>en effet, que toute la France soit &eacute;gorg&eacute;e, que le Royaume soit perdu, pourvu que ces Messieurs aient des pr&ocirc;neurs, et qu'ils jouissent tranquillement du titre de grands hommes qu'ils ont achet&eacute; si cher.</P
+></NOTE
+><NOTE
+ID="NOTE7"
+N="7"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(7)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Cadet, l'Apothicaire a beaucoup fait pour nous.</HI
+></P
+><P
+TEIFORM="p"
+>Ce Cadet, frere de l'ancien R&eacute;dacteur du journal de Paris, y fournissoit lui-m&ecirc;me les articles les plus brillans. Il abandonna la casse et le s&eacute;n&eacute; pour faire une r&eacute;volution par ses phrases. Les Marchands de Paris, &agrave; son exemple, ont quitt&eacute; leurs boutiques, pour briller dans le grade d'officier. Ils pourroient bien, par la suite, &ecirc;tre oblig&eacute;s de faire banqueroute. Je ne sais si leurs cr&eacute;anciers applaudiroient &agrave; ce beau r&eacute;sultat de leur patriotisine.</P
+></NOTE
+><NOTE
+ID="NOTE8"
+N="8"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(8)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Dans d'absurdes pamphlets entassez des grands mots.</HI
+></P
+><P
+TEIFORM="p"
+>On a brouill&eacute; l'esprit de ce pauvre peuple en lui jettant quelques grands mots &agrave; la t&ecirc;te ; au d&eacute;faut des raisons, n'importe on a toujours des mots, et l'on vient de faire un dictionnaire des mots nouvellement mis en vogue par ces MM. Aussi comme un mot brillant a toujours plus d'effet qu'une id&eacute;e saine, on aime mieux l'employer ; c'est d'ailleurs plus facile.</P
+></NOTE
+><NOTE
+ID="NOTE9"
+N="9"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(9)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Pourroit faire la barbe &agrave; Jean-Jacques Rousseau.</HI
+></P
+><P
+TEIFORM="p"
+>C'est la pr&eacute;tention de ces Messieurs : il n'y en a pas un qui ne se croie plus &eacute;clair&eacute; que les Solon, les Platon, les Minos, les Numa et plus nouvellement les Montesquieu, les Rousseau, les Mably. C'est avec la meilleure foi du monde, qu'ils disent en savoir plus qu'eux. Les pauvres gens, ils n'ignorent rien, hors leur incapacit&eacute; et leur sottise.</P
+><P
+TEIFORM="p"
+>(10)<HI
+REND="italic"
+TEIFORM="hi"
+>Pour</HI
+></P
+></NOTE
+><PB
+N="17"
+TEIFORM="pb"
+></PB
+><NOTE
+ID="NOTE10"
+N="10"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(10)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Pour &ecirc;tre vraiment libre il faut avoir des m&oelig;urs.</HI
+></P
+><P
+TEIFORM="p"
+>II est &agrave; remarquer que la corruption s'est accrue de deux degr&eacute;s depuis la r&eacute;volution. Les filles, qu'on ne renferme plus &agrave; l'H&ocirc;pital, abondent dans les rues de Paris, et sur-tout dans leur Empire accoutum&eacute;, le palais Royal. Le peuple a des spectacles sans nombre &agrave; choisir ; mais &agrave; peine a-t-il du pain. Cependant les l&eacute;gislateurs anciens et modernes avoient pos&eacute; pour base de toute constitution la puret&eacute; des m&ucirc;rs.  Est-ce les Principes des L&eacute;gislateurs du jour ? Je le laisse &agrave; juger.</P
+></NOTE
+><NOTE
+ID="NOTE11"
+N="11"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(11)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Et mon cousin Lameth.</HI
+></P
+><P
+TEIFORM="p"
+>Ce Monsieur de Lameth a toujours conserv&eacute; le m&ecirc;me m&eacute;tier : autrefois bas flatteur de l	a cour, aujourd'hui bas flatteur du peuple ; sa facilit&eacute; de changer de parti et de se plier aux circonstances, fait voir combien il a l'ame noble et g&eacute;n&eacute;reuse, et combien il est digne d'&ecirc;tre le petit-fils d'un contrebandier.</P
+></NOTE
+><NOTE
+ID="NOTE12"
+N="12"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(12)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Mais laissez faire, un jour nous les lanternerons.</HI
+></P
+><P
+TEIFORM="p"
+>Apr&egrave;s avoir d&eacute;pouill&eacute; la Noblesse et le Clerg&eacute; de leurs privileges p&eacute;cuniaires et honorifiques ; ce n'est pas assez, on a voulu les d&eacute;truire tout &agrave; fait, sous pr&eacute;texte que c'est de leur perte que d&eacute;pend la Constitution nouvelle. Homme de sang, tour affermir une Constitution que vous ne connoissez pas et qui sera peut-&ecirc;tre plus vicieuse que l'ancienne, vous parlez de d&eacute;truire ? Qui ? la classe qui a rendu le plus de service &agrave; la France ! Oubliez-vous que la Noblesse a gagn&eacute; la bataille de Fontenoy, et que sans elle peut-&ecirc;tre vous ne seriez plus Fran&ccedil;ais ? Et vous m&eacute;ditez sa destruction ! Voici le passage d'un po&euml;me qui paro&icirc;tra un jour sur ce sujet.</P
+><PB
+N="18"
+TEIFORM="pb"
+></PB
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Songez &agrave; Fontenoy, nos bataillons nombreux,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;D'un bataillon serr&eacute; heurtoient les flancs poudreux.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Une &eacute;paisse colonne horrible et foudroyante,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Portoit dans tous les rangs la mort et l'&eacute;pouvante ;</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Mille efforts r&eacute;unis ont contr'elle &eacute;chou&eacute;s.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Quand des guerriers de choix, de Cherin avou&eacute;s,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;A peine une poign&eacute;e affronte cette masse,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;La choque avec fracas, la brise et la terrasse.</L
+><L
+PART="N"
+TEIFORM="l"
+>&agrave; Combien de plus haut faits pourrois-je vous citer !</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Qu'&agrave; chaque pas l'histoire est pr&ecirc;te d'attester.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Mais d&eacute;j&agrave; des guerriers de la m&ecirc;me origine,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Avoient sauv&eacute; l'Etat dans les champs de Bovine.&raquo;</L
+></LG
+></NOTE
+><NOTE
+ID="NOTE13"
+N="13"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(13)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Ce forfait est rest&eacute; dans l'ombre de la nuit.</HI
+></P
+><P
+TEIFORM="p"
+>Le ch&acirc;telet a voulu l'en tirer, mais le comit&eacute; des recherches s'y est oppos&eacute;. Il paro&icirc;tra t&ocirc;t ou tard, cet ex&eacute;crable complot ; envain les coupables et leurs complices cherchent &agrave; en d&eacute;rober la connoissance ; mais les d&eacute;positions sont faites, non-seulement au ch&acirc;telet, mais chez des notaires de Paris, et m&ecirc;me en pays &eacute;tranger ; rien ne peut emp&ecirc;cher que ce projet ne sort de la nuit o&ugrave; il est enseveli, malgr&eacute; les motionnaires du Palais Royal qui l'excusent. La France et l'Europe indign&eacute;es crient vengeance. Qu'ils tremblent les coupables ; ils ont &eacute;gar&eacute; le peuple et l'ont port&eacute; au crime, mais le jour de la justice arrivera et les Cromwels seront d&eacute;masqu&eacute;s.</P
+></NOTE
+><NOTE
+ID="NOTE14"
+N="14"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(14)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Eh oui, l'abb&eacute; S*** travaille dessous lui.</HI
+></P
+><P
+TEIFORM="p"
+>J'ai vu cet abb&eacute; S*** travailler &agrave; la ruine de sa patrie six mois avant la r&eacute;volution. Il se renfermoit avec l'&eacute;v&ecirc;que d'An *** pour forger en secret les ressorts d'une ligue ex&eacute;crable qui alloit plonger la France dans un</P
+><PB
+N="19"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+>pr&eacute;cipice sans fond. Ces deux hommes avoient une liaison intime avec le duc d'Or***. D&egrave;s ce moment, j'ai augur&eacute; que tout &eacute;toit perdu, puisque le duc d'Or*** y m&ecirc;loit son g&eacute;nie malfaisant. En effet, est-il possible qu un homme, qui, toute sa vie, s'est vautr&eacute; dans la fange, dont les vices les plus inf&acirc;mes &amp; la l&eacute;sine la plus crasse ont &eacute;t&eacute; le partage, soit anim&eacute; du sentiment g&eacute;n&eacute;reux du patriotisme ? Non, la nature ne fait pas de pareille m&eacute;tamorphose. Il est trop ordinaire de voir des ambitieux se cacher sous le masque de la bienfaisance et de l'amour du peuple, afin d'en venir plus s&ucirc;rement &agrave; leur but. Le tableau de l'histoire ne pr&eacute;sente que trop &agrave; nos yeux de ces hommes-l&agrave; ; et le crime encore pr&eacute;sent de Cromwel devroit faire trembler les Fran&ccedil;ais.</P
+></NOTE
+><NOTE
+ID="NOTE15"
+N="15"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(15)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Au centre de Paris est un antre pervers....</HI
+></P
+><P
+TEIFORM="p"
+>Je dois cette peinture du Palais-Royal &agrave; un No. du journal de M. de Rivarol. Je ne fais que r&eacute;p&eacute;ter en vers ce qu'il avoir dit en prose tr&egrave;s-&eacute;l&eacute;gante. Je regrette de n'avoir pas ce passage sous les yeux pour le reproduire ici. Au reste, je ne puis me d&eacute;fendre d'un sentiment d'admiration pour les talens de ce charmant auteur, qui sup&eacute;rieur dans tous les genres m&eacute;ritera de nos jours le premier rang dans la litt&eacute;rature. Son aveu prouve, mieux que tout ce qu'on en pourroit dire, l'excellence de notre cause. Lui seul est capable d'&eacute;craser tous les <HI
+REND="italic"
+TEIFORM="hi"
+> Populus </HI
+> &amp; <HI
+REND="italic"
+TEIFORM="hi"
+> les Cousins Jacques </HI
+> possibles.</P
+></NOTE
+><NOTE
+ID="NOTE16"
+N="16"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(16)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Qu'on les traite par-tout d'inf&acirc;mes et de tra&icirc;tres.</HI
+></P
+><P
+TEIFORM="p"
+>On a voulu trouver des coupables dans tous les Nobles, on leur a suppos&eacute; m&ecirc;me des crimes auxquels ils n'avoient jamais pens&eacute;, &amp; l'on h&eacute;site de punir les sc&eacute;l&eacute;rats du 5 au</P
+><PB
+N="20"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+>6 octobre, C'est, dit-on, e crime de la nation entiere. Quoi ! la Nation entiere s'est port&eacute; &agrave; Versailles pour assassiner l &eacute;pouse de son Roi, ses enfans, et peut-&ecirc;tre le Monarque m&ecirc;me ! Quoi ! cinq &agrave; six mille gredins, &eacute;chapp&eacute;s aux supplices les plus inf&acirc;mes, sans principes, sans honneur, seroient la Nation ! Quelle id&eacute;e se fait-on d'elle aujourd'hui ? Ah ! si le rebut de toute soci&eacute;t&eacute; polic&eacute;e compose la Nation Fran&ccedil;aise, qu'elle est d&eacute;grad&eacute;e cette Nation, jadis si grande !</P
+></NOTE
+><NOTE
+ID="NOTE17"
+N="17"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(17)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Ces ordres font mouvoir des brigands soudoy&eacute;s.</HI
+></P
+><P
+TEIFORM="p"
+>Lorsque Richard-Cour-de-Lion sortit de sa prison Philippe-Auguste &eacute;crivit au frere de Richard, <HI
+REND="italic"
+TEIFORM="hi"
+> prends garde &agrave; toi, Jean sans terr&eacute;, le Lion est sorti de sa cha&icirc;ne.</HI
+> De m&ecirc;me je puis m'&eacute;crier aujourd'hui, <HI
+REND="italic"
+TEIFORM="hi"
+> prenez garde de vous, &ocirc; bons Fran&ccedil;ais ! les monstres sont r&eacute;unis.</HI
+> Oui cette cabale infernale, qui soudoya des brigands pour d&eacute;vaster la province et incendier les ch&acirc;teaux ; des brigands, qu'elle di oit pay&eacute;s par les aristocrates. Eh bien ! cette cabale, divis&eacute;e en deux clubs, vient de se r&eacute;unir &agrave; la nouvelle qu'un danger commun menacoit. Coupables &amp; complices &agrave; la fois d'un crime qui fait fr&eacute;mir la nature, ces sc&eacute;l&eacute;rats ont senti que s&eacute;par&eacute;s, ils seroient trop foibles, ils se sont r&eacute;unis pour' &eacute;touffer cette proc&eacute;dure ; mais ils ont beau faire, la tache reste imprim&eacute;e ; ils sont d&eacute;nonc&eacute;s au tribunal de l'&eacute;quit&eacute;, ils ont l'Europe entier pour juge. Leur pouvoir &eacute;toit fond&eacute; sur l'opinion; mais nous pouvons leur dire avec Voitaire :</P
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Trembler malheureux Rois, votre regne est pass&eacute;&raquo;</L
+></LG
+><P
+TEIFORM="p"
+>Ils ont fait publier, par leurs faiseurs de libelles, que les amis du Roi &eacute;toient des amis du <HI
+REND="italic"
+TEIFORM="hi"
+> livre rouge,</HI
+> parce</P
+><PB
+N="21"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+>qu'ils avoient fr&eacute;mi de rage de voir tout Paris applaudir &agrave; ce vers de Tarare.</P
+><P
+TEIFORM="p"
+>&laquo;Le respect pour les Rois est le premier devoir&raquo;.</P
+><P
+TEIFORM="p"
+>Oui, malgr&eacute; les principes erron&eacute;s dont ils ont infect&eacute; leur patrie, il est encore de vrais Fran&ccedil;ais, non amis du <HI
+REND="italic"
+TEIFORM="hi"
+> livre rouge,</HI
+> &amp; des anciens abus dont ils &eacute;toient la victime ; mais de l'ordre, mais des loix , mais de la religion, que ces messieurs de pr&eacute;tendue Assembl&eacute;e Nationale ont d&eacute;truits. Voyez ce qu en dit, non le <HI
+REND="italic"
+TEIFORM="hi"
+> livre rouge,</HI
+> mais le <HI
+REND="italic"
+TEIFORM="hi"
+> livre jaune,</HI
+> ou le tableau de la conduite de l'Assembl&eacute;e pr&eacute;tendue Nationale. L&agrave;, vous aurez, mes bons Fran&ccedil;ais, un ample d&eacute;tail des sottises et des atro&ccedil;it&eacute;s de ces messieurs.</P
+></NOTE
+><NOTE
+ID="NOTE18"
+N="18"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(18)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> S*avance et de la Reine ose assi&eacute;ger la porte.</HI
+></P
+><P
+TEIFORM="p"
+>Un crime de <HI
+REND="italic"
+TEIFORM="hi"
+> leze-majest&eacute;</HI
+> au premier chef n'est pas un crime de <HI
+REND="italic"
+TEIFORM="hi"
+> leze-Nation</HI
+> ! Voil&agrave; ce qu'on ose r&eacute;p&eacute;ter : et qu est-ce donc, gens vils ? Vous qui jadis &eacute;tiez espions de police et les supp&ocirc;ts du plus affreux despotisme que nous d&eacute;testons ; voudriez-vous bien nous expliquer la diff&eacute;rence que vous mettez entre ces deux especes de crimes, &agrave; pr&eacute;sent que vous &ecirc;tes devenu d&eacute;magogue, mais votre r&ocirc;le sera &eacute;ternellement la bassesse ; je rougis de vous interroger. Vous avez &eacute;t&eacute; coimplices des coupables, &amp; vous voulez les d&eacute;fendre actuellement, voil&agrave; votre secret : il n'est pas difficile &acirc; p&eacute;n&eacute;trer.</P
+></NOTE
+><NOTE
+ID="NOTE19"
+N="19"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(19)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Quand un autre mortel.</HI
+></P
+><P
+TEIFORM="p"
+>O la Fayette ! serois-tu encore le h&eacute;ros de la nouvelle Angleterre ? Toi qui a appris &agrave; veiller aux plaines de l'Am&eacute;rique, toi, actif dans les moindres occasions, tu dormois</P
+><PB
+N="22"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+>lorsque la vie de ton Roi &eacute;toit en danger ! lorsque son palais &eacute;toit entour&eacute; de brigands ! lorsque des assassins assi&eacute;geoient l'appartement de son &eacute;pouse Toi ! qui fais si bien la police &agrave; Paris, et qui surpasses en habilit&eacute;, les Sartine, les Le Noir ; toi, dont les espions remplissent les caf&eacute;s et les maisons les plus respectables, as tu bien pu t'oublier dans cette occasion. Ainsi les plus grands hommes font des fautes ; ainsi Annibal n&eacute;gligea d'aller assi&eacute;ger Rome apr&egrave;s la bataille de Canne. Ainsi le g&eacute;nie de la Fayette a sommeill&eacute; dans le moment le plus important de sa vie. N'importe, &ocirc; la Fayette, tu n'en es pas moins un grand homme. Les Fran&ccedil;ais, de quel parti qu'ils soient, te doivent beaucoup. Re&ccedil;ois donc mon hommage, il te sera moins suspect de ma part, que de celle de ces personnages que la peur ou la bassesse ont jett&eacute; dans ton parti.</P
+></NOTE
+><NOTE
+ID="NOTE20"
+N="20"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><P
+TEIFORM="p"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(20)</HI
+><HI
+REND="italic"
+TEIFORM="hi"
+> Sur L'IRR&Eacute;LIGION, et sur tout L'ATH&Eacute;ISME.</HI
+></P
+><P
+TEIFORM="p"
+>Messieurs de l'Assembl&eacute;e ne cachent pas leurs vues &agrave; cet &eacute;gard. Ils ne veulent plus de religion ; elle est inutile selon eux. Je ne r&eacute;futerai pas ces principes contraires &agrave; ceux des l&eacute;gislateurs les plus c&eacute;lebres de l'antiquit&eacute; ; d'ailleurs le m&eacute;rite de ces messieurs ne souffre pas de comparaison. Mais je dois restituer au public la fin de la satyre telle qu'elle &eacute;toit avant d'&ecirc;tre chang&eacute;e.</P
+></NOTE
+></DIV1
+><DIV1
+TYPE="epilogue"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;D&eacute;j&agrave; des &eacute;crivains emport&eacute;s d'un beau feu,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Ont arrach&eacute; le masque &agrave; ces rois sans aveu.</L
+><PB
+N="23"
+TEIFORM="pb"
+></PB
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Leurs mains, apr&egrave;s ce coup , leur en pr&eacute;pare d'autres,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Qu'ils tremblent en lisant les actes des Ap&ocirc;tres.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Ils ne peuvent jamais leur faire un tr&egrave;s-grand mal.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Du furieux Marat n'ont-ils pas le journal ?</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Lui, nous le prot&eacute;geons, car sa m&acirc;le &eacute;loquence,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Tend &agrave; faire &eacute;gorger la moiti&eacute; de la France.</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Les Muses.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Et le peuple est s&eacute;duit par de tels charlatans !</L
+></SP
+><SP
+TEIFORM="sp"
+><SPEAKER
+TEIFORM="speaker"
+>Le Patriote.</SPEAKER
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Comment, en doutez-vous ? nos projets &eacute;clatans,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Ont trop bien, croyez-moi, captiv&eacute; le vulgaire ;</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Mais &agrave; vos doux avis nous devons un salaire.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Pr&egrave;s d'un peuple aveugl&eacute;, qu'on souleve &agrave; propos <REF
+TARGORDER="U"
+TARGET="NOTE21"
+TEIFORM="ref"
+>(1)</REF
+></L
+><L
+PART="N"
+TEIFORM="l"
+> &laquo;On va vous accuser de mille affreux complots.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Des juges, des t&eacute;moins, vendus aux patriotes, &laquo;produiront contre vous les plus terribles notes.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo;Ce proc&egrave;s, une fois, vous tombant sur les bras, &laquo;Craignez le Ch&acirc;telet et le sort de Favras.</L
+></SP
+><P
+REND="rule center"
+TEIFORM="p"
+></P
+><NOTE
+ID="NOTE21"
+N="21"
+PLACE="unspecified"
+ANCHORED="YES"
+TEIFORM="note"
+><HI
+REND="bold"
+TEIFORM="hi"
+>(1)</HI
+> Le propos que M. de Mirabeau l'a&icirc;n&eacute; a tenu &agrave; la s&eacute;ance du 21 Ao&ucirc;t, vient &agrave; l'appui de ce qu'on avance.</NOTE
+></DIV1
+><DIV1
+ID="EDITORNOTE"
+TYPE="Editor's Note"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><PB
+N="24"
+TEIFORM="pb"
+></PB
+><P
+TEIFORM="p"
+>NOTA DE L'EDITEUR.</P
+><P
+TEIFORM="p"
+>L'auteur de cette Satyre s'occupe actuellement d'un po&euml;me.  Intitul&eacute; : <HI
+REND="italic"
+TEIFORM="hi"
+> la R&eacute;volution,</HI
+> o&ugrave; les Conspirateurs ne seront pas m&eacute;nag&eacute;s. L&agrave;, se d&eacute;ploieront les complots, les cabales de tous ces personnages obscurs, qui , sur les d&eacute;bris de l'ancien Gouvernement, ont &eacute;lev&eacute; un despotisme plus arbitraire que celui de l'Asie, qui pour nourrir la f&eacute;rocit&eacute; du peuple, dont ils ont besoin, l'alimente du sang des innocens, qu'ils disent criminels <HI
+REND="italic"
+TEIFORM="hi"
+> de Leze-Nation.</HI
+> Espece d'attentats dont ils n'ont pas donn&eacute; encore une exacte d&eacute;finition, et, sur lequel ils n'ont pas statu&eacute; de loix.</P
+><LB
+TEIFORM="lb"
+></LB
+><TRAILER
+REND="center"
+TEIFORM="trailer"
+>Fin des Notes.</TRAILER
+></DIV1
+></BACK
+></TEXT
+></TEI.2
+>

@@ -1,0 +1,924 @@
+<TEI.2
+TEIFORM="TEI.2"
+><TEIHEADER
+TYPE="text"
+STATUS="NEW"
+TEIFORM="teiHeader"
+><FILEDESC
+TEIFORM="fileDesc"
+><TITLESTMT
+TEIFORM="titleStmt"
+><TITLE
+TEIFORM="title"
+>Chanson d'un sans-culotte, sur la prise de Toulon: electronic edition</TITLE
+><AUTHOR
+TEIFORM="author"
+>anonymous</AUTHOR
+><RESPSTMT
+TEIFORM="respStmt"
+><RESP
+TEIFORM="resp"
+>Compiled and edited by</RESP
+><NAME
+TEIFORM="name"
+>Michael Kazanjian</NAME
+></RESPSTMT
+></TITLESTMT
+><PUBLICATIONSTMT
+TEIFORM="publicationStmt"
+><PUBLISHER
+TEIFORM="publisher"
+>Lewis H. Beck Center</PUBLISHER
+><PUBPLACE
+TEIFORM="pubPlace"
+>Emory University</PUBPLACE
+><ADDRESS
+TEIFORM="address"
+><ADDRLINE
+TEIFORM="addrLine"
+>Atlanta, Georgia  30322</ADDRLINE
+></ADDRESS
+><AVAILABILITY
+STATUS="UNKNOWN"
+TEIFORM="availability"
+><P
+TEIFORM="p"
+>2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</P
+></AVAILABILITY
+><DATE
+TEIFORM="date"
+>2002</DATE
+></PUBLICATIONSTMT
+><SERIESSTMT
+TEIFORM="seriesStmt"
+><TITLE
+TEIFORM="title"
+>French Revolution Pamphlet Collection</TITLE
+></SERIESSTMT
+><SOURCEDESC
+DEFAULT="NO"
+TEIFORM="sourceDesc"
+><BIBL
+DEFAULT="NO"
+TEIFORM="bibl"
+><TITLE
+TEIFORM="title"
+>Chanson d'un sans-culotte, sur la prise de Toulon.</TITLE
+>
+<PUBPLACE
+TEIFORM="pubPlace"
+>Paris?</PUBPLACE
+><DATE
+TEIFORM="date"
+>1793</DATE
+></BIBL
+></SOURCEDESC
+></FILEDESC
+><ENCODINGDESC
+TEIFORM="encodingDesc"
+><PROJECTDESC
+DEFAULT="NO"
+TEIFORM="projectDesc"
+><P
+TEIFORM="p"
+>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</P
+><P
+TEIFORM="p"
+>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</P
+></PROJECTDESC
+><EDITORIALDECL
+DEFAULT="NO"
+TEIFORM="editorialDecl"
+><P
+TEIFORM="p"
+>I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</P
+></EDITORIALDECL
+></ENCODINGDESC
+><PROFILEDESC
+TEIFORM="profileDesc"
+><CREATION
+TEIFORM="creation"
+><DATE
+TEIFORM="date"
+>1793&gt;</DATE
+></CREATION
+></PROFILEDESC
+><REVISIONDESC
+TEIFORM="revisionDesc"
+><CHANGE
+TEIFORM="change"
+><DATE
+TEIFORM="date"
+>2002</DATE
+><RESPSTMT
+TEIFORM="respStmt"
+><NAME
+TEIFORM="name"
+>Michael Kazanjian</NAME
+><RESP
+TEIFORM="resp"
+>staff</RESP
+></RESPSTMT
+><ITEM
+TEIFORM="item"
+>Sgml tags inserted in compliance with TEI guidelines using TEI P3</ITEM
+></CHANGE
+></REVISIONDESC
+></TEIHEADER
+><TEXT
+TEIFORM="text"
+><FRONT
+TEIFORM="front"
+><TITLEPAGE
+TEIFORM="titlePage"
+><DOCTITLE
+TEIFORM="docTitle"
+><TITLEPART
+TYPE="main"
+TEIFORM="titlePart"
+>Chanson d'un sans-culotte, sur la prise de Toulon.</TITLEPART
+></DOCTITLE
+><DOCAUTHOR
+TEIFORM="docAuthor"
+>Anonymous.</DOCAUTHOR
+><DOCDATE
+TEIFORM="docDate"
+>1793.</DOCDATE
+></TITLEPAGE
+></FRONT
+><BODY
+TEIFORM="body"
+><DIV1
+ID="CHANSON"
+N="Chanson d'un sans-culotte, sur la prise de Toulon"
+TYPE="Chanson"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="div1"
+><PB
+N="1"
+TEIFORM="pb"
+></PB
+><BIBL
+DEFAULT="NO"
+TEIFORM="bibl"
+>Se vend chez le citoyen <NAME
+TEIFORM="name"
+>GOUJON</NAME
+>, marchand de musique et de cartes g&eacute;ographiques, grande cour maison &Eacute;galit&eacute;.  A PARIS.</BIBL
+><P
+REND="rule center"
+TEIFORM="p"
+></P
+><P
+TEIFORM="p"
+><TITLE
+TEIFORM="title"
+>SUR L'A I R <HI
+REND="italic"
+TEIFORM="hi"
+> de la Carmagnole.</HI
+></TITLE
+></P
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Tant d'fier-&agrave;-bras qu'en sav' si long,		<HI
+REND="italic align-right"
+TEIFORM="hi"
+>bis.</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>Ont d'la pele au cu d'vant Toulon ;		<HI
+REND="italic align-right"
+TEIFORM="hi"
+>bis.</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>V'l&agrave; donc tous ces fendans</L
+><L
+PART="N"
+TEIFORM="l"
+>Dehors quand j'somm' dedans,</L
+><L
+PART="N"
+TEIFORM="l"
+>Chantant la carmagnole,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dansant au son						<HI
+REND="italic align-right"
+TEIFORM="hi"
+>bis.</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>Du canon.</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Si les Anglais vant' leur valeur,</L
+><L
+PART="N"
+TEIFORM="l"
+>La n&ocirc;tre, on l'voit; vaut ben la leur.</L
+><L
+PART="N"
+TEIFORM="l"
+>Faut ben qu'la trahison</L
+><L
+PART="N"
+TEIFORM="l"
+>Tremble d'vant la raison</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui chant' la carmagnole</L
+><L
+PART="N"
+TEIFORM="l"
+>Et danse au son</L
+><L
+PART="N"
+TEIFORM="l"
+>Du canon.</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Eux ben v&ecirc;tus, nous mal chauss&eacute;es !</L
+><L
+PART="N"
+TEIFORM="l"
+>Eux gras et frais ! nous harass&eacute;s !</L
+><L
+PART="N"
+TEIFORM="l"
+>Qui nous consoloit tous</L
+><L
+PART="N"
+TEIFORM="l"
+>De c' qu'i savions plus qu' nous ?...</L
+><L
+PART="N"
+TEIFORM="l"
+>L'air de la carmagnole</L
+><L
+PART="N"
+TEIFORM="l"
+>Qu'on danse au son</L
+><L
+PART="N"
+TEIFORM="l"
+>Du canon.</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Gn'ye&ucirc;t-i' que l'espoir d'eun' mention</L
+><L
+PART="N"
+TEIFORM="l"
+>Inscrite aux fastes d'la nation !</L
+></LG
+><PB
+N="2"
+TEIFORM="pb"
+></PB
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Gn'ya pas de r'tranchement</L
+><L
+PART="N"
+TEIFORM="l"
+>O&ugrave; l'on n'courr' dans l'moment</L
+><L
+PART="N"
+TEIFORM="l"
+>Chanter la carmagnole,</L
+><L
+PART="N"
+TEIFORM="l"
+>Danser au son</L
+><L
+PART="N"
+TEIFORM="l"
+>Du canon.</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>George, apprenant c'd&eacute;log'ment-l&agrave;, </L
+><L
+PART="N"
+TEIFORM="l"
+>Dit, avec tout l'esprit qu'il a,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Toulon fut l' prix d'mon or ;</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Faut-i' voir mon tr&eacute;sor</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Danser la carmagnole,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Partir au son</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Du canon !</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Quat'repr&eacute;sentans qu'&eacute;toient l&agrave;,....</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Oh ! l'on n' repr&eacute;sent' pas mieux qu'&ccedil;a.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; En eux l'soldat r'conno&icirc;t</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Quat' t&ecirc;t' dans un bonnet</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Chantant la carmagnole,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Le tout au son</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Du canon.</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Robespierre, un d'ces sans-quartier,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; D'la breche &agrave; tous ouvre l' sentier,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Et, pour y voir plus clair,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Fait faire un feu d'enfer,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Chantant la carmagnole,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Grimpant au son</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Du canon.</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Comme i!s frappoient et frappient dru,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; L'pere &agrave; Fr&eacute;ron l'y est apparu,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Disant : <HI
+REND="italic"
+TEIFORM="hi"
+>Mon bien-aim&eacute; !</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; <HI
+REND="italic"
+TEIFORM="hi"
+>Ton zel' m'a ranim&eacute;,</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; <HI
+REND="italic"
+TEIFORM="hi"
+>Tout comm' la carmagnole </HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; <HI
+REND="italic"
+TEIFORM="hi"
+>T'anim' au son</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; <HI
+REND="italic"
+TEIFORM="hi"
+>Du canon.</HI
+></L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; <HI
+REND="italic"
+TEIFORM="hi"
+>J'fis la guerre aux esprits d'travers ;</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; <HI
+REND="italic"
+TEIFORM="hi"
+>Fais-la toujours aux c&oelig;urs pervers !</HI
+></L
+></LG
+><PB
+N="3"
+TEIFORM="pb"
+></PB
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; <HI
+REND="italic"
+TEIFORM="hi"
+>Moi j'vais, avec Marat,</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; <HI
+REND="italic"
+TEIFORM="hi"
+>En l'y apprenant c'combat,</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; <HI
+REND="italic"
+TEIFORM="hi"
+> Chanter la carmagnole,</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; <HI
+REND="italic"
+TEIFORM="hi"
+> F&ecirc;ter le son</HI
+></L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; <HI
+REND="italic"
+TEIFORM="hi"
+>Du canon.</HI
+></L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Nous v'l&agrave;, dit George, dans d'beaux draps !</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Pitt ! et j'crois voir c'que tu d'viendras ;</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Ton air tout d&eacute;pit&eacute;</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Semble un d&eacute;capit&eacute; ;</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Tu crains la carmagnole,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Et moi, le son</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Du canon.</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; C'est vrai, dit Pitt, ces chiens d'Fran&ccedil;ais</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; I'compt' leux jours par leux succ&egrave;s.</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Nos ci-d'vant gens de bien,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Que je payois si bien,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Tout craint la carmagnole,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Tout fuit au son</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Du canon.</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Hohenloh', Brunswich et Cobourg,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Nous mand' qu'ils ont pris tout-&agrave;-tour,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; De fiers renseignemens</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Sur les d&eacute;m&eacute;nag'mens,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Que press' la carmagnole,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Le tout au son</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Du canon.</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; On les voit tant d&eacute;m&eacute;nager</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Qu' les tra&icirc;tres n'os' plus les loger,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Tant ceux qu'en f'soient les frais</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Craign' d'entendre d'trop pr&egrave;s</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; L'air  de la carmagnole,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Le tout au son</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Du canon.</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Jusqu'au fin fa&icirc;te d'un rocher</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; L' sans-culott' court au lieu d'marcher ;</L
+></LG
+><PB
+N="4"
+TEIFORM="pb"
+></PB
+><LG
+TYPE="CDATA"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Sans ch'vaux comm' sans souliers,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Y tra&icirc;n' canons, mortiers ;</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Et d'-l&agrave; la carmagnole,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Et l'heureux son</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Du canon.</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Le feu qui l's'&eacute;chausse au Midi,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Au Nord m&ecirc;me i' n' s'est pas r'froidi :</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; J'crains qu'un d'leux d&eacute;cadis</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; I' n'fass' aux Miladis,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Danser la carmagnole,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Le tout au son</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Du canon.</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Rayons, dit George, d'nos &eacute;crits,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Qu' la Montagne enfante eun' souris ;</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Son feu qu'ianim' Paris,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; En ch'minant fait des p'tits</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Qui chant' la carmagnole,</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Et dans' au son</L
+><L
+PART="N"
+TEIFORM="l"
+>&laquo; Du canon.</L
+></LG
+><P
+TEIFORM="p"
+><TITLE
+TEIFORM="title"
+>Aux R&Eacute;PUBLICAINS.</TITLE
+></P
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Nous, en attendant qu' la raison</L
+><L
+PART="N"
+TEIFORM="l"
+>Mett' tous les c&oelig;urs &agrave; l'unisson,</L
+><L
+PART="N"
+TEIFORM="l"
+>Aux yeux d' la Libert&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Dont l'arbre est bien plant&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>Chantons la carmagnole,</L
+><L
+PART="N"
+TEIFORM="l"
+>Vive le son</L
+><L
+PART="N"
+TEIFORM="l"
+>Du canon.</L
+></LG
+><LG
+TYPE="stanza"
+ORG="UNIFORM"
+SAMPLE="COMPLETE"
+PART="N"
+TEIFORM="lg"
+><L
+PART="N"
+TEIFORM="l"
+>Ou la mort ou l'&eacute;galit&eacute;,</L
+><L
+PART="N"
+TEIFORM="l"
+>V'l&agrave; l'vrai serment d'la libert&eacute; :</L
+><L
+PART="N"
+TEIFORM="l"
+>Pour tout R&eacute;publicain</L
+><L
+PART="N"
+TEIFORM="l"
+>Point d'parti mitoyen ;</L
+><L
+PART="N"
+TEIFORM="l"
+>C'est l'v&oelig;u qu' la carmagnole</L
+><L
+PART="N"
+TEIFORM="l"
+>Annonce au son</L
+><L
+PART="N"
+TEIFORM="l"
+>Du canon.</L
+></LG
+><TRAILER
+REND="center"
+TEIFORM="trailer"
+> FIN </TRAILER
+></DIV1
+></BODY
+><BACK
+TEIFORM="back"
+></BACK
+></TEXT
+></TEI.2
+>
