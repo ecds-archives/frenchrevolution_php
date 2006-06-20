@@ -1,0 +1,364 @@
+<TEI.2 id="110n01_1005">
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title>La Chasse aux b&#x00EA;tes puantes et f&#x00E9;roces...: electronic edition</title>
+        <author/>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Michael Kazanjian</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Lewis H. Beck Center</publisher>
+        <pubPlace>Emory University</pubPlace>
+        <address>
+          <addrLine>Atlanta, Georgia  30322</addrLine>
+        </address>
+        <availability>
+          <p>2003 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</p>
+        </availability>
+        <date>2003</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>French Revolution Pamphlet Collection</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>La Chasse aux b&#x00EA;tes puantes et f&#x00E9;roces...</title>
+          <pubPlace>Paris</pubPlace>
+          <date>1789</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</p>
+        <p>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  I converted footnotes to endnotes for encoding reasons. I also omitted page signatures: A2 from p. 3, A3 from p. 5, A4 from p. 7, A5 from p. 9, B from p. 17, B2 from p. 19 and C from p. 25. For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <change>
+        <date>2003</date>
+        <respStmt>
+          <name>Michael Kazanjian</name>
+          <resp>staff</resp>
+        </respStmt>
+        <item>Sgml tags inserted in compliance with TEI guidelines using TEI P3</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text id="110n01_1004">
+    <front id="110n01_1001">
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">LA CHASSE AUX B&#x00CA;TES PUANTES ET F&#x00C9;ROCES, </titlePart>
+          <titlePart type="main">
+            <hi rend="italic">Qui apr&#x00E8;s avoir inond&#x00E9; les bois, les plaines, &#x0026;c. se sont r&#x00E9;pandues &#x00E0; la Cour &#x0026; &#x00E0; la Capitale.</hi>
+          </titlePart>
+        </docTitle>
+        <titlePart type="main">
+          <hi rend="italic">Suivie de la Liste des Proscrits de la Nation, &#x0026; de la notice des peines qui leur sont inflig&#x00E9;es par contumace, en attendant le succ&#x00E8;s de poursuites qui sont faites de leurs personnes, ou l'occasion.</hi>
+        </titlePart>
+        <titlePart type="main">
+          <hi rend="italic">Par ordre expr&#x00E8;s du Co.... Perllll, &#x0026; en vertu d'une d&#x00E9;lib&#x00E9;ration unanime d'icelui, &#x00E0; laquelle ont assist&#x00E9; tous les Citoyens de cette ville.</hi>
+        </titlePart>
+        <docImprint>A PARIS, De l'Imprimerie de la Libert&#x00E9;. <date>1789.</date></docImprint>
+      </titlePage>
+    </front>
+    <body id="110n01_1002">
+      <div1 id="r110n01a" type="misc">
+        <pb n="2"/>
+        <pb n="3"/>
+        <p>D&#x00C9;CRET</p>
+        <p>Sur le rapport qui nous &#x00E0; &#x00E9;t&#x00E9; fait par le Capitaines des Chasses, d'apr&#x00E8;s les repr&#x00E9;sentations des Gardes &#x0026; Pays&#x00E0;ns des Terres &#x0026; Seigneuries des environs de Paris, disant que le nombre consid&#x00E9;rable des b&#x00EA;tes puantes &#x0026; f&#x00E9;roces qui ravagent ordinairement les bois, plaines, parcs, &#x0026;c. apr&#x00E8;s avoir d&#x00E9;vast&#x00E9; la plus grande quantit&#x00E9; de ces possessions, &#x0026; d&#x00E9;truit en partie l'espoir du Laboureur, s'&#x00E9;toient tout-&#x00E0;-coup r&#x00E9;pandues &#x00E0; la Cour &#x0026; dans la capitale, &#x0026; y faisoient le plus affreux ravage.</p>
+        <p>Jugeant qu'il &#x00E9;toit de notre prudence de continuer &#x00E0; d&#x00E9;truire, comme par le pass&#x00E9;, toutes ces b&#x00EA;tes puantes &#x0026; dangereuses, ainsi que les b&#x00EA;tes f&#x00E9;roces qui se sont jointes &#x00E0; elles ; nous avons r&#x00E9;solu, d'apr&#x00E8;s les opinions de notre conseil, d'augmenter le prix de leur perte, toujours pay&#x00E9; aux Gardes Chasses, Paysans, &#x0026;c. &#x0026; comme leur espece le reproduit journellement, &#x0026; que le nombre de ceux qui leur donnoient pr&#x00E9;c&#x00E9;demment la chasse, ne seroit pas suffisant pour
+<pb n="4"/>
+rem&#x00E9;dier aux inconv&#x00E9;nients qui pourroient r&#x00E9;sulter du d&#x00E9;gat qu'elles nous ont d&#x00E9;j&#x00E0; fait &#x00E9;prouver, nous avons rassembl&#x00E9; autour de nous nos am&#x00E9;s &#x0026; f&#x00E9;als tr&#x00E8;s-chers Gardes-Fran&#x00E7;oises, ainsi que tous les Citoyens de bonne volont&#x00E9;, dont le premier int&#x00E9;r&#x00EA;t doit &#x00EA;tre de veiller &#x00E0; leur propre conservation &#x0026; &#x00E0; celle de leurs biens. Nous bornant au nombre qui pourra r&#x00E9;sulter de cet assemblage, sans vouloir, qu'&#x00E0; la derniere extr&#x00E9;mit&#x00E9;, agr&#x00E9;er les secours qui nous ont &#x00E9;t&#x00E9; offerts par les Braconniers, petits Suisses &#x0026; Allemands dont nous n'avons cependant pas tout-a-fait rejet&#x00E9; les services, mais que nous n'emploierons qu'avec une extr&#x00EA;me prudence &#x0026; circonspection, nous m&#x00E9;fiant toujours de gens qui, sous le pr&#x00E9;texte de chasser la b&#x00EA;te fauve, pourroient aussi d&#x00E9;truire le bon gibier.</p>
+        <p>A CES CAUSES voulant, &#x00E0; quelque prix que ce soit, consommer la destrution totale de ces b&#x00EA;tes carnassieres &#x0026; venimeuses que nous avons d&#x00E9;j&#x00E0; commenc&#x00E9;e en partie, nous avons conclu qu'il &#x00E9;toit n&#x00E9;cessaire d'int&#x00E9;resser le courage &#x0026; l'adresse par une r&#x00E9;compense g&#x00E9;n&#x00E9;reusement proportionn&#x00E9;e &#x00E0; la b&#x00EA;te morte qui nous sera pr&#x00E9;sent&#x00E9;e ou amen&#x00E9;e dans un &#x00E9;tat ou nous n'en aurons plus rien &#x00E0; craindre.</p>
+        <p>En cons&#x00E9;quence, avons arr&#x00EA;t&#x00E9; entre nous le tarif suivant pour &#x00EA;tre communiqu&#x00E9; &#x00E0;
+<pb n="5"/>
+nos nouveaux Chasseurs. Voulons qu'il soit lu, publi&#x00E9;, imprim&#x00E9; &#x0026; affich&#x00E9; dans tous les lieux de notre surveillance, &#x00E0; ce que personne n'en pr&#x00E9;tende cause d'ignorance : voulant de m&#x00EA;me employer tous les moyens de parvenir &#x00E0; nos fins, invitons tous les Habitans de la Campagne &#x0026; de toutes les villes du royaume, &#x00E0; nous pr&#x00EA;ter la main pour cette ex&#x00E9;cution, leur assurant tous droits &#x00E0; la r&#x00E9;compense ci-apr&#x00E8;s d&#x00E9;sign&#x00E9;e.</p>
+        <p>ARTICLE I.</p>
+        <p>ON est fortement convaincu qu'une Panthere, &#x00E9;chapp&#x00E9;e de la Cour d'Allemagne,  a s&#x00E9;journ&#x00E9; en France quelques ann&#x00E9;es sans y commettre de ravages ; on l'a aper&#x00E7;ue &#x00E0; Versailles, dans plusieurs parcs, quelquefois aux promenades. La douceur du climat paroissoit avoir apais&#x00E9; sa f&#x00E9;rocit&#x00E9;, le Roi m&#x00EA;me se plaisoit &#x00E0; la voir ; mais depuis un certain temps, elle a repris toute la rage germanique. Fixons sa mort &#x00E0; quarante mille livres. Elle est forte, puissante, les yeux enflamm&#x00E9;s &#x0026; porte un poil roux, ci ...... 40,000 liv. qui seront pay&#x00E9;es sur le champ au Palais Royal, au Chasseur assez habile pour ne la pas manquer.</p>
+        <p>II.</p>
+        <p>UN Tigre &#x00E9;lev&#x00E9; &#x00E0; la M&#x00E9;nagerie de Vertailles, sous la direction &#x0026; le gouvernement 
+<pb n="6"/>
+de M. de la <hi rend="italic">Vauguyon</hi> vient d'en prendre la fuite apr&#x00E8;s avoir fait les plus horribles d&#x00E9;gats: ayant tout &#x00E0; craindre de son retour en ce Royaume, &#x00E9;valuons sa mort &#x00E0; trente-cinq mille livres qui seront pay&#x00E9;es de m&#x00EA;me au Palais Royal. On assure qu'il est chez l'Electeur de Cologne.</p>
+        <p>III,</p>
+        <p>UNE Louve de Barbarie, &#x00E9;lev&#x00E9;e par curiosit&#x00E9; par la familie des Polignac,  par une bizarrerie monstrueuse de la nature, s'&#x00E9;tant accoupl&#x00E9;e avec le Tigre &#x0026; le Panth&#x00E8;re ci-dessus d&#x00E9;sign&#x00E9;s, ainsi qu'avec une prodigieuse quantit&#x00E9; d'animaux de diff&#x00E9;rentes especes, en est devenue tout-&#x00E0;-coup enrag&#x00E9;e ; elle court aussi le pays. Vingt mille livres pour celui qui la tuera.</p>
+        <p>IV.</p>
+        <p>UN vieux Renard de cinquante trois ans, dont on n'e&#x00DB;t jamais soup&#x00E7;onn&#x00E9; la ruse &#x0026; la m&#x00E9;chancet&#x00E9;, vient aussi de disparo&#x00EE;tre ; on l'a vu souvent dans les bois &#x0026; aux environs de Chantilly. Dix mille francs &#x00E0; celui qui nous pr&#x00E9;sentera sa peau.</p>
+        <p>V.</p>
+        <p>Un Oiseau de Proie, vulgairement connu sous le nom de Duc, &#x0026; auquel on donnoit plaisamment le nom de Duc de Bourbon, a pris son vol par les villes de Bruxelles,
+<pb n="7"/>
+Francfort &#x0026;c. Cet oiseau si cruel ne voltige pas sans dessein dans ces villes ; pareille somme de dix mille livres pour celui qui nous le repr&#x00E9;sentera les yeux crev&#x00E9;s.</p>
+        <p>VI.</p>
+        <p>UN jeune Oiseau de la m&#x00EA;me espece, fruit de la couv&#x00E9;e de ce premier, &#x0026; dont on a lieu de craindre le m&#x00EA;me effet. Cinq mille livres pour m&#x00EA;me condition.</p>
+        <p>VII</p>
+        <p>Un vieux Lion de 55 ans, &#x00E9;lev&#x00E9; &#x00E0; l'&#x00EE;le Adam, ch&#x00E2;teau tr&#x00E8;s-consid&#x00E9;rable, appartenant au Prince de Conti, comme tout aussi dangereux que les animaux ci-dessus, &#x00E9;gale somme de dix mille livres pour r&#x00E9;compense de sa mort.</p>
+        <p>VIII.</p>
+        <p>UN Singe du Mexique, connu sous le nom de Singe Capucin, devenu tout-&#x00E0;-coup malicieux &#x0026; perfide, deux cents livres &#x00E0; qui pourra nous donner des preuves certaines qu'il n'y a plus rien &#x00E0; en appr&#x00E9;hender ; on le voit quelquefois roder dans l'int&#x00E9;rieur &#x0026; autour des murs de l'Archev&#x00EA;ch&#x00E9;, quelquesois dans la M&#x00E9;tropole, mais rarement.</p>
+        <p>IX.</p>
+        <p>UN H&#x00E9;risson tr&#x00E8;s-sauvage, apr&#x00E8;s avoir long-temps fatigu&#x00E9; les troupes camp&#x00E9;es au champ de Mars, a paru dans la capitale,
+<pb n="8"/>
+notamment au pont tournant, aux Thuileries, puis de l&#x00E0; &#x00E0; Versailles, a disparu de m&#x00EA;me. Deux cents livres &#x00E0; qui le trouvera mort ou vif. <ref target="r110n01note8i">(i).</ref></p>
+        <p>X.</p>
+        <p>UNE Fouine qui a long-temps appartenu &#x00E0; M. de <hi rend="italic">Calonne</hi>, quoique M. <hi rend="italic">le Brun</hi> n'ait point voulu la lui c&#x00E9;der en propre, en raison de certain talent. Cinquante francs &#x00E0; qui pourra la chasser hors du royaume.</p>
+        <p>XI.</p>
+        <p>UN Ecureuil venant des For&#x00EA;ts du comt&#x00E9; de Guiche, qui a quelquefois fait amusement de Messieurs les Gardes du Roi, &#x00E9;tant actuellement sauvage, tra&#x00EE;tre &#x0026; m&#x00E9;chant, cent livres &#x00E0; qui pourra le mettre en cage. On invite Messieurs les Gardes du Roi &#x00E0; s'en d&#x00E9;faire s'il paroit parmi eux, sans cependant oser leur offrir d'autre r&#x00E9;compense qu'un remerciement national.</p>
+        <p>XII.</p>
+        <p>UN Blaireau, grand destructeur de grains, qu'on a vu &#x00E0; la grande chambre sans savoir pourquoi, dans l'h&#x00F4;tel de M. Duv. <hi rend="italic">d'Espremenil</hi>, &#x00E0; Paris, on sait bien comment, dans l'appartement du comit&#x00E9; secret &#x0026; clandestin
+<pb n="9"/>
+d'une grande Dame &#x00E0; Versailles, avec sa confidente &#x0026; autres, o&#x00F9; il &#x00E9;toit entr&#x00E9; par un trou. Vingt francs pour qui le tuera.</p>
+        <p>XIII.</p>
+        <p>UN Hibou, dont le chant sinistre s'est fait entendre plusieurs fois &#x00E0; l'Ass&#x00E8;mbl&#x00E9;e de l'Acad&#x00E9;mie fran&#x00E7;oise, &#x0026; qui a vol&#x00E9; dans la chaire de Notre-Dame, le jour qu'on y pronon&#x00E7;a l'oraison funebre de S. A. S. Monseigneur le Duc d'Orl&#x00E9;ans, &#x0026; qui s'est plu depuis dans toutes les Assembl&#x00E9;es de cabale. Vingt francs pour celui qui s'en faisira <ref target="r110n01note9i">(i).</ref></p>
+        <p>XIV.</p>
+        <p>UN Chat-Huant, toujours perch&#x00E9; sur le sauteuil de Beaumarchais, &#x0026; dans son cabinet, lorsqu'il y travaille &#x00E0; ses sp&#x00E9;culations sur l'ex&#x00E9;crable commerce des grains. Vingt francs &#x00E0; celui qui nous en d&#x00E9;fera.</p>
+        <p>XV.</p>
+        <p>UN noir Corbeau, qui habita l'h&#x00F4;tel de la Police avant la Lieutenance de M. de <hi rend="italic">Crosne</hi>, &#x0026; qui fait encore entendre son lugubre croassement, par son plumage rangeoit autour de lui une vile canaille qu'il
+<pb n="10"/>
+nous est important d'an&#x00E9;antir ; &#x00E0; quoi voulant pourvoir, consid&#x00E9;rant d'abord la n&#x00E9;cessit&#x00E9; d'avoir l'oiseau en notre puissance, nous octroyons vingt francs &#x00E0; qui l'apportera &#x00E0; l'h&#x00F4;tel o&#x00F9; nous si&#x00E9;geons.</p>
+        <p>XVI.</p>
+        <p>ACCORDONS pareillement douze francs par chaque t&#x00EA;te de rats qui seront pris dans l'h&#x00F4;tel des fermes du Roi, bien persuad&#x00E9;s que lorsque la race en sera d&#x00E9;truite, il en r&#x00E9;sultera un grand bien, n'&#x00E9;tant plus rong&#x00E9;s par eux.</p>
+        <p>XVII.</p>
+        <p>UN Ours Africain qui a ravag&#x00E9; le Bourg de Breteuil, d&#x00E9;fol&#x00E9; les habitans de cet endroit, &#x0026; ruin&#x00E9; les environs, qui a mordu plusieurs fois le respetable ami des Citoyens, le soutien de notre libert&#x00E9;, M. <hi rend="italic">Necker</hi> ; en un mot notre Protecteur &#x0026; notre Pere. Deux cents livres &#x00E0; qui pourra le museler, le charger de cha&#x00EE;nes &#x0026; nous l'amener.</p>
+        <p>XVIII.</p>
+        <p>COMME nous n'ignorons pas qu'au nombre des b&#x00EA;tes venimeuses &#x0026; f&#x00E9;roces que nous venons d'indiquer, se joint une innombrable quantit&#x00E9; de serpents, couleuvres, l&#x00E9;sards, chauves-souris, dont la contagion funeste porteroit le plus grand pr&#x00E9;judice &#x00E0; nos int&#x00E9;r&#x00EA;ts, nous voulons, autant qu'il
+<pb n="11"/>
+nous sera possible, d&#x00E9;truire ces b&#x00EA;tes sales &#x0026; d&#x00E9;go&#x00DB;tantes Nous chargeons donc pareillement nos Citoyens Gardes, &#x0026; nos Gardes Citoyens, d'en &#x00E9;craser autant qu'ils en trouveront, &#x0026; ce, moyennant la r&#x00E9;compense de six livres par chacune ; &#x0026; pour leur donner &#x00E0; cet &#x00E9;gard les renseignements n&#x00E9;cessaires, nous leur assurons qu'ils en trouveront un grand nombre,</p>
+        <list type="simple">
+          <item>&#x00E0; Versailles, </item>
+          <item>&#x00E0; Bagatelle, </item>
+          <item>&#x00E0; la Muette,</item>
+          <item>&#x00E0; l'H&#x00F4;tel Cond&#x00E9;,</item>
+          <item>&#x00E0; l'H&#x00F4;tel Conti,</item>
+          <item>au Palais Bourbon,</item>
+          <item>au parlement les chambres assembl&#x00E9;es,</item>
+          <item>&#x00E0; l'Archev&#x00EA;ch&#x00E9; ;</item>
+        </list>
+        <p>Nous r&#x00E9;servant &#x00E0; d&#x00E9;truire par nous-m&#x00EA;mes celles qui se trouveront dans les prisons de l'h&#x00F4;tel de ville, &#x0026; qui se sont livr&#x00E9;es elles-m&#x00EA;mes &#x00E0; une perte in&#x00E9;vitable.</p>
+        <p>Engageons tous Citoyens &#x00E0; pr&#x00EA;ter la main &#x00E0; la prompte ex&#x00E9;cution de ces articles, les assurant d'avance, qu'ind&#x00E9;pendanment de la r&#x00E9;compense promise, nous les prenons &#x00E9;ternellement sous notre protection.</p>
+        <pb n="12"/>
+      </div1>
+      <div1 id="r110n01b" type="list">
+        <head>LISTE PARTICULIERE DES PROSCRITS DE LA NATION.</head>
+        <list type="simple">
+          <item>
+            <hi rend="italic">Avec la notice des peines qui leur font inflig&#x00E9;es par contumace, en attendant le succ&#x00E8;s des poursuites qui sont faites de leurs personnes, ou l'occasion.</hi>
+          </item>
+          <item><name><hi rend="italic">Une Dame de Versailles</hi>. Devinez qui ?</name>
+Aux Madelonnettes, aux Filles repenties, ou &#x00E0; Sainte P&#x00E9;lagie &#x00E0; perp&#x00E9;tuit&#x00E9; ; suivant le choix de son &#x00E9;poux.</item>
+          <item><name><hi rend="italic">Charles-Philippe</hi>, Comte d'Artois, frere du Roi.</name>
+Vu le respect d&#x00DB; &#x00E0; la Majest&#x00E9; Royale, seule consid&#x00E9;ration qui sauve les jours de ce perfide Prince, le condamnons &#x00E0; une prison perp&#x00E9;tuelle aux &#x00EE;les Sainte Marguerite.</item>
+          <item><name><hi rend="italic">Louis-Joseph de Bourbon</hi>, Prince de Cond&#x00E9;.</name>
+D&#x00E9;capit&#x00E9; comme tra&#x00EE;tre &#x00E0; la Patrie ; s'il est premier Prince du Sang Fran&#x00E7;ois, il en a souill&#x00E9; toute la dignit&#x00E9;.</item>
+          <pb n="13"/>
+          <item><name><hi rend="italic">Louis-Henri-Joseph</hi>, Duc de Bourbon.</name>
+Le m&#x00EA;me traitement que son pere ; associ&#x00E9; &#x00E0; son inf&#x00E2;me trahison, ne doit-il pas subir le m&#x00EA;me sort ?</item>
+          <item><name>Le Duc <hi rend="italic">d'Enghien</hi>.</name>
+Vu son extr&#x00EA;me jeunesse qui peut avoir &#x00E9;t&#x00E9; s&#x00E9;duite, fustig&#x00E9; de verges dans tous les carrefours de Paris, &#x0026; renferm&#x00E9; dans une maison de force.</item>
+          <item><name><hi rend="italic">Louis-Fran&#x00E7;ois-Joseph</hi>, Prince de Conti.</name>
+T&#x00EA;te tranch&#x00E9;e, &#x00E0; l'exemple des Princes de Cond&#x00E9; &#x0026; Duc de Bourbon.</item>
+          <item><name>Le Comte <hi rend="italic">de Guiche</hi>.</name>
+Amen&#x00E9; &#x00E0; la ville pour y &#x00EA;tre mis &#x00E0; mort, tel que le Marquis de Launay, le Pr&#x00E9;v&#x00F4;t des Marchands &#x0026;c ; &#x0026; sa t&#x00EA;te d&#x00E9;pos&#x00E9;e au-dessus de la principale porte du quartier de Messieurs les Gardes du Roi.</item>
+          <item><name>Madame <hi rend="italic">Jules de Polignac</hi>.</name>
+Amende honorable devant la principale porte de l'Eglise de Paris, en chemise, t&#x00EA;te &#x0026; pieds nuds, tenant en main une torche ardente ; &#x0026; l&#x00E0;, confesser sa trahison envers le Roi &#x0026; la Patrie, demander pardon &#x00E0; Dieu de tous ses forsaits, de sa l&#x00E2;che s&#x00E9;duction envers la Reine, ensuite conduite &#x00E0; pied de
+<pb n="14"/>
+Paris &#x00E0; Versailles pour y ex&#x00E9;cuter le m&#x00EA;me acte de justice, de la ramen&#x00E9;e &#x00E0; Paris pour y &#x00EA;tre pendue &#x0026; &#x00E9;trangl&#x00E9;e tant que mort s'ensuive, &#x0026; son corps port&#x00E9; aux fourches patibulaires de Montfaucon.</item>
+          <item><name>Le Prince <hi rend="italic">Lambesc</hi>.</name>
+Fusill&#x00E9; par les Soldats de la Garde Fran&#x00E7;oise, &#x0026; son corps port&#x00E9; en triomphe dans les Thuileries, Place de Louis XV, &#x0026; rues de Paris. Son corps d&#x00E9;pos&#x00E9; &#x00E0; la Morgue, o&#x00F9; l'on met ordinairement les voleurs &#x0026; assassins apr&#x00E8;s leur supplice.</item>
+          <item><name>Le Marquis <hi rend="italic">de Nesle</hi>.</name>
+Dix ann&#x00E9;es &#x00E0; Pierre-en-Cise.</item>
+          <item><name>Le Marquis <hi rend="italic">de la T** U P**</hi>.</name>
+Aux Cabannons de Bic&#x00EA;tre pendant quatre ann&#x00E9;es.</item>
+          <item><name>Le Vicomte <hi rend="italic">de Lussan</hi>.</name>
+Six ann&#x00E9;es aux petites maisons, avec le plus fort traitement, au bout duquel temps, si la guerison West pas parfaite, saign&#x00E9; des quatre membres.</item>
+          <item><name>Monseigneur <hi rend="italic">l'Archev&#x00EA;que</hi> de Paris.</name>
+Le destituons pr&#x00E9;alablement de son titre de cousin du Roi, il d&#x00E9;shonore la famille, ainsi que le plus jeune des freres : ensuite
+<pb n="15"/>
+lui ferons couper les cheveux &#x0026; l'enverrons aux Capucins pour exercer les plus vils emplois de la cuisine.</item>
+          <item><name>Monsieur <hi rend="italic">le Noir</hi>. ancien  Lieutenant de Police.</name>
+Pendu &#x0026; &#x00E9;trangl&#x00E9; en Place de Gr&#x00EA;ve : d&#x00E9;fendons &#x00E0; toutes personnes du peuple d'y mettre la main : que le bourreau seul passe les fonctions de son emploi, &#x0026; que son corps soit port&#x00E9; &#x00E0; Montfaucon, rejoindre celui de Polignac.</item>
+          <item><name>Le sieur <hi rend="italic">Duval d'Espresmenil</hi>.</name>
+Aux gal&#x00E8;res perp&#x00E9;tuelles, pr&#x00E9;alablement attach&#x00E9; au carcan pendant trois jours cons&#x00E9;cutifs au march&#x00E9; au bled, avec &#x00E9;criteau, devant &#x0026; derriere : portant ce mot : <hi rend="italic">Accapareur de grains</hi>.</item>
+          <item><name>Le sieur <hi rend="italic">de Calonne</hi>.</name>
+Mille &#x00E9;cus pour celui qui aura l'adresse de le ramener en France, o&#x00F9; arriv&#x00E9;, il sera &#x00E9;cartel&#x00E9; vif, ses membres br&#x00DB;l&#x00E9;s, &#x0026; ses cendres jet&#x00E9;es au vent.</item>
+          <item><name>Le sieur <hi rend="italic">Augustin Caron de Beaumarchais</hi>.</name>
+Le condamnons &#x00E0; servir pendant trente ann&#x00E9;es de man&#x0153;uvre dans les ateliers publics. On a plus besoin en France d'ouvriers que d'auteurs d'esprit faux &#x0026; dangereux.</item>
+          <pb n="16"/>
+          <item><name>Le Baron <hi rend="italic">de Breteuil.</hi></name>
+Conduit sous bonne &#x0026; sure garde &#x00E0; l'abbaye de la Trape pour y terminer sa carriere insens&#x00E9;e.</item>
+          <item><name>Monseur <hi rend="italic">de Barentin.</hi></name>
+Bl&#x00E2;m&#x00E9; publiquement sur la sellette par les D&#x00E9;put&#x00E9;s de la Nation, ensuite banni &#x00E0; perp&#x00E9;tuit&#x00E9; ; enjoint &#x00E0; lui de garder son ban sous peine corporelle.</item>
+          <item><name>Tous <hi rend="italic">les Presidents &#x0026; Conseillers du Parlement.</hi></name>
+Au Ch&#x00E2;teau de Bic&#x00EE;tre &#x00E0; la force pendant le temps &#x0026; espace de trois mois.</item>
+          <item><name>Les <hi rend="italic">Procureurs &#x0026; Avocats de ladite Compagnie.</hi></name>
+Exception faite de ceux qui sont constamment attach&#x00E9;s au Tiers-Etat &#x0026; reconnus pour tels.</item>
+          <item>Pareillement &#x00E0; Bic&#x00EA;tre, &#x0026; l&#x00E0; y travailler au Puits pendant neuf ann&#x00E9;es, apr&#x00E8;s lesquelles d&#x00E9;chus de toutes fonctions.</item>
+          <item><name>Le sieur <hi rend="italic">Laurent de Villedeuil.</hi></name>
+Enferm&#x00E9; perp&#x00E9;tuellement &#x00E0; la Citadelle d'Amiens pour raisons connues.</item>
+          <item><name>La Comtesse <hi rend="italic">de Polignac</hi>,</name>
+A l'H&#x00F4;pital G&#x00E9;n&#x00E9;ral de la Salp&#x00E9;triere &#x00E0; perp&#x00E9;tuit&#x00E9;.</item>
+          <pb n="17"/>
+          <item><name>Le Duc <hi rend="italic">de Polignac.</hi></name>
+Aux galeres perp&#x00E9;tuelles sans esp&#x00E9;rer de rachat.</item>
+          <item><name>Le Comte <hi rend="italic">d'Agai</hi>, Intendant d'Amiens.</name>
+Pendu &#x0026; &#x00E9;trangl&#x00E9; dans la cour principale de la Citadelle d'Amiens, afin que le sieur de Villedeuil son gendre puisse jouir de ce spectacle. <ref target="r110n01note171">(1)</ref></item>
+          <item><name>Tous les <hi rend="italic">Fermiers G&#x00E9;n&#x00E9;raux</hi>.</name>
+Pour vingt ann&#x00E9;es au d&#x00E9;p&#x00F4;t de Saint Denis au pain &#x0026; &#x00E0; l'eau.</item>
+          <item><name>Tous <hi rend="italic">les Gardes &#x0026; Commis tant aux Aides qu'aux Gabelles</hi>.</name>
+Supprim&#x00E9;s, &#x0026; comme il n'est pas juste de rester sans occupation, ils travailleront aux routes &#x0026; chemins publics.</item>
+          <item><name>Le Duc <hi rend="italic">du Ch&#x00E2;telet</hi>.</name>
+Au carcan en place de Gr&#x00E8;ve, apr&#x00E8;s avoir fait amende honorable devant les portes des Casernes des Gardes Fran&#x00E7;oises.</item>
+          <pb n="18"/>
+          <item><name>L'Abb&#x00E9; <hi rend="italic">Roy</hi>.</name>
+Oh! Pour celui-l&#x00E0;, nous l'abandonnons &#x00E0; la juste fureur des habitants du Faubourg-Saint-Antoine, ils n'ont surement pas oubli&#x00E9; la catastrophe funeste qui leur est arriv&#x00E9;e &#x00E0; l'instigation de ce l&#x00E2;che sc&#x00E9;l&#x00E9;rat.</item>
+          <item><name>L'Abb&#x00E9; de <hi rend="italic">Vermont</hi>.</name>
+Aux Galeres perp&#x00E9;tuelles avec la charge de Lecteur des For&#x00E7;ats, il distraira ses complices.</item>
+          <item><name>L'Abb&#x00E9; <hi rend="italic">Maury</hi>.</name>
+Au Carcan dans les Cours du Louvre pendant trois jours consecutifs, principalement &#x00E0; la porte de l'Acad&#x00E9;mie Fran&#x00E7;oise, ensuite banni pour dix ans.</item>
+          <item><name>Le Cur&#x00E9; <hi rend="italic">de Saint Eustache</hi>.</name>
+Deux ann&#x00E9;es de S&#x00E9;minaire &#x0026; ses pouvoirs de confesser retir&#x00E9;s, il y a trop de danger &#x00E0; les lui laisser.</item>
+          <item><name>L'Avocat-G&#x00E9;n&#x00E9;ral <hi rend="italic">S&#x00E9;guier</hi>,</name>
+Le condamnons &#x00E0; servir gratuitement d'Ecrivain public pendant quatre ann&#x00E9;es au pied du grand escalier du Palais ; il sera pr&#x00E8;s de l'endroit o&#x00F9; on ex&#x00E9;cutoit ses pompeux R&#x00E9;quisitoires.</item>
+          <item><name>Le Chevalier <hi rend="italic">Dubois</hi>, ancien Commadant de la Garde de Paris,</name>
+A Bic&#x00EA;tre pour trois mois, ensuite simple
+<pb n="19"/>
+fusilier pendant dix ans, &#x0026; &#x00E0; corv&#x00E9;e dans un des Districts de Paris, si on veut bien l'y recevoir.</item>
+          <item><name><hi rend="italic">Hubert</hi>, Concierge de la Conciergerie du Palais,</name>
+Aux cachots de la Conciergerie du Palais, &#x00E0; perp&#x00E9;tuit&#x00E9; : l'inhumanit&#x00E9; qu'il exerce envers les Prisonniers, prouve que loin d'&#x00EA;tre le partisan du Tiers-Etat, il en est l'ennemi d&#x00E9;clar&#x00E9;.</item>
+          <item>
+            <name>M. de <hi rend="italic">Maussion</hi>, Intendmt de Rouen ;</name>
+          </item>
+          <item>
+            <name>M. de <hi rend="italic">Viarmes-de-Pontcarr&#x00E9;</hi>, premier Pr&#x00E9;sident du Parlement de Rouen ;</name>
+          </item>
+          <item><name>M. <hi rend="italic">de Belbeuf</hi>, Procureur-G&#x00E9;n&#x00E9;ral au Parlement de Rouen,</name>
+Tous trois Accapareurs de grains, &#x0026; principaux auteurs des derniers troubles de Rouen.</item>
+          <item>Voyez le jugement prononc&#x00E9; sur M. Duval-d'Epr&#x00E9;mesnil : sauf que les Galeres ne seront point perp&#x00E9;tuelles, qu'elles seront born&#x00E9;es &#x00E0; dix ann&#x00E9;es, &#x0026; qu'ensuite ils seront employ&#x00E9;s &#x00E0; perp&#x00E9;tuit&#x00E9;, &#x0026; par corv&#x00E9;e, dans les moulins publics de la G&#x00E9;n&#x00E9;ralit&#x00E9; de Rouen.</item>
+          <pb n="20"/>
+          <item><name>Le sieur <hi rend="italic">Fontaine</hi>, Conseiller au Parlement de Rouen.</name>
+Comme rien n'est si dangereux qu'un faux t&#x00E9;moin, &#x0026; que nous avons malheureusement des preuves certaines de toute la mauvaise foi de celui-ci <ref target="r110n01note201">(1)</ref>, le condamnons &#x00E0; &#x00EA;tre promen&#x00E9;, pendant trois jours, dans la ville &#x0026; les carrefours de Rouen, &#x0026; ensuite &#x00E0; &#x00EA;tre pendu. Exhortons les Habitants de cette ville, dont la moiti&#x00E9; nous donne des t&#x00E9;moignages d'un refroidissement criminel envers la Nation, &#x00E0; r&#x00E9;parer cette n&#x00E9;gligence, en tenant la main &#x00E0; cette ex&#x00E9;cution, &#x0026; sur-tout &#x00E0; toutes celles des Accapareurs de grains, dont le nombre est consid&#x00E9;rable.</item>
+          <item><name>Le sieur <hi rend="italic">Jarry</hi>, Procureur au m&#x00EA;me Parlement.</name>
+Notre intention &#x00E9;tant d'extirper toute la race des Mouchards ; consid&#x00E9;rant tous
+<pb n="21"/>
+les dangers de cette vermine, nous condamnons ce Procureur &#x00E0; demander, &#x00E0; genoux, pardon au Peuple, dans toutes les places publiques de Rouen, &#x0026; &#x00E0; Bic&#x00EA;tre pour la vie.</item>
+          <item><name>M. <hi rend="italic">Flambart</hi>, Chevalier de l'Ordre Militaire de Saint-Louis :</name>
+Condamnons ce tra&#x00EE;tre comme espion du Gouvernement, &#x0026; l&#x00E2;che envers la Nation &#x0026; les Rouennois particulierement, &#x00E0; &#x00EA;tre d&#x00E9;grad&#x00E9; publiquement &#x0026; &#x00E0; &#x00EA;tre transf&#x00E9;r&#x00E9; pour sa vie &#x00E0; Saint-Yon.</item>
+          <item><name>M. le Marquis <hi rend="italic">d'Harcourt</hi>, Gouverneur de Rouen :</name>
+Punissons son animosit&#x00E9; contre un Peuple dont il e&#x00DB;t d&#x00DB; se d&#x00E9;clarer l'appui, &#x0026; la barbarie avec laquelle il ordonnoit, lors de la derniere r&#x00E9;volution, le massacre des Rouennois, par avoir la t&#x00EA;te tranch&#x00E9;e, &#x0026; d&#x00E9;clarons le Duc d'Harcourt son fils, Colonel de la Mestre de Camp de Cavalerie, incapable de poss&#x00E9;der aucune dignit&#x00E9; o&#x00F9; les int&#x00E9;r&#x00EA;ts du Peuple seroient compromis.</item>
+          <item><name>Le sieur <hi rend="italic">Renard</hi>, Commissaire de Police, en ladite ville de Rouen.</name>
+La friponnerie insigne de celui -ci, exigeant toute la s&#x00E9;v&#x00E9;rit&#x00E9; de notre justice, le condamnons &#x00E0; trois jours de carcan, avec 
+<pb n="22"/>
+&#x00E9;criteau devant &#x0026; derriere, portant ces mots : <hi rend="italic">Fripon, Pr&#x00E9;varicateur de sa charge</hi> ; de l&#x00E0; conduit &#x00E0; la Cha&#x00EE;ne, pour neuf ann&#x00E9;es.</item>
+          <item><name>Le Marquis &#x0026; le Baron <hi rend="italic">de Juign&#x00E9;</hi>, freres de l'Archev&#x00EA;que de Paris,</name>
+Comme violemment soup&#x00E7;onn&#x00E9;ss de participer &#x00E0; la cabale, au banissment perp&#x00E9;tuel.</item>
+          <item><name>Le sieur <hi rend="italic">Pi&#x00E9;pape</hi>, ancien Secr&#x00E9;taire de M de Lamoignon,</name>
+L'envoyons en Enfer rejoindre son Ma&#x00EE;tre par la voie la plus sure &#x0026; la plus prompte.</item>
+          <item><name>Le sieur <hi rend="italic">de Bachois-de-Villefort</hi>,  Lieutenant-Criminel :</name>
+D&#x00E9;mettons-le de sa charge de Lieutenant-Criminel, &#x0026; r&#x00E9;compensons son adh&#x00E9;sion au man&#x0153;uvres des Cabaleurs, par deux ann&#x00E9;es de d&#x00E9;tention &#x00E0; l'Abbaye.</item>
+          <item><name>Le sieur <hi rend="italic">Dagout</hi>, ancien Officier aux Gardes Fran&#x00E7;oises :</name>
+Jugeant qu'il seroit trop rigoureux d'exposer celui-ci au juste ressentiment des Gardes Fran&#x00E7;oises qui l'immoleroient &#x00E0; leur vengeance, &#x0026; voulant n&#x00E9;anmoins punir sa trahison &#x0026; sa duret&#x00E9;, le condamnons &#x00E0; passer le reste de ses jours &#x00E0; Bic&#x00EA;tre.</item>
+          <pb n="23"/>
+          <item><name>Le sieur de <hi rend="italic">Champigny</hi>, ancien Capitaine aux Gardes Fran&#x00E7;oises :</name>
+Pour donner aux Gardes Fran&#x00E7;oises qui ont arbor&#x00E9; si g&#x00E9;n&#x00E9;reusement l'&#x00E9;tendart de la Nation, &#x0026; secou&#x00E9; le joug de la tyrannie &#x0026; du despotisme, condamnons le sieur de Champigny qui a toujours exerc&#x00E9; sur eux une oppression r&#x00E9;voltante, &#x00E0; dix ann&#x00E9;es de Bic&#x00EA;tre.</item>
+          <item><name>Le sieur <hi rend="italic">de Sartines</hi>, ancien Lieutenant de Police &#x0026; Ministre de la Marine,</name>
+Comme r&#x00E9;fractaire aux serments qu'il pronon&#x00E7;a, &#x0026; aux principes qu'il devoit avoir toujours devant les yeux. Pour d&#x00E9;mentir enfin l'imposture des magnifiques inscriptions d&#x00E9;pos&#x00E9;es dans l'int&#x00E9;rieur de la Halle, au bas de son buste, ordonnons que ce buste soit abattu &#x0026; tra&#x00EE;n&#x00E9; dans les ruisseaux de cette place, &#x0026; que lui m&#x00EA;me soit conduit aux Galeres pour vingt ann&#x00E9;es ; il s'instruira l&#x00E0; des &#x00E9;l&#x00E9;mens de la Marine, dont son peu de th&#x00E9;orie pour cet art nous a &#x00E9;t&#x00E9; si pr&#x00E9;judiciable.</item>
+          <item><name>Le Pere Prieur des Jacobins d'Amiens,</name>
+Six mois de S&#x00E9;minaire, comme receleur des principaux magasiniers de grains de cette Ville de Picardie,</item>
+          <pb n="24"/>
+          <item><name>Le G&#x00E9;n&#x00E9;ral de Saint-Lazare :</name>
+Que ce Geolier inhumain soit non seulement puni comme ex&#x00E9;cuteur barbare des ordres secrets des Tyrans de la Nation, mais encore comme Accapareur ; qu'en cons&#x00E9;quence il subisse une fustigation de discipline par les Religieux des quatre Ordres mendiants, parmi lesquels il passera huit tours. Nous exhortons ces derniers &#x00E0; ne le point m&#x00E9;nager. Si la Providence le conserve apr&#x00E8;s, le condamnons &#x00E0; &#x00EA;tre renferm&#x00E9;, &#x00E0; perp&#x00E9;tuit&#x00E9;, dans une Maison de force, &#x00E0; notre choix.</item>
+          <item><name>Le Duc <hi rend="italic">de la Rochefoucault</hi>.</name>
+Voulons qu'il tra&#x00EE;ne le boulet pendant huit jours cons&#x00E9;cutifs, dans la place de Greve, comme D&#x00E9;serteur de la bonne cause, &#x0026; ensuite renferm&#x00E9; &#x00E0; l'Abbaye, pour cinq ans.</item>
+          <item><name><hi rend="italic">Lefevre Damecourt</hi>, Conseiller au parlement.</name>
+Avons distingu&#x00E9; celui-ci de ses Confreres, par le m&#x00EA;me motif qui nous a fait discerner le sieur Duval d'Epr&#x00E9;mesnil, cependant un peu moins coupable ; le condamnons &#x00E0; trois jours de carcan devant la porte de la Conciergerie, &#x0026; &#x00E0; trois ann&#x00E9;es dans les cachots de Bic&#x00EA;tre.</item>
+          <pb n="25"/>
+          <item><name>Le Marquis <hi rend="italic">Dussaussay</hi>.</name>
+A venir nous rendre compte de sa conduite, apr&#x00E8;s quoi nous r&#x00E9;servant &#x00E0; prononcer sur la peine due &#x00E0; ce dont nous le trouverons coupable.</item>
+          <item><name>Le Vicomte <hi rend="italic">de la Tour d'Aunay</hi>.</name>
+Banni de Paris pour le temps &#x0026; espace de neuf ann&#x00E9;es.</item>
+          <item><name>Le sieur <hi rend="italic">de Brunville</hi>, Procureur du Roi.</name>
+Pour reconno&#x00EE;tre en quelque sorte la fid&#x00E9;lit&#x00E9; du sieur de Brunville, &#x0026; son attachement aux int&#x00E9;r&#x00EA;ts nationaux, nous l'envoyons rejoindre &#x00E0; Bic&#x00EA;tre le reste de sa Compagnie, o&#x00F9; par gr&#x00E2;ce il restera jusqu'&#x00E0; sa mort.</item>
+          <item><name>Le Mar&#x00E9;chal <hi rend="italic">de Broglie</hi>.</name>
+Sur l'assurance que nous avons de l'ordre ex&#x00E9;crable que donna cet indigne Mar&#x00E9;chal dans la journ&#x00E9;e du quatorze Juillet au Colonel du R&#x00E9;giment de Besan&#x00E7;on de faire investir la Ville ; ce que ce brave &#x0026; patriote Militaire refusa, nous ordonnons que le sieur Mar&#x00E9;chal de Broglie soit conduit sur un &#x00E9;chafaud dress&#x00E9; dans la Place de Greve, &#x0026; l&#x00E0; qu'&#x00E0; genoux il soit d&#x00E9;grad&#x00E9; de toutes dignit&#x00E9;s, d&#x00E9;chu d'honneur, &#x0026; qu'il ait la t&#x00EA;te tranch&#x00E9;e.</item>
+          <item><name>Le comte <hi rend="italic">de Mercy</hi>, ambassadeur de l'empire.</name>
+Quoique cet infame Conseiller de la Reine, ce vil Etranger se soit d&#x00E9;rob&#x00E9; &#x00E0; notre vigilance, &#x0026; ait &#x00E9;vit&#x00E9; le supplice qui lui
+<pb n="26"/>
+etoit r&#x00E9;serv&#x00E9; par notre vengeance l&#x00E9;gitime, nous le d&#x00E9;clarons infame, mettons sa t&#x00EA;te au prix de trente mille livres, pour qui pourra le remettre entre nos mains, &#x00E0; l'effet de le livrer aux Bourreaux, pour &#x00EA;tre puni comme Criminel de leze-Nation au premier chef.</item>
+          <item><name>Le Vicomte <hi rend="italic">de Bertillac</hi>.</name>
+Huit ann&#x00E9;es &#x00E0; la Citadelle de Doulens.</item>
+          <item><name>Le sieur <hi rend="italic">Titon de Villotreau</hi>.</name>
+Au Ch&#x00E2;teau de Bic&#x00EA;tre pour trois ans.</item>
+          <item><name>Le Marquis <hi rend="italic">de la Ch&#x00E2;tre</hi>.</name>
+Quoique Sa Majest&#x00E9; nous ait donn&#x00E9; un t&#x00E9;moignage de sa justice, en exilant d'aupr&#x00E8;s de sa personne le Marquis de la Ch&#x00E2;tre, ne jugeant pas cette punition suffisante, nous le condamnons &#x00E0; vingt ans de prison dans la Citadelle de Lille.</item>
+          <item><name>Le Chevalier <hi rend="italic">de Jaucourt</hi>.</name>
+Si nous n'avions &#x00E0; nous plaindre que des m&#x0153;urs scandaleuses du Chevalier de Jaucourt, nous ne prononcerions pas contre lui ; mais vu sa trahison &#x0026; son l&#x00E2;che d&#x00E9;vouement &#x00E0; la Cabale, le condamnons &#x00E0; un bannissement perp&#x00E9;tuel.</item>
+          <item><name>Le Prince <hi rend="italic">d'H&#x00E9;nin</hi>. <ref target="r110n01note261">(1)</ref></name>
+Condamnons le Prince dH&#x00E9;nin comme
+<pb n="27"/>
+tra&#x00EE;tre &#x00E0; la Patrie, &#x00E0; &#x00EA;tre promen&#x00E9; pendant trois jours cons&#x00E9;cutifs, sur un &#x00E2;ne, la face tourn&#x00E9;e vers la queue, en chemise, t&#x00EA;te &#x0026; jambe nues, apr&#x00E8;s lequel traitement aux Gal&#x00E8;res pour neuf ans.</item>
+          <item><name>Le Prince <hi rend="italic">de Vaud&#x00E9;mont</hi>.</name>
+Aux Cabannons de Bic&#x00EA;tre pour vingt ann&#x00E9;es.</item>
+          <item><name>Le Comte <hi rend="italic">de Vaud&#x00E9;euil</hi>.</name>
+R&#x00E9;tablissons le Pilori en sa faveur, &#x0026; le condamnons ensuite &#x00E0; trois ann&#x00E9;es de prison &#x00E0; la Citadelle de Bitche en Lorraine Allemande.</item>
+          <item><name>Le sieur <hi rend="italic">Bertin</hi>, des Parties casuelles :</name>
+Malgr&#x00E9; la justification du sieur Bertin, imprim&#x00E9;e dans le Journal de Paris, &#x0026; la conviction que nous avons eue que les bleds arr&#x00EA;t&#x00E9;s pr&#x00E8;s d'Estampes ne lui appartenoient pas, lui faisons injonction de venir se laver du titre <hi rend="italic">d'Accapareur</hi> qu'on lui donne avec quelque fondement.</item>
+          <item><name>Le Duc <hi rend="italic">de la Vauguyon</hi>.</name>
+Comme on ne se sauve pas sans sujet,
+<pb n="28"/>
+condamnons le Duc de la Vauguyon &#x00E0; l'Abbbaye de Saint-Germain.</item>
+          <item><name>L'Abb&#x00E9; <hi rend="italic">de Calonne</hi>,</name>
+A la cha&#x00EE;ne pour trente ann&#x00E9;es, comme libelliste &#x0026; tra&#x00EE;tre national.</item>
+          <item><name>Le sieur <hi rend="italic">Laurent</hi>, Libraire</name>
+Aux Galeres, pour la vie, comme Distributeur des Libelles lanc&#x00E9;s contre M. Necker, par l'Abb&#x00E9; de Ca1onne.</item>
+          <item><name>Le Baron <hi rend="italic">de B&#x0153;senvald</hi> :</name>
+Ne nous en rapportant que foiblement &#x00E0; la cl&#x00E9;mence de 1'Assembl&#x00E9;e Nationale, nous nous servirons de la voix du Peuple, qui est le jugement de Dieu, pour le condamner &#x00E0; avoir la t&#x00EA;te coup&#x00E9;e, pour r&#x00E9;primer la fougue avec laquelle il &#x00E9;crivit au Gouverneur de la Bastille.</item>
+          <item><name>Le Marquis <hi rend="italic">d'Autichamp</hi> :</name>
+Envoyons celui-ci &#x00E0; Pierre-en-cise, pour le temps &#x0026; espace de six ann&#x00E9;es.</item>
+          <item><name>Le Duc <hi rend="italic">de Brissac</hi> :</name>
+Remettons &#x00E0; prononcer sur le sort du Duc de Brissac, apr&#x00E8;s les charges &#x0026; informations des accusations intent&#x00E9;es contre lui.</item>
+          <item>Enjoignons &#x00E0; tous nos officiers Haut-Justiciers de tenir la main &#x00E0; l'ex&#x00E9;cution des pr&#x00E9;sents jugements, &#x0026; &#x00E0; nous en rapporter les Proc&#x00E8;s-Verbaux sign&#x00E9;s de la main des coupables.</item>
+        </list>
+        <trailer>FIN.</trailer>
+      </div1>
+    </body>
+    <back id="110n01_1003">
+      <div1 id="r110n01notes" type="Notes">
+        <note anchored="yes">Bottom of Page 8</note>
+        <note anchored="yes" id="r110n01note8i">(i) Ce f&#x00DB;t par le Prince Lambesc que ce H&#x00E9;risson a &#x00E9;t&#x00E9; dress&#x00E9; au carnage.</note>
+        <note anchored="yes">Bottom of Page 9</note>
+        <note anchored="yes" id="r110n01note9i">(i) S. A. S. Monseigneur le Duc d'Orl&#x00E9;ans en fut si scandalis&#x00E9;, que l'orateur l'Abb&#x00E9; Mauri en encourut son indignation.</note>
+        <note anchored="yes">Bottom of Page 17</note>
+        <note anchored="yes" id="r110n01note171">(1) Quand tous les Intendants de Province seroient de la partie, le diable n'auroit qu'&#x00E0; rire. Nous en exceptons M. l'Intendant d'Alen&#x00E7;on.</note>
+        <note anchored="yes">Bottom of Page 20</note>
+        <note anchored="yes" id="r110n01note201">(1) Les m&#x00E9;moires s&#x00DB;rs que nous avons re&#x00E7;us contre cet inf&#x00E2;me agent de l'Aristocratie, nous donner la liste de quantit&#x00E9; de victimes de ce faux t&#x00E9;moin. La malheureuse affaire du sieur Bordier, des Vari&#x00E9;t&#x00E9;s de Paris, ajoute &#x00E0; sa sc&#x00E9;l&#x00E9;ratesse. Un tel &#x00E9;v&#x00E9;nement, loin de faire honneur aux Rouennois, ne peut que rendre leur fid&#x00E9;lit&#x00E9; tr&#x00E8;s-suspecte ; il leur est important de se justifier d'une aussi criante injustice.</note>
+        <note anchored="yes">Bottom of Page 26</note>
+        <note anchored="yes" id="r110n01note261">(1) NOTE DU GRESSIER. Il n'est pas inutile de faire observer qu'ici le ch&#x00E2;timent est absolument relatif &#x00E0; la conduite qu'a toujours tenue le Prince d'H&#x00E9;nin. Ne s'occupant jamais d'affaires, tout entier au libertinage, il se rendoit la fable de la Cour &#x0026; de la Ville ; il ne regagna l'estime des infames Princes, qu'en adoptant, comme eux, l'ex&#x00E9;crable titre d'aristocrate. On doit se rappeler ce quatrin.
+<q direct="unspecified"><lg type="stanza"><l>Depuis qu'aupr&#x00E8;s de ta Catin</l><l>Tu joues un r&#x00F4;le des plus minces :</l><l>Non, tu n'es plus le Prince d'H&#x00E9;nin,</l><l>Mais seulement le nain des Princes.</l></lg></q></note>
+      </div1>
+    
+    <!-- <div1 id="r115n11figures">
+<p><figure entity="chas00" n="1"><figDesc>Image of Page 1</figDesc></figure></p>
+<p><figure entity="chas02" n="2"><figDesc>Image of Page 2</figDesc></figure></p>
+<p><figure entity="chas04" n="3"><figDesc>Image of Page 4</figDesc></figure></p>
+<p><figure entity="chas06" n="4"><figDesc>Image of Page 6</figDesc></figure></p>
+<p><figure entity="chas08" n="5"><figDesc>Image of Page 8</figDesc></figure></p>
+<p><figure entity="chas10" n="6"><figDesc>Image of Page 10</figDesc></figure></p>
+<p><figure entity="chas12" n="7"><figDesc>Image of Page 12</figDesc></figure></p>
+<p><figure entity="chas14" n="8"><figDesc>Image of Page 14</figDesc></figure></p>
+<p><figure entity="chas16" n="8"><figDesc>Image of Page 16</figDesc></figure></p>
+<p><figure entity="chas18" n="8"><figDesc>Image of Page 18</figDesc></figure></p>
+<p><figure entity="chas20" n="8"><figDesc>Image of Page 20</figDesc></figure></p>
+<p><figure entity="chas22" n="8"><figDesc>Image of Page 22</figDesc></figure></p>
+<p><figure entity="chas24" n="8"><figDesc>Image of Page 24</figDesc></figure></p>
+<p><figure entity="chas26" n="8"><figDesc>Image of Page 26</figDesc></figure></p>
+<p><figure entity="chas28" n="8"><figDesc>Image of Page 28</figDesc></figure></p>
+</div1> -->
+      </back>
+  </text>
+</TEI.2>

@@ -1,1456 +1,420 @@
-<TEI.2
-TEIFORM="TEI.2"
-><TEIHEADER
-TYPE="text"
-STATUS="NEW"
-TEIFORM="teiHeader"
-><FILEDESC
-TEIFORM="fileDesc"
-><TITLESTMT
-TEIFORM="titleStmt"
-><TITLE
-TEIFORM="title"
-> La R&eacute;volution: po&egrave;: electronic edition</TITLE
-><AUTHOR
-TEIFORM="author"
->l'Ami de la France</AUTHOR
-><RESPSTMT
-TEIFORM="respStmt"
-><RESP
-TEIFORM="resp"
->Compiled and edited by</RESP
-><NAME
-TEIFORM="name"
->Michael Kazanjian</NAME
-></RESPSTMT
-></TITLESTMT
-><PUBLICATIONSTMT
-TEIFORM="publicationStmt"
-><PUBLISHER
-TEIFORM="publisher"
->Lewis H. Beck Center</PUBLISHER
-><PUBPLACE
-TEIFORM="pubPlace"
->Emory University</PUBPLACE
-><ADDRESS
-TEIFORM="address"
-><ADDRLINE
-TEIFORM="addrLine"
->Atlanta, Georgia  30322</ADDRLINE
-></ADDRESS
-><AVAILABILITY
-STATUS="UNKNOWN"
-TEIFORM="availability"
-><P
-TEIFORM="p"
->2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</P
-></AVAILABILITY
-><DATE
-TEIFORM="date"
->2002</DATE
-></PUBLICATIONSTMT
-><SERIESSTMT
-TEIFORM="seriesStmt"
-><TITLE
-TEIFORM="title"
->French Revolution Pamphlet Collection</TITLE
-></SERIESSTMT
-><SOURCEDESC
-DEFAULT="NO"
-TEIFORM="sourceDesc"
-><BIBL
-DEFAULT="NO"
-TEIFORM="bibl"
-><TITLE
-TEIFORM="title"
-> La R&eacute;volution: po&egrave;.</TITLE
->
-<PUBPLACE
-TEIFORM="pubPlace"
->Paris?</PUBPLACE
-><DATE
-TEIFORM="date"
->1790</DATE
-></BIBL
-></SOURCEDESC
-></FILEDESC
-><ENCODINGDESC
-TEIFORM="encodingDesc"
-><PROJECTDESC
-DEFAULT="NO"
-TEIFORM="projectDesc"
-><P
-TEIFORM="p"
->This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</P
-><P
-TEIFORM="p"
->Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</P
-></PROJECTDESC
-><EDITORIALDECL
-DEFAULT="NO"
-TEIFORM="editorialDecl"
-><P
-TEIFORM="p"
->I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  I also omitted page signatures: A2 on p. 3, A3 on p. 5 and A4 on p. 7.  For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</P
-></EDITORIALDECL
-></ENCODINGDESC
-><PROFILEDESC
-TEIFORM="profileDesc"
-><CREATION
-TEIFORM="creation"
-><DATE
-TEIFORM="date"
->1790</DATE
-></CREATION
-></PROFILEDESC
-><REVISIONDESC
-TEIFORM="revisionDesc"
-><CHANGE
-TEIFORM="change"
-><DATE
-TEIFORM="date"
->2002</DATE
-><RESPSTMT
-TEIFORM="respStmt"
-><NAME
-TEIFORM="name"
->Michael Kazanjian</NAME
-><RESP
-TEIFORM="resp"
->staff</RESP
-></RESPSTMT
-><ITEM
-TEIFORM="item"
->Sgml tags inserted in compliance with TEI guidelines using TEI P3</ITEM
-></CHANGE
-></REVISIONDESC
-></TEIHEADER
-><TEXT
-TEIFORM="text"
-><FRONT
-TEIFORM="front"
-><TITLEPAGE
-TEIFORM="titlePage"
-><DOCTITLE
-TEIFORM="docTitle"
-><TITLEPART
-TYPE="main"
-TEIFORM="titlePart"
->La R&eacute;volution.  Po&egrave;me, en vers fran&ccedil;aise plus libres que la Libert&eacute; elle-m&ecirc;me, par l'Ami de la France.</TITLEPART
-></DOCTITLE
-><DOCAUTHOR
-TEIFORM="docAuthor"
->L'Ami de la France.</DOCAUTHOR
-><DOCDATE
-TEIFORM="docDate"
->1790.</DOCDATE
-><EPIGRAPH
-TEIFORM="epigraph"
-><P
-REND="rule center"
-TEIFORM="p"
-></P
-><P
-TEIFORM="p"
-><Q
-DIRECT="UNSPECIFIED"
-TEIFORM="q"
->A Populo factum est istud, et est 
-mirabile in oculis nostris.</Q
-></P
-></EPIGRAPH
-><PB
-N="1"
-TEIFORM="pb"
-></PB
-></TITLEPAGE
-><DIV1
-ID="AVERTISSEMENT"
-TYPE="Avertissement de l'auteur"
-ORG="UNIFORM"
-SAMPLE="COMPLETE"
-PART="N"
-TEIFORM="div1"
-><PB
-N="2"
-TEIFORM="pb"
-></PB
-><PB
-N="3"
-TEIFORM="pb"
-></PB
-><P
-TEIFORM="p"
-><TITLE
-TEIFORM="title"
->AVERTISSEMENT DE L'AUTEUR.</TITLE
-></P
-><P
-TEIFORM="p"
->On ne trouvera pas d'ordre dans mes vers ; celui qui me lira n'aura pas de reproche &agrave; me faire ; il sait, ou dois savoir qu'il n'y en a plus dans le royaume. Mes vers sont in&eacute;gaux en force : en voici la raison, qui est recevable, &agrave; ce que je crois.
-Il y a parmi eux des Aristocrates, des D&eacute;mocrates, des Nobles et des Roturiers ; comme par exemple, des Rois, des Princes, des Ducs, des Comtes, des Marquis, des Barons et des Chevaliers, des premiers Pr&eacute;sidens, des Pr&eacute;sidens &agrave; Mortier, des Conseillers, des Avocats, des Procureurs, des Paysans renforc&eacute;s, des simples Paysans, des P&acirc;tres, des Bergers, des Cordonniers et des Savetiers, etc. etc. etc. Il est tr&egrave;s-difficile d'&eacute;galiser tous ces Messieurs.</P
-><P
-TEIFORM="p"
->J'ai aussi cru devoir supprimer l'alternative r&eacute;guli&egrave;re des rimes masculines et f&eacute;minines, parce que je les ai regard&eacute;es comme une entrave
-<PB
-N="4"
-TEIFORM="pb"
-></PB
->
-&agrave; la libert&eacute;, et que j'entends jouir d&eacute;sormais des pr&eacute;rogatives uniques attach&eacute;es &agrave; la qualit&eacute; de Citoyen Fran&ccedil;ais.</P
-></DIV1
-><DIV1
-ID="AVIS"
-TYPE="Avis au lecteur"
-ORG="UNIFORM"
-SAMPLE="COMPLETE"
-PART="N"
-TEIFORM="div1"
-><PB
-N="5"
-TEIFORM="pb"
-></PB
-><P
-TEIFORM="p"
-><TITLE
-TEIFORM="title"
->AVIS AU LECTEUR. </TITLE
-></P
-><LG
-TYPE="stanza"
-ORG="UNIFORM"
-SAMPLE="COMPLETE"
-PART="N"
-TEIFORM="lg"
-><L
-PART="N"
-TEIFORM="l"
->Au pays des Moutons, au midi de la France,</L
-><L
-PART="N"
-TEIFORM="l"
->Au milieu des brebis, Lecteur, je pris naissance ;</L
-><L
-PART="N"
-TEIFORM="l"
->Je sais b&ecirc;ler en vers, et dans ma bergerie</L
-><L
-PART="N"
-TEIFORM="l"
->Je me plais &agrave; rimer : chacun a sa folie ;</L
-><L
-PART="N"
-TEIFORM="l"
->Chacun en a sa dose, et c'est, ma foi, la lune</L
-><L
-PART="N"
-TEIFORM="l"
->Qui conduit, en ce si&egrave;cle, et la blonde et la brune,</L
-><L
-PART="N"
-TEIFORM="l"
->Tous les blancs, tous les noirs, les brunets, les ch&acirc;tains,</L
-><L
-PART="N"
-TEIFORM="l"
->Les blonds, les roux ardens, etles gentils blondins ;</L
-><L
-PART="N"
-TEIFORM="l"
->Aussi le vieux tondu qui se couvre la nuque</L
-><L
-PART="N"
-TEIFORM="l"
->Des cheveux du prochain ; l'homme portant perruque.</L
-><L
-PART="N"
-TEIFORM="l"
->C'est elle qui gouverne et r&eacute;git ce bas monde,</L
-><L
-PART="N"
-TEIFORM="l"
->Et tout est fou, Lecteur, sur la terre et sur l'onde.</L
-><L
-PART="N"
-TEIFORM="l"
->Cet astre secondaire a, sur-tout sur la France,</L
-><L
-PART="N"
-TEIFORM="l"
->En ce moment heureux, une extr&ecirc;me influence :</L
-><L
-PART="N"
-TEIFORM="l"
->J'adore sa rondeur et sa douce lumi&egrave;re ;</L
-><L
-PART="N"
-TEIFORM="l"
->Ses nocturnes rayons sont doux &agrave; ma paupi&egrave;re ;</L
-><L
-PART="N"
-TEIFORM="l"
->Je suis fou comme un autre, et j'offre mon amour</L
-><L
-PART="N"
-TEIFORM="l"
->Au globe le plus doux du c&eacute;leste s&eacute;jour.</L
-><PB
-N="6"
-TEIFORM="pb"
-></PB
-><L
-PART="N"
-TEIFORM="l"
->Je te foule &agrave; mis pieds, g&acirc;nante prosodie,</L
-><L
-PART="N"
-TEIFORM="l"
->Ton despotisme altier d&eacute;plait &agrave; ma folie ;</L
-><L
-PART="N"
-TEIFORM="l"
->J'envoie au berniquet la r&egrave;gle et la raison,</L
-><L
-PART="N"
-TEIFORM="l"
->Et vais avec la France aux Petites-Maisons.</L
-></LG
-></DIV1
-></FRONT
-><BODY
-TEIFORM="body"
-><DIV1
-TYPE="Body"
-ORG="UNIFORM"
-SAMPLE="COMPLETE"
-PART="N"
-TEIFORM="div1"
-><PB
-N="7"
-TEIFORM="pb"
-></PB
-><P
-TEIFORM="p"
-><TITLE
-TEIFORM="title"
->LA R&Eacute;VOLUTION.<LB
-TEIFORM="lb"
-></LB
->
-PO&Egrave;ME,<LB
-TEIFORM="lb"
-></LB
->
-PAR L'AMI DE LA FRANCE.</TITLE
-></P
-><P
-REND="rule center"
-TEIFORM="p"
-></P
-><LG
-TYPE="stanza"
-ORG="UNIFORM"
-SAMPLE="COMPLETE"
-PART="N"
-TEIFORM="lg"
-><L
-PART="N"
-TEIFORM="l"
->0 superbe Royaume ! &ocirc; malheureuse France !</L
-><L
-PART="N"
-TEIFORM="l"
->Respectable vieillard, tu rentres dans l'enfance :</L
-><L
-PART="N"
-TEIFORM="l"
->C'en est donc fait de vous, c'en est fait &agrave; jamais,</L
-><L
-PART="N"
-TEIFORM="l"
->Peuple d&eacute;raisonnable, &ocirc; ! trop l&eacute;gers Fran&ccedil;ais,</L
-><L
-PART="N"
-TEIFORM="l"
->Doux, bons, m&eacute;chans, cruels, selon l'occasion :</L
-><L
-PART="N"
-TEIFORM="l"
->Je r&ecirc;ve, mon Lecteur, c'est une vision.</L
-><L
-PART="N"
-TEIFORM="l"
->Mais, non, ce que je dis est la v&eacute;rit&eacute; m&ecirc;me,</L
-><L
-PART="N"
-TEIFORM="l"
->Et je suis p&eacute;n&eacute;tr&eacute; d'une douleur extr&ecirc;me ;</L
-><L
-PART="N"
-TEIFORM="l"
->L'univers voit en eux des foux, des criminels,</L
-><L
-PART="N"
-TEIFORM="l"
->Sages et doux jadis, mais devenus cruels :</L
-><L
-PART="N"
-TEIFORM="l"
->L'astre du jour t&eacute;moin de leur f&eacute;rocit&eacute;,</L
-><L
-PART="N"
-TEIFORM="l"
->Le soleil, a fr&eacute;mi de leur atrocit&eacute; :</L
-><L
-PART="N"
-TEIFORM="l"
->Les cieux se sont ouverts, et l'on a vu la foudre</L
-><L
-PART="N"
-TEIFORM="l"
->Pr&ecirc;te &agrave; tomber sur eux, et les r&eacute;duire en poudre.</L
-><L
-PART="N"
-TEIFORM="l"
->Ils dorment aujourd'hui ; mais un affreux r&eacute;veil</L
-><L
-PART="N"
-TEIFORM="l"
->Attend ces malheureux au sortir du sommeil :</L
-><L
-PART="N"
-TEIFORM="l"
->Ils seront &eacute;cras&eacute;s par le poids de leurs crimes ;</L
-><L
-PART="N"
-TEIFORM="l"
->Bient&ocirc;t de leur fureur ils seront les victimes :</L
-><L
-PART="N"
-TEIFORM="l"
->Fran&ccedil;ais, le mal est fait ; j'ai mont&eacute; vers sa source,</L
-><L
-PART="N"
-TEIFORM="l"
->Et de mon &oelig;il mouill&eacute; je l'ai vu sans ressource :</L
-><PB
-N="8"
-TEIFORM="pb"
-></PB
-><L
-PART="N"
-TEIFORM="l"
->Vous avez contre vons tourn&eacute; vos propres armes ;</L
-><L
-PART="N"
-TEIFORM="l"
->J'en pleure, et c'est en vain que je r&eacute;pands des larmes.</L
-><L
-PART="N"
-TEIFORM="l"
->Vous &ecirc;tes de nos maux l'origine et le le type,</L
-><L
-PART="N"
-TEIFORM="l"
->D&eacute;testable Necker, ex&eacute;crable Philipinne ;</L
-><L
-PART="N"
-TEIFORM="l"
->Vous &ecirc;tes d&eacute;put&eacute;s des gouffres infernaux :</L
-><L
-PART="N"
-TEIFORM="l"
->Oui, monstres, c'est de vous que viennent tous nos maux ;</L
-><L
-PART="N"
-TEIFORM="l"
->L'enfer vous a vomi du fond des ses t&eacute;n&egrave;bres ;</L
-><L
-PART="N"
-TEIFORM="l"
->Vous nous avez couvert de ses voiles fun&egrave;bres ;</L
-><L
-PART="N"
-TEIFORM="l"
->Vous nous avez tromp&eacute;, nous et notre Monarque ;</L
-><L
-PART="N"
-TEIFORM="l"
->Nous aurons des vengeurs, la Raison et la Parque.</L
-><L
-PART="N"
-TEIFORM="l"
->Dans ce fameux &eacute;dit de convocation,</L
-><L
-PART="N"
-TEIFORM="l"
->Necker, as-tu voulu tromper la Nation ?</L
-><L
-PART="N"
-TEIFORM="l"
->Ou, pour notre malheur; t'es-tu tromp&eacute; toi-m&ecirc;me ?</L
-><L
-PART="N"
-TEIFORM="l"
->Dans l'un ou l'autre cas, le total est le m&ecirc;me</L
-><L
-PART="N"
-TEIFORM="l"
->Est-ce par fourberie, est-ce par ignorance,</L
-><L
-PART="N"
-TEIFORM="l"
->Ministre malheureux, que tu perdis la France ?</L
-><L
-PART="N"
-TEIFORM="l"
->Nous le saurons un jour au Temple de M&eacute;moire. </L
-><L
-PART="N"
-TEIFORM="l"
->Nos neveux fr&eacute;miront en en lisant l'histoire.</L
-><L
-PART="N"
-TEIFORM="l"
->Et toi, Duc d'Orl...., &ocirc; ! Prince d&eacute;loyal,</L
-><L
-PART="N"
-TEIFORM="l"
->D&eacute;bauch&eacute;, factieux, et tra&icirc;tre au Sang Royal,</L
-><L
-PART="N"
-TEIFORM="l"
->En second Ravaillac, par un assassinat,</L
-><L
-PART="N"
-TEIFORM="l"
->Voulois-tu renverser et le Tr&ocirc;ne et l'Etat ?</L
-><L
-PART="N"
-TEIFORM="l"
->Projettois-tu, Philippe, un l&acirc;che r&eacute;gicide ?</L
-><L
-PART="N"
-TEIFORM="l"
->Si ce fut ta pens&eacute;e, &ocirc; monstre ! un suicide</L
-><L
-PART="N"
-TEIFORM="l"
->Est ta seule ressource : il faut purger la terre,</L
-><L
-PART="N"
-TEIFORM="l"
->Et quitter &agrave; jamias la France et l'Angleterre.</L
-><L
-PART="N"
-TEIFORM="l"
->Mais avant ton tr&eacute;pas, de ta main repentante</L
-><PB
-N="9"
-TEIFORM="pb"
-></PB
-><L
-PART="N"
-TEIFORM="l"
->Poignarde d'Aiguil.., assassines-en trente,</L
-><L
-PART="N"
-TEIFORM="l"
->Et de ton bras sanglant re&ccedil;ois le coup mortel ;</L
-><L
-PART="N"
-TEIFORM="l"
->C'est-l&agrave; le seul moyen d'appaiser l'Eternel,</L
-><L
-PART="N"
-TEIFORM="l"
->Et d'eviter, pour toi, sa fondre et sa vengeance :</L
-><L
-PART="N"
-TEIFORM="l"
->Philippe, avec ton sang on lavera la France.</L
-><L
-PART="N"
-TEIFORM="l"
->Et vous, nos D&eacute;put&eacute;s, audacieux mortels</L
-><L
-PART="N"
-TEIFORM="l"
->Qui bravez le vrai Dieu, renversez ses autels,</L
-><L
-PART="N"
-TEIFORM="l"
->Foulez aux pieds nos m&oelig;urs, le sceptre de nos Rois ;</L
-><L
-PART="N"
-TEIFORM="l"
->Vous qui brisez leur tr&ocirc;ne et d&eacute;truisez nos lois,</L
-><L
-PART="N"
-TEIFORM="l"
->Despotique S&eacute;nat, qui renversez l'Empire,</L
-><L
-PART="N"
-TEIFORM="l"
->Avez jur&eacute; sa perte, et voulez le d&eacute;truire ;</L
-><L
-PART="N"
-TEIFORM="l"
->De vices, de vertus, monstrueux assemblage,</L
-><L
-PART="N"
-TEIFORM="l"
->Des enfers et des cieux tout-&agrave;-la-fois l'image ;</L
-><L
-PART="N"
-TEIFORM="l"
->Vous allez nous jetter , de par votre folie,</L
-><L
-PART="N"
-TEIFORM="l"
->Dans un chaos affreux et dans la barbarie.</L
-><L
-PART="N"
-TEIFORM="l"
->Mille fois plus cruels que les ours blancs du Nord,</L
-><L
-PART="N"
-TEIFORM="l"
->Les Fran&ccedil;ais aux Fran&ccedil;ois donnent de&eacute;j&agrave; la mort.</L
-><L
-PART="N"
-TEIFORM="l"
->Ils s'&eacute;gorgeoient jadis dans la guerre civile :</L
-><L
-PART="N"
-TEIFORM="l"
->Dans ce si&egrave;cle d'horreurs le citoyen tranquille,</L
-><L
-PART="N"
-TEIFORM="l"
->Innocent, vertueux , par un assassinat</L
-><L
-PART="N"
-TEIFORM="l"
->Re&ccedil;oit le coup mortel au nom du Tiers-&Eacute;tat ;</L
-><L
-PART="N"
-TEIFORM="l"
->Il voit couler son sang sans pouvoir se d&eacute;fendre ;</L
-><L
-PART="N"
-TEIFORM="l"
->Il demande la vie, on ne veut pas l'entendre ;</L
-><L
-PART="N"
-TEIFORM="l"
->On arrache son c&oelig;ur, on lui coupe la t&ecirc;te,</L
-><L
-PART="N"
-TEIFORM="l"
->On d&eacute;chire ses chairs. L'homme n'estqu'une b&ecirc;te :</L
-><L
-PART="N"
-TEIFORM="l"
->Le ventre des m&acirc;tins, &ocirc; crime tout nouveau !</L
-><L
-PART="N"
-TEIFORM="l"
->Des Chr&eacute;tiens d&eacute;sormais deviendra le tombeau :</L
-><L
-PART="N"
-TEIFORM="l"
->Foulon en est la preuve. Avant ses fun&eacute;railles,</L
-><L
-PART="N"
-TEIFORM="l"
->On a vu des matins d&eacute;vorer ses entrailles :</L
-><PB
-N="10"
-TEIFORM="pb"
-></PB
-><L
-PART="N"
-TEIFORM="l"
->La sc&egrave;ne s'est pass&eacute;e aux yeux d'un peuple immense ;</L
-><L
-PART="N"
-TEIFORM="l"
->Et Paris a sign&eacute; la honte de la France. </L
-><L
-PART="N"
-TEIFORM="l"
->Paris aime le sang et sourit au carnage :</L
-><L
-PART="N"
-TEIFORM="l"
->Le tigre, mon Lecteur, en fait-il davantage ?</L
-><L
-PART="N"
-TEIFORM="l"
->0 malheureux Fran&ccedil;ois ! &ocirc; f&eacute;roce animal !</L
-><L
-PART="N"
-TEIFORM="l"
->Les d&eacute;serts africains n'ont pas vu ton &eacute;gal.</L
-><L
-PART="N"
-TEIFORM="l"
->Peuple cent fois cruel, Peuple aveugle et barbare,</L
-><L
-PART="N"
-TEIFORM="l"
->Votre f&eacute;rocit&eacute; r&eacute;volte le T&eacute;nare ;</L
-><L
-PART="N"
-TEIFORM="l"
->Votre ardeur sanguinaire &eacute;tonne Lucifer ;</L
-><L
-PART="N"
-TEIFORM="l"
->Elle indigne les cieux, elle irrite l'enfer.</L
-><L
-PART="N"
-TEIFORM="l"
->Vous, Cur&eacute; d'Arpajon, et vous, Sainte-Colombe,</L
-><L
-PART="N"
-TEIFORM="l"
->Par des assassinats descendus dans la tombe,</L
-><L
-PART="N"
-TEIFORM="l"
->Par le rustre assomm&eacute;s, et conduits au cercueil</L
-><L
-PART="N"
-TEIFORM="l"
->Par sa fureur injuste et par son sot orgueil :</L
-><L
-PART="N"
-TEIFORM="l"
->Toi, Voisins, toi, Ruilly, dont les fins si cruelles</L
-><L
-PART="N"
-TEIFORM="l"
->Ont fait trembler d'horreur les vo&ucirc;tes &eacute;ternelles,</L
-><L
-PART="N"
-TEIFORM="l"
->Morts, vous serez veng&eacute;s ; vos bourreaux au supplice,</L
-><L
-PART="N"
-TEIFORM="l"
->Seront tra&icirc;n&eacute;s un jour. Le jour de la justice</L
-><L
-PART="N"
-TEIFORM="l"
->S'avance vers nos murs, j'en vois d&eacute;j&agrave; l'aurore :</L
-><L
-PART="N"
-TEIFORM="l"
->Vos bourreaux p&eacute;riront, et vous vivrez encore.</L
-><L
-PART="N"
-TEIFORM="l"
->Leurs crimes, vos vertus, conserv&eacute;s par l'histoire,</L
-><L
-PART="N"
-TEIFORM="l"
->Seront du nom fran&ccedil;ais et la honte et la gloire.</L
-><L
-PART="N"
-TEIFORM="l"
->Ministres du tr&egrave;s-haut, qu'on vole et qu'on outrage.</L
-><L
-PART="N"
-TEIFORM="l"
->Vous, Nobles qu'on &eacute;gorge, armez-vous de courage,</L
-><L
-PART="N"
-TEIFORM="l"
->Attendez tout du tems et du ma&icirc;tre des ma&icirc;tres; </L
-><L
-PART="N"
-TEIFORM="l"
->Le tems sera chang&eacute; d'&eacute;craser tous ces tra&icirc;tres.</L
-><L
-PART="N"
-TEIFORM="l"
->L'homme va devenir de l'homme la p&acirc;ture,</L
-><L
-PART="N"
-TEIFORM="l"
->Le Fran&ccedil;ais du Fran&ccedil;ais fera, sa nourriture :</L
-><PB
-N="11"
-TEIFORM="pb"
-></PB
-><L
-PART="N"
-TEIFORM="l"
->Il surpasse dej&agrave; ces animaux sauvages,</L
-><L
-PART="N"
-TEIFORM="l"
->Que voit la mer du Nord sur ses affreux rivages;</L
-><L
-PART="N"
-TEIFORM="l"
->Et par ses cruaut&eacute;s ressemble au Cannibal ;</L
-><L
-PART="N"
-TEIFORM="l"
->Il est, par vos d&eacute;crets, devenu son &eacute;gal,</L
-><L
-PART="N"
-TEIFORM="l"
->D&eacute;put&eacute;s de la France, Erostrates modernes,</L
-><L
-PART="N"
-TEIFORM="l"
->L&eacute;gilateurs de sang, protecteurs des lanternes.</L
-><L
-PART="N"
-TEIFORM="l"
->Au nom du Dieu vivant, par votre fermet&eacute;,</L
-><L
-PART="N"
-TEIFORM="l"
->Arr&ecirc;tez ces forfaits et cette cruaut&eacute; ; </L
-><L
-PART="N"
-TEIFORM="l"
->N'oubliez pas sur-tout que vos d&eacute;crets mortels</L
-><L
-PART="N"
-TEIFORM="l"
->Ne triompheront pas des d&eacute;crets &eacute;ternels.</L
-><L
-PART="N"
-TEIFORM="l"
->Si vous vous d&eacute;clarez les protecteurs du vice,</L
-><L
-PART="N"
-TEIFORM="l"
->Craignez du Dieu vengeur la foudre et la justice.</L
-><L
-PART="N"
-TEIFORM="l"
->Mais la confusion, une horrible anarchie</L
-><L
-PART="N"
-TEIFORM="l"
->A d&eacute;j&agrave; remplac&eacute; l'antique monarchie.</L
-><L
-PART="N"
-TEIFORM="l"
->Les Fran&ccedil;ais, par leurs lois, sur la terre et les mers</L
-><L
-PART="N"
-TEIFORM="l"
->Avoient le premier rang aux yeux de l'univers.</L
-><L
-PART="N"
-TEIFORM="l"
->Le vertueux Louis, Monarque de la France,</L
-><L
-PART="N"
-TEIFORM="l"
->Commandoit &agrave; l'Europe ; il tenoit la balance</L
-><L
-PART="N"
-TEIFORM="l"
->Dans laquelle on pesoit de ses divers Etats</L
-><L
-PART="N"
-TEIFORM="l"
->Les int&eacute;r&ecirc;ts communs, ceux de ses potentats ;</L
-><L
-PART="N"
-TEIFORM="l"
->Il &eacute;toit le premier sur la terre et sur l'onde,</L
-><L
-PART="N"
-TEIFORM="l"
->Et sa compagne auguste &eacute;toit Reine du monde :</L
-><L
-PART="N"
-TEIFORM="l"
->Reine par sa puissance, aussi par ses appas,</L
-><L
-PART="N"
-TEIFORM="l"
->Fran&ccedil;ois ! &ocirc; bons Fran&ccedil;ois ! qui ne l'aimeroit pas ?</L
-><L
-PART="N"
-TEIFORM="l"
->Aux graces de l'amour elle joint le courage,</L
-><L
-PART="N"
-TEIFORM="l"
->De V&eacute;nus et de Mars est &agrave; la fois l'image.</L
-><L
-PART="N"
-TEIFORM="l"
->Vous qui, soufflant le feu de la s&eacute;dition,</L
-><L
-PART="N"
-TEIFORM="l"
->M&eacute;ritez des Fran&ccedil;ois la mal&eacute;diction ;</L
-><L
-PART="N"
-TEIFORM="l"
->Vous avez insult&eacute; cette Reine charmante</L
-><PB
-N="12"
-TEIFORM="pb"
-></PB
-><L
-PART="N"
-TEIFORM="l"
->La m&egrave;re du Dauphin, cette femme &eacute;tonnante,</L
-><L
-PART="N"
-TEIFORM="l"
->Et son &eacute;poux sacr&eacute;, le plus juste des Rois,</L
-><L
-PART="N"
-TEIFORM="l"
->En foulant &agrave; vos pieds la premi&egrave;re des Lois,</L
-><L
-PART="N"
-TEIFORM="l"
->Le respect qui revient de droit &agrave; la personne</L
-><L
-PART="N"
-TEIFORM="l"
->A qui l'&Eacute;tre &eacute;ternel a donn&eacute; la Couronne,</L
-><L
-PART="N"
-TEIFORM="l"
->Qu'il lui plut de placer, en France, au rang supr&ecirc;me,</L
-><L
-PART="N"
-TEIFORM="l"
->Qui tient de lui son Sceptre, aussi son Diad&ecirc;me ;</L
-><L
-PART="N"
-TEIFORM="l"
->Contre eux insolemment vous soulevez la France,</L
-><L
-PART="N"
-TEIFORM="l"
->Et vous leur disputez leurs droits et leur puissance :</L
-><L
-PART="N"
-TEIFORM="l"
->Sujets cent fois rebels, pour une fausse gloire,</L
-><L
-PART="N"
-TEIFORM="l"
->Des traits les plus honteux vous souillez notre histoire ;</L
-><L
-PART="N"
-TEIFORM="l"
->D'inf&acirc;mes assassins du Palais de nos Rois</L
-><L
-PART="N"
-TEIFORM="l"
->Ont profan&eacute; l'entr&eacute;e, et c'est &agrave; votre vois</L
-><L
-PART="N"
-TEIFORM="l"
->Que le sang &agrave; coul&eacute; sur les marches du Tr&ocirc;ne,</L
-><L
-PART="N"
-TEIFORM="l"
->Le sang de ces guerriers, gardes de la Couronne :</L
-><L
-PART="N"
-TEIFORM="l"
->La mort vous pr&eacute;c&eacute;doit, et marchoit sur vos pas,</L
-><L
-PART="N"
-TEIFORM="l"
->Et vos yeux ont donn&eacute; le signal du tr&eacute;pas.</L
-><L
-PART="N"
-TEIFORM="l"
->C'est-l&agrave; le droit de l'homme ! et et la nouvelle Loi</L
-><L
-PART="N"
-TEIFORM="l"
->Permet d'assassiner &agrave; la porte du Roi,</L
-><L
-PART="N"
-TEIFORM="l"
->D'enfoncer le poignard au sein de l'innocence !</L
-><L
-PART="N"
-TEIFORM="l"
->Ce sont-l&agrave; vos lecons, D&eacute;put&eacute;s de la France,</L
-><L
-PART="N"
-TEIFORM="l"
->La Constitution, votre sublime ouvrage,</L
-><L
-PART="N"
-TEIFORM="l"
->Sera m&egrave;re du sac, et fille du carnage ;</L
-><L
-PART="N"
-TEIFORM="l"
->Il faut, pour l'&eacute;tablir, trancher toutes les t&egrave;tes,</L
-><L
-PART="N"
-TEIFORM="l"
->Arracher tous les c&oelig;urs des citoyens honn&ecirc;tes.</L
-><L
-PART="N"
-TEIFORM="l"
->Ce fourbe, qui jadis fabriqua l'Alcoran,</L
-><L
-PART="N"
-TEIFORM="l"
->Imposteur qui trompa le stupide Ottoman,</L
-><PB
-N="13"
-TEIFORM="pb"
-></PB
-><L
-PART="N"
-TEIFORM="l"
->Pour l'induira en erreur, flatta ses passions ;</L
-><L
-PART="N"
-TEIFORM="l"
->(Les fourbes font ainsi les r&eacute;volutions.)</L
-><L
-PART="N"
-TEIFORM="l"
->Il caressa le peuple, et bravant le Tr&egrave;s-Haut,</L
-><L
-PART="N"
-TEIFORM="l"
->D'un culte mensonger &eacute;leva l'&eacute;chaffaud,</L
-><L
-PART="N"
-TEIFORM="l"
->Sur des bases de sang b&acirc;tit son &eacute;difice,</L
-><L
-PART="N"
-TEIFORM="l"
->Pour sable et pour ciment n'ayant que son caprice.</L
-><L
-PART="N"
-TEIFORM="l"
->Vous suivez sa maxime et son absurde exemple,</L
-><L
-PART="N"
-TEIFORM="l"
->Vous bravez le vrai Dieu, d&eacute;molissez son temple ;</L
-><L
-PART="N"
-TEIFORM="l"
->Vous avez renvers&eacute; toutes nos Loix antiques,</L
-><L
-PART="N"
-TEIFORM="l"
->Et nos nouvelles Lois sont des Lois anarchiques.</L
-><L
-PART="N"
-TEIFORM="l"
->L'homme est libre, il suffit : plus de Dieu, plus de Roi,</L
-><L
-PART="N"
-TEIFORM="l"
->Ce sera d&eacute;sormais l'Evangile et la Loi.</L
-><L
-PART="N"
-TEIFORM="l"
->C'est-l&agrave; de vos d&eacute;crets l'infernale substance,</L
-><L
-PART="N"
-TEIFORM="l"
->Le poison destructeur dont se nourrit la France.</L
-><L
-PART="N"
-TEIFORM="l"
->Ce nouveau Cat&eacute;chisme est celui du sauvage,</L
-><L
-PART="N"
-TEIFORM="l"
->De l'homme il fait un tigre, et c'est un radotage :</L
-><L
-PART="N"
-TEIFORM="l"
->L'homme est &eacute;gal en droit, l'homme &agrave; l'homme est &eacute;gal ;</L
-><L
-PART="N"
-TEIFORM="l"
->J'en conviens avec vous, l'homme est un animal.</L
-><L
-PART="N"
-TEIFORM="l"
->Vous abusez, Messieurs, de sa stupidit&eacute;,</L
-><L
-PART="N"
-TEIFORM="l"
->En flattant son orgueil. Ce mot &eacute;galit&eacute;,</L
-><L
-PART="N"
-TEIFORM="l"
->Ce mot, vide de sens, lui fait perdre la t&ecirc;te :</L
-><L
-PART="N"
-TEIFORM="l"
->Je le r&eacute;p&egrave;te ici, l'homme n'est qu'une b&ecirc;te.</L
-><L
-PART="N"
-TEIFORM="l"
->Vous assommez la France &agrave; coups de motion :</L
-><L
-PART="N"
-TEIFORM="l"
->Ce Royaume est mourant ; la Constitution</L
-><L
-PART="N"
-TEIFORM="l"
->Qu'on forge tous les jours dans <HI
-REND="italic"
-TEIFORM="hi"
->la grande boutique&gt;</HI
-></L
-><L
-PART="N"
-TEIFORM="l"
->O&ugrave; vous faites des Lois, le rend paralytique :</L
-><PB
-N="14"
-TEIFORM="pb"
-></PB
-><L
-PART="N"
-TEIFORM="l"
->Au lieu de le sauver des dangers du naufrage,</L
-><L
-PART="N"
-TEIFORM="l"
->Vous le poussez encor plus avant dans l'orage :</L
-><L
-PART="N"
-TEIFORM="l"
->De rocher en rocher, et d'&eacute;cueil en &eacute;cueil,</L
-><L
-PART="N"
-TEIFORM="l"
->Vous promenez l'Etat et creusez son cercueil.</L
-><L
-PART="N"
-TEIFORM="l"
->En vain je cherche &agrave; voir quel peut &ecirc;tre le port</L
-><L
-PART="N"
-TEIFORM="l"
->Vers lequel vous voguez, je crois que c'est le sort</L
-><L
-PART="N"
-TEIFORM="l"
->Qui fonde votre espoir, et votre confiance</L
-><L
-PART="N"
-TEIFORM="l"
->A pour son grand appui la force de la France.</L
-><L
-PART="N"
-TEIFORM="l"
->Dans un corps vigoureux si la fi&egrave;vre est trop forte,</L
-><L
-PART="N"
-TEIFORM="l"
->La tombe va s'ouvrir, la mort est &agrave; la porte.</L
-><L
-PART="N"
-TEIFORM="l"
->Pour gu&eacute;rir le Royaume il vous reste un instant,</L
-><L
-PART="N"
-TEIFORM="l"
->La maladie est grande et le danger pressant ;</L
-><L
-PART="N"
-TEIFORM="l"
->D'une oreille attentive &eacute;coutez mes conseils :</L
-><L
-PART="N"
-TEIFORM="l"
->(Les com&egrave;tes des cieux recrutent leurs soleils.)</L
-><L
-PART="N"
-TEIFORM="l"
->Vieille erreur aux esprits, est ce qu'un vieux ulc&egrave;re</L
-><L
-PART="N"
-TEIFORM="l"
->Est &agrave; des corps souffrans ; c'est pour l'ame un caut&egrave;re.</L
-><L
-PART="N"
-TEIFORM="l"
->On veut fermer Carybde et l'on ouvre Scylla.</L
-><L
-PART="N"
-TEIFORM="l"
->Un N&eacute;ron vaudroit mieux que cent Caligula.</L
-><L
-PART="N"
-TEIFORM="l"
->On d&eacute;truit tous les jours la superstition,</L
-><L
-PART="N"
-TEIFORM="l"
->Et l'on donne la mort &agrave; la religion.</L
-><L
-PART="N"
-TEIFORM="l"
->Oui, l'erreur est un mal, mais un mal n&eacute;cessaire,</L
-><L
-PART="N"
-TEIFORM="l"
->Et c'est par lui qu'un Roi peut gouverner la terre.</L
-><L
-PART="N"
-TEIFORM="l"
->Laissons les foux pr&eacute;tendre &agrave; la perfection,</L
-><L
-PART="N"
-TEIFORM="l"
->Evitons ce qui m&egrave;ne &agrave; la destruction,</L
-><L
-PART="N"
-TEIFORM="l"
->R&eacute;formons doucement, m&eacute;nageons la foiblesse</L
-><L
-PART="N"
-TEIFORM="l"
->De l'homme : pris en masse, il manque de justesse ;</L
-><L
-PART="N"
-TEIFORM="l"
->Mais sur-tout renon&ccedil;ons &agrave; la d&eacute;mocratie,</L
-><PB
-N="15"
-TEIFORM="pb"
-></PB
-><L
-PART="N"
-TEIFORM="l"
->Dans un vaste Royaume elle est une folie ;</L
-><L
-PART="N"
-TEIFORM="l"
->C'est un poison mortel pour les vastes Etats,</L
-><L
-PART="N"
-TEIFORM="l"
->Pour la France, sur-tout, <HI
-REND="italic"
-TEIFORM="hi"
->c'est de la mort aux rats.</HI
-></L
-><L
-PART="N"
-TEIFORM="l"
->Du protestant Necker c'est une r&ecirc;verie :</L
-><L
-PART="N"
-TEIFORM="l"
->Necker a de l'esprit, il manque de g&eacute;nie ;</L
-><L
-PART="N"
-TEIFORM="l"
->de sa funeste erreur nous sommes les victimes ;</L
-><L
-PART="N"
-TEIFORM="l"
->Jusqu'ici ses calculs n'ont produit que des crimes :</L
-><L
-PART="N"
-TEIFORM="l"
->C&eacute;l&egrave;bre agioteur, il s'entend en finance ,</L
-><L
-PART="N"
-TEIFORM="l"
->Mais ne fut jamais fait pour gouverner la France ;</L
-><L
-PART="N"
-TEIFORM="l"
->C'&eacute;toit pour ce Banquier un trop pesant fardeau.</L
-><L
-PART="N"
-TEIFORM="l"
->Il est faux, dit <HI
-REND="italic"
-TEIFORM="hi"
->Marat</HI
->, quittons notre bandeau ;</L
-><L
-PART="N"
-TEIFORM="l"
->Au Roi, Fran&ccedil;ois ! au Roi ! la raison nous l'ordonne,</L
-><L
-PART="N"
-TEIFORM="l"
->En sujets repentans rendons lui sa Couronne ;</L
-><L
-PART="N"
-TEIFORM="l"
->Il est notre Soleil, et c'est de sa splendeur</L
-><L
-PART="N"
-TEIFORM="l"
->Que d&eacute;pend notre &eacute;clat, aussi notre bonheur.</L
-><L
-PART="N"
-TEIFORM="l"
->Notre tranquillit&eacute; d&eacute;pend de sa puissance ;</L
-><L
-PART="N"
-TEIFORM="l"
->La force de Louis est celle de la France.</L
-><L
-PART="N"
-TEIFORM="l"
->Si par acharnement, par un go&ucirc;t exalt&eacute;</L
-><L
-PART="N"
-TEIFORM="l"
->Pour ce fant&ocirc;me vain , qu'on noimme libert&eacute;,</L
-><L
-PART="N"
-TEIFORM="l"
->Nous persistons encore dans nos folles erreurs,</L
-><L
-PART="N"
-TEIFORM="l"
->Je vous pr&eacute;dis, Fran&ccedil;ois, le plus grand des malheurs ;</L
-><L
-PART="N"
-TEIFORM="l"
->Le Royaume est d&eacute;truit, c'en est fait &agrave; jamais,</L
-><L
-PART="N"
-TEIFORM="l"
->Nous perdrons tout, amis, jusqu'au nom de Fran&ccedil;ois ;</L
-><L
-PART="N"
-TEIFORM="l"
->Des conqu&eacute;rans fougueux nous serons le partage :</L
-><L
-PART="N"
-TEIFORM="l"
->O malheureux Neckker ! ce sera ton ouvrage. </L
-><L
-PART="N"
-TEIFORM="l"
->Oui, ta pr&eacute;somption, ta folle vanit&eacute;,</L
-><L
-PART="N"
-TEIFORM="l"
->Ton effren&eacute; d&eacute;sir de l'immortalit&eacute;</L
-><PB
-N="16"
-TEIFORM="pb"
-></PB
-><L
-PART="N"
-TEIFORM="l"
->Vont renverser la France. En lui donnant les lois</L
-><L
-PART="N"
-TEIFORM="l"
->Du Code monstrueux des barbares Gaulois,</L
-><L
-PART="N"
-TEIFORM="l"
->Tu d&eacute;truis de l'Etat la force et l'unit&eacute;.</L
-><L
-PART="N"
-TEIFORM="l"
-><HI
-REND="italic"
-TEIFORM="hi"
->Departement, District, Municipalit&eacute;</HI
->,</L
-><L
-PART="N"
-TEIFORM="l"
->Sont trois gothiques mots pris au vocabulaire</L
-><L
-PART="N"
-TEIFORM="l"
->Du Franc dans son berceau. Mais Dieu, dans sa col&egrave;re,</L
-><L
-PART="N"
-TEIFORM="l"
->Le veut ainsi, sans doute, et c'est lui qui l'ordonne ;</L
-><L
-PART="N"
-TEIFORM="l"
->Il se venge, Francois, et c'est sur nous qu'il tonne :</L
-><L
-PART="N"
-TEIFORM="l"
->Necker est pour la France un &eacute;clat de sa foudre,</L
-><L
-PART="N"
-TEIFORM="l"
->Qui d&eacute;j&agrave; la consume et qui va la dissoudre.</L
-><L
-PART="N"
-TEIFORM="l"
->Cet homme ambitieux, faux, peut-&ecirc;tre cruel,</L
-><L
-PART="N"
-TEIFORM="l"
->En mourant descendra dans l'abyme &eacute;ternel :</L
-><L
-PART="N"
-TEIFORM="l"
->Il a tromp&eacute; Louis ; mais ta toute-puissance</L
-><L
-PART="N"
-TEIFORM="l"
->L'accablera, Seigneur, du poids de ta vengeance,</L
-><L
-PART="N"
-TEIFORM="l"
->Tu vengeras ce Roi : ta bont&eacute; protectrice</L
-><L
-PART="N"
-TEIFORM="l"
->Est due &agrave; ses vertus ; il attend ta justice.</L
-><L
-PART="N"
-TEIFORM="l"
->Pardoune &agrave; ses sujets, &agrave; ce Peuple en furie ;</L
-><L
-PART="N"
-TEIFORM="l"
->C'est de deux imposteurs que vient sa barbarie,</L
-><L
-PART="N"
-TEIFORM="l"
->De Necker, de Bourbon, la honte de la terre :</L
-><L
-PART="N"
-TEIFORM="l"
->Lance sur eux, grand Dieu, les feux de ton tonnerre !</L
-></LG
-></DIV1
-></BODY
-><BACK
-TEIFORM="back"
-></BACK
-></TEXT
-></TEI.2
->
+<TEI.2 id="115n10_1005">
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title> La R&#x00E9;volution: po&#x00E8;: electronic edition</title>
+        <author>l'Ami de la France</author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Michael Kazanjian</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Lewis H. Beck Center</publisher>
+        <pubPlace>Emory University</pubPlace>
+        <address>
+          <addrLine>Atlanta, Georgia  30322</addrLine>
+        </address>
+        <availability>
+          <p>2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</p>
+        </availability>
+        <date>2002</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>French Revolution Pamphlet Collection</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title> La R&#x00E9;volution: po&#x00E8;.</title>
+          <pubPlace>Paris?</pubPlace>
+          <date>1790</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</p>
+        <p>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  I also omitted page signatures: A2 on p. 3, A3 on p. 5 and A4 on p. 7.  For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date>1790</date>
+      </creation>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002</date>
+        <respStmt>
+          <name>Michael Kazanjian</name>
+          <resp>staff</resp>
+        </respStmt>
+        <item>Sgml tags inserted in compliance with TEI guidelines using TEI P3</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text id="115n10_1004">
+    <front id="115n10_1001">
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">La R&#x00E9;volution.  Po&#x00E8;me, en vers fran&#x00E7;aise plus libres que la Libert&#x00E9; elle-m&#x00EA;me, par l'Ami de la France.</titlePart>
+        </docTitle>
+        <docAuthor>L'Ami de la France.</docAuthor>
+        <docDate>1790.</docDate>
+        <epigraph>
+          <p rend="rule center"/>
+          <p>
+            <q direct="unspecified">A Populo factum est istud, et est 
+mirabile in oculis nostris.</q>
+          </p>
+        </epigraph>
+        <pb n="1"/>
+      </titlePage>
+      <div1 id="r115n10avertissement" type="Avertissement de l'auteur">
+        <pb n="2"/>
+        <pb n="3"/>
+        <p>
+          <title>AVERTISSEMENT DE L'AUTEUR.</title>
+        </p>
+        <p>On ne trouvera pas d'ordre dans mes vers ; celui qui me lira n'aura pas de reproche &#x00E0; me faire ; il sait, ou dois savoir qu'il n'y en a plus dans le royaume. Mes vers sont in&#x00E9;gaux en force : en voici la raison, qui est recevable, &#x00E0; ce que je crois.
+Il y a parmi eux des Aristocrates, des D&#x00E9;mocrates, des Nobles et des Roturiers ; comme par exemple, des Rois, des Princes, des Ducs, des Comtes, des Marquis, des Barons et des Chevaliers, des premiers Pr&#x00E9;sidens, des Pr&#x00E9;sidens &#x00E0; Mortier, des Conseillers, des Avocats, des Procureurs, des Paysans renforc&#x00E9;s, des simples Paysans, des P&#x00E2;tres, des Bergers, des Cordonniers et des Savetiers, etc. etc. etc. Il est tr&#x00E8;s-difficile d'&#x00E9;galiser tous ces Messieurs.</p>
+        <p>J'ai aussi cru devoir supprimer l'alternative r&#x00E9;guli&#x00E8;re des rimes masculines et f&#x00E9;minines, parce que je les ai regard&#x00E9;es comme une entrave<pb n="4"/>
+&#x00E0; la libert&#x00E9;, et que j'entends jouir d&#x00E9;sormais des pr&#x00E9;rogatives uniques attach&#x00E9;es &#x00E0; la qualit&#x00E9; de Citoyen Fran&#x00E7;ais.</p>
+      </div1>
+      <div1 id="r115n10avis" type="Avis au lecteur">
+        <pb n="5"/>
+        <p>
+          <title>AVIS AU LECTEUR. </title>
+        </p>
+        <lg type="stanza">
+          <l>Au pays des Moutons, au midi de la France,</l>
+          <l>Au milieu des brebis, Lecteur, je pris naissance ;</l>
+          <l>Je sais b&#x00EA;ler en vers, et dans ma bergerie</l>
+          <l>Je me plais &#x00E0; rimer : chacun a sa folie ;</l>
+          <l>Chacun en a sa dose, et c'est, ma foi, la lune</l>
+          <l>Qui conduit, en ce si&#x00E8;cle, et la blonde et la brune,</l>
+          <l>Tous les blancs, tous les noirs, les brunets, les ch&#x00E2;tains,</l>
+          <l>Les blonds, les roux ardens, etles gentils blondins ;</l>
+          <l>Aussi le vieux tondu qui se couvre la nuque</l>
+          <l>Des cheveux du prochain ; l'homme portant perruque.</l>
+          <l>C'est elle qui gouverne et r&#x00E9;git ce bas monde,</l>
+          <l>Et tout est fou, Lecteur, sur la terre et sur l'onde.</l>
+          <l>Cet astre secondaire a, sur-tout sur la France,</l>
+          <l>En ce moment heureux, une extr&#x00EA;me influence :</l>
+          <l>J'adore sa rondeur et sa douce lumi&#x00E8;re ;</l>
+          <l>Ses nocturnes rayons sont doux &#x00E0; ma paupi&#x00E8;re ;</l>
+          <l>Je suis fou comme un autre, et j'offre mon amour</l>
+          <l>Au globe le plus doux du c&#x00E9;leste s&#x00E9;jour.</l>
+          <pb n="6"/>
+          <l>Je te foule &#x00E0; mis pieds, g&#x00E2;nante prosodie,</l>
+          <l>Ton despotisme altier d&#x00E9;plait &#x00E0; ma folie ;</l>
+          <l>J'envoie au berniquet la r&#x00E8;gle et la raison,</l>
+          <l>Et vais avec la France aux Petites-Maisons.</l>
+        </lg>
+      </div1>
+    </front>
+    <body id="115n10_1002">
+      <div1 id="r115n10" type="poeme">
+        <pb n="7"/>
+        <p>
+          <title>LA R&#x00C9;VOLUTION.<lb/>
+PO&#x00C8;ME,<lb/>
+PAR L'AMI DE LA FRANCE.</title>
+        </p>
+        <p rend="rule center"/>
+        <lg type="stanza">
+          <l>0 superbe Royaume ! &#x00F4; malheureuse France !</l>
+          <l>Respectable vieillard, tu rentres dans l'enfance :</l>
+          <l>C'en est donc fait de vous, c'en est fait &#x00E0; jamais,</l>
+          <l>Peuple d&#x00E9;raisonnable, &#x00F4; ! trop l&#x00E9;gers Fran&#x00E7;ais,</l>
+          <l>Doux, bons, m&#x00E9;chans, cruels, selon l'occasion :</l>
+          <l>Je r&#x00EA;ve, mon Lecteur, c'est une vision.</l>
+          <l>Mais, non, ce que je dis est la v&#x00E9;rit&#x00E9; m&#x00EA;me,</l>
+          <l>Et je suis p&#x00E9;n&#x00E9;tr&#x00E9; d'une douleur extr&#x00EA;me ;</l>
+          <l>L'univers voit en eux des foux, des criminels,</l>
+          <l>Sages et doux jadis, mais devenus cruels :</l>
+          <l>L'astre du jour t&#x00E9;moin de leur f&#x00E9;rocit&#x00E9;,</l>
+          <l>Le soleil, a fr&#x00E9;mi de leur atrocit&#x00E9; :</l>
+          <l>Les cieux se sont ouverts, et l'on a vu la foudre</l>
+          <l>Pr&#x00EA;te &#x00E0; tomber sur eux, et les r&#x00E9;duire en poudre.</l>
+          <l>Ils dorment aujourd'hui ; mais un affreux r&#x00E9;veil</l>
+          <l>Attend ces malheureux au sortir du sommeil :</l>
+          <l>Ils seront &#x00E9;cras&#x00E9;s par le poids de leurs crimes ;</l>
+          <l>Bient&#x00F4;t de leur fureur ils seront les victimes :</l>
+          <l>Fran&#x00E7;ais, le mal est fait ; j'ai mont&#x00E9; vers sa source,</l>
+          <l>Et de mon &#x0153;il mouill&#x00E9; je l'ai vu sans ressource :</l>
+          <pb n="8"/>
+          <l>Vous avez contre vons tourn&#x00E9; vos propres armes ;</l>
+          <l>J'en pleure, et c'est en vain que je r&#x00E9;pands des larmes.</l>
+          <l>Vous &#x00EA;tes de nos maux l'origine et le le type,</l>
+          <l>D&#x00E9;testable Necker, ex&#x00E9;crable Philipinne ;</l>
+          <l>Vous &#x00EA;tes d&#x00E9;put&#x00E9;s des gouffres infernaux :</l>
+          <l>Oui, monstres, c'est de vous que viennent tous nos maux ;</l>
+          <l>L'enfer vous a vomi du fond des ses t&#x00E9;n&#x00E8;bres ;</l>
+          <l>Vous nous avez couvert de ses voiles fun&#x00E8;bres ;</l>
+          <l>Vous nous avez tromp&#x00E9;, nous et notre Monarque ;</l>
+          <l>Nous aurons des vengeurs, la Raison et la Parque.</l>
+          <l>Dans ce fameux &#x00E9;dit de convocation,</l>
+          <l>Necker, as-tu voulu tromper la Nation ?</l>
+          <l>Ou, pour notre malheur; t'es-tu tromp&#x00E9; toi-m&#x00EA;me ?</l>
+          <l>Dans l'un ou l'autre cas, le total est le m&#x00EA;me</l>
+          <l>Est-ce par fourberie, est-ce par ignorance,</l>
+          <l>Ministre malheureux, que tu perdis la France ?</l>
+          <l>Nous le saurons un jour au Temple de M&#x00E9;moire. </l>
+          <l>Nos neveux fr&#x00E9;miront en en lisant l'histoire.</l>
+          <l>Et toi, Duc d'Orl...., &#x00F4; ! Prince d&#x00E9;loyal,</l>
+          <l>D&#x00E9;bauch&#x00E9;, factieux, et tra&#x00EE;tre au Sang Royal,</l>
+          <l>En second Ravaillac, par un assassinat,</l>
+          <l>Voulois-tu renverser et le Tr&#x00F4;ne et l'Etat ?</l>
+          <l>Projettois-tu, Philippe, un l&#x00E2;che r&#x00E9;gicide ?</l>
+          <l>Si ce fut ta pens&#x00E9;e, &#x00F4; monstre ! un suicide</l>
+          <l>Est ta seule ressource : il faut purger la terre,</l>
+          <l>Et quitter &#x00E0; jamias la France et l'Angleterre.</l>
+          <l>Mais avant ton tr&#x00E9;pas, de ta main repentante</l>
+          <pb n="9"/>
+          <l>Poignarde d'Aiguil.., assassines-en trente,</l>
+          <l>Et de ton bras sanglant re&#x00E7;ois le coup mortel ;</l>
+          <l>C'est-l&#x00E0; le seul moyen d'appaiser l'Eternel,</l>
+          <l>Et d'eviter, pour toi, sa fondre et sa vengeance :</l>
+          <l>Philippe, avec ton sang on lavera la France.</l>
+          <l>Et vous, nos D&#x00E9;put&#x00E9;s, audacieux mortels</l>
+          <l>Qui bravez le vrai Dieu, renversez ses autels,</l>
+          <l>Foulez aux pieds nos m&#x0153;urs, le sceptre de nos Rois ;</l>
+          <l>Vous qui brisez leur tr&#x00F4;ne et d&#x00E9;truisez nos lois,</l>
+          <l>Despotique S&#x00E9;nat, qui renversez l'Empire,</l>
+          <l>Avez jur&#x00E9; sa perte, et voulez le d&#x00E9;truire ;</l>
+          <l>De vices, de vertus, monstrueux assemblage,</l>
+          <l>Des enfers et des cieux tout-&#x00E0;-la-fois l'image ;</l>
+          <l>Vous allez nous jetter , de par votre folie,</l>
+          <l>Dans un chaos affreux et dans la barbarie.</l>
+          <l>Mille fois plus cruels que les ours blancs du Nord,</l>
+          <l>Les Fran&#x00E7;ais aux Fran&#x00E7;ois donnent de&#x00E9;j&#x00E0; la mort.</l>
+          <l>Ils s'&#x00E9;gorgeoient jadis dans la guerre civile :</l>
+          <l>Dans ce si&#x00E8;cle d'horreurs le citoyen tranquille,</l>
+          <l>Innocent, vertueux , par un assassinat</l>
+          <l>Re&#x00E7;oit le coup mortel au nom du Tiers-&#x00C9;tat ;</l>
+          <l>Il voit couler son sang sans pouvoir se d&#x00E9;fendre ;</l>
+          <l>Il demande la vie, on ne veut pas l'entendre ;</l>
+          <l>On arrache son c&#x0153;ur, on lui coupe la t&#x00EA;te,</l>
+          <l>On d&#x00E9;chire ses chairs. L'homme n'estqu'une b&#x00EA;te :</l>
+          <l>Le ventre des m&#x00E2;tins, &#x00F4; crime tout nouveau !</l>
+          <l>Des Chr&#x00E9;tiens d&#x00E9;sormais deviendra le tombeau :</l>
+          <l>Foulon en est la preuve. Avant ses fun&#x00E9;railles,</l>
+          <l>On a vu des matins d&#x00E9;vorer ses entrailles :</l>
+          <pb n="10"/>
+          <l>La sc&#x00E8;ne s'est pass&#x00E9;e aux yeux d'un peuple immense ;</l>
+          <l>Et Paris a sign&#x00E9; la honte de la France. </l>
+          <l>Paris aime le sang et sourit au carnage :</l>
+          <l>Le tigre, mon Lecteur, en fait-il davantage ?</l>
+          <l>0 malheureux Fran&#x00E7;ois ! &#x00F4; f&#x00E9;roce animal !</l>
+          <l>Les d&#x00E9;serts africains n'ont pas vu ton &#x00E9;gal.</l>
+          <l>Peuple cent fois cruel, Peuple aveugle et barbare,</l>
+          <l>Votre f&#x00E9;rocit&#x00E9; r&#x00E9;volte le T&#x00E9;nare ;</l>
+          <l>Votre ardeur sanguinaire &#x00E9;tonne Lucifer ;</l>
+          <l>Elle indigne les cieux, elle irrite l'enfer.</l>
+          <l>Vous, Cur&#x00E9; d'Arpajon, et vous, Sainte-Colombe,</l>
+          <l>Par des assassinats descendus dans la tombe,</l>
+          <l>Par le rustre assomm&#x00E9;s, et conduits au cercueil</l>
+          <l>Par sa fureur injuste et par son sot orgueil :</l>
+          <l>Toi, Voisins, toi, Ruilly, dont les fins si cruelles</l>
+          <l>Ont fait trembler d'horreur les vo&#x00DB;tes &#x00E9;ternelles,</l>
+          <l>Morts, vous serez veng&#x00E9;s ; vos bourreaux au supplice,</l>
+          <l>Seront tra&#x00EE;n&#x00E9;s un jour. Le jour de la justice</l>
+          <l>S'avance vers nos murs, j'en vois d&#x00E9;j&#x00E0; l'aurore :</l>
+          <l>Vos bourreaux p&#x00E9;riront, et vous vivrez encore.</l>
+          <l>Leurs crimes, vos vertus, conserv&#x00E9;s par l'histoire,</l>
+          <l>Seront du nom fran&#x00E7;ais et la honte et la gloire.</l>
+          <l>Ministres du tr&#x00E8;s-haut, qu'on vole et qu'on outrage.</l>
+          <l>Vous, Nobles qu'on &#x00E9;gorge, armez-vous de courage,</l>
+          <l>Attendez tout du tems et du ma&#x00EE;tre des ma&#x00EE;tres; </l>
+          <l>Le tems sera chang&#x00E9; d'&#x00E9;craser tous ces tra&#x00EE;tres.</l>
+          <l>L'homme va devenir de l'homme la p&#x00E2;ture,</l>
+          <l>Le Fran&#x00E7;ais du Fran&#x00E7;ais fera, sa nourriture :</l>
+          <pb n="11"/>
+          <l>Il surpasse dej&#x00E0; ces animaux sauvages,</l>
+          <l>Que voit la mer du Nord sur ses affreux rivages;</l>
+          <l>Et par ses cruaut&#x00E9;s ressemble au Cannibal ;</l>
+          <l>Il est, par vos d&#x00E9;crets, devenu son &#x00E9;gal,</l>
+          <l>D&#x00E9;put&#x00E9;s de la France, Erostrates modernes,</l>
+          <l>L&#x00E9;gilateurs de sang, protecteurs des lanternes.</l>
+          <l>Au nom du Dieu vivant, par votre fermet&#x00E9;,</l>
+          <l>Arr&#x00EA;tez ces forfaits et cette cruaut&#x00E9; ; </l>
+          <l>N'oubliez pas sur-tout que vos d&#x00E9;crets mortels</l>
+          <l>Ne triompheront pas des d&#x00E9;crets &#x00E9;ternels.</l>
+          <l>Si vous vous d&#x00E9;clarez les protecteurs du vice,</l>
+          <l>Craignez du Dieu vengeur la foudre et la justice.</l>
+          <l>Mais la confusion, une horrible anarchie</l>
+          <l>A d&#x00E9;j&#x00E0; remplac&#x00E9; l'antique monarchie.</l>
+          <l>Les Fran&#x00E7;ais, par leurs lois, sur la terre et les mers</l>
+          <l>Avoient le premier rang aux yeux de l'univers.</l>
+          <l>Le vertueux Louis, Monarque de la France,</l>
+          <l>Commandoit &#x00E0; l'Europe ; il tenoit la balance</l>
+          <l>Dans laquelle on pesoit de ses divers Etats</l>
+          <l>Les int&#x00E9;r&#x00EA;ts communs, ceux de ses potentats ;</l>
+          <l>Il &#x00E9;toit le premier sur la terre et sur l'onde,</l>
+          <l>Et sa compagne auguste &#x00E9;toit Reine du monde :</l>
+          <l>Reine par sa puissance, aussi par ses appas,</l>
+          <l>Fran&#x00E7;ois ! &#x00F4; bons Fran&#x00E7;ois ! qui ne l'aimeroit pas ?</l>
+          <l>Aux graces de l'amour elle joint le courage,</l>
+          <l>De V&#x00E9;nus et de Mars est &#x00E0; la fois l'image.</l>
+          <l>Vous qui, soufflant le feu de la s&#x00E9;dition,</l>
+          <l>M&#x00E9;ritez des Fran&#x00E7;ois la mal&#x00E9;diction ;</l>
+          <l>Vous avez insult&#x00E9; cette Reine charmante</l>
+          <pb n="12"/>
+          <l>La m&#x00E8;re du Dauphin, cette femme &#x00E9;tonnante,</l>
+          <l>Et son &#x00E9;poux sacr&#x00E9;, le plus juste des Rois,</l>
+          <l>En foulant &#x00E0; vos pieds la premi&#x00E8;re des Lois,</l>
+          <l>Le respect qui revient de droit &#x00E0; la personne</l>
+          <l>A qui l'&#x00C9;tre &#x00E9;ternel a donn&#x00E9; la Couronne,</l>
+          <l>Qu'il lui plut de placer, en France, au rang supr&#x00EA;me,</l>
+          <l>Qui tient de lui son Sceptre, aussi son Diad&#x00EA;me ;</l>
+          <l>Contre eux insolemment vous soulevez la France,</l>
+          <l>Et vous leur disputez leurs droits et leur puissance :</l>
+          <l>Sujets cent fois rebels, pour une fausse gloire,</l>
+          <l>Des traits les plus honteux vous souillez notre histoire ;</l>
+          <l>D'inf&#x00E2;mes assassins du Palais de nos Rois</l>
+          <l>Ont profan&#x00E9; l'entr&#x00E9;e, et c'est &#x00E0; votre vois</l>
+          <l>Que le sang &#x00E0; coul&#x00E9; sur les marches du Tr&#x00F4;ne,</l>
+          <l>Le sang de ces guerriers, gardes de la Couronne :</l>
+          <l>La mort vous pr&#x00E9;c&#x00E9;doit, et marchoit sur vos pas,</l>
+          <l>Et vos yeux ont donn&#x00E9; le signal du tr&#x00E9;pas.</l>
+          <l>C'est-l&#x00E0; le droit de l'homme ! et et la nouvelle Loi</l>
+          <l>Permet d'assassiner &#x00E0; la porte du Roi,</l>
+          <l>D'enfoncer le poignard au sein de l'innocence !</l>
+          <l>Ce sont-l&#x00E0; vos lecons, D&#x00E9;put&#x00E9;s de la France,</l>
+          <l>La Constitution, votre sublime ouvrage,</l>
+          <l>Sera m&#x00E8;re du sac, et fille du carnage ;</l>
+          <l>Il faut, pour l'&#x00E9;tablir, trancher toutes les t&#x00E8;tes,</l>
+          <l>Arracher tous les c&#x0153;urs des citoyens honn&#x00EA;tes.</l>
+          <l>Ce fourbe, qui jadis fabriqua l'Alcoran,</l>
+          <l>Imposteur qui trompa le stupide Ottoman,</l>
+          <pb n="13"/>
+          <l>Pour l'induira en erreur, flatta ses passions ;</l>
+          <l>(Les fourbes font ainsi les r&#x00E9;volutions.)</l>
+          <l>Il caressa le peuple, et bravant le Tr&#x00E8;s-Haut,</l>
+          <l>D'un culte mensonger &#x00E9;leva l'&#x00E9;chaffaud,</l>
+          <l>Sur des bases de sang b&#x00E2;tit son &#x00E9;difice,</l>
+          <l>Pour sable et pour ciment n'ayant que son caprice.</l>
+          <l>Vous suivez sa maxime et son absurde exemple,</l>
+          <l>Vous bravez le vrai Dieu, d&#x00E9;molissez son temple ;</l>
+          <l>Vous avez renvers&#x00E9; toutes nos Loix antiques,</l>
+          <l>Et nos nouvelles Lois sont des Lois anarchiques.</l>
+          <l>L'homme est libre, il suffit : plus de Dieu, plus de Roi,</l>
+          <l>Ce sera d&#x00E9;sormais l'Evangile et la Loi.</l>
+          <l>C'est-l&#x00E0; de vos d&#x00E9;crets l'infernale substance,</l>
+          <l>Le poison destructeur dont se nourrit la France.</l>
+          <l>Ce nouveau Cat&#x00E9;chisme est celui du sauvage,</l>
+          <l>De l'homme il fait un tigre, et c'est un radotage :</l>
+          <l>L'homme est &#x00E9;gal en droit, l'homme &#x00E0; l'homme est &#x00E9;gal ;</l>
+          <l>J'en conviens avec vous, l'homme est un animal.</l>
+          <l>Vous abusez, Messieurs, de sa stupidit&#x00E9;,</l>
+          <l>En flattant son orgueil. Ce mot &#x00E9;galit&#x00E9;,</l>
+          <l>Ce mot, vide de sens, lui fait perdre la t&#x00EA;te :</l>
+          <l>Je le r&#x00E9;p&#x00E8;te ici, l'homme n'est qu'une b&#x00EA;te.</l>
+          <l>Vous assommez la France &#x00E0; coups de motion :</l>
+          <l>Ce Royaume est mourant ; la Constitution</l>
+          <l>Qu'on forge tous les jours dans <hi rend="italic">la grande boutique&#x003E;</hi></l>
+          <l>O&#x00F9; vous faites des Lois, le rend paralytique :</l>
+          <pb n="14"/>
+          <l>Au lieu de le sauver des dangers du naufrage,</l>
+          <l>Vous le poussez encor plus avant dans l'orage :</l>
+          <l>De rocher en rocher, et d'&#x00E9;cueil en &#x00E9;cueil,</l>
+          <l>Vous promenez l'Etat et creusez son cercueil.</l>
+          <l>En vain je cherche &#x00E0; voir quel peut &#x00EA;tre le port</l>
+          <l>Vers lequel vous voguez, je crois que c'est le sort</l>
+          <l>Qui fonde votre espoir, et votre confiance</l>
+          <l>A pour son grand appui la force de la France.</l>
+          <l>Dans un corps vigoureux si la fi&#x00E8;vre est trop forte,</l>
+          <l>La tombe va s'ouvrir, la mort est &#x00E0; la porte.</l>
+          <l>Pour gu&#x00E9;rir le Royaume il vous reste un instant,</l>
+          <l>La maladie est grande et le danger pressant ;</l>
+          <l>D'une oreille attentive &#x00E9;coutez mes conseils :</l>
+          <l>(Les com&#x00E8;tes des cieux recrutent leurs soleils.)</l>
+          <l>Vieille erreur aux esprits, est ce qu'un vieux ulc&#x00E8;re</l>
+          <l>Est &#x00E0; des corps souffrans ; c'est pour l'ame un caut&#x00E8;re.</l>
+          <l>On veut fermer Carybde et l'on ouvre Scylla.</l>
+          <l>Un N&#x00E9;ron vaudroit mieux que cent Caligula.</l>
+          <l>On d&#x00E9;truit tous les jours la superstition,</l>
+          <l>Et l'on donne la mort &#x00E0; la religion.</l>
+          <l>Oui, l'erreur est un mal, mais un mal n&#x00E9;cessaire,</l>
+          <l>Et c'est par lui qu'un Roi peut gouverner la terre.</l>
+          <l>Laissons les foux pr&#x00E9;tendre &#x00E0; la perfection,</l>
+          <l>Evitons ce qui m&#x00E8;ne &#x00E0; la destruction,</l>
+          <l>R&#x00E9;formons doucement, m&#x00E9;nageons la foiblesse</l>
+          <l>De l'homme : pris en masse, il manque de justesse ;</l>
+          <l>Mais sur-tout renon&#x00E7;ons &#x00E0; la d&#x00E9;mocratie,</l>
+          <pb n="15"/>
+          <l>Dans un vaste Royaume elle est une folie ;</l>
+          <l>C'est un poison mortel pour les vastes Etats,</l>
+          <l>Pour la France, sur-tout, <hi rend="italic">c'est de la mort aux rats.</hi></l>
+          <l>Du protestant Necker c'est une r&#x00EA;verie :</l>
+          <l>Necker a de l'esprit, il manque de g&#x00E9;nie ;</l>
+          <l>de sa funeste erreur nous sommes les victimes ;</l>
+          <l>Jusqu'ici ses calculs n'ont produit que des crimes :</l>
+          <l>C&#x00E9;l&#x00E8;bre agioteur, il s'entend en finance ,</l>
+          <l>Mais ne fut jamais fait pour gouverner la France ;</l>
+          <l>C'&#x00E9;toit pour ce Banquier un trop pesant fardeau.</l>
+          <l>Il est faux, dit <hi rend="italic">Marat</hi>, quittons notre bandeau ;</l>
+          <l>Au Roi, Fran&#x00E7;ois ! au Roi ! la raison nous l'ordonne,</l>
+          <l>En sujets repentans rendons lui sa Couronne ;</l>
+          <l>Il est notre Soleil, et c'est de sa splendeur</l>
+          <l>Que d&#x00E9;pend notre &#x00E9;clat, aussi notre bonheur.</l>
+          <l>Notre tranquillit&#x00E9; d&#x00E9;pend de sa puissance ;</l>
+          <l>La force de Louis est celle de la France.</l>
+          <l>Si par acharnement, par un go&#x00DB;t exalt&#x00E9;</l>
+          <l>Pour ce fant&#x00F4;me vain , qu'on noimme libert&#x00E9;,</l>
+          <l>Nous persistons encore dans nos folles erreurs,</l>
+          <l>Je vous pr&#x00E9;dis, Fran&#x00E7;ois, le plus grand des malheurs ;</l>
+          <l>Le Royaume est d&#x00E9;truit, c'en est fait &#x00E0; jamais,</l>
+          <l>Nous perdrons tout, amis, jusqu'au nom de Fran&#x00E7;ois ;</l>
+          <l>Des conqu&#x00E9;rans fougueux nous serons le partage :</l>
+          <l>O malheureux Neckker ! ce sera ton ouvrage. </l>
+          <l>Oui, ta pr&#x00E9;somption, ta folle vanit&#x00E9;,</l>
+          <l>Ton effren&#x00E9; d&#x00E9;sir de l'immortalit&#x00E9;</l>
+          <pb n="16"/>
+          <l>Vont renverser la France. En lui donnant les lois</l>
+          <l>Du Code monstrueux des barbares Gaulois,</l>
+          <l>Tu d&#x00E9;truis de l'Etat la force et l'unit&#x00E9;.</l>
+          <l><hi rend="italic">Departement, District, Municipalit&#x00E9;</hi>,</l>
+          <l>Sont trois gothiques mots pris au vocabulaire</l>
+          <l>Du Franc dans son berceau. Mais Dieu, dans sa col&#x00E8;re,</l>
+          <l>Le veut ainsi, sans doute, et c'est lui qui l'ordonne ;</l>
+          <l>Il se venge, Francois, et c'est sur nous qu'il tonne :</l>
+          <l>Necker est pour la France un &#x00E9;clat de sa foudre,</l>
+          <l>Qui d&#x00E9;j&#x00E0; la consume et qui va la dissoudre.</l>
+          <l>Cet homme ambitieux, faux, peut-&#x00EA;tre cruel,</l>
+          <l>En mourant descendra dans l'abyme &#x00E9;ternel :</l>
+          <l>Il a tromp&#x00E9; Louis ; mais ta toute-puissance</l>
+          <l>L'accablera, Seigneur, du poids de ta vengeance,</l>
+          <l>Tu vengeras ce Roi : ta bont&#x00E9; protectrice</l>
+          <l>Est due &#x00E0; ses vertus ; il attend ta justice.</l>
+          <l>Pardoune &#x00E0; ses sujets, &#x00E0; ce Peuple en furie ;</l>
+          <l>C'est de deux imposteurs que vient sa barbarie,</l>
+          <l>De Necker, de Bourbon, la honte de la terre :</l>
+          <l>Lance sur eux, grand Dieu, les feux de ton tonnerre !</l>
+        </lg>
+      </div1>
+    </body>
+    <back id="115n10_1003"><!-- <div1 id="r115n10figures">
+<p><figure entity="larev01" n="1"><figDesc>Image of page 1</figDesc></figure></p>
+<p><figure entity="larev02" n="2"><figDesc>Image of page 2</figDesc></figure></p>
+<p><figure entity="larev03" n="3"><figDesc>Image of page 3</figDesc></figure></p>
+<p><figure entity="larev04" n="4"><figDesc>Image of page 4</figDesc></figure></p>
+<p><figure entity="larev05" n="5"><figDesc>Image of page 5</figDesc></figure></p>
+<p><figure entity="larev06" n="6"><figDesc>Image of page 6</figDesc></figure></p>
+<p><figure entity="larev07" n="7"><figDesc>Image of page 7</figDesc></figure></p>
+<p><figure entity="larev08" n="8"><figDesc>Image of page 8</figDesc></figure></p>
+<p><figure entity="larev09" n="9"><figDesc>Image of page 9</figDesc></figure></p>
+<p><figure entity="larev10" n="10"><figDesc>Image of page 10</figDesc></figure></p>
+<p><figure entity="larev11" n="11"><figDesc>Image of page 11</figDesc></figure></p>
+<p><figure entity="larev12" n="12"><figDesc>Image of page 12</figDesc></figure></p>
+<p><figure entity="larev13" n="3"><figDesc>Image of page 3</figDesc></figure></p>
+<p><figure entity="larev14" n="4"><figDesc>Image of page 4</figDesc></figure></p>
+<p><figure entity="larev15" n="5"><figDesc>Image of page 5</figDesc></figure></p>
+<p><figure entity="larev16" n="6"><figDesc>Image of page 6</figDesc></figure></p>
+</div1> --></back>
+  </text>
+</TEI.2>
