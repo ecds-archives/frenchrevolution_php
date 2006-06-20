@@ -1,0 +1,26 @@
+<config>
+ <input>/chaucer/data/revolution/data</input> 
+
+ <!-- settings used for sgml parsing -->
+ <dtd>
+   <sgml>
+     <catalog>/chaucer/data/dtd/linux_catalog</catalog>
+     <doctype>/chaucer/data/dtd/tei_doctype</doctype>
+   </sgml>
+   <publicid>-//TEI//DTD TEI Lite XML ver. 1//EN</publicid>
+   <location>/chaucer/data/dtd/teilite.dtd</location>
+
+<!--   <location>http://www.tei-c.org/Lite/DTD/teixlite.dtd</location>
+-->
+    </dtd>
+
+
+<!-- info necessary for loading & deleting data in exist -->
+ <db>
+   <server>wilson.library.emory.edu</server>
+   <port>8080</port>
+   <collection>frenchrevolution</collection>
+ </db>
+
+
+</config>

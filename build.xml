@@ -1,0 +1,167 @@
+<project name="French Revolution Pamphlets Data Preparation" default="all" basedir="."
+	xmlns:xdb="http://exist-db.org/ant">
+
+<target name="all" depends="xml" description="* "/>
+
+
+
+<target name="config">
+  <echo message="Loading configuration settings."/>
+  <echo message="*******************************"/>
+
+  <!-- import settings from config file -->
+  <xmlproperty file="build-config.xml"/>
+
+<!-- user-readable printout of settings loaded from config file -->
+
+  <echo message="Data input        : ${config.input}"/>
+  <echo message="DTD settings"/>
+  <echo message="SGML Catalog file : ${config.dtd.sgml.catalog}"/>
+  <echo message="SGML Doctype file : ${config.dtd.sgml.doctype}"/>
+  <echo message="Using the following settings for loading data:"/>
+  <echo message="   server         : ${config.db.server}"/>
+  <echo message="   port           : ${config.db.port}"/>
+  <echo message="   collection     : ${config.db.collection}"/>
+
+  <echo message="Defining parameters."/>
+<!--  <property name="dataPrepdir"     value="${basedir}/dataPrep/"/> -->
+  <property name="dataPrepdir"     value="/home/rsutton/workarea/frameworkCommon/dataPrep/"/>
+  <property name="xmldir"     value="${basedir}/docs"/>
+  <property name="workdir"     value="${xmldir}/tmp"/>
+  <property name="workdir.entities"     value="${workdir}/entities"/>
+  <property name="workdir.id"     value="${workdir}/id"/>
+
+
+  <property environment="env"/> <!-- provides access to environment variables -->
+  <path id="base.path">
+    <pathelement path="${env.CLASSPATH}"/>
+  </path>
+  <property name="classpath" value="${env.CLASSPATH}:${dataPrepdir}/JavaLoader.jar:${dataPrepdir}/xercesTamino.jar:${basedir}/exist-optional.jar"/>
+  <property name="env.PERL_INCS" value="${basedir}"/> 
+
+
+  <!-- create main document directory -->
+  <mkdir dir="${xmldir}"/>
+
+</target>
+
+
+<target name="sgml-parse" depends="config" description="* Parse input sgml files.">
+
+ <echo message="Parsing sgml files."/>
+ <echo message="**********************************************"/>
+
+<!-- FIXME: Would it be better to redirect output to a log file? -->
+ <apply executable="nsgmls" parallel="false" failonerror="true">
+  <arg line="-s -wunclosed -wmin-tag -c ${config.dtd.sgml.catalog} ${config.dtd.sgml.doctype}"/>
+   <fileset dir="${config.input}">
+    <include name="*.sgm"/>
+    <include name="*.sgml"/>
+   </fileset>
+ </apply>
+
+ <echo message="Successfully parsed all sgml files."/>
+
+</target> <!-- end sgml-parse -->
+
+<target name="xml" depends="tei2xml,unicode-entities,validate" 
+   description="* convert input into valid xml with unicode entities"/>
+
+
+<!-- run sgml-parse to ensure that the conversion will be successful -->
+<target name="tei2xml" depends="config,sgml-parse">   
+<!-- <target name="tei2xml" depends="config">   -->
+
+ <echo message="Converting tei sgml files to xml."/>
+ <echo message="**********************************************"/>
+
+  <!-- create the necessary directories for output, if they don't already exist -->
+  <mkdir dir="${xmldir}"/>
+
+  <echo message="Generating xml files from sgml files in ${config.input}."/>
+  <exec executable="tei2xml.sh"  dir="${xmldir}" failonerror="true">
+   <arg line="${config.input}/*.sgm ${config.input}/*.sgml"/>
+  </exec>
+</target> <!-- end tei2xml -->
+
+
+<target name="unicode-entities" depends="config,tei2xml">
+<!-- description="* converts entities to unicode entities " -->
+
+<echo message="Converting sgml entities to unicode entities."/>
+<echo message="**********************************************"/>
+
+<mkdir dir="${workdir}"/>
+<!-- delete dir just in case, to get rid of any old files -->
+<delete dir="${workdir.entities}"/>
+<mkdir dir="${workdir.entities}"/>
+
+<exec executable="perl" dir="${dataPrepdir}" failonerror="true">
+<arg line="convertEntities2Unicode_controller.pl -i ${xmldir} -o ${workdir.entities} -norename"/>
+</exec>
+
+<copy todir="${xmldir}" overwrite="true">	<!-- replace earlier version of files -->
+  <fileset dir="${workdir.entities}" includes="*.xml"/>
+</copy>
+
+</target> <!-- end unicode-entities -->
+
+
+<target name="validate" depends="config,unicode-entities">
+  <xmlvalidate  lenient="true" failonerror="true" warn="true" classpath="${classpath}">
+    <fileset dir="${xmldir}" includes="*.xml"/>
+    <dtd publicId="${config.dtd.publicid}" location="${config.dtd.location}"/>
+  </xmlvalidate>
+
+  <!-- If we get to this point, it worked. --> 
+  <echo message="Successfully validated all xml files."/>
+</target>
+
+
+<!-- add ids to specified elements (doesn't replace existing ids) -->
+<target name="add-ids" depends="config">   
+ <echo message="Add id attributes to xml files."/>
+ <echo message="*******************************"/>
+
+  <!-- get rid of any old files from a previous run -->
+  <delete dir="${workdir.id}"/>
+  <mkdir dir="${workdir.id}"/>
+
+  <exec executable="twig_id2.pl"  dir="${workdir.id}" failonerror="true">
+   <arg line="-d ${xmldir} -o ${workdir.id} -t TEI"/>
+  </exec>
+
+  <copy todir="${xmldir}" overwrite="true">	<!-- replace earlier version of files -->
+    <fileset dir="${workdir.id}" includes="*.xml"/>
+  </copy>
+
+</target>
+
+
+<!-- remove all temporary non-final files created by the build -->
+<target name="cleanup">
+ <delete dir="${workdir}"/>
+</target>
+
+
+<target name="exist-load" depends="config">
+
+  <!-- import exist ant tasks -->
+  <taskdef resource="org/exist/ant/antlib.xml" uri="http://exist-db.org/ant" />
+
+
+  <!-- debug -->
+  <xdb:list uri="xmldb:exist://${config.db.server}:${config.db.port}/exist/xmlrpc/db/" collections="true" outputproperty="collections" user="guest" password=""/>
+  <echo message="List of exist collections: ${collections}"/>
+
+  <input message="Please enter exist pasword for rsutton:"  addproperty="db.passwd"/>
+
+  <xdb:store uri="xmldb:exist://${config.db.server}:${config.db.port}/exist/xmlrpc/db/${config.db.collection}" createcollection="false" user="rsutton" password="${db.passwd}">
+	<fileset dir="${xmldir}">
+	  <include name="*.xml"/>
+	</fileset>
+  </xdb:store>
+
+</target>
+
+</project>
