@@ -1,37 +1,36 @@
-<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
 <html>
 <head>
    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-   <meta name="GENERATOR" content="Mozilla/4.72 [en] (Win98; I) [Netscape]">
    <title>French Revolution Pamphlet Collection List</title>
+   <link rel="stylesheet" type="text/css" href="fr.css">
 </head>
-<body text="#000000" bgcolor="#FFFFFF" link="#004080" vlink="#004080" alink="#990000">
-<center>
-  <img src="listhead.jpg" width="398" height="130"> <br>
-  <font face="Arial Narrow"><font size=+1><a href="http://chaucer.library.emory.edu/frenchrevo/">Home</a> 
-  | <a href="http://chaucer.library.emory.edu/frenchrevo/overview.html">Overview</a> 
-  | <a href="http://chaucer.library.emory.edu/frenchrevo/search.html">Search</a> 
-  | <a href="http://chaucer.library.emory.edu/frenchrevo/revguide.html">Research 
-  Guide</a></font></font> 
-</center>
+<body>
 
-<font face="Arial Narrow"><font size=+1><a href="http://www.chaucer.library.emory.edu/list.html"></a></font></font> 
-<br>
-<font face="Arial Narrow"><font size=+1><a href="http://www.chaucer.library.emory.edu/list.html"></a></font></font> 
-<p>&nbsp;
-<table width="90%" border="0" align="center">
-  <tr>
-    <td> 
+<?php
+$headtitle = "List";
+include("header.php");
+?>
+
       <p>
 	N.B. Pamphlets are listed by title.<br>
 	<br>
-<a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=Clesse&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1">Clesse, 
+
+      <div class="pamphlet">
+  <!-- sample: one way to display page image thumbnail -->
+      <div class="pageimage">
+  <img src="images/xlama01.gif">
+  </div>
+<a href="view.php?doc=110n05">Clesse, 
         A. 1792. Adresse au grand lama de Rome, ou le bon sens veng&eacute;.</a><br>
         <a href="http://chaucer.library.emory.edu/frenchrevo/xlama01.jpg">View 
         page image</a><br>
+	</div>
+
+	<div class="pamphlet">
         <br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=neveu de nostra&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1">Guillaume. 1799. Arriv&eacute;e a Paris du petit neveu de Nostradamus, 
+        <a href="view.php?doc=109n01">Guillaume. 1799. Arriv&eacute;e a Paris du petit neveu de Nostradamus, 
         et ses grandes proph&eacute;ties sur le sort de la r&eacute;publique...</a><br>
+	</div>
         <br>
         Nomophile, J. 1794. Biblioth&egrave;que choisie des Jacobins, ou, Catalogue 
         des principaux ouvrages publi&eacute;s par cette Soci&eacute;t&eacute;.<br>
@@ -41,16 +40,16 @@
         &amp; mention des &eacute;v&egrave;nemens de la Saint Laurent, qui cadrent 
         avec ceux de la Saint Barth&eacute;lemi.<br>
         <br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=chisme des parlemens&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1">Anonyme. 
+        <a href="view.php?doc=109n11">Anonyme. 
         1789? Cat&eacute;chisme des parlemens.</a><br>
         <a href="http://chaucer.library.emory.edu/frenchrevo/xcate01.jpg">View 
         page image</a><br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=goujon&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1"><br>
+        <a href="view.php?doc=109n12"><br>
         Anonyme. 1793. Chanson d'un sans-culotte, sur la prise de Toulon.</a><br>
         <a href="http://chaucer.library.emory.edu/frenchrevo/xchan01.jpg">View 
         page image</a> <br>
         <br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=chapeaux a vendre&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1">Anonyme. 1790. Chapeaux a vendre, opuscule d&eacute;di&eacute;e a M. Le 
+        <a href="view.php?doc=109n13">Anonyme. 1790. Chapeaux a vendre, opuscule d&eacute;di&eacute;e a M. Le 
         Chapelier.</a><br>
         <br>
         Ch&eacute;nier, M.-J. date? Charles IX, ou, L'&eacute;cole des rois: trag&eacute;die.<br>
@@ -153,7 +152,7 @@
         Robinocrate. 1789. L'Astrologue du Tiers-Etat, ou, Les pr&eacute;dictions, 
         pour l'ann&eacute;e 1790 seconde de la libert&eacute; fran&ccedil;oise.<br>
         <br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=trojanas&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1">Anonyme. 
+        <a href="view.php?doc=109n03">Anonyme. 
         1790. L'attentat de Versailles: ou La cl&eacute;mence de Louis XVI ; trag&eacute;die.</a><br>
         <a href="http://chaucer.library.emory.edu/frenchrevo/xatten01.jpg">View 
         page image</a> <br>
@@ -163,7 +162,7 @@
         Anonyme. 1789. L'Aventure extraordinaire, arriv&eacute;e &agrave; notre 
         bon roi Louis XVI, suivie d'un petit avis au peuple.<br>
         <br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=Astolfe a retrouv&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1">Anonyme. 
+        <a href="view.php?doc=111n02">Anonyme. 
         1790. L'Epid&eacute;mie fran&ccedil;aise, satyre.<br>
         </a><a href="http://chaucer.library.emory.edu/frenchrevo/xepid001.jpg">View 
         page image</a><br>
@@ -180,7 +179,7 @@
         sur le Th&eacute;&acirc;tre de la Cit&eacute;, le premier prairial, l'an 
         second de la r&eacute;publique fran&ccedil;aise...<br>
         <br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=tes puantes&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1"><br>Anonyme. 1789. La chasse aux b&ecirc;tes puantes et f&eacute;roces: qui 
+        <a href="view.php?doc=110n01"><br>Anonyme. 1789. La chasse aux b&ecirc;tes puantes et f&eacute;roces: qui 
         apr&egrave;s avoir inond&eacute; les bois, les plaines, &amp;c., se sont 
         r&eacute;pandues &agrave; la cour &amp; &agrave; la capitale ; suivie 
         de la liste des proscrits de la nation, &amp; de la notice des peines 
@@ -216,7 +215,7 @@
         Dorfeuille, A. 1790? La lanterne magique patriotique, ou, Le coup de grace 
         de l'aristocratie.<br>
         <br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=ami, le Sage&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1">Anonyme. 
+        <a href="view.php?doc=113n02">Anonyme. 
         [1788?, 1789?]. La Lunette d'approche, ou, L'optique miraculeuse.</a><br>
         <a href="http://chaucer.library.emory.edu/frenchrevo/xlune01.jpg">View 
         page image</a> <br>
@@ -235,7 +234,7 @@
         Anonyme. 1791. La puce &agrave; l'oreille du bonhomme Richard, capitaine 
         de la garde non sold&eacute;e, &agrave; Paris.<br>
         <br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=populo&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1">Anonyme. 
+        <a href="view.php?doc=115n10">Anonyme. 
         1790. La R&eacute;volution : po&egrave;me en vers fran&ccedil;ais plus libres 
         que la libert&eacute; elle-m&ecirc;me, par l'ami de la France.</a><br>
         <a href="http://chaucer.library.emory.edu/frenchrevo/xlarev01.jpg">View 
@@ -255,7 +254,7 @@
         Hoffmann, F. B. 1796. Le brigand: drame en trois actes et en prose : m&eacute;l&eacute; 
         de musique.<br>
         <br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=carnaval poli&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1"><br>Anonyme. 1790. Le Carnaval politique de 1790, ou, Exil de Mardi-gras &agrave; 
+        <a href="view.php?doc=109n10"><br>Anonyme. 1790. Le Carnaval politique de 1790, ou, Exil de Mardi-gras &agrave; 
         l'Assembl&eacute;e nationale, aux Tuileries, au Ch&acirc;telet, &amp; 
         &agrave; la Commune.</a><br>
         <br>
@@ -300,7 +299,7 @@
         trouv&eacute; dans le porte-feuille de Monseigneur le Prince de Lambesc, 
         Grand-Ecuyer de France.<br>
         <br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=duplessis&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1"><br>Cizos-Duplessis, F., (pseud.). date? Les crimes de la noblesse, ou, Le 
+        <a href="view.php?doc=110n04"><br>Cizos-Duplessis, F., (pseud.). date? Les crimes de la noblesse, ou, Le 
         r&eacute;gime f&eacute;odal: piece en cinq actes, en prose, a grand spectacle.</a><br>
         <br>
         Anonyme. 1790. Les Crimes de Paris, poeme.<br>
@@ -319,7 +318,7 @@
         en prose : repr&eacute;sent&eacute; pour la premiere fois au Th&eacute;&acirc;tre 
         de la Nation, au mois de mars 1791.<br>
         <br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=rablu&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1">Rablu, 
+        <a href="view.php?doc=115n05">Rablu, 
         J. 1790. Lettre de l'honorable Jean Rablu, ma&icirc;tre crocheteur, et 
         caporal-Major de la milice de C&eacute;na &agrave; l'honorable Pierre 
         Tubeuf, gar&ccedil;on boucher de Poissy.</a><br>
@@ -363,13 +362,13 @@
         Anonyme. [1794?]. Recueil d'hymnes, odes, etc. : relatifs aux f&ecirc;tes 
         d&eacute;cadaires ; imprim&eacute;s par ordre de la Commission de l'instruction 
         publique.<br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=moi mes boucles&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1"><br>
+        <a href="view.php?doc=115n07"><br>
         Anonyme. [1790]. Rendez-moi mes boucles. &Agrave; messieurs de l'Assembl&eacute;e 
         nationale...</a><br>
         <a href="http://chaucer.library.emory.edu/frenchrevo/xboucl01.jpg">View 
         page image</a><br>
         <br>
-        <a href="http://chaucer.library.emory.edu/otbin/webserve50?DB=35&QUERY=Grippe-fou&RGN=TEXT&OP=and&SUBSET=SUBSET&FROM=1&SIZE=100&ITEM=1">Anonyme. 
+        <a href="view.php?doc=115n11">Anonyme. 
         1789. Sc&egrave;ne comique entre le diable et un procureur : au sujet 
         de Madame Chicane, chass&eacute;e des terres de France, &amp; revenant 
         en enfer ; la sc&egrave;ne se passe dans le vestibule du palais du souverain 
@@ -385,14 +384,8 @@
         au beau fixe; le peuple au tr&egrave;s-sec; le patriotisme &agrave; la 
         glace; et Buonoparte aux vents : lisez, meditez, vous serez tous contens.<br>
       </p>
-      </td>
-  </tr>
-</table>
-<p>&nbsp; 
-<p>&nbsp; 
-<p>&nbsp;
-<p align="center"><font face="Arial, Helvetica, sans-serif"><a href="http://chaucer.library.emory.edu/">Lewis 
-  H. Beck Center</a> | <a href="http://info.library.emory.edu/Special/">Special 
-  Collections</a> | <a href="http://www.emory.edu">Emory University</a></font> 
+
+<?php include("footer.xml"); ?>
+
 </body>
 </html>
