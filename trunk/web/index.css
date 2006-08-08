@@ -1,0 +1,79 @@
+@import "fr.css";
+
+div#index { 
+  background-image:url("images/title.jpg");
+  background-repeat:no-repeat;
+  width:403px;
+  height:366px;
+  position:relative;
+  margin:auto;
+  padding-bottom:0.75in;
+}
+
+/* position title within the image div */
+p#title { 
+  position:absolute;
+  top:225px;
+  left:0px;
+  margin:0px;
+}
+
+p#page { 
+  position:absolute;
+  top:270px;
+  left:8px;
+  margin:0px;
+
+}
+
+p#overview { 
+  position:absolute;
+  top:42px;
+  left:32px;
+}
+
+p#list { 
+  position:absolute;
+  top:75px;
+  left:15px;
+}
+
+p#guide { 
+  position:absolute;
+  top:110px;
+  left:5px;
+}
+
+p.link { 
+  font-size:18pt;
+  font-family:Helvetica,Arial Narrow;
+}
+
+p.link img { 
+/*  display:none;*/
+  border:0px;
+  width:13px;
+  height:13px;
+  vertical-align:center;
+}
+p.link a { 
+  text-decoration:none;
+  color:#000000;
+}
+
+p.link a:hover { 
+  color:#004080;
+}
+
+p.link a:hover img { 
+/*  display:inline; */
+   background-image:url("images/select.gif");
+}
+
+div.select { 
+  width:13px;
+  height:13px;
+}
+
+p.link a:hover { 
+}
