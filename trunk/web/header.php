@@ -6,7 +6,7 @@
   </div>
 
   <p class="links">
-    <a href="index.html">Home</a> 
+    <a href="index.php">Home</a> 
     | <a href="overview.php">Overview</a> 
 <!--    | <a href="search.html">Search</a> -->
     | <a href="list.php">Pamphlet List</a>
