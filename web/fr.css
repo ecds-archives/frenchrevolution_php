@@ -1,8 +1,8 @@
 body { 
   margin-left:1in;
   margin-right:1in;
-  background:#FFFFFF;
-  font-family:Arial Narrow;
+  background-color:#FFFFFF;
+  font-family:"Arial Narrow",Helvetica,serif;
 }
 
 a { color:#004080; }
@@ -33,7 +33,7 @@ p#title {
 }
 p#page { 
   font-size:24pt;
-  font-family:Helvetica,Arial Narrow;
+  font-family:Helvetica,"Arial Narrow",serif;
   margin:0px;
   margin-top:-15px;	/* should be very tight with French Revolution text */
   padding-left:65px;
@@ -56,6 +56,11 @@ div#search {
   background:#bac1d3;
   margin:auto;
   text-align:center;
+  vertical-align:middle;
+}
+/* for IE (gets rid of extra space in blue search bar) */
+div#search form { 
+  margin:0px;
 }
 
 div.volumes { 
