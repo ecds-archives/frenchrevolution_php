@@ -9,9 +9,9 @@
 <div id="index">
 
    
-   <p id="overview" class="link"><a href="overview.php"><img src="images/select-off.gif"> Overview</a></p>
-   <p id="list" class="link"><a href="list.php"><img src="images/select-off.gif"> Pamphlet List</a></p>
-   <p id="guide" class="link"><a href="revguide.php"><img src="images/select-off.gif"> Research Guide</a></p> 
+   <p id="overview" class="link"><a href="overview.php"><img src="images/select-off.gif" alt=""> Overview</a></p>
+   <p id="list" class="link"><a href="list.php"><img src="images/select-off.gif" alt=""> Pamphlet List</a></p>
+   <p id="guide" class="link"><a href="revguide.php"><img src="images/select-off.gif" alt=""> Research Guide</a></p> 
 
    
     <p id="title">French Revolution</p>
