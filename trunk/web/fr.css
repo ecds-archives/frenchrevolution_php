@@ -76,6 +76,7 @@ span.match {
 
 div.pamphlet { 
   clear:both;
+  margin-top:10px;
 }
 div.pageimage { 
   float:left;
