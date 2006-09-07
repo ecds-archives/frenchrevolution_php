@@ -1,7 +1,7 @@
 <div>
 
 <pamphlet id="110n05">
-  <figure entity="xlama01"/>
+  <figure entity="lama01"/>
   <author>Clesse, A.</author> 
   <date>1792.</date> 
   <title>Adresse au grand lama de Rome, ou le bon sens veng&#x00E9;.</title>
@@ -31,14 +31,14 @@ avec ceux de la Saint Barth&#x00E9;lemi.</title>
 </pamphlet>
 
 <pamphlet id="109n11">
-  <figure entity="xcate01"/>
+  <figure entity="cate01"/>
   <author>Anonyme.</author> 
   <date>1789.</date> 
   <title>Cat&#x00E9;chisme des parlemens.</title>
 </pamphlet>
 
 <pamphlet id="109n12">
-  <figure entity="xchan01"/>
+  <figure entity="chan01"/>
   <author>Anonyme.</author> 
   <date>1793.</date> 
   <title>Chanson d'un sans-culotte, sur la prise de Toulon.</title>
@@ -260,7 +260,7 @@ pour l'ann&#x00E9;. 1790.seconde de la libert&#x00E9; fran&#x00E7;oise.</title>
 </pamphlet>
 
 <pamphlet id="109n03">
-  <figure entity="xatten01"/>
+  <figure entity="atten01"/>
   <author>Anonyme.</author> 
   <date>1790.</date> 
   <title>L'attentat de Versailles: ou La cl&#x00E9;mence de Louis XVI ; trag&#x00E9;die.</title>
@@ -280,7 +280,7 @@ bon roi Louis XVI, suivie d'un petit avis au peuple.</title>
 </pamphlet>
 
 <pamphlet id="111n02">
-  <figure entity="xepid001"/>
+  <figure entity="epid001"/>
   <author>Anonyme.</author> 
   <date>1790.</date> 
   <title>L'Epid&#x00E9;mie fran&#x00E7;aise, satyre.</title>
@@ -371,7 +371,7 @@ de l'aristocratie.</title>
 </pamphlet>
 
 <pamphlet id="113n02">
-  <figure entity="xlune01"/>
+  <figure entity="lune01"/>
   <author>Anonyme.</author>
   <date>[1788?] 1789.</date> 
   <title>]. La Lunette d'approche, ou, L'optique miraculeuse.</title>
@@ -408,7 +408,7 @@ de la garde non sold&#x00E9;e, &#x00E0; Paris.</title>
 </pamphlet>
 
 <pamphlet id="115n10">
-  <figure entity="xlarev01"/>
+  <figure entity="larev01"/>
   <author>Anonyme.</author> 
   <date>1790.</date> 
   <title>La R&#x00E9;volution : po&#x00E8;me en vers fran&#x00E7;ais plus libres 
@@ -578,7 +578,7 @@ de la Nation, au mois de mar. 1791.</title>
 </pamphlet>
 
 <pamphlet id="115n05">
-  <figure entity="xrablu01"/>
+  <figure entity="rablu01"/>
   <author>Rablu, J.</author> 
   <date>1790.</date> 
   <title>Lettre de l'honorable Jean Rablu, ma&#x00EE;tre crocheteur, et 
@@ -664,7 +664,7 @@ publique.</title>
 </pamphlet>
 
 <pamphlet id="115n07">
-  <figure entity="xboucl01"/>
+  <figure entity="boucl01"/>
   <author>Anonyme.</author> 
   <date>[1790].</date> 
   <title>Rendez-moi mes boucles. &#x00C0; messieurs de l'Assembl&#x00E9;e 
@@ -672,7 +672,7 @@ nationale...</title>
 </pamphlet>
 
 <pamphlet id="115n11">
-  <figure entity="xcomiq01"/>
+  <figure entity="comiq01"/>
   <author>Anonyme.</author> 
   <date>1789.</date> 
   <title>Sc&#x00E8;ne comique entre le diable et un procureur : au sujet 
