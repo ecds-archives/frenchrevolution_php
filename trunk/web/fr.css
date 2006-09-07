@@ -82,3 +82,7 @@ div.pageimage {
   float:left;
   padding:5px;
 }
+
+div.pageimage img { 
+  border:0px;
+}
