@@ -5,6 +5,10 @@
   <xsl:param name="sort"/>
   <xsl:param name="view"/>	<!-- digital editions or all -->
 
+
+  <xsl:variable name="img_url">http://beck.library.emory.edu/frenchrevolution/image-content/</xsl:variable>
+  <xsl:variable name="thumb_url"><xsl:value-of select="$img_url"/>thumbnails/</xsl:variable>
+
   <xsl:output method="html"/>
 
   <xsl:template match="/">
@@ -163,9 +167,12 @@
 
   <xsl:template match="figure">
     <div class="pageimage">
-      <img>
-        <xsl:attribute name="src"><xsl:value-of select="concat('images/', @entity, '.gif')"/></xsl:attribute>
-      </img>
+      <a>
+        <xsl:attribute name="href"><xsl:value-of select="concat($img_url, @entity, '.jpg')"/></xsl:attribute>
+        <img>
+          <xsl:attribute name="src"><xsl:value-of select="concat($thumb_url, @entity, '.jpg')"/></xsl:attribute>
+        </img>
+      </a>
     </div>
   </xsl:template>
 
