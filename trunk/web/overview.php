@@ -44,7 +44,7 @@ include("header.php");
         <p>&nbsp;</p>
         <p><a name="pamphlet"></a><strong>The Pamphlets</strong><br>
           For more detailed information about the entire French Revolution Pamphlet 
-          Collection, please see the <a href="http://chaucer.library.emory.edu/frenchrevo/revguide.html">Research 
+          Collection, please see the <a href="revguide.php">Research 
           Guide</a>.</p>
         <p><em>J&#8217;ai assistai hier &agrave; &#8220;une lecture.&#8221; Vous 
           b&acirc;illez, marquis! Un moment. Ce n&#8217;&eacute;toit pas &#8220;un 
@@ -223,11 +223,11 @@ onMouseOut="nd()"><sup>12</sup></a> </font> </div>
           this heteroclite collection of pamphlets, thus imposing a physical order 
           of proximity, an order related to the ease of shelving, finding and 
           handling, upon the collection.<a name="13foot"></a><a href="#foot13"
-onMouseOver="overlib('Please see <a href=&#8220;http://chaucer.library.emory.edu/frenchrevo/revguide.html#prov&#8221;>Provenance</a> for an overview of the entire collection.', CAPTION, 'Footnote 13', WIDTH, 300)"
+onMouseOver="overlib('Please see <a href=&#8220;revguide.php#prov&#8221;>Provenance</a> for an overview of the entire collection.', CAPTION, 'Footnote 13', WIDTH, 300)"
 onMouseOut="nd()"><sup>13</sup></a> The binding orders this subsection of Emory&#8217;s 
           collection, the &#8220;literary&#8221; pamphlets, according to author 
           or title if there is no author.<a name="14foot"></a><a href="#foot14"
-onMouseOver="overlib('&#8220;Literary&#8221; as opposed to &#8216;pamphlet p&ucirc;r&#8217;? Seven volumes of Woodruff library&#8217;s pamphlet collection are labeled &#8220;Literary&#8221; &#8211; see <a href=&#8220;http://chaucer.library.emory.edu/frenchrevo/revguide.html#coll&#8221;>Collection</a>.', CAPTION, 'Footnote 14', WIDTH, 300)"
+onMouseOver="overlib('&#8220;Literary&#8221; as opposed to &#8216;pamphlet p&ucirc;r&#8217;? Seven volumes of Woodruff library&#8217;s pamphlet collection are labeled &#8220;Literary&#8221; &#8211; see <a href=&#8220;revguide.php#coll&#8221;>Collection</a>.', CAPTION, 'Footnote 14', WIDTH, 300)"
 onMouseOut="nd()"><sup>14</sup></a> The modern curator must consider yet another 
           practical aspect which defines these texts: their availability. The 
           current trend of making archive material available online in digital 
@@ -317,12 +317,12 @@ onMouseOut="nd()"><sup>15</sup></a> The 38 pamphlets that are not available thro
           &quot;Pamphlet Literature in France During the Period of the Aristocratic 
           Revolt (1787-1788),&quot; <em>Journal of Modern History</em> 29 (1957): 
           349-54.<br>
-          <a name="foot13"></a><a href="#13foot">13.</a> Please see <a href="http://chaucer.library.emory.edu/frenchrevo/revguide.html#prov">Provenance</a> 
+          <a name="foot13"></a><a href="#13foot">13.</a> Please see <a href="revguide.php#prov">Provenance</a> 
           for an overview of the entire collection.<br>
           <a name="foot14"></a><a href="#14foot">14.</a> &#8220;Literary&#8221; 
           as opposed to &#8216;pamphlet p&ucirc;r&#8217;? Seven volumes of Woodruff 
           library&#8217;s pamphlet collection are labeled &#8220;Literary&#8221; 
-          &#8211; see <a href="http://chaucer.library.emory.edu/frenchrevo/revguide.html#coll">Collection</a>.<br>
+          &#8211; see <a href="revguide.php#coll">Collection</a>.<br>
           <a name="foot15"></a><a href="#15foot">15.</a> Gallica&#8217;s collection 
           of pamphlets derive from Colin Lucas' <em>Archives de la Revolution 
           Fran&ccedil;aise</em> (U.S. title: <em>The French Revolution Research 
