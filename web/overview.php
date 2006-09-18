@@ -55,22 +55,22 @@ include("header.php");
           sur l&#8217;h&eacute;ro&iuml;que, ce qui en diminuoit prodigieusement 
           l&#8217;ennui.</em><br>
           (From the pamphlet entitled <em>La prise des Annonciades</em>, page 
-          3.)<a name="1foot"></a><a href="#foot1"
+          3.)<a name="foot1" href="#foot1" class="footnote"
 onMouseOver="overlib('While the pamphlet in Emory&#8217;s collection lists &#8220;L.....H, M. le Cte. C.....S de&#8221; as the author, Martin &amp; Walter lists this pamphlet&#8217;s author as Bonnay, Charles-Fran&ccedil;ois, marquis de, 1750-1825 (cf. Martin &amp; Walter, <em>Catalogue de l&#8217;histoire de la r&eacute;volution fran&ccedil;aise</em>, Paris: &Eacute;ditions des Biblioth&egrave;ques nationales, 1936-, Vol I: 4092)&#8230; Also note that the collections at Columbia University and in the Bancroft library, as contained in their respective RLIN records, indicate that this is a half title. The full title of their entries reads &quot;R&eacute;ponse &agrave;...&quot; and &quot;Seconde r&eacute;ponse &agrave;...&quot; They concur with Martin &amp; Walter in regards the authorship.', CAPTION, 'Footnote 1', WIDTH, 300)"
-onMouseOut="nd()"><sup>1</sup></a> 
+onMouseOut="nd()">1</a> 
         <p>The pamphlet is a genre of literary engagement. From the 5000 or so 
           <em>Mazarinades</em> that were written during the Fronde uprising, to 
           the pamphlets of the Revolution, to the pamphlet literature inspired 
           by the issues leading to the events of May 1968, the pamphlet in France 
           has existed as the genre most readily adopted by partisans complicit 
-          in a political or social crisis.<a name="2foot"></a><a href="#foot2"
+          in a political or social crisis.<a name="2foot" href="#foot2" class="footnote"
 onMouseOver="overlib('While Emory has some 3000 of these, other U.S. libraries have catalogued up to 30,000 in their collections, and still more are held by the Biblioth&egrave;que Nationale and other French archives. Harvey Chisick has estimated that perhaps 70 to 80 thousand pamphlets were produced during the revolutionary period. Harvey Chisick, &quot;Special Issue: Pamplet Literature of the French Revolution,&quot; <em>History of European Ideas</em> 17, March/May (1993): 152.', CAPTION, 'Footnote 2', WIDTH, 300)"
-onMouseOut="nd()"><sup>2</sup></a> Theorizing the genre is an extremely difficult 
+onMouseOut="nd()">2</a> Theorizing the genre is an extremely difficult 
           task, as several closely related forms (satire, polemic, parody and 
           pastiche among others) create a fluid grouping that categorizes &#8220;une 
-          litt&eacute;rature de combat.&#8221;<a name="3foot"></a><a href="#foot3"
+          litt&eacute;rature de combat.&#8221;<a name="3foot" href="#foot3" class="footnote"
 onMouseOver="overlib('Marc Angenot, <em>La Parole Pamphl&eacute;taire : Contribution &Agrave; La Typologie Des Discours Modernes</em> (Paris: Payot, 1982) &quot;Introduction,&quot; and Chisick, &quot;Special Issue: Pamplet Literature of the French Revolution,&quot; 149-50.', CAPTION, 'Footnote 3', WIDTH, 300)"
-onMouseOut="nd()"><sup>3</sup></a> Yet one must still answer the question raised 
+onMouseOut="nd()">3</a> Yet one must still answer the question raised 
           in the passage above: &#8220;Que c&#8217;&eacute;toit-ce donc?&#8221; 
           The passage marvelously encapsulates the effort at definition that any 
           introduction to this collection would have to make. Working through 
@@ -83,9 +83,9 @@ onMouseOut="nd()"><sup>3</sup></a> Yet one must still answer the question raised
           judgment (one based ultimately on entertainment value), it does touch 
           upon all the aspects of the genre: its versatility, its public nature, 
           its polemical character, and its existence in the spheres of both representation 
-          and public opinion.<a name="4foot"></a><a href="#foot4"
+          and public opinion.<a name="4foot" href="#foot4" class="footnote"
 onMouseOver="overlib('Chantal Thomas has argued that to fully appreciate the pamphlet genre we have to take into account the noisy, public atmosphere of their reception, as many were publicly read aloud. Chantal Thomas, &quot;L&#8217;heroine Du Crime: Marie-Antoinette Dans Les Pamphlets,&quot; <em>La Carmagnole Des Muses: L&#8217;homme De Lettres Et L&#8217;artiste Dans La Revolution</em>, ed. Jean-Claude Bonnet, Lib. du Bicentenaire de la Revolution Fr. ed. (Place of Publication: Paris, 1988).', CAPTION, 'Footnote 4', WIDTH, 300)"
-onMouseOut="nd()"><sup>4</sup></a> The pamphlets in Emory&#8217;s collection exhibit 
+onMouseOut="nd()">4</a> The pamphlets in Emory&#8217;s collection exhibit 
           all these characteristics as revealed by a quick inventory of the various 
           subgenres.</p>
         <p>In terms of strict genre, 27 of the 89 &#8220;literary&#8221; pamphlets 
@@ -98,27 +98,27 @@ onMouseOut="nd()"><sup>4</sup></a> The pamphlets in Emory&#8217;s collection exh
           Marie-Joseph Ch&eacute;nier&#8217;s <em>Charles IX</em>, which generated 
           much controversy over the state&#8217;s use of censorship, or the violent, 
           anti-jacobinist works, <em>L'int&eacute;rieur des comit&eacute;s r&eacute;volutionnaires</em> 
-          by Pierre Ducancel and <em>L&#8217;Ami des lois</em> by J.L. Laya.<a name="5foot"></a><a href="#foot5"
+          by Pierre Ducancel and <em>L&#8217;Ami des lois</em> by J.L. Laya.<a name="5foot" href="#foot5" class="footnote"
 onMouseOver="overlib('Marvin A. Carlson, <em>The Theatre of the French Revolution</em> (Ithaca, N.Y.: Cornell University Press, 1966) 21, 232, 143.', CAPTION, 'Footnote 5', WIDTH, 300)"
-onMouseOut="nd()"><sup>5</sup></a> If the theatrical status of the <em>Sc&egrave;ne 
+onMouseOut="nd()">5</a> If the theatrical status of the <em>Sc&egrave;ne 
           comique entre le diable et un procureur</em> might seem untenable due 
           to its length (8 pages) and the political cant in its title, a blatant 
           political message marks most all of these plays. They run the political 
           spectrum, with lines reading &#8220;Tr&ocirc;ne d&#8217;Henri IV &amp; 
           de Louis XIV, tu seras &agrave; jamais in&eacute;branlable!&#8221; to 
           &#8220;Toujours r&eacute;primand&eacute;!&#8230; Ma foi je n&#8217;y 
-          tiens plus. Quel ton! Vit-on jamais d&#8217;ordres plus absolus?&#8221;<a name="6foot"></a><a href="#foot6"
+          tiens plus. Quel ton! Vit-on jamais d&#8217;ordres plus absolus?&#8221;<a name="6foot" href="#foot6" class="footnote"
 onMouseOver="overlib('Respectively from <em>La Cour pl&eacute;ni&egrave;re</em>, p. 75 and <em>La veuve du r&eacute;publicain</em>, p. 7.', CAPTION, 'Footnote 6', WIDTH, 300)"
-onMouseOut="nd()"><sup>6</sup></a></p>
+onMouseOut="nd()">6</a></p>
         <p>A rubric entitled <em>po&egrave;me</em> might include fourteen of the 
           pamphlets, the keywords being <em>po&egrave;me, chanson, hyme, ode</em>. 
           Laura Mason argues that song was one of the most common forms of communication 
           during the French revolution, and she creates a striking tableau: Paris, 
           &#8220;a city that encompassed a cacophony of voices as revolutionaries 
           and royalists filled streets, theaters, and caf&eacute;s, organizing 
-          festivals, giving speeches, rioting and, throughout all, singing.&#8221;<a name="7foot"></a><a href="#foot7"
+          festivals, giving speeches, rioting and, throughout all, singing.&#8221;<a name="7foot" href="#foot7" class="footnote"
 onMouseOver="overlib('Laura Mason, <em>Singing the French Revolution : Popular Culture and Politics, 1787-1799</em> (Ithaca: Cornell University Press, 1996) 2.', CAPTION, 'Footnote 7', WIDTH, 300)"
-onMouseOut="nd()"><sup>7</sup></a> Again, this grouping also manifests the elements 
+onMouseOut="nd()">7</a> Again, this grouping also manifests the elements 
           which characterize the pamphlet genre. The vitriolic poem <em>Les Crimes 
           de Paris</em> attacks Mirabeau and Laclos among others in perfectly 
           rhymed couplets. The <em>Chanson d'un sans-culotte</em> borrows from 
@@ -165,21 +165,21 @@ onMouseOut="nd()"><sup>7</sup></a> Again, this grouping also manifests the eleme
           they fit (or not fit) into what he argues is a fundamental shift in 
           the mode of discourse that takes place between 1789 and 1792, from the 
           art of persuasion which characterized the open, dialogic mode of the 
-          Enlightenment to a discourse of denunciation and condemnation?<a name="8foot"></a><a href="#foot8"
+          Enlightenment to a discourse of denunciation and condemnation?<a name="8foot" href="#foot8" class="footnote"
 onMouseOver="overlib('Harvey Chisick, &quot;Introduction to Edition Entitled &quot;the Press in the French Revolution&quot;,&quot; <em>Studies on Voltaire and the Eighteenth Century</em> 287 (1991): 8-9.', CAPTION, 'Footnote 8', WIDTH, 300)"
-onMouseOut="nd()"><sup>8</sup></a> One might also study the images associated 
+onMouseOut="nd()">8</a> One might also study the images associated 
           with these texts. The pamphlet entitled <em>Purgatif de la magistrature 
           ou la r&eacute;g&eacute;n&eacute;ration des tribunaux</em> opens with 
-          a delightful engraving.<a name="9foot"></a><a href="#foot9"
+          a delightful engraving.<a name="9foot" href="#foot9" class="footnote"
 onMouseOver="overlib('This pamphlet is listed neither in RLIN nor in Gallica, although it is listed in Martin and Walter with the same bibliographic information as Emory&#8217;s pamphlet.', CAPTION, 'Footnote 9', WIDTH, 300)"
-onMouseOut="nd()"><sup>9</sup></a> </p>
+onMouseOut="nd()">9</a> </p>
         <p align="center"><img src="images/purgat2.jpg" width="400" height="165"></p>
         <p>As individual works the pamphlets also merit attention. Are they more 
           worthy as literary works or as historical documents? How do these pamphlets 
           function as literary texts? How do they utilize or confound genre? What 
-          may be said about the chansons, hymnes and odes?<a name="10foot"></a><a href="#foot10"
+          may be said about the chansons, hymnes and odes?<a name="10foot" href="#foot10" class="footnote"
 onMouseOver="overlib('See Richet on orality in the volume edited by Chisick, Chantal Thomas&#8217; article cited above, and Laura Mason&#8217;s <em>Singing the French Revolution</em>.', CAPTION, 'Footnote 10', WIDTH, 300)"
-onMouseOut="nd()"><sup>10</sup></a> What kinds of allusions do they make? On this 
+onMouseOut="nd()">10</a> What kinds of allusions do they make? On this 
           latter point, a specific question with import across several texts would 
           aim at the geneology of the lanterne found in three of these pamphlets: 
           <em>La lanterne magique patriotique&#8230;</em>; <em>Les grandes marionnettes 
@@ -189,9 +189,9 @@ onMouseOut="nd()"><sup>10</sup></a> What kinds of allusions do they make? On thi
           were these authors? Who are the historical persons who populate these 
           texts? If Loustalot and l'abb&eacute; Royou are arguing over freedom 
           of the press, and Marat and Verginiaux over federalism, what were the 
-          particular historical circumstances which provoked these pamphlets?<a name="11foot"></a><a href="#foot11"
+          particular historical circumstances which provoked these pamphlets?<a name="11foot" href="#foot11" class="footnote"
 onMouseOver="overlib('See the pamphlet entitled <em>Dialogue des morts de la r&eacute;volution&#8230;</em>.', CAPTION, 'Footnote 11', WIDTH, 300)"
-onMouseOut="nd()"><sup>11</sup></a> How did these pamphlets participate in or 
+onMouseOut="nd()">11</a> How did these pamphlets participate in or 
           reflect the Revolution?</p>
         <p>There are of course other ways of defining the collection. The pamphlets 
           do fall into a rough temporal division:</p>
@@ -207,9 +207,9 @@ onMouseOut="nd()"><sup>11</sup></a> How did these pamphlets participate in or
         </li>
         <li> 
           <div align="left"><font size="4" face="Arial, Helvetica, sans-serif">1795-1799 
-            (Reaction, before Napoleon): 16 pamphlets<a name="12foot"></a><a href="#foot12"
+            (Reaction, before Napoleon): 16 pamphlets<a name="12foot" href="#foot12" class="footnote"
 onMouseOver="overlib('For a surprising, though dated, statistical analysis that reveals an interesting methodology, see Ralph Greenlaw&#8217;s 1957 article about the geographical origins, main thematic and perspective of a group of 967 pamphlets. Ralph Greenlaw, &quot;Pamphlet Literature in France During the Period of the Aristocratic Revolt (1787-1788),&quot; <em>Journal of Modern History</em> 29 (1957): 349-54.', CAPTION, 'Footnote 12', WIDTH, 300)"
-onMouseOut="nd()"><sup>12</sup></a> </font> </div>
+onMouseOut="nd()">12</a> </font> </div>
         </li>
       </ul>
       <div align="left"> 
@@ -222,13 +222,13 @@ onMouseOut="nd()"><sup>12</sup></a> </font> </div>
           Library, in a very practical manner, decided in 1949 to bind most of 
           this heteroclite collection of pamphlets, thus imposing a physical order 
           of proximity, an order related to the ease of shelving, finding and 
-          handling, upon the collection.<a name="13foot"></a><a href="#foot13"
+          handling, upon the collection.<a name="13foot" href="#foot13" class="footnote"
 onMouseOver="overlib('Please see <a href=&#8220;revguide.php#prov&#8221;>Provenance</a> for an overview of the entire collection.', CAPTION, 'Footnote 13', WIDTH, 300)"
-onMouseOut="nd()"><sup>13</sup></a> The binding orders this subsection of Emory&#8217;s 
+onMouseOut="nd()">13</a> The binding orders this subsection of Emory&#8217;s 
           collection, the &#8220;literary&#8221; pamphlets, according to author 
-          or title if there is no author.<a name="14foot"></a><a href="#foot14"
+          or title if there is no author.<a name="14foot" href="#foot14" class="footnote"
 onMouseOver="overlib('&#8220;Literary&#8221; as opposed to &#8216;pamphlet p&ucirc;r&#8217;? Seven volumes of Woodruff library&#8217;s pamphlet collection are labeled &#8220;Literary&#8221; &#8211; see <a href=&#8220;revguide.php#coll&#8221;>Collection</a>.', CAPTION, 'Footnote 14', WIDTH, 300)"
-onMouseOut="nd()"><sup>14</sup></a> The modern curator must consider yet another 
+onMouseOut="nd()">14</a> The modern curator must consider yet another 
           practical aspect which defines these texts: their availability. The 
           current trend of making archive material available online in digital 
           format imposes a order of priority in regard to the task of producing 
@@ -236,9 +236,9 @@ onMouseOut="nd()"><sup>14</sup></a> The modern curator must consider yet another
           on <a href="http://gallica.bnf.fr/">Gallica</a> (the French National 
           Library's digital site) -- the vast majority of the Gallica pamphlets 
           are in .pdf format, which does not allow for searching across pages, 
-          nor across documents.<a name="15foot"></a><a href="#foot15"
+          nor across documents.<a name="15foot" href="#foot15" class="footnote"
 onMouseOver="overlib('Gallica&#8217;s collection of pamphlets derive from Colin Lucas&#8217; <em>Archives de la Revolution Fran&ccedil;aise</em> (U.S. title: <em>The French Revolution Research Collection</em>).', CAPTION, 'Footnote 15', WIDTH, 300)"
-onMouseOut="nd()"><sup>15</sup></a> The 38 pamphlets that are not available through 
+onMouseOut="nd()">15</a> The 38 pamphlets that are not available through 
           Gallica are at the top of this project&#8217;s &#8220;to digitize&#8221; 
           list.</p>
         <p>The organizational requirements and the transformation of these pamphlets 

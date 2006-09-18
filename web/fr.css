@@ -86,3 +86,13 @@ div.pageimage {
 div.pageimage img { 
   border:0px;
 }
+
+
+a.footnote { 
+  font-size: 75% /* 65% */; 
+  vertical-align: text-top; 
+  text-decoration: none; 
+  padding-left: 1px; 
+  padding-right: 5px; 
+  font-weight: normal;
+}
