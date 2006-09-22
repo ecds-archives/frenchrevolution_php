@@ -1,0 +1,471 @@
+<TEI.2 id="cate_1005">
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title> Cat&#x00E9;chisme des parlemens: electronic edition</title>
+        <author>anonymous</author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Michael Kazanjian</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Lewis H. Beck Center</publisher>
+        <pubPlace>Emory University</pubPlace>
+        <address>
+          <addrLine>Atlanta, Georgia  30322</addrLine>
+        </address>
+        <availability>
+          <p>2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</p>
+        </availability>
+        <date>2002</date>
+      </publicationStmt>
+      <seriesStmt>
+        <title>French Revolution Pamphlet Collection</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Cat&#x00E9;chisme des parlemens.</title>
+          <pubPlace>Paris?</pubPlace>
+          <date>[1789?]</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</p>
+        <p>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling. I also omitted the page signatures: "A" from p. 1, "A2" from p. 3, and "B" from p. 9. For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date>[1789?]&#x003E;</date>
+      </creation>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002</date>
+        <respStmt>
+          <name>Michael Kazanjian</name>
+          <resp>staff</resp>
+        </respStmt>
+        <item>Sgml tags inserted in compliance with TEI guidelines using TEI P3</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text id="cate_1004">
+    <front id="cate_1001">
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Cat&#x00E9;chisme des parlemens.</titlePart>
+        </docTitle>
+        <docAuthor>Anonymous.</docAuthor>
+        <docDate>[1789?].</docDate>
+      </titlePage>
+    </front>
+    <body id="cate_1002">
+      <div1 id="cate_01" n="Cat&#x00E9;chisme des parlemens" type="relig">
+        <pb n="1"/>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Qu'&#x00EA;tes-vous de votre nature ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous sommes des officiers du Roi, charg&#x00E9;s de rendre la justice &#x00E0; ses peuples.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Qu'aspirez-vous &#x00E0; devenir ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Les l&#x00E9;gislateurs, &#x0026; par cons&#x00E9;quent les ma&#x00EE;tres de l'&#x00E9;tat.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment pourriez vous en devenir les ma&#x00EE;tres ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Parce qu'ayant &#x00E0; la fois le pouvoir l&#x00E9;gislatif &#x0026; le pouvoir ex&#x00E9;cutif, il n'y aura rien qui puisse nous r&#x00E9;sister.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment vous y prendrez-vous pour en venir l&#x00E0; ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous aurons une conduite diverse avec le Roi, le clerg&#x00E9;, la noblesse &#x0026; le peuple.</l>
+        </sp>
+        <pb n="2"/>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment vous conduirez-vous d'abord avec le Roi ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous t&#x00E2;cherons de lui &#x00F4;ter la confiance de la nation, en nous opposant &#x00E0; toutes ses volont&#x00E9;s, en persuadant aux peuples que nous sommes leurs d&#x00E9;fendeurs, &#x0026; que c'est pour leur bien que nous refusons d'enregistrer les imp&#x00F4;ts.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Le peuple ne verra-t-il pas que vous ne vous &#x00EA;tes refus&#x00E9;s aux imp&#x00F4;ts, que parce qu'il vous les auroit fallu payer vous-m&#x00EA;mes ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Non, parce que nous lui ferons prendre le change, en disant qu'il n'y a que la nation qui puisse consentir les imp&#x00F4;ts, &#x0026; nous demanderons les &#x00E9;tats-g&#x00E9;n&#x00E9;raux.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Si malheureusement pour vous le Roi vous prend au mot, &#x0026; que les &#x00E9;tats-g&#x00E9;n&#x00E9;raux soient convoqu&#x00E9;s, comment vous en tirerez-vous ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous chicanerons sur la forme, &#x0026; nous demanderons <hi rend="italic">la forme </hi> de 1614.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Pourquoi cela ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Parce que, selon cette forme, le tiers-&#x00E9;tat sera repr&#x00E9;sent&#x00E9; par des gens de loi, ce qui nous donnera la pr&#x00E9;pond&#x00E9;rance.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Mais, les gens de loi vous ha&#x00EF;ssent ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  S'ils nous ha&#x00EF;ssent, ils nous craignent, &#x0026; nous les ferons plier &#x00E0; nos volont&#x00E9;s.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Pouvez-vous esp&#x00E9;rer que le clerg&#x00E9; entre dans vos vues, lui qui fait que vous &#x00EA;tes ses ennemis ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous ne ferons avec le clerg&#x00E9; qu'une alliance passagere ; nous lui persuaderons qu'il est perdu si le tiers-&#x00E9;tat a de l'ascendant dans les &#x00E9;tats-g&#x00E9;n&#x00E9;raux ; nous lui ferons comprendre que nous nous soucions encore moins que lui de payer les imp&#x00F4;ts &#x0026; qu'il faut nous allier, afin de les faire tomber sur le peuple.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment vous conduirez-vous avec la noblesse ?</l>
+        </sp>
+        <pb n="3"/>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous tiendrons la m&#x00EA;me conduite, &#x0026; nous lui promettrons de soutenir ses privil&#x00E8;ges.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Ne craignez-vous pas que le peuple ne vous p&#x00E9;n&#x00E8;tre, &#x0026; qu'il ne s'indigne de ce que vous le sacrifiez, sous pr&#x00E9;texte de le d&#x00E9;fendre ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Non, parce que notre marche est de ne rien craindre &#x0026; d'aller toujours en-avant ; c'est ainsi que, nous sommes parvenus &#x00E0; nos fins : d'ailleurs le peuple n'a ni consistance puisqu'il est d&#x00E9;suni, ni pers&#x00E9;v&#x00E9;rance, parce qu'il ne fait pas s'entendre.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Vous ne voudrez donc pas sinc&#x00E8;rement les Etats-G&#x00E9;n&#x00E9;ra&#x00F9;x ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Non. C'est un pr&#x00E9;texte dont nous nous servirons pour abuser les peuples &#x0026; nous faire des partisans : nous ne voulons les &#x00E9;tats-g&#x00E9;n&#x00E9;raux, qu'autant que nous serons s&#x00DB;rs d'y &#x00EA;tre les ma&#x00EE;tres.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Et si le Roi &#x0026; la nation s'accordent &#x00E0; vouloir les &#x00E9;tats-g&#x00E9;n&#x00E9;raux dans une forme plus populaire que celle de 1614, que ferez-vous ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous persuaderons au clerg&#x00E9; &#x0026; &#x00E0; la noblesse de protester, &#x0026; nous protesterons nous-m&#x00EA;mes.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Que r&#x00E9;sultera-t-il de 1&#x00E0; ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Que le Roi sera arr&#x00EA;t&#x00E9;, &#x0026; que les peuples que nous divisons, ne s'accorderont pas pour vouloir les &#x00E9;tats-g&#x00E9;n&#x00E9;raux.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment vous y prenez-vous pour diviser les peuples &#x0026; les aveugler ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Par le moyen des gens de robe &#x0026; des suppots du palais : nous avons &#x00E0; nos ordres les cours des aides, les chambres des comptes, divers juges sem&#x00E9;s par-tout, qui persuadent aux peuples, par des moyens d&#x00E9;guis&#x00E9;s, qu'il n'y a pas d'autre forme &#x00E0; suivre que celle de 1614.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Mais ces juges, &#x00E0; vos ordres, ne se montreront pas en, public ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Au contraire, il en est <hi rend="italic"> qui ne seront arr&#x00EA;t&#x00E9;s </hi><pb n="4"/><hi rend="italic"> ni par l'&#x00E9;loignement, ni par la rigueur de la saison ; ils traverseront de vastes contr&#x00E9;es </hi> pour venir d&#x00E9;clarer &#x00E0; nos pieds <hi rend="italic"> qu'ils se seront une gloire supr&#x00EA;me de nous rester inviolablement attach&#x00E9;s ; </hi> &#x0026; pour en imposer aux sots, <hi rend="italic"> nous payerons </hi> &#x00E0; ses juges complaisans <hi rend="italic"> le tribut d'&#x00E9;loges que nous leur devons, </hi> en leur d&#x00E9;clarant <hi rend="italic"> que nous nous estimons heureux d'attacher une couronne sur leurs t&#x00EA;tes. </hi><ref target="r109n11catechisme.n01">(I)</ref></l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  N'avez-vous pas d'autres moyens ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous nous servons encore du clerg&#x00E9; &#x0026; de la noblesse r&#x00E9;cente, qui crient de toutes parts &#x00E0; l'innovation.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Ne craignez-vous pas que dans un si&#x00E8;cle aussi &#x00E9;clair&#x00E9;, il ne soit difficile de faire illusion &#x00E0; la nation ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Si nous ne pouvons pas la tromper, nous pouvons nous en faire craindre ; nous avons des &#x00E9;missaires par-tout, &#x0026; les peuples savent bien que nos vengeances sont implacables : nous br&#x00DB;lons les &#x00E9;crits, nous d&#x00E9;cr&#x00E9;tons les auteurs, nous intimidons tous les citoyens par le pouvoir de les accuser nous-m&#x00EA;mes, sous le nom de notre procureur-g&#x00E9;n&#x00E9;ral, de les poursuivre, de les juger &#x0026; de les pendre dans les 24 heures.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Si l'on vous dit que vos d&#x00E9;crets sont bien plus despotiques que les lettres de cachet contre lesquelles vous avez tant d&#x00E9;clam&#x00E9;, que r&#x00E9;pondrez vous ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous ne r&#x00E9;pondrons pas, nous d&#x00E9;tournerons la question en d&#x00E9;clamant contre le despotisme,
+<note anchored="yes" id="cate_catechisme.n01"> (I) Voyez <hi rend="italic"> le compliment fait &#x00E0; la cour, </hi> ( le parlement de Toulouse, ) <hi rend="italic"> les chambres assembl&#x00E9;es , le </hi> Ier. <hi rend="italic"> d&#x00E9;cembre </hi> 1788, <hi rend="italic"> par MM. les d&#x00E9;put&#x00E9;s de la s&#x00E9;n&#x00E9;chauss&#x00E9;e de Vil... &#x0026; la r&#x00E9;ponse de M. le pr&#x00E9;sident de la Hage. </hi></note><pb n="5"/>
+parce que c'est le plus sur moyen de masquer &#x0026; de couvrir le n&#x00F4;tre.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Cependant les peuples crient de par-tout pour demander que le tiers &#x00E9;tat ait aux &#x00E9;tats-g&#x00E9;n&#x00E9;raux l'&#x00E9;galit&#x00E9; avec les deux ordres r&#x00E9;unis. Comment ferez-vous pour vous d&#x00E9;barrasser de leur clameur ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous intriguerons, nous brouillerons, nous donnerons des ombrages &#x0026; des craintes au minist&#x00E8;re ; nous dirons que les d&#x00E9;lib&#x00E9;rations &#x0026; les repr&#x00E9;sentations du tiers-&#x00E9;tat sont <hi rend="italic">  des libelles s&#x00E9;ditieux, </hi> que ses assembl&#x00E9;es sont <hi rend="italic">  des attroupemens, </hi> &#x0026; que ses protestations sont <hi rend="italic"> une r&#x00E9;volte. </hi></l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment vous conduirez-vous si vous &#x00EA;tes les plus forts ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous porterons par-tout n&#x00F4;tre vengeance. implacable, nous manderons tous les tribunaux inf&#x00E9;rieurs, nous jugerons de nouveau toutes les causes qui ont &#x00E9;t&#x00E9; port&#x00E9;es devant les grands baillages, nous ferons perdre leur proc&#x00E8;s &#x00E0; ceux qui l'auront gagn&#x00E9;, &#x0026; nous le ferons gagner &#x00E0; ceux qui l'auront perdu ; nous d&#x00E9;cr&#x00E9;terons sans forme de proc&#x00E8;s tous ceux qui auront &#x00E9;clair&#x00E9; la nation ; nous ferons trembler tous les fran&#x00E7;ais, afin qu'il ne puisse se relever de l'avilissement o&#x00F9; nous les aurons plong&#x00E9;s.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Mais toutes ces poursuites occasionneront des frais immenses au pauvre peuple ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  C'est ce que nous appellons <hi rend="italic"> faire la guerre &#x00E0; ses d&#x00E9;pens. </hi></l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  C'est fort bien ! &#x0026; comment vous conduirez-vous avec le Roi ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Comme nous sommes les &#x00E9;tats-g&#x00E9;n&#x00E9;raux r&#x00E9;duits <hi rend="italic"> au petit pied,</hi> il est &#x00E9;vident que nous serons souverains <hi rend="italic"> au petit pied : </hi> nous r&#x00E9;glerons donc les imp&#x00F4;ts ; en nous exemptant nous-m&#x00EA;mes, nous d&#x00E9;chargerons le clerg&#x00E9; qui nous aura soutenus, pour surcharger le peuple qui vouloit secouer ses fers ;
+<pb n="6"/>
+nous referons alors un code de lois &#x00E0; notre guise, sans consulter le Roi ni la nation : nous affermirons notre puissance &#x00E0; jamais, &#x0026; voil&#x00E0; <hi rend="italic"> la constitution. </hi></l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment vous y prendrez-vous pour &#x00E9;touffer les lumi&#x00E8;res qui, t&#x00F4;t ou tard, concourront &#x00E0; vous d&#x00E9;masquer ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous pr&#x00F4;nerons la libert&#x00E9; de la presse en faveur de nos adh&#x00E9;rans ; nous proscrirons ceux qui auroient l'audace de fronder nos pr&#x00E9;tentions, nous crierons sans cesse, <hi rend="italic"> la constitution, les lois fondamentales, </hi> &#x0026; nous finirons par d&#x00E9;fendre de parler. </l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment cela ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Parce que nous aurons des espions dans tous les gens de robe, depuis le pr&#x00E9;sident &#x00E0; la grand'-chambre, en descendant graduellement, jusqu'au moindre huissier de village ; dans cet &#x00E2;ge heureux, il n'y aura plus de danger &#x00E0; insulter un procureur ou sa servante, ou sa ma&#x00EE;tresse, qu'il n'y en a aujourd'hui &#x00E0; d&#x00E9;sob&#x00E9;ir formellement au Roi.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Pourquoi appellez-vous ces tems futurs, un &#x00E2;ge heureux ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Parce qu'on ne verra qu'alors ce que les sages ont tant demand&#x00E9;, lorsqu'ils ont dit que le peuple le plus libre &#x0026; le plus heureux est celui qui est gouvern&#x00E9; par les loix. Or, il est &#x00E9;vident que les loix r&#x00E9;gneront alors, puisque nous r&#x00E9;gnerons nous-m&#x00EA;me.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment appellerez-vous ce gouvernement ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  L'aristocratie parlementaire, ou <hi rend="italic"> la robinocratie. </hi></l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Qu'est-ce qui affermira votre puissance ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  La ligue offensive &#x0026; d&#x00E9;fensive entre tous les parlemens, en forte qu'il n'y aura si petit coin de la France o&#x00F9; nous ne puissions &#x00E9;touffer les lumi&#x00E8;res &#x0026; les voix.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Mais ne craignez-vous pas le clerg&#x00E9; ?</l>
+        </sp>
+        <pb n="7"/>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous le flattons aujourd'hui, parce que nous nous servons de lui ; mais comme toute puissance rivale seroit &#x00E0; craindre pour nous, nous l'abaisserons quand nous serons affermis.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment cela ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  C'est qu'&#x00E9;tant l&#x00E9;gislateurs &#x0026; voulant l'&#x00EA;tre seuls, nous sapperons toutes autres loix que les n&#x00F4;tres, &#x0026; nous incorporerons le code eccl&#x00E9;siastique dans le code civil. Le clerg&#x00E9; a de la puissance &#x0026; des richesses ; nous lui &#x00F4;terons sa puissance, en abolissant ou affoiblissant son code &#x0026; ses richesses ; en permettant l'ali&#x00E9;nation de ses biens, &#x0026; en lui faisant perdre ses proc&#x00E8;s en <hi rend="italic"> sabatines, </hi> que nous doublerons <hi rend="italic"> suivant l'usage. </hi></l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Les bonnes dupes ! mais la noblesse si haute, &#x0026; si fi&#x00E8;re, ne la craignez-vous pas ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous n'&#x00E9;tions pas sans alarmes &#x00E0; cause de sa g&#x00E9;n&#x00E9;rosit&#x00E9; naturelle, &#x0026; de la sup&#x00E9;riorit&#x00E9; que l'&#x00E9;p&#x00E9;e affectoit sur la robe ; mais heureusement nous l'avons aveugl&#x00E9;e.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Et comment ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  En lui laissant croire qu'il s'&#x00E9;tabliroit une aristocratie d'&#x00E9;p&#x00E9;e, qui accro&#x00EE;troit le pouvoir de la haute noblesse ; &#x0026; quant aux simples gentilshommes &#x0026; aux possesseurs des fiefs, nous leur avons persuad&#x00E9; que leurs fiefs seroient toujours exempts d'imposition.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment vous y &#x00EA;tes-vous pris pour leur persuader tout cela, sans leur en parler ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Par un moyen bien simple, en demandant <hi rend="italic"> la forme de </hi> 1614. Nous avons fait entendre par-l&#x00E0; au clerg&#x00E9; qu'il domineroit, &#x00E0; la noblesse qu'elle l'emporteroit, aux gens de robe qu'ils subjugueroient le tiers-&#x00E9;tat, aux gens de finances qu'ils seroient des &#x00EA;tres tr&#x00E8;s-importans, &#x0026; par ce mot plus politique qu'on n'a cru, nous avons d&#x00E9;tach&#x00E9; du Roi tous les
+<pb n="8"/>
+corps un peu puissans, pour les attacher &#x00E0; nous.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Mais le peuple vous ha&#x00EF;ra ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Qu'importe qu'il nous ha&#x00EF;sse, pourvu qu'il nous craigne.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment vous conduirez vous avec la noblesse quand vous serez tout-puissans ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous nous y sommes pris de loin, en d&#x00E9;cidant qu'il faudroit &#x00EA;tre noble d&#x00E9;sormais pour &#x00EA;tre membre du parlement, &#x0026; ainsi nous lui pr&#x00E9;senterons un moyen d'aggrandissement qui affermira notre corps : ce leurre aura son effet dans dix ans d'ici. </l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Est-ce tout ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Non, comme nous serons l&#x00E9;gislateurs, il est &#x00E9;vident que nous r&#x00E9;glerons la police des arm&#x00E9;es, comme celle de l'&#x00E9;tat. Nous en avons fait l'essai en mandant venir le doyen des mar&#x00E9;chaux. Notre cr&#x00E9;dit sera sans borne ; on briguera notre protection pour obtenir des grades &#x0026; des rangs, nous les donnerons &#x00E0; nos parens &#x0026; &#x00E0; nos cr&#x00E9;atures : les parlemens &#x0026; sur-tout celui de Paris, disposeront de tout, ce qui amenera la haute noblesse &#x00E0; briguer l'honneur d'entrer au parlement.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Cela ne produira-t-il pas de la jalousie de la part des parlemens de province contre celui de Paris ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Sans doute ; mais ils ne s'en appercevront que quand il ne sera plus tems. Le parlement de Paris sera en position de tout occuper &#x0026; de tout donner, &#x0026; les parlemens de province seront forc&#x00E9;s de lui faire leur cour, &#x0026; d&#x00E9;pendront absolument de lui. </l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Ne craignez-vous pas qu'on p&#x00E9;n&#x00E8;tre votre secret ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Le branle est donn&#x00E9;, nos partisans sont &#x00E9;tourdis, les clameurs du tiers-&#x00E9;tat les attachent plus fortement &#x00E0; nous par l'obstination &#x0026; l'amour-propre ; ils nous regardent comme leur asyle &#x0026; leur appui, ils sont entra&#x00EE;n&#x00E9;s ; &#x0026; quand ils verroient, ils ne voudroient pas voir. Le vulgaire des hommes ne fait pas
+<pb n="9"/>
+pas lire dans l'avenir, &#x0026; n'est affect&#x00E9; que du pr&#x00E9;sent ; &#x0026; voil&#x00E0; la magie.</l>
+        </sp>
+        <p>
+          <title>
+            <hi rend="center"> DE LA FORME: DE 1614 </hi>
+          </title>
+        </p>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment vous conduirez-vous avec les arm&#x00E9;es qui font aux ordres du Roi ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Nous t&#x00E2;cherons de les d&#x00E9;tacher de son ob&#x00E9;issance, en persuadant aux officiers que le Roi est un despote, un tyran, qui veut opprimer ses peuples ; &#x0026; nous ferons entendre finement aux officiers qui sont tous nobles, que c'est ici l'affaire de la noblesse ; qu'elle doit regarder le Roi comme son ennemi personnel, puisqu'il veut relever le tiers-&#x00E9;tat de l'avilissement auquel il &#x00E9;toit condamn&#x00E9;.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Comment ferez-vous entendre cela &#x00E0; la noblesse ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Par un seul mot qui est le signal de ralliement de tous les int&#x00E9;r&#x00EA;ts particuliers : <hi rend="italic">la forme de </hi> 1614.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Ne craignez-vous pas que si les nobles qui sont du second ordre, donnent dans votre syst&#x00E8;me, les soldats qui sont du tiers-&#x00E9;tat, ne s'attachent &#x00E0; lui &#x0026; ne refusent de servir contre leurs fr&#x00E8;res &#x0026; leurs amis ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  Les soldats sont des machines qui ob&#x00E9;issent aveugl&#x00E9;ment &#x00E0; l'impulsion de leurs chefs.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Mais ils ont pr&#x00EA;t&#x00E9; ferment au Roi ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  On leur fera croire qu'ils combattent pour les int&#x00E9;r&#x00EA;ts du Roi.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Ne feroit-ce pas ici l'&#x00E9;cueil de v&#x00F4;tre plan, puisqu'il faudroit rendre traitres au Roi nos officiers dont les yeux s'ouvriront au moment de se voir sur le bord de l'ab&#x00EE;me, &#x0026; nos soldats qui ne connoissent franchement que leur devoir ?</l>
+        </sp>
+        <pb n="10"/>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  C'est une difficult&#x00E9; ; mais on ne feroit rien si on se laissoit effrayer par les obstacles.</l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Et le tiers-&#x00E9;tat ne dira-t-il pas aux soldats : &#x00AB; Vous &#x00EA;tes nos fr&#x00E8;res, notre int&#x00E9;r&#x00EA;t est le v&#x00F4;tre : en vous unissant &#x00E0; nous, vous servez le Roi, puisque nous nous &#x00E9;levons en faveur du Roi : c'est pour vous aussi que nous parlons, puisque nous demandons que vous ne soyez point exclus du grade d'officier ; vous seriez des l&#x00E2;ches de d&#x00E9;sob&#x00E9;ir au Roi pour opprimer le tiers-&#x00E9;tat qui r&#x00E9;clame vos droies en r&#x00E9;clamant les siens. &#x00BB; Comment vous tirerez-vous de-l&#x00E0; ?</l>
+        </sp>
+        <sp>
+          <speaker>R.</speaker>
+          <l>  En emp&#x00EA;chant qu'il n'y ait des &#x00E9;tats-g&#x00E9;n&#x00E9;raux. </l>
+        </sp>
+        <sp>
+          <speaker>D.</speaker>
+          <l>  Je vous en d&#x00E9;fie ?</l>
+        </sp>
+        <p>Point de r&#x00E9;ponse.</p>
+        <lb/>
+        <trailer rend="center"> FIN </trailer>
+      </div1>
+    </body>
+    <back id="cate_1003"><!-- <div1 id="cate_figures">
+<p><figure entity="cate01" n="1"><figDesc>Image of Page 1</figDesc></figure></p>
+<p><figure entity="cate02" n="2"><figDesc>Image of Page 2</figDesc></figure></p>
+<p><figure entity="cate03" n="3"><figDesc>Image of Page 3</figDesc></figure></p>
+<p><figure entity="cate04" n="4"><figDesc>Image of Page 4</figDesc></figure></p>
+<p><figure entity="cate05" n="5"><figDesc>Image of Page 5</figDesc></figure></p>
+<p><figure entity="cate06" n="6"><figDesc>Image of Page 6</figDesc></figure></p>
+<p><figure entity="cate07" n="7"><figDesc>Image of Page 7</figDesc></figure></p>
+<p><figure entity="cate08" n="8"><figDesc>Image of Page 8</figDesc></figure></p>
+<p><figure entity="cate09" n="9"><figDesc>Image of Page 9</figDesc></figure></p>
+<p><figure entity="cate10" n="10"><figDesc>Image of Page 10</figDesc></figure></p>
+</div1> --></back>
+  </text>
+</TEI.2>
