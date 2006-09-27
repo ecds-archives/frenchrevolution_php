@@ -2,12 +2,22 @@
 
 <import file="common-targets.xml"/>
 
-<target name="all" depends="sgml-parse,xml,add-ids,clean,final-info" 
+
+<target name="all" depends="xml,add-ids,clean,final-info" 
  description="* Add ids, convert entities to unicode, validate, and clean up"/>
 
-<!-- override common-targets xml target to use tei2xml instead of input -->
-<target name="xml" depends="tei2xml,clean-data,unicode-entities,whitespace,validate" 
-   description="* convert input into clean, valid xml"/>
+<!-- add a little extra configuration -->
+<target name="config" depends="common-targets.config">
+  <echo message="Project-specific configuration settings."/>
+  <echo message="*******************************"/>
+
+  <echo message="DTD settings"/>
+  <echo message="SGML Catalog file : ${config.dtd.sgml.catalog}"/>
+  <echo message="SGML Doctype file : ${config.dtd.sgml.doctype}"/>
+
+  <echo file="${xmldir}/doctype"><![CDATA[<!DOCTYPE ${config.format} PUBLIC "${config.dtd.publicid}" "${config.dtd.location}">]]></echo>
+
+</target>
 
 
 </project>
