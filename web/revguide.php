@@ -11,7 +11,7 @@ include("header.php");
 ?>
 
 <p><b>RESEARCH GUIDE</b>: This contains information related to the
-        bulk of the collection held by Manuscripts, Archive and Rare
+        bulk of the collection held by Manuscripts, Archives and Rare
         Books Library(MARBL) as well as additional information provided with
         the aim of furthering scholarship.</p>
 
@@ -20,7 +20,7 @@ include("header.php");
       <p><a href="#link">Links</a></p>
       <p><a href="biblioguide.php">Bibliography</p>
 
-<p><b><a name="coll"></a>Manuscripts, Archive and Rare Books Library</b>: The French Revolution Pamphlet Collection</p>
+<p><b><a name="coll"></a>Manuscripts, Archives and Rare Books Library</b>: The French Revolution Pamphlet Collection</p>
 
 <p>The publication dates of the pamphlets range from 1776-1817, although the 
 bulk dates from 1789-1795. The collection consists of some 3000 official 
@@ -69,7 +69,7 @@ bulk dates from 1789-1795. The collection consists of some 3000 official
       <p>As of June 2002, Euclid only contains these three entries for
         the entire collection. More detailed access is provided by an
         analytical card catalogue and a chronological card catalogue,
-        both in Manuscripts, Archive and Rare Books Library.</p>
+        both in Manuscripts, Archives and Rare Books Library.</p>
 
       <p><b><a name="prov"></a>Provenance</b>:</p>
       <p>The library purchased the collection in 1949.
@@ -83,7 +83,7 @@ bulk dates from 1789-1795. The collection consists of some 3000 official
         a bindery receipt found in volume 112, that the volumes were bound in 
         Atlanta by the National Library Bindery Co. (2395 Peachtree Rd.).</p>
       <p>1)They have catalogued some, if not all, of their collection on OCLC.<br>
-        2)Emory Univ. Library Reports, (Manuscripts, Archive and Rare Books Library) 1947-50, p. 114-15; 
+        2)Emory Univ. Library Reports, (Manuscripts, Archives and Rare Books Library) 1947-50, p. 114-15; 
         XE302.A1</p>
 
 	
