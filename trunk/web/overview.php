@@ -20,17 +20,20 @@ include("header.php");
           for the footnotes,although<br>
            on Macintosh computers the text rearranges itself.</font></p>
         <p align="right">&nbsp;</p>
-        <p><a name="project"></a><strong>The Project</strong><br>
-          This is an ongoing effort co-sponsored by Manuscripts, Archive and Rare Books Library and the 
-          Louis H. Beck Center for Electronic Collections and Services, Woodruff 
-          Library, Emory University.<br>
+        <p><a name="project"></a><strong>The Project</strong><br> This
+          is an ongoing effort co-sponsored by Manuscripts, Archives
+          and Rare Books Library(MARBL) and the Louis H. Beck Center
+          for Electronic Collections and Services, Woodruff Library,
+          Emory University.<br>
           <br>
-          The goal of this project was to digitize a coherent number of the 3000 
-          texts contained in the French Revolution Pamphlet Collection held by 
-          Manuscripts, Archive and Rare Books Library. It is hoped that the digital collection, which 
-          will eventually display 89 literary and satirical pamphlets, will highlight 
-          what had been a nearly invisible library resource and will facilitate 
-          scholarly access to archival texts that have not been widely reproduced.<br>
+          The goal of this project was to digitize a coherent number
+          of the 3000 texts contained in the French Revolution
+          Pamphlet Collection held by Manuscripts, Archives and Rare
+          Books Library. It is hoped that the digital collection,
+          which will eventually display 89 literary and satirical
+          pamphlets, will highlight what had been a nearly invisible
+          library resource and will facilitate scholarly access to
+          archival texts that have not been widely reproduced.<br>
           <br>
           The technical aspects of the digitization process involve scanning the 
           original documents using high-end digital photography, converting them 
@@ -55,7 +58,7 @@ include("header.php");
           sur l&#8217;h&eacute;ro&iuml;que, ce qui en diminuoit prodigieusement 
           l&#8217;ennui.</em><br>
           (From the pamphlet entitled <em>La prise des Annonciades</em>, page 
-          3.)<a name="foot1" href="#foot1" class="footnote"
+          3.)<a name="1foot" href="#foot1" class="footnote"
 onMouseOver="overlib('While the pamphlet in Emory&#8217;s collection lists &#8220;L.....H, M. le Cte. C.....S de&#8221; as the author, Martin &amp; Walter lists this pamphlet&#8217;s author as Bonnay, Charles-Fran&ccedil;ois, marquis de, 1750-1825 (cf. Martin &amp; Walter, <em>Catalogue de l&#8217;histoire de la r&eacute;volution fran&ccedil;aise</em>, Paris: &Eacute;ditions des Biblioth&egrave;ques nationales, 1936-, Vol I: 4092)&#8230; Also note that the collections at Columbia University and in the Bancroft library, as contained in their respective RLIN records, indicate that this is a half title. The full title of their entries reads &quot;R&eacute;ponse &agrave;...&quot; and &quot;Seconde r&eacute;ponse &agrave;...&quot; They concur with Martin &amp; Walter in regards the authorship.', CAPTION, 'Footnote 1', WIDTH, 300)"
 onMouseOut="nd()">1</a> 
         <p>The pamphlet is a genre of literary engagement. From the 5000 or so 

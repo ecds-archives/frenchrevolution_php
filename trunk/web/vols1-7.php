@@ -34,7 +34,7 @@ font-family:"Times New Roman"'><font size="4" face="Arial, Helvetica, sans-serif
         Convention: A Selected <br>
         Bibliography</i></font></span><font size="4" face="Arial, Helvetica, sans-serif"> 
         (<span style='font-size:
-11.0pt;font-family:"Times New Roman"'>Manuscripts, Archive and Rare Books Library, Woodruff Library, Emory 
+11.0pt;font-family:"Times New Roman"'>Manuscripts, Archives and Rare Books Library, Woodruff Library, Emory 
         University) 1963. = DC137.08.B7</span></font></font></p>
       <p class=MsoNormal style='tab-stops:1.0in 4.0in'><font face="Arial, Helvetica, sans-serif" size="5"><span style='font-size:
 11.0pt;font-family:"Times New Roman"'><o:p></o:p></span></font><font size="5"><span style='font-size:11.0pt;
