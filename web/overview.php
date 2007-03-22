@@ -21,13 +21,13 @@ include("header.php");
            on Macintosh computers the text rearranges itself.</font></p>
         <p align="right">&nbsp;</p>
         <p><a name="project"></a><strong>The Project</strong><br>
-          This is an ongoing effort co-sponsored by Special Collections and the 
+          This is an ongoing effort co-sponsored by Manuscripts, Archive and Rare Books Library and the 
           Louis H. Beck Center for Electronic Collections and Services, Woodruff 
           Library, Emory University.<br>
           <br>
           The goal of this project was to digitize a coherent number of the 3000 
           texts contained in the French Revolution Pamphlet Collection held by 
-          Special Collections. It is hoped that the digital collection, which 
+          Manuscripts, Archive and Rare Books Library. It is hoped that the digital collection, which 
           will eventually display 89 literary and satirical pamphlets, will highlight 
           what had been a nearly invisible library resource and will facilitate 
           scholarly access to archival texts that have not been widely reproduced.<br>
