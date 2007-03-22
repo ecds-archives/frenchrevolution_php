@@ -10,16 +10,17 @@ $headtitle = "Research Guide";
 include("header.php");
 ?>
 
-<p><b>RESEARCH  GUIDE</b>: This contains information related to the bulk of the 
-        collection held by Special Collections as well as additional information 
-        provided with the aim of furthering scholarship.</p>
+<p><b>RESEARCH GUIDE</b>: This contains information related to the
+        bulk of the collection held by Manuscripts, Archive and Rare
+        Books Library(MARBL) as well as additional information provided with
+        the aim of furthering scholarship.</p>
 
       <p><a href="#coll">The Collection</a></p>
       <p><a href="#prov">Provenance</a></p>
       <p><a href="#link">Links</a></p>
       <p><a href="biblioguide.php">Bibliography</p>
 
-<p><b><a name="coll"></a>Special Collections</b>: The French Revolution Pamphlet Collection</p>
+<p><b><a name="coll"></a>Manuscripts, Archive and Rare Books Library</b>: The French Revolution Pamphlet Collection</p>
 
 <p>The publication dates of the pamphlets range from 1776-1817, although the 
 bulk dates from 1789-1795. The collection consists of some 3000 official 
@@ -65,9 +66,10 @@ bulk dates from 1789-1795. The collection consists of some 3000 official
         v. 107-108)<br>
         --Literary and Satirical Publications (89 pamphlets in 7 vols., v. 109-115)<br>
         --Miscellaneous (34 pamphlets in 4 vols., v. 116-119)</p>
-      <p>As of June 2002, Euclid only contains these three entries for the entire 
-        collection. More detailed access is provided by an analytical card catalogue 
-        and a chronological card catalogue, both in Special Collections.</p>
+      <p>As of June 2002, Euclid only contains these three entries for
+        the entire collection. More detailed access is provided by an
+        analytical card catalogue and a chronological card catalogue,
+        both in Manuscripts, Archive and Rare Books Library.</p>
 
       <p><b><a name="prov"></a>Provenance</b>:</p>
       <p>The library purchased the collection in 1949.
@@ -81,7 +83,7 @@ bulk dates from 1789-1795. The collection consists of some 3000 official
         a bindery receipt found in volume 112, that the volumes were bound in 
         Atlanta by the National Library Bindery Co. (2395 Peachtree Rd.).</p>
       <p>1)They have catalogued some, if not all, of their collection on OCLC.<br>
-        2)Emory Univ. Library Reports, (Special Collections) 1947-50, p. 114-15; 
+        2)Emory Univ. Library Reports, (Manuscripts, Archive and Rare Books Library) 1947-50, p. 114-15; 
         XE302.A1</p>
 
 	
