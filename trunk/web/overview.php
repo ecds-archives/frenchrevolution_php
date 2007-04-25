@@ -41,8 +41,8 @@ include("header.php");
           and finally, sgml mark-up in order to provide a web-based interface 
           which allows full document retrieval as well as extensive cross-text 
           search capabilities.</p>
-        <p>For further information, please see the <a href="http://chaucer.library.emory.edu/tagguide.html#revo">Tagging 
-          Guidelines</a> for this project and the <a href="http://chaucer.library.emory.edu/frevhdbk.html">Production 
+        <p>For further information, please see the <a href="tagguide.php">Tagging 
+          Guidelines</a> for this project and the <a href="frevhdbk.php">Production 
           Path Handbook</a>.</p>
         <p>&nbsp;</p>
         <p><a name="pamphlet"></a><strong>The Pamphlets</strong><br>
