@@ -3,6 +3,11 @@
    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
    <title>French Revolution Pamphlet Collection</title>
    <link rel="stylesheet" type="text/css" href="index.css">
+<?php
+  include("common_functions.php");
+  $dc = transform("dc.xml", "xsl/dc-htmldc.xsl");
+  print $dc->saveXML();
+?>
 </head>
 <body>
 
