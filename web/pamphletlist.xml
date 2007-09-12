@@ -1,13 +1,13 @@
 <div>
 
-<pamphlet id="110n05">
+<pamphlet id="lama">
   <figure entity="lama01"/>
   <author>Clesse, A.</author> 
   <date>1792.</date> 
   <title>Adresse au grand lama de Rome, ou le bon sens veng&#x00E9;.</title>
 </pamphlet>
 
-<pamphlet id="109n01">
+<pamphlet id="nostra">
   <author>Guillaume.</author> 
   <date>1799.</date> 
   <title>Arriv&#x00E9;e a Paris du petit neveu de Nostradamus, 
@@ -30,21 +30,21 @@ des principaux ouvrages publi&#x00E9;s par cette Soci&#x00E9;t&#x00E9;.</title>
 avec ceux de la Saint Barth&#x00E9;lemi.</title>
 </pamphlet>
 
-<pamphlet id="109n11">
+<pamphlet id="cate">
   <figure entity="cate01"/>
   <author>Anonyme.</author> 
   <date>1789.</date> 
   <title>Cat&#x00E9;chisme des parlemens.</title>
 </pamphlet>
 
-<pamphlet id="109n12">
+<pamphlet id="chan">
   <figure entity="chan01"/>
   <author>Anonyme.</author> 
   <date>1793.</date> 
   <title>Chanson d'un sans-culotte, sur la prise de Toulon.</title>
 </pamphlet>
 
-<pamphlet id="109n13">
+<pamphlet id="chap">
   <author>Anonyme.</author> 
   <date>1790.</date> 
   <title>Chapeaux a vendre, opuscule d&#x00E9;di&#x00E9;e a M. Le 
@@ -259,7 +259,7 @@ le 6 septembre, l'an second de la r&#x00E9;publique fran&#x00E7;aise.</title>
 pour l'ann&#x00E9;. 1790.seconde de la libert&#x00E9; fran&#x00E7;oise.</title>
 </pamphlet>
 
-<pamphlet id="109n03">
+<pamphlet id="atten">
   <figure entity="atten01"/>
   <author>Anonyme.</author> 
   <date>1790.</date> 
@@ -279,7 +279,7 @@ pour l'ann&#x00E9;. 1790.seconde de la libert&#x00E9; fran&#x00E7;oise.</title>
 bon roi Louis XVI, suivie d'un petit avis au peuple.</title>
 </pamphlet>
 
-<pamphlet id="111n02">
+<pamphlet id="epid">
   <figure entity="epid001"/>
   <author>Anonyme.</author> 
   <date>1790.</date> 
@@ -306,7 +306,7 @@ sur le Th&#x00E9;&#x00E2;tre de la Cit&#x00E9;, le premier prairial, l'an
 second de la r&#x00E9;publique fran&#x00E7;aise...</title>
 </pamphlet>
 
-<pamphlet id="110n01">
+<pamphlet id="chas">
   <author>Anonyme.</author> 
   <date>1789.</date> 
   <title>La chasse aux b&#x00EA;tes puantes et f&#x00E9;roces: qui 
@@ -370,7 +370,7 @@ historique, en trois actes et en prose, avec une pompe fun&#x00E8;bre
 de l'aristocratie.</title>
 </pamphlet>
 
-<pamphlet id="113n02">
+<pamphlet id="lune">
   <figure entity="lune01"/>
   <author>Anonyme.</author>
   <date>[1788?] 1789.</date> 
@@ -407,7 +407,7 @@ National, le 19 germinal, an troisi&#x00E8;me de la R&#x00E9;publique
 de la garde non sold&#x00E9;e, &#x00E0; Paris.</title>
 </pamphlet>
 
-<pamphlet id="115n10">
+<pamphlet id="larev">
   <figure entity="larev01"/>
   <author>Anonyme.</author> 
   <date>1790.</date> 
@@ -445,7 +445,7 @@ de l'Op&#x00E9;ra-Comique-National de la rue Favart, ci-devant Italien.</title>
 de musique.</title>
 </pamphlet>
 
-<pamphlet id="109n10">
+<pamphlet id="carn">
   <author>Anonyme.</author> 
   <date>1790.</date> 
   <title>Le Carnaval politique d. 1790. ou, Exil de Mardi-gras &#x00E0; 
@@ -538,7 +538,7 @@ trouv&#x00E9; dans le porte-feuille de Monseigneur le Prince de Lambesc,
 Grand-Ecuyer de France.</title>
 </pamphlet>
 
-<pamphlet id="110n04">
+<pamphlet id="crim">
   <author>Cizos-Duplessis, F., (pseud.).</author> 
   <date>date?</date> 
   <title>Les crimes de la noblesse, ou, Le 
@@ -577,7 +577,7 @@ en prose : repr&#x00E9;sent&#x00E9; pour la premiere fois au Th&#x00E9;&#x00E2;t
 de la Nation, au mois de mar. 1791.</title>
 </pamphlet>
 
-<pamphlet id="115n05">
+<pamphlet id="rablu">
   <figure entity="rablu01"/>
   <author>Rablu, J.</author> 
   <date>1790.</date> 
@@ -663,7 +663,7 @@ d&#x00E9;cadaires ; imprim&#x00E9;s par ordre de la Commission de l'instruction
 publique.</title>
 </pamphlet>
 
-<pamphlet id="115n07">
+<pamphlet id="bouc">
   <figure entity="boucl01"/>
   <author>Anonyme.</author> 
   <date>[1790].</date> 
@@ -671,7 +671,7 @@ publique.</title>
 nationale...</title>
 </pamphlet>
 
-<pamphlet id="115n11">
+<pamphlet id="comiq">
   <figure entity="comiq01"/>
   <author>Anonyme.</author> 
   <date>1789.</date> 
