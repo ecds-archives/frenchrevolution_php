@@ -26,6 +26,10 @@
       <xsl:attribute name="name">
         <xsl:value-of select="concat('DC.', local-name())"/>
       </xsl:attribute>
+
+      <!-- include any attributes (e.g., scheme for subjects) -->
+      <xsl:apply-templates select="@*"/>
+
       <xsl:choose>
         <xsl:when test="local-name() = 'format'">
           <xsl:attribute name="scheme">DCTERMS.IMT</xsl:attribute>
@@ -36,6 +40,10 @@
       </xsl:choose>
       <xsl:attribute name="content"><xsl:value-of select="."/></xsl:attribute>
     </xsl:element>
+  </xsl:template>
+
+  <xsl:template match="@*">
+    <xsl:copy-of select="."/>
   </xsl:template>
 
 </xsl:stylesheet>
