@@ -8,8 +8,9 @@
 
 <?php
 
-$sort = $_GET["sort"];
-$view = $_GET["view"];
+
+$sort = isset($_GET["sort"]) ? $_GET["sort"] : "";
+$view = isset($_GET["view"]) ? $_GET["view"] : "";
 
 if ($sort == "") $sort = "title";	// default sort option
 $headtitle = "List";

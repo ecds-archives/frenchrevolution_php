@@ -96,3 +96,24 @@ a.footnote {
   padding-right: 5px; 
   font-weight: normal;
 }
+
+/* display page breaks; should look something like --- page # ---- */
+div.pagebreak { 
+  text-align:center;
+  height:14pt;
+}
+
+div.pagebreak hr { 
+  position:absolute;
+  width:85%;
+  z-index:1;
+}
+
+div.pagebreak span.page { 
+  position:absolute;
+  background-color:#ffffff;
+  z-index:2;
+  padding-left:10px;
+  padding-right:10px;
+}
+

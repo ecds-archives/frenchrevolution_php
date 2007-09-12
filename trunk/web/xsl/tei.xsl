@@ -2,9 +2,9 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 version="1.0">
 
-  <xsl:variable name="figure-path">http://chaucer.library.emory.edu/frenchrevo/images/</xsl:variable>
+  <xsl:variable name="figure-path">http://beck.library.emory.edu/frenchrevolution/image-content/</xsl:variable>
   <xsl:variable name="figure-suffix">.jpg</xsl:variable>
-  <xsl:variable name="thumbnail-path">http://chaucer.library.emory.edu/frenchrevo/images/thumbnails/</xsl:variable>
+  <xsl:variable name="thumbnail-path">http://beck.library.emory.edu/frenchrevolution/image-content/thumbnails/</xsl:variable>
   <xsl:variable name="thumbnail-suffix">.gif</xsl:variable>
 
 

@@ -32,8 +32,8 @@ include("header.php");
 print "<div class='content'>
    <p>Search results for '$kw':</p>";
 
-// run the query 
-$xmldb->xquery($query);
+// run the query (start with first match, display 50 - should be more than enough to get everything)
+$xmldb->xquery($query, 1, 50);
 $xmldb->xslTransform($xsl, $xsl_params);
 $xmldb->printResult();
 

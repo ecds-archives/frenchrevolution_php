@@ -2,7 +2,7 @@
 
   <div class="image">
     <p id="title">French Revolution</p>
-    <p id="page">Pamphlet Collection <?= $headtitle ?></p>
+<p id="page">Pamphlet Collection <?= isset($headtitle) ? $headtitle : "" ?></p>
   </div>
 
   <p class="links">
