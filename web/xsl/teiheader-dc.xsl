@@ -149,6 +149,10 @@
   <xsl:template match="encodingDesc/editorialDecl"/>
   <xsl:template match="revisionDesc"/>
 
+
+  <!-- ignore bibls within the text for now -->
+  <xsl:template match="text//bibl"/>
+
   <!-- normalize space for all text nodes -->
   <xsl:template match="text()">
     <xsl:value-of select="normalize-space(.)"/>
