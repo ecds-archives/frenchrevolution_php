@@ -5,7 +5,7 @@ include("config.php");
 include_once("lib/xmlDbConnection.class.php");
 
 $doc = $_GET["doc"];		// name of document to retrieve
-$kw = $_GET["kw"];		// any keywords to highlight
+$kw = isset($_GET["kw"]) ? $_GET["kw"] : "";	  // any keywords to highlight
 
 if (!($doc)) {
   print "<p class='error'>Error: No document specified!</p>";
@@ -16,11 +16,12 @@ if (!($doc)) {
 $exist_args{"debug"} = false;
 $xmldb = new xmlDbConnection($exist_args);
 
+$filter = "";
 if ($kw)
-  $filter = "[match-all(., '$kw')]";
+  $filter = "[. &= '$kw']";
 
 // retrieve entire document, by docname
-$query = "document('db/$db/$doc.xml')/TEI.2$filter";
+$query = "document('/db/$db/$doc.xml')/TEI.2$filter";
 $xsl = "xsl/view.xsl";
 
 // run the query 

@@ -41,7 +41,10 @@
   </xsl:template>
 
   <xsl:template match="pb">
-    <hr/>
+    <div class="pagebreak">
+      <span class="page">Page <xsl:value-of select="@n"/></span>
+      <hr/>
+    </div>
   </xsl:template>
 
   <xsl:template match="note">
