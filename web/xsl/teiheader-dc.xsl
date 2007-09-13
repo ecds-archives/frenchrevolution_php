@@ -70,6 +70,12 @@
     </xsl:element>
   </xsl:template>
 
+  <xsl:template match="publicationStmt/idno">
+    <xsl:element name="dc:identifier">
+      <xsl:apply-templates/>
+    </xsl:element>
+  </xsl:template>
+
 
   <!-- ignore for now; do these fit anywhere? -->
   <xsl:template match="publicationStmt/address"/>
