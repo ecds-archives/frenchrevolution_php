@@ -17,9 +17,19 @@
     <dc>
       <xsl:apply-templates select="//bibl"/>
       <xsl:apply-templates select="//teiHeader"/>
+
+      <xsl:call-template name="common-fields"/>
+    </dc>
+  </xsl:template>
+
+  <!-- static fields for all records-->
+  <xsl:template name="common-fields">
+    <dc:relation>http://beck.library.emory.edu/frenchrevolution/</dc:relation>
+    <dc:language>French</dc:language>
+    <dc:subject scheme="LCSH">France--History--Revolution, 1789-1799--Pamphlets.</dc:subject>
+    <dc:subject scheme="LCSH">France--Politics and government--1789-1799.</dc:subject>
     <dc:type>Text</dc:type>
     <dc:format>text/xml</dc:format>
-    </dc>
   </xsl:template>
 
   <xsl:template match="titleStmt/title">
@@ -53,24 +63,39 @@
     </xsl:element>
   </xsl:template>
 
-  <xsl:template match="publisher[not(parent::imprint)]">
+  <!-- publisher -->
+  <xsl:template match="publicationStmt">
+    <xsl:element name="dc:publisher">  <xsl:value-of select="publisher"/>, <xsl:value-of 
+    select="pubPlace"/>. <xsl:value-of select="date"/>: <xsl:value-of 
+    select="address/addrLine"/>.</xsl:element> 
+    <!-- pick up rights statement --> 
+    <xsl:apply-templates/>
+  </xsl:template> 
+
+  <!-- ignore here: explicitly included above -->
+  <xsl:template match="publicationStmt/publisher"/>
+
+  <!-- FIXME: is date of electronic edition interesting/relevant? -->
+  <xsl:template match="publicationStmt/date"/>
+
+  <!--  <xsl:template match="publisher[not(parent::imprint)]">
     <xsl:element name="dc:publisher">
       <xsl:apply-templates/>
     </xsl:element>
-  </xsl:template>
+  </xsl:template>  -->
 
 
   <!-- ignore source publisher & date for now; include in dc:source -->
   <xsl:template match="imprint/publisher"/>
-  <xsl:template match="bibl//date"/>
-
+  <xsl:template match="bibl/date"/>
+  
   <xsl:template match="date">
     <xsl:element name="dc:date">
       <xsl:apply-templates/>
     </xsl:element>
   </xsl:template>
 
-  <xsl:template match="publicationStmt/idno">
+  <xsl:template match="publicationStmt/idno[@type='ark']">
     <xsl:element name="dc:identifier">
       <xsl:apply-templates/>
     </xsl:element>
@@ -89,10 +114,13 @@
   </xsl:template>
 
   <xsl:template match="seriesStmt/title">
-    <xsl:element name="dc:relation">
-      <!-- fixme: should we specify isPartOf? -->
-      <xsl:apply-templates/>
-    </xsl:element>
+    <!-- is this correct? should it be relation? -->
+    <xsl:element name="dc:subject"><xsl:value-of select="."/></xsl:element>
+
+    <!--    <xsl:element name="dc:relation"> 
+       FIXME: should we specify isPartOf?   
+      <xsl:apply-templates/> 
+    </xsl:element>-->
   </xsl:template>
 
   <xsl:template match="sourceDesc/bibl">
@@ -135,7 +163,7 @@
   </xsl:template>
 
   <xsl:template match="profileDesc/creation/date">
-    <xsl:element name="dc:coverage">
+    <xsl:element name="dc:date">
       <xsl:apply-templates/>
     </xsl:element>
   </xsl:template>
@@ -143,6 +171,13 @@
   <xsl:template match="profileDesc/creation/rs[@type='geography']">
     <xsl:element name="dc:coverage">
       <xsl:apply-templates/>
+    </xsl:element>
+  </xsl:template>
+
+  <!-- ark identifier -->
+  <xsl:template match="idno[@type='ark']">
+    <xsl:element name="dc:identifier">
+      <xsl:value-of select="."/>
     </xsl:element>
   </xsl:template>
 
