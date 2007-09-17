@@ -15,7 +15,7 @@
 
   <xsl:template match="/">
     <dc>
-      <xsl:apply-templates select="//bibl"/>
+      <!--      <xsl:apply-templates select="//bibl"/> -->
       <xsl:apply-templates select="//teiHeader"/>
 
       <xsl:call-template name="common-fields"/>
@@ -39,19 +39,6 @@
   </xsl:template>
 
   <xsl:template match="titleStmt/author">
-    <xsl:element name="dc:creator">
-      <xsl:apply-templates/>
-    </xsl:element>
-  </xsl:template>
-
-  <xsl:template match="title">
-    <xsl:element name="dc:title">
-      <xsl:apply-templates/>
-    </xsl:element>
-  </xsl:template>
-
-
-  <xsl:template match="author">
     <xsl:element name="dc:creator">
       <xsl:apply-templates/>
     </xsl:element>
@@ -138,22 +125,23 @@
   </xsl:template>
 
   <!-- formatting for bibl elements, to generate a nice citation. -->
-  <!--  <xsl:template match="bibl/author"><xsl:apply-templates/>. </xsl:template>
-   <xsl:template match="bibl/title"><xsl:apply-templates/>. </xsl:template> 
+  <xsl:template match="bibl/author"><xsl:apply-templates/>. </xsl:template>
+  <xsl:template match="bibl/title">
+    <xsl:apply-templates/>
+    <xsl:if test="not(contains(., '.'))"><xsl:text>.</xsl:text></xsl:if>	<!-- hack; add period? -->
+    <xsl:text> </xsl:text>
+  </xsl:template>  
+
    <xsl:template match="bibl/editor">
     <xsl:text>Ed. </xsl:text><xsl:apply-templates/><xsl:text>. </xsl:text> 
-  </xsl:template>
+  </xsl:template> 
   <xsl:template match="bibl/pubPlace">
-	<xsl:if test=". != ''">
-          <xsl:apply-templates/>:
-        </xsl:if>
-  </xsl:template>
-  <xsl:template match="bibl/publisher">
-    <xsl:if test=". != ''">
-      <xsl:apply-templates/>, 
-    </xsl:if>
-  </xsl:template>
-  <xsl:template match="bibl/date"><xsl:apply-templates/>.</xsl:template> -->
+	<xsl:if test=". != ''"><xsl:apply-templates/>: </xsl:if>
+  </xsl:template> 
+  <xsl:template match="bibl/publisher"> 
+    <xsl:if test=". != ''"><xsl:apply-templates/>, </xsl:if>
+  </xsl:template> 
+  <xsl:template match="bibl/date"><xsl:apply-templates/>.</xsl:template>
 
 
   <xsl:template match="encodingDesc/projectDesc">
