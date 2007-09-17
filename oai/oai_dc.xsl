@@ -9,6 +9,7 @@
   <xsl:output method="xml" omit-xml-declaration="yes"/>
   <xsl:param name="prefix"/>
 
+  <xsl:include href="xslt/teiheader-dc.xsl"/>
   <xsl:include href="xmldbOAI/xsl/response.xsl"/>
 
   <!-- list identifiers : header information only -->
@@ -26,12 +27,7 @@
           <xsl:apply-templates/>
 
           <!-- constant values for all records -->
-          <dc:relation>http://beck.library.emory.edu/frenchrevolution/</dc:relation>
-          <dc:language>French</dc:language>
-          <dc:subject scheme="LCSH">France--History--Revolution, 1789-1799--Pamphlets.</dc:subject>
-          <dc:subject scheme="LCSH">France--Politics and government--1789-1799.</dc:subject>
-          <dc:type>Text</dc:type>
-          <dc:format>text/xml</dc:format>
+          <xsl:call-template name="common-fields"/>
         </oai_dc:dc>
       </metadata>
     </record>
@@ -57,14 +53,14 @@
 
 
 <!-- article title -->
-<xsl:template match="titleStmt/title">
+<!-- <xsl:template match="titleStmt/title">
   <xsl:element name="dc:title"><xsl:value-of select="."/></xsl:element>
-</xsl:template>
+</xsl:template> 
 
 
 <xsl:template match="titleStmt/author">
   <xsl:element name="dc:creator"><xsl:value-of select="."/></xsl:element>
-</xsl:template>
+</xsl:template>-->
 
 <!-- source = original publication information -->
 <xsl:template match="sourceDesc/bibl">
@@ -87,37 +83,13 @@
   </xsl:template>
 
   <!-- publisher -->
-  <xsl:template match="publicationStmt">
+  <!--  <xsl:template match="publicationStmt">
     <xsl:element name="dc:publisher">  <xsl:value-of select="publisher"/>, <xsl:value-of
     select="pubPlace"/>. <xsl:value-of select="date"/>: <xsl:value-of
-    select="address/addrLine"/>.</xsl:element>
+    select="address/addrLine"/>.</xsl:element> -->
     <!-- pick up rights statement -->
-    <xsl:apply-templates/>
-  </xsl:template>
-
-  <!-- rights -->
-  <xsl:template match="availability">
-    <xsl:element name="dc:rights"><xsl:value-of select="p"/></xsl:element>
-  </xsl:template>
-
-  <!-- subject -->
-  <xsl:template match="seriesStmt/title">
-    <!-- is this correct? should it be relation? -->
-    <xsl:element name="dc:subject"><xsl:value-of select="."/></xsl:element>
-  </xsl:template>
-
-  <!-- description -->
-  <!-- any description? available in the text? (only generic/repeated project description) -->
-
-
-
-  <!-- ark identifier -->
-<xsl:template match="idno[@type='ark']">
-  <xsl:element name="dc:identifier">
-    <xsl:value-of select="."/>
-  </xsl:element>
-</xsl:template>
-
+    <!--    <xsl:apply-templates/>
+  </xsl:template> -->
 
 
 <!-- default: ignore anything not explicitly selected (but do process child nodes) -->
@@ -125,7 +97,7 @@
   <xsl:apply-templates/>
 </xsl:template>
 
-<xsl:template match="text()|@*"/>
+<!-- <xsl:template match="text()|@*"/> -->
 
 
 </xsl:stylesheet>
