@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
 		xmlns:dc="http://purl.org/dc/elements/1.1/"
+		xmlns:dcterms="http://purl.org/dc/terms"
                 version="1.0">
 
   <xsl:output method="xml" omit-xml-declaration="yes"/>
@@ -24,7 +25,6 @@
 
   <!-- static fields for all records-->
   <xsl:template name="common-fields">
-    <dc:relation>http://beck.library.emory.edu/frenchrevolution/</dc:relation>
     <dc:language>French</dc:language>
     <dc:subject scheme="LCSH">France--History--Revolution, 1789-1799--Pamphlets.</dc:subject>
     <dc:subject scheme="LCSH">France--Politics and government--1789-1799.</dc:subject>
@@ -63,7 +63,11 @@
   <xsl:template match="publicationStmt/publisher"/>
 
   <!-- FIXME: is date of electronic edition interesting/relevant? -->
-  <xsl:template match="publicationStmt/date"/>
+  <xsl:template match="publicationStmt/date">
+    <xsl:element name="dcterms:issued">
+      <xsl:apply-templates/>
+    </xsl:element>
+  </xsl:template>
 
   <!--  <xsl:template match="publisher[not(parent::imprint)]">
     <xsl:element name="dc:publisher">
@@ -101,8 +105,13 @@
   </xsl:template>
 
   <xsl:template match="seriesStmt/title">
-    <!-- is this correct? should it be relation? -->
-    <xsl:element name="dc:subject"><xsl:value-of select="."/></xsl:element>
+
+    <xsl:element name="dcterms:isPartOf"><xsl:value-of select="."/></xsl:element>
+
+    <xsl:element name="dcterms:isPartOf">
+      <xsl:attribute name="scheme">URI</xsl:attribute>
+      <xsl:text>http://beck.library.emory.edu/frenchrevolution/</xsl:text>
+    </xsl:element>
 
     <!--    <xsl:element name="dc:relation"> 
        FIXME: should we specify isPartOf?   
@@ -136,7 +145,10 @@
     <xsl:text>Ed. </xsl:text><xsl:apply-templates/><xsl:text>. </xsl:text> 
   </xsl:template> 
   <xsl:template match="bibl/pubPlace">
-	<xsl:if test=". != ''"><xsl:apply-templates/>: </xsl:if>
+    <xsl:if test=". != ''">
+      <xsl:apply-templates/>
+      <xsl:text>: </xsl:text>
+    </xsl:if>
   </xsl:template> 
   <xsl:template match="bibl/publisher"> 
     <xsl:if test=". != ''"><xsl:apply-templates/>, </xsl:if>
@@ -144,14 +156,12 @@
   <xsl:template match="bibl/date"><xsl:apply-templates/>.</xsl:template>
 
 
-  <xsl:template match="encodingDesc/projectDesc">
-    <xsl:element name="dc:description">
-      <xsl:apply-templates/>
-    </xsl:element>
-  </xsl:template>
+  <!-- generic description, same on all records - don't include -->
+  <xsl:template match="encodingDesc/projectDesc"/>
+
 
   <xsl:template match="profileDesc/creation/date">
-    <xsl:element name="dc:date">
+    <xsl:element name="dcterms:created">
       <xsl:apply-templates/>
     </xsl:element>
   </xsl:template>
