@@ -9,7 +9,7 @@
   <xsl:output method="xml" omit-xml-declaration="yes"/>
   <xsl:param name="prefix"/>
 
-  <xsl:include href="xslt/teiheader-dc.xsl"/>
+  <xsl:include href="../xsl/teiheader-dc.xsl"/>
   <xsl:include href="xmldbOAI/xsl/response.xsl"/>
 
   <!-- list identifiers : header information only -->
