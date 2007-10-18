@@ -45,10 +45,13 @@
   </connectionParameters>
 
   <sets>
-    <!--set must be listed here and defined with in each metadata queries doc-->
-<!--    <set name="" setSpec="">
-       <description></description>
-    </set> -->
+    <!--set must be listed here and defined with in each metadata
+queries doc-->
+
+<!-- NOTE: Primo requires sets, so adding one set for all pamphlets -->
+    <set name="Revolution pamphlets" setSpec="revolutionpamphlets">
+       <description>French Revolution pamphlets</description>
+    </set> 
   </sets>
 
   <metadataFormats>

@@ -45,9 +45,10 @@
       
       <!-- get setSpec names (must match what is in config.xml) -->
       
-      <!-- no sets in french revolution -->
-      <!--     <setSpec><xsl:value-of select="concat(@type, 's')"/></setSpec> -->
-      
+      <!-- (no sets in french revolution) -->
+
+      <!-- NOTE: Primo requires sets, so adding one set for all pamphlets -->
+      <setSpec>revolutionpamphlets</setSpec>
     </xsl:element>
   </xsl:template>
 
