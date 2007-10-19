@@ -9,6 +9,9 @@
   <xsl:output method="xml" omit-xml-declaration="yes"/>
   <xsl:param name="prefix"/>
 
+  <!-- need unqualified dublin core for Primo -->
+  <xsl:param name="qualified">false</xsl:param>
+
   <xsl:include href="../xsl/teiheader-dc.xsl"/>
   <xsl:include href="xmldbOAI/xsl/response.xsl"/>
 

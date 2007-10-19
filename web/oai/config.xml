@@ -65,6 +65,9 @@ queries doc-->
       <recordNamespace>http://purl.org/dc/elements/1.1</recordNamespace>
       <xslt>oai_dc.xsl</xslt>
     </metadataFormat>                       
+
+<!-- FIXME: add qualified dublin core (dublin core + dcterms) when we figure out the schema,
+namespace, etc. -->
   </metadataFormats>
 
 </repository>
