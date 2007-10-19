@@ -6,6 +6,8 @@
 
   <xsl:output method="xml" omit-xml-declaration="yes"/>
 
+  <xsl:param name="qualified">true</xsl:param>
+
   <!-- specific to French Revolution Pamphlets : Michael Kazanjian's name should show up -->
   <xsl:template match="titleStmt/respStmt">
     <xsl:element name="dc:contributor">
@@ -26,8 +28,18 @@
   <!-- static fields for all records-->
   <xsl:template name="common-fields">
     <dc:language>French</dc:language>
-    <dc:subject scheme="LCSH">France--History--Revolution, 1789-1799--Pamphlets.</dc:subject>
-    <dc:subject scheme="LCSH">France--Politics and government--1789-1799.</dc:subject>
+    <dc:subject>
+      <xsl:if test="$qualified='true'">
+        <xsl:attribute name="scheme">LSCH</xsl:attribute>
+      </xsl:if>
+      <xsl:text>France--History--Revolution, 1789-1799--Pamphlets.</xsl:text>
+    </dc:subject>
+    <dc:subject>
+      <xsl:if test="$qualified = 'true'">
+        <xsl:attribute name="scheme">LSCH</xsl:attribute>
+      </xsl:if>
+      <xsl:text>France--Politics and government--1789-1799.</xsl:text>
+    </dc:subject>
     <dc:type>Text</dc:type>
     <dc:format>text/xml</dc:format>
   </xsl:template>
@@ -64,9 +76,18 @@
 
   <!-- FIXME: is date of electronic edition interesting/relevant? -->
   <xsl:template match="publicationStmt/date">
-    <xsl:element name="dcterms:issued">
-      <xsl:apply-templates/>
-    </xsl:element>
+    <xsl:choose>
+      <xsl:when test="$qualified = 'true'">
+        <xsl:element name="dcterms:issued">
+          <xsl:apply-templates/>
+        </xsl:element>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:element name="dc:date">
+          <xsl:apply-templates/>
+        </xsl:element>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
   <!--  <xsl:template match="publisher[not(parent::imprint)]">
@@ -106,12 +127,22 @@
 
   <xsl:template match="seriesStmt/title">
 
-    <xsl:element name="dcterms:isPartOf"><xsl:value-of select="."/></xsl:element>
+    <xsl:choose>
+      <xsl:when test="$qualified = 'true'">
+        <xsl:element name="dcterms:isPartOf"><xsl:value-of select="."/></xsl:element>
 
-    <xsl:element name="dcterms:isPartOf">
-      <xsl:attribute name="scheme">URI</xsl:attribute>
-      <xsl:text>http://beck.library.emory.edu/frenchrevolution/</xsl:text>
-    </xsl:element>
+        <xsl:element name="dcterms:isPartOf">
+          <xsl:attribute name="scheme">URI</xsl:attribute>
+          <xsl:text>http://beck.library.emory.edu/frenchrevolution/</xsl:text>
+        </xsl:element>
+      </xsl:when>
+      <xsl:otherwise>
+        <!-- FIXME: should both be included for unqualified dublin core? -->
+        <xsl:element name="dc:relation"><xsl:value-of select="."/></xsl:element>
+        <xsl:element name="dc:relation">http://beck.library.emory.edu/frenchrevolution/</xsl:element>
+      </xsl:otherwise>
+    </xsl:choose>
+
 
     <!--    <xsl:element name="dc:relation"> 
        FIXME: should we specify isPartOf?   
@@ -161,9 +192,18 @@
 
 
   <xsl:template match="profileDesc/creation/date">
-    <xsl:element name="dcterms:created">
-      <xsl:apply-templates/>
-    </xsl:element>
+    <xsl:choose>
+      <xsl:when test="$qualified = 'true'">
+        <xsl:element name="dcterms:created">
+          <xsl:apply-templates/>
+        </xsl:element>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:element name="dc:date">
+          <xsl:apply-templates/>
+        </xsl:element>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
   <xsl:template match="profileDesc/creation/rs[@type='geography']">
