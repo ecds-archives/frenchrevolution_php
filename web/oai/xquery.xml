@@ -19,11 +19,11 @@
     <where>
  <!-- DEFAULT query is used when a set is not requested and should return all records -->
       <set setSpec="DEFAULT" />                   
-<!-- 	currently no sets used
-     <set setSpec=""><![CDATA[
-          $a/@type = '' 
-          ]]>
-      </set> -->
+<!-- one dummy set that includes all records (because Primo needs sets) -->
+     <set setSpec="revolutionpamphlets"><![CDATA[
+	  1 = 1
+         ]]>
+     </set>
       <from><![CDATA[
          $time >= xs:dateTime("?")
          ]]>
