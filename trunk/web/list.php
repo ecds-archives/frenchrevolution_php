@@ -24,7 +24,7 @@ print $list->saveXML();
 
 
 include("footer.xml");
-
+include_once("google-trackfr.xml");
 ?>
 
 </body>
