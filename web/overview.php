@@ -344,6 +344,9 @@ onMouseOut="nd()">15</a> The 38 pamphlets that are not available through
       Java</a> script which enabled the mouseover footnote capability for this 
       page.</font>
 
- <?php include("footer.xml"); ?>
-</body>
+ <?php include("footer.xml");
+include_once("google-trackfr.xml");
+      ?>
+
+      </body>
 </html>

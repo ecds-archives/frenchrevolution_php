@@ -104,6 +104,7 @@ bulk dates from 1789-1795. The collection consists of some 3000 official
 
 <?php
 include("footer.xml");
+include_once("google-trackfr.xml");
 ?>
 
  </body>
