@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xquery>
+    <declare><![CDATA[
+      ]]>
+    </declare>
+    <for><![CDATA[
+        for $a in /TEI.2
+      ]]>
+    </for>
+    <let><![CDATA[
+      let $time := xmldb:last-modified(util:collection-name($a), util:document-name($a))
+      let $oaitime := local:utcdatetime($time)
+      ]]>                
+    </let>
+    <where verb="GetRecord"><![CDATA[
+        $a/@id = "?"
+        ]]>
+    </where>
+    <where>
+ <!-- DEFAULT query is used when a set is not requested and should return all records -->
+      <set setSpec="DEFAULT" />                   
+<!-- one dummy set that includes all records (because Primo needs sets) -->
+     <set setSpec="revolutionpamphlets"><![CDATA[
+	  1 = 1
+         ]]>
+     </set>
+      <from><![CDATA[
+         $time >= xs:dateTime("?")
+         ]]>
+      </from>
+      <until><![CDATA[
+         $time <= xs:dateTime("?")
+         ]]>
+      </until>                    
+    </where>
+<!-- default result : return for GetRecord or ListRecords -->
+    <return><![CDATA[
+      return <TEI.2>
+               {$a/@id}
+               {$a/teiHeader}
+               <LastModified>{$oaitime}</LastModified>                       
+	     </TEI.2>
+       ]]>                
+     </return>
+<!-- result to return for ListIdentifiers -->
+    <return verb="ListIdentifiers"><![CDATA[
+      return <TEI.2>
+               {$a/@id}
+               <LastModified>{$oaitime}</LastModified>
+             </TEI.2>
+      ]]>                
+    </return>
+  </xquery>
