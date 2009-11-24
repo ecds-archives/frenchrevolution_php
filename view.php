@@ -62,7 +62,7 @@ $xmldb->printResult();
 print "</div>";
 include("footer.xml");
 //include("xml/foot.xml"); 
-
+include_once("google-trackfr.xml");
 ?>
 </body>
 </html>
