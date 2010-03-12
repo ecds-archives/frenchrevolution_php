@@ -1,0 +1,144 @@
+<TEI.2 id="lune_1005">
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title> La lunette d'approche ou l'optique miraculeuse: electronic edition</title>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Michael Kazanjian</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Lewis H. Beck Center</publisher>
+        <pubPlace>Emory University</pubPlace>
+        <address>
+          <addrLine>Atlanta, Georgia  30322</addrLine>
+        </address>
+        <availability>
+          <p>2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</p>
+        </availability>
+        <date>2002</date>
+	<idno type="ark">http://pid.emory.edu/ark:/25593/137</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title>French Revolution Pamphlet Collection</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title> La lunette d'approche ou l'optique miraculeuse.</title>
+          <pubPlace>Paris</pubPlace>
+          <date>[1788?]</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</p>
+        <p>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  I omitted the page signature "A" (on p. 1) and "A2" (on p. 3) as they were the only two for the entire text.  For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date>[1788?]</date>
+      </creation>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2002</date>
+        <respStmt>
+          <name>Michael Kazanjian</name>
+          <resp>staff</resp>
+        </respStmt>
+        <item>Sgml tags inserted in compliance with TEI guidelines using TEI P3</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text id="lune_1004">
+    <front id="lune_1001">
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">La Lunette d'approche ou l'optique miraculeuse.</titlePart>
+        </docTitle>
+        <docAuthor>Anonymous.</docAuthor>
+        <docDate>[1788?].</docDate>
+      </titlePage>
+    </front>
+    <body id="lune_1002">
+      <div1 id="lune_01" n="La lunette d'approche ou l'optique miraculeuse" type="misc">
+        <pb n="1"/>
+        <p>Mon ami, le Sage, de scientifique m&#x00E9;moire, me l&#x00E9;gua une Lunette si admirable, si merveilleuse, que jamais il n'en a exist&#x00E9; de pareille dans le monde.</p>
+        <p>Les Physiciens les plus subtils, les magiciens les plus exerc&#x00E9;s dans leur art surnaturel, n'ont jamais pu &#x0026; ne pourront jamais inventer une optique aussi miraculeuse.</p>
+        <p>Cette Lunette d'approche, sup&#x00E9;rieure &#x00E0; l'anneau de Gyg&#x00E8;s, n'a pas la vertu de rendre invisible, comme lui ; mais elle a celle de rendre le pass&#x00E9; &#x0026; l'avenir visibles aux yeux de celui qui s'en sert. Elle a encore la vertu de rendre diaphane, c'est-&#x00E0;-dire, transparens les murs &#x0026; les remparts les plus &#x00E9;pais ; elle perce la nuit des temps ; avec son secours les t&#x00E9;n&#x00E8;bres deviennent lumi&#x00E8;res, l'enveloppe mat&#x00E9;rielle de corps, lucide &#x0026; transparente.</p>
+        <p>Plus excellente que le meilleur t&#x00E9;lescope, l'on peut d'un bout de l'Univers voir tout ce qui se passe &#x00E0; l'autre, sans confusion ; l'on peut lire, avec son secours, dans la nuit la plus obscure. L'on peut juger par l&#x00E0; de quel
+<pb n="2"/>
+utilit&#x00E9; elle doit &#x00EA;tre en amour comme en politique.</p>
+        <p>Mon ami le Sage l'avoit re&#x00E7;ue du Diable Boiteux, qui la tenoit lui-m&#x00EA;me du premier auteur de toutes choses.</p>
+        <p>Arm&#x00E9; donc de ma Lunette miraculeuse, je monte sur la plus haute des cordili&#x00E8;res, &#x0026; je dirige mon point de vue vers cette partie de l'Europe, qu'on appelle la France.</p>
+        <p>J'apper&#x00E7;ois beaucoup de mouvement dans la ville de Ca&#x00EB;n, &#x0026; je vois plusieurs Membres du Comit&#x00E9; de cette ville s'assembler secrettement, tant &#x00E0; l'H&#x00F4;tel du Gouvernement, que chez Delille Duperr&#x00E9;, juge du lieu, pour concerter avec le Gouverneur &#x0026; autres Officiers la ruine &#x0026; le pillage de Ca&#x00EB;n.</p>
+        <p>La plupart des membres du Comit&#x00E9;, dont ce Delille &#x00E9;toit le chef, ayant form&#x00E9; cet abominable Complot, d&#x00E9;fendent d'allumer les reverb&#x00E8;res cette nuit l&#x00E0;, quoiqu'elle fut tr&#x00E8;s obscure, afin de pouvoir ex&#x00E9;cuter leur criminel projet.</p>
+        <p>On avoit pr&#x00E9;lud&#x00E9; par des l&#x00E2;chet&#x00E9;s &#x0026; par des actions qui auraient d&#x00DB; donner de la d&#x00E9;fiance ; mais les Membres des Comit&#x00E9;s qui font de vrais tartuffes, sous pr&#x00E9;texte du maintien du bon ordre, du rappel du calme, faisaient un crime d'&#x00EA;tre d&#x00E9;fians, &#x0026; selon eux, la d&#x00E9;fiance qui est la m&#x00E8;re de suret&#x00E9;, &#x00E9;toit travestie en crime, &#x0026; les d&#x00E9;fians devoient &#x00EA;tre regard&#x00E9;s comme perturbateurs du repos publique.</p>
+        <pb n="3"/>
+        <p>Toutes ces pr&#x00E9;tendues pr&#x00E9;cautions ne tendaient qu'&#x00E0; pouvoir ex&#x00E9;cuter impun&#x00E9;mont leur noir Complot ; mais la d&#x00E9;cripitation du Comte de Belsunce, commandant du R&#x00E9;giment de Bourbon, l'un des chefs de la Conspiration, sauve la ville de Ca&#x00EB;n, comme la pr&#x00E9;cipitation du fanatique Lambesc avoit sauv&#x00E9; Paris.</p>
+        <p>Deux m&#x00E9;daillons arrach&#x00E9;s &#x00E0; deux Soldats qui passaient par Ca&#x00EB;n, par les Dragons de Bourbon, irritent la populace, excite la d&#x00E9;fiance de tous les Bourgeois. L'on prend les armes ; le Comte de Belsunce est accus&#x00E9; &#x0026; convaincu d'avoir donn&#x00E9; de l'argent pour cette mauvaise action, le Comit&#x00E9; complice, en partie, de cet affreux Complot, veut sauver l'Officier, le Peuple indign&#x00E9; s'empare du Comte de Belsunce, lui coupe la t&#x00EA;te, mange de ses chairs cuites &#x0026; crues, suce son sang, &#x0026;c. &#x0026;c.</p>
+        <p>Le Peuple ne se serait pas port&#x00E9; &#x00E0; cet exc&#x00E8;s d'atrocit&#x00E9; &#x0026; de barbarie, si le Comit&#x00E9; n'avoit pas cherch&#x00E9; &#x00E0; sauver le coupable, comme je lisais dans le c¦ur de tous les Citoyens.</p>
+        <p>Enfin Delille prend la fuite : on affiche sa maison &#x00E0; raser, sa charge &#x00E0; supprimer &#x0026; sa t&#x00EA;te &#x00E0; couper. Le Duc d'Harcourt, son ami, se sauve heureusement.</p>
+        <p>Curieux de conna&#x00EE;tre Delille particuli&#x00E8;rement je le suis avec ma Lunette, apr&#x00E8;s s'&#x00EA;tre cach&#x00E9; en diff&#x00E9;rents endroits, Turgot, b&#x00E2;tard l&#x00E9;gitime d'un nom assez illustre , qu'il d&#x00E9;shonore par ses vices &#x0026; son attachement au cruel
+<pb n="4"/>
+Duc du Ch&#x00E2;telet, lui offre un asile &#x00E0; Paris &#x0026; dans ses terres.</p>
+        <p>J'examine Delille, &#x0026; je vois que cet homme est le petit-fils d'un Colporteur, chass&#x00E9; de Bourgogne, d'o&#x00F9; il prit le nom de Bourguignon, pour cacher le vice de sa naissance &#x0026; de sa conduite.</p>
+        <p>Je vois que cet homme est le plus hypocrite des hommes ; qu'il a commenc&#x00E9; par &#x00EA;tre l'agent secret du  Chevalier Turgot, devenu Marquis &#x00E0; la mort de son fr&#x00E8;re le Pr&#x00E9;sident, ce qui l'a produit dans le monde, ensuite il a trait&#x00E9; d'une charge d'Avocat du Roi pour se donner quelque consid&#x00E9;ration, &#x0026; dans cet &#x00E9;tat il devint l'espion de Maupeou, espion d'autant plus dangereux, qu'il affectait dans toutes ses mani&#x00E8;res d'&#x00EA;tre z&#x00E9;l&#x00E9; parlementaire.</p>
+        <p>Son jeu ainsi masqu&#x00E9; ne fut point d&#x00E9;couvert par les Parlementaires ; c'est pourquoi Louis XVI ayant r&#x00E9;tabli les Parlemens, on le regarda comme une victime du bon parti, &#x0026; il fut alors proclam&#x00E9; noble, annobli par le v¦u universel de tous ceux qu'il avoit tromp&#x00E9;s &#x0026; s&#x00E9;duits.</p>
+        <p>La faveur du Duc d'Harcourt lui valut deux mille livres de pension, sur le Roi ; &#x0026; pour r&#x00E9;compenser ce Duc, il lui inspira le desir de demander au Roi le revenu de l'Abbaye de Cherbourg, ce qui lui fut accord&#x00E9;.</p>
+        <p>Une correspondance volumineuse fut imprim&#x00E9;, dans laquelle on d&#x00E9;voil&#x00E9; toutes les horreurs<pb n="5"/>
+&#x0026; les iniquit&#x00E9;s de Delille, avec les preuves les plus convainquantes, mais un premier Juge dans chaque ville est tout puissant &#x0026; despote, c'est pourquoi il fit rendre une plainte par le Procureur du Roi, pour poursuivre les auteurs &#x0026; possesseurs de cette brochure qui d&#x00E9;voiloit ses injustices. Il soup&#x00E7;onna Bayeux, actuellement premier Commis de M. Necker, d'&#x00EA;tre un des auteurs, mais les talens de cet Avocat estimable le mirent &#x00E0; l'abri des poursuites de ce tartuffe.</p>
+        <p>Ainsi la Nation paye l'impunit&#x00E9; de ceux qui la trompent &#x0026; la trahissent.</p>
+        <p>Lors de l'Assembl&#x00E9;e des Baillages pour nommer des D&#x00E9;put&#x00E9;s, les Ducs de Coigny &#x0026;  d'Harcourt souhaitaient ardemment que le choix tomb&#x00E2;t sur Delille, mais un pamphlet con&#x00E7;u en ces termes :</p>
+        <lg type="stanza">
+          <l>La RUE vous taillera. Fils d'un boucher.</l>
+          <l>DELILLE vous livrera. Fils d'un marchand.</l>
+        </lg>
+        <lg type="stanza">
+          <l>L'AMI vous oubliera. <hi rend="italic">Ces deux derniers</hi></l>
+          <l>CUSSI vous rachetera. <hi rend="italic">ont &#x00E9;t&#x00E9; nomm&#x00E9;s.</hi></l>
+        </lg>
+        <p>fit rejetter les deux premiers &#x0026; &#x00E9;lire les deux autres. C'est donc pour se venger de ce refus que Delille avoit r&#x00E9;solu la ruine de sa patrie.</p>
+        <p>Il a conf&#x00E9;r&#x00E9; depuis avec Duval d'Espr&#x00E9;m&#x00E9;nil, son digne ami, s'est cach&#x00E9; chez le Comte Turgot, l'ex-b&#x00E2;tard, &#x0026; chez Target &#x0026; Camus, hommes aussi &#x00E9;loquens que peu humains, &#x0026;<pb n="6"/>
+ses bons amis, &#x00E9;lus D&#x00E9;put&#x00E9;s &#x00E0; l'Assembl&#x00E9;e Nationale.</p>
+        <p>Le r&#x00E9;cit des atrocit&#x00E9;s que commettait secretement Delille, &#x0026; le parti qu'il prend avec ses complices me sont connus, mais exc&#x00E9;d&#x00E9; de
+cet objet, je revire de bord ma LUNETTE, &#x0026; j'apper&#x00E7;oi un Prince errant avec beaucoup d'autres, qui para&#x00EE;t vouloir se fixer dans un lieu, voyons o&#x00F9; &#x0026; ce qu'il y fait.</p>
+        <p>Non loin des terres habit&#x00E9;es par les avec Liguriens, est une ville, o&#x00F9; ce Prince accabl&#x00E9; de fatigue, d&#x00E9;nu&#x00E9; de tout &#x0026; mourant de soif et faim, vient de se reposer avec un animal hermaphrodite, qui a caus&#x00E9; les plus grands maux dans le pays qu'elle habitait auparavant.</p>
+        <p>Cette femme hermaphrodite jointe &#x00E0; un Prince aussi m&#x00E9;chant, aussi vicieux qu'elle, se trouvant sans cr&#x00E9;dit, veut ouvrir une &#x00E9;cole de prostitution rafin&#x00E9;e pour subsister.</p>
+        <p>Le bas nourrit le haut, selon ce monstre Androgine, &#x0026; il en faut tirer partie dans les circonstances.</p>
+        <p>Denys, tyran de Siracuse, chass&#x00E9; de son tr&#x00F4;ne, devint ma&#x00EE;tre d'&#x00E9;cole &#x00E0; Corinthe, mais comme cette profession est aujourd'hui peu lucrative, nos fuyards adoptent celle de la prostitution &#x0026; de la corruption.</p>
+        <p>Jamais couple ne fut mieux assorti, plus impudique, d&#x00E9;prav&#x00E9;, plus lubrique &#x0026; luxurieux ; prodigues l'un &#x0026; l'autre, esclaves de leur bouche, de leur ventre &#x0026; de leurs<pb n="7"/>
+autres folies, le Pactole &#x0026; les mines de Golgonde ne suffiraient pas &#x00E0; leurs d&#x00E9;penses excessives.</p>
+        <p>Le m&#x00E2;le pusillanime, &#x0026; par cons&#x00E9;quent tyran, barbare &#x0026; sanguinaire n'a de force &#x0026; de courage qu'aupr&#x00E8;s des femmes.</p>
+        <p>Il va &#x00E9;tablir un serrail de femmes dont il sera le P&#x00E9;dagogue, &#x0026; cette congr&#x00E9;gation f&#x00E9;minine va s'affilier toutes les femmes impudiques &#x0026; de moyenne vertu qu'elle pourra trouver.</p>
+        <p>C'est dans ce chapitre impur que le Prince prendra ses pages &#x0026; ses &#x00E9;cuyers. C'est l&#x00E0; o&#x00F9; l'on agitera les diff&#x00E9;rentes mani&#x00E8;res de se livrer &#x00E0; l'action prolifique, &#x0026; que l'on inventera les positions nouvelles, inconnues &#x00E0; Sapho, &#x00E0; l'Aretin, &#x00E0; D..... B.... Ce sera le capitole, le coll&#x00E8;ge &#x0026; l'accad&#x00E9;mie des amateurs du physique &#x0026; de l'antiphysique.</p>
+        <p>La femelle Androgine sera l'institutrice des jeunes hommes qui formeront un serrail &#x00E0; part, &#x0026; ce sera dans ce f&#x00E9;minaire qu'on imaginera mille fa&#x00E7;ons inusit&#x00E9;s de se communiquer tout ce que l'amour a de doux, &#x0026; tout ce que la d&#x00E9;bauche a de s&#x00E9;duisant &#x0026; d'attrayant.</p>
+        <p>L'on soutiendra des th&#x00E8;ses publiques tous les mois sur les progr&#x00E8;s des &#x00E9;l&#x00E8;ves, &#x0026; sur les inventions lassives, &#x0026; moyens de paillardise qui n'auront jamais &#x00E9;t&#x00E9; imagin&#x00E9;s auparavant.</p>
+        <p>La congr&#x00E9;gation des &#x00E9;l&#x00E8;ves f&#x00E9;minines se joindra &#x00E0; celles des &#x00E9;l&#x00E8;ves  masculins, ils feront<pb n="8"/>
+ensemble assaut detalens lubriques, &#x0026; les vainqueurs recevront une ample r&#x00E9;compense.</p>
+        <p>Alors le P&#x00E9;dagogue se sera promener en triomphe nud, tout nud, sur un char d&#x00E9;couvert, qui sera tir&#x00E9; par les femmes &#x00E9;galement toutes nues, mais les plus belles &#x0026; les plus jeunes qui auront remport&#x00E9; le prix des postures lascives, jug&#x00E9;es les plus rares ou les plus d&#x00E9;licieuses par les maquereaux &#x0026; les maquerelles.</p>
+        <p>L'institutrice du serrail masculin sera promen&#x00E9;e &#x00E9;galement sur un char, dans la ville par les plus beaux hommes &#x0026; les plus jeunes, qui se seront le mieux distingu&#x00E9;s dans la carri&#x00E8;re v&#x00E9;n&#x00E9;rienne.</p>
+        <p>L'on prendra cent livres sterling par mois, &#x0026; par posture.</p>
+        <p>J'&#x00E9;crivais ceci, que je copiais sur le prospectus, &#x00E0; la faveur de ma LUNETTE, lorsque le mois expira, &#x0026; je vis cette c&#x00E9;r&#x00E9;monie digne de V&#x00E9;nus aux belles fesses. Il y avoit un monde infini &#x00E0; voir ces orgies, &#x0026; tous les &#x00E9;l&#x00E8;ves accompagnaient les chars, tout nuds, j'en comptai plus de mille, &#x0026; je vis alors le Prince &#x0026; l'Androgine se faire servir un repas magnifique, dont le coup d'¦il &#x00E9;tait charmant ou inf&#x00E2;me, car les m&#x00E2;les servaient les femelles, &#x0026; les femelles les m&#x00E2;les, sans autre ornement que ceux de la nature.</p>
+        <lb/>
+        <trailer rend="center"> FIN. </trailer>
+      </div1>
+    </body>
+    <back id="lune_1003"><!-- <div1 id="lune_figures">
+<p><figure entity="lune01" n="1"><figDesc>Image of Page 1</figDesc></figure></p>
+<p><figure entity="lune02" n="2"><figDesc>Image of Page 2</figDesc></figure></p>
+<p><figure entity="lune03" n="3"><figDesc>Image of Page 3</figDesc></figure></p>
+<p><figure entity="lune04" n="4"><figDesc>Image of Page 4</figDesc></figure></p>
+<p><figure entity="lune05" n="5"><figDesc>Image of Page 5</figDesc></figure></p>
+<p><figure entity="lune06" n="6"><figDesc>Image of Page 6</figDesc></figure></p>
+<p><figure entity="lune07" n="7"><figDesc>Image of Page 7</figDesc></figure></p>
+<p><figure entity="lune08" n="8"><figDesc>Image of Page 8</figDesc></figure></p>
+</div1> --></back>
+  </text>
+</TEI.2>
