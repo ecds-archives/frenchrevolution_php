@@ -1,0 +1,208 @@
+<TEI.2 id="carn_1005">
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title>Le Carnaval politique de 1790: electronic edition</title>
+        <author>anonymous</author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Michael Kazanjian</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Lewis H. Beck Center</publisher>
+        <pubPlace>Emory University</pubPlace>
+        <address>
+          <addrLine>Atlanta, Georgia  30322</addrLine>
+        </address>
+        <availability>
+          <p>2003 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</p>
+        </availability>
+        <date>2003</date>
+	<idno type="ark">http://pid.emory.edu/ark:/25593/xx</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title>French Revolution Pamphlet Collection</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Le Carnaval politique de 1790 ou Exil de Mardi-Gras &#x00E0; l'Assembl&#x00E9;e Nationale, aux Tuileries, au Ch&#x00E2;telet, &#x0026; &#x00E0; la Commune.</title>
+          <pubPlace>Paris</pubPlace>
+          <date>1790</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</p>
+        <p>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  I also omitted page signatures: A2 from p. 3, B from p. 9, B2 from p. 11, C from p. 17, and C2 from p. 19. For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date>1790</date>
+      </creation>
+    </profileDesc>
+    <revisionDesc>
+      <change>
+        <date>2003</date>
+        <respStmt>
+          <name>Michael Kazanjian</name>
+          <resp>staff</resp>
+        </respStmt>
+        <item>Sgml tags inserted in compliance with TEI guidelines using TEI P3</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text id="carn_1004">
+    <front id="carn_1001">
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">LE CARNAVAL POLITIQUE DE 1790, ou Exil de Mardi-Gras &#x00E0; l'Assembl&#x00E9;e Nationale, aux Tuileries, au Ch&#x00E2;telet, &#x0026; &#x00E0; la Commune.</titlePart>
+        </docTitle>
+        <epigraph>
+          <p>Ah ! si pour vous c'est un besoin de prendre,<lb/>
+Prenez mes biens, mais laissez mes plaisirs.<lb/>
+(Piss &#x0026; Barr&#x00E9;, Vendang.).</p>
+        </epigraph>
+        <docImprint>A PARIS,<lb/>
+De l'Imprimerie des soixante Mascarades Parisiennes &#x0026; des quatre Privil&#x00E9;gi&#x00E9;s.</docImprint>
+        <docDate>1790.</docDate>
+      </titlePage>
+    </front>
+    <pb n="2"/>
+    <pb n="3"/>
+    <body id="carn_1002">
+      <div1 id="carn_01" type="misc">
+        <p>
+          <title>LE CARNAVAL POLITIQUE.</title>
+        </p>
+        <p>COMMENT ! Messieurs les Repr&#x00E9;sentans du Peuple, non-contens d'avoir couvert vos figures hyt&#x00E9;roclites d'un masque imposteur, &#x0026; de vous en &#x00EA;tre ensuite d&#x00E9;barass&#x00E9;s, vous voulez encore lever le masque aux autres ? En honneur, ce proc&#x00E9;d&#x00E9; n'est rien moins qu'&#x00E9;quitable, &#x0026; je vous proteste, soi de Car&#x00EA;me-prenant, qu'avant que j'entende sonner la derniere heure du jour o&#x00F9; je finis ordinairement ma destin&#x00E9;e, je tirerai de vous une vengeance &#x00E9;clatante : mais afin de n'&#x00EA;tre pas accus&#x00E9; d'avoir mal-&#x00E0;-propos pris la mouche, je dois au moins publier mon manifeste, &#x0026; le voici.</p>
+        <p>Vous d&#x00E9;rangez le cours de mes assises ordinaires, &#x0026; cela sans d&#x00E9;duire une seule raison ; car votre magnifique Ordonnance n'annonce dans son sot pr&#x00E9;ambule aucun
+<pb n="4"/>
+motif raisonnable de sevrer le Peuple sur ses amusemens : mais j'ai reconnu <hi rend="italic">le tuf</hi>, &#x0026; Mardi-Gras y voit trop clair pour donner dans le pi&#x00E8;ge grossier &#x0026; maladroit que vous lui avez tendu : c'est &#x00E0; vous particulierement que j'en veux, Messieurs de la Commune ; aussi point de quartier, guerre ouverte entre nous deux, &#x0026; je doute que vous puisssiez r&#x00E9;sister &#x00E0; mes attaques.</p>
+        <p>Ce n'est donc pas assez de nos miseres, hypocrites ! sans encore y ajouter ? mais l&#x00E0;, croyez-vous de bonne foi, que votre tartufferie n'est pas &#x00E0; d&#x00E9;couvert, &#x0026; que vous laissiez ignorer que vous ne retranchez &#x00E0; d'autres les plaisirs que pour vous les r&#x00E9;server ?</p>
+        <p>Le Carnaval est proscrit pour le Peuple ; mais depuis l'instant des r&#x00E9;volutions vous en avez &#x00E9;tabli un entre vous, &#x0026; vous en jouissez sans pudeur ni retenue. Vous d&#x00E9;fendez, sous peine d'amande, aux Marchands, d'&#x00E9;taler sur leurs boutiques des masques &#x0026; habits de caracteres, &#x0026; vous ne rougissez pas de vous en rev&#x00EA;tir dans les occasions les plus s&#x00E9;rieuses &#x0026; les plus importantes.</p>
+        <pb n="5"/>
+        <p>Ce n'est donc plus qu'aux Tuileries, &#x00E0; l'Assembl&#x00E9;e Nationale, que je vais exister, &#x0026; parmi vous. Le coup est foudroyant pour moi ; mais puisque vous vous ingerez de d&#x00E9;masquer les autres, encore un coup, je veux vous d&#x00E9;masquer aussi.</p>
+        <p>Il me reste donc &#x00E0; donner le d&#x00E9;tail de votre Carnaval, &#x0026; c'est un plaisir pour moi ; oui, vous avez calqu&#x00E9; vos physionomies sur la mienne &#x0026; sur celles de mes adh&#x00E9;rens ; vous avez fait plus, vous avez sing&#x00E9; mes occupations, &#x0026; pour tout dire, vous avez en mi-mot parodi&#x00E9; les jours gras dans tous leurs points.</p>
+        <p>Une de mes c&#x00E9;r&#x00E9;monies &#x00E0; laquelle j'&#x00E9;tois le plus attach&#x00E9;, &#x00E9;toit la promenade du boeuf-gras ; or, vous n'ignorez pas qu'alors un enfant rev&#x00EA;tu des attributs d'une folle royaut&#x00E9; couroit les rues de Paris, mont&#x00E9; sur une massive monture &#x0026; escort&#x00E9; de Bouchers, qui, la hache sur l'&#x00E9;paule, figuroient les Grands &#x0026; les Tribuns du Peuple de l'ancienne Rome, dont vous &#x00EA;tes les ridicules imitateurs.</p>
+        <p>Le jour fameux que, tremblant de peur, le H&#x00E9;ros de l'Am&#x00E9;rique, pr&#x00E9;conise par
+<pb n="6"/>
+les affiches de Curtius, qui, avec raison, titre son sallon, o&#x00F9; il fait voir des H&#x00E9;ros empaill&#x00E9;s, de <hi rend="italic">Temple de m&#x00E9;moire</hi> ; ce m&#x00EA;me jour, dis-je, que la Fayette flottant dans l'incertitude, &#x0026; balancoit entre Versailles &#x0026; le r&#x00E9;verbere, vous avez commenc&#x00E9; &#x00E0; marcher sur mes traces. Un escadron d'Amazones des halle ont provoqu&#x00E9; la terreur &#x0026; l'effroi ; elles ont donn&#x00E9; le signal de la guerre, &#x0026; le G&#x00E9;n&#x00E9;ralissim&#x00E9; des troupes Parisiennes s'est vu oblig&#x00E9; de ch&#x00E9;vaucher sa blanche haquen&#x00E9;e, &#x0026; de conduire ses guerriers de deux jours au s&#x00E9;jour de nos Rois.</p>
+        <p>Vous, Bailly, je me rappelle que ce jour vous &#x00E9;tiez atteint d'une fievre politique, qui ne vous a pas permis de donner votre adh&#x00E9;sion &#x00E0; la cavalcade, &#x0026; en cela vous agissez comme &#x00E0; l'ordinaire, c'est-&#x00E0;-dire, en fin matois ; car de telle maniere que la chance e&#x00DB;t tourn&#x00E9;, vous aviez par-devers vous le rempart de la n&#x00E9;gative.</p>
+        <p>De ce Jour, vous avez ouvert le branle, &#x0026; je me suis imagin&#x00E9; voir les Bouchers entrer dans la tuerie, s'emparer du b&#x0153;uf-gras, sorcer le Roi &#x00E0; le monter, &#x0026; ensuite le promener dans les rues de la Capitale ; mais ce qui m'a confirm&#x00E9; qu'il n'y
+<pb n="7"/>
+avoir aucune diff&#x00E9;rence, c'est le retour ; &#x0026; il faut en convenir, votre j<hi rend="italic">oberie</hi> &#x00E9;toit on ne peut pas mieux concert&#x00E9;e. Je l'ai vu, oui, je l'ai vu de mes propres yeux, cette pompeuse &#x0026; ignoble mascarade, &#x0026; je vais vous d&#x00E9;tailler, ce que j'y ai remarqu&#x00E9;.</p>
+        <p>D'abord, j'ai vu Louis XVI masqu&#x00E9; &#x0026; couvert du v&#x00EA;tement caract&#x00E9;ristique de l'urbanit&#x00E9;, de la confiance ; mais je n'ai pas &#x00E9;t&#x00E9; sa dupe ; j'y ai distingu&#x00E9; la peur &#x0026; l'embarras d'un Monarque qui a fait des sottises sans savoir pourquoi, qui les r&#x00E9;pare sans savoir comment, &#x0026; qui en fera d'autres comme il en a toujours fait ; c'est-&#x00E0;-dire, autant qu'on lui en fera faire : mais n&#x00E9;anmoins il faut que le go&#x00DB;t des mascarades lui a&#x00EE;t plu ; car j'espere qu'il en vient de faire une du grand genre ; mais je tais ; car le bon Roi n'est que trop embarrass&#x00E9;, &#x0026; que, comme tel, dit le proverbe, <hi rend="italic">le plus mal &#x00E0; son aise, est celui qui tient la queue de la po&#x00E9;le.</hi></p>
+        <p>J'espere que voil&#x00E0; mon b&#x0153;uf-gras tout trouv&#x00E9;. Pour la grande Bourgeoisie de Versailles, toute d&#x00E9;guis&#x00E9;e qu'elle &#x00E9;toit, elle n'a pas &#x00E9;chapp&#x00E9; &#x00E0; ma remarque, &#x0026; vous ne tarderez pas &#x00E0; convenir de sa
+<pb n="8"/>
+justesse. Je m'attendois &#x00E0; voir une femme dont l'abord altier &#x0026; imp&#x00E9;rieux annonceroit la vindication, la haine &#x0026; la m&#x00E9;chancet&#x00E9; : point du tout ; la Montensier avant son d&#x00E9;part, lui avoit ouvert son magasin ; elle avoit choisi un d&#x00E9;guisement bien propre &#x00E0; la circonstance, &#x0026; &#x00E0; en impose r; mais il est faut croire que la multitude ait eu le coup-d'&#x0153;il aussi juste que moi ; car je l'entendois s'&#x00E9;crier, <hi rend="italic">place !place au Boulanger, &#x00E0; la Boulangerie &#x0026; aux petits Mitrons</hi> ! Or donc, pour en revenir &#x00E0; l'ajustement de Carnaval qu'avoit choisi Marie Antoinette, il &#x00E9;toit s&#x00E9;duisant pour qui ne l'auroit pas connue : elle avoit un domino de femme humaine &#x0026; bienfaisante, les co&#x00EB;ffes de la vertu, &#x0026; le croissant de la chaste Diane. Pouvoit-elle &#x00EA;tre mieux travestie? Pour les enfans, je n'en parle pas, quoique je sois bien tent&#x00E9; de croire qu'ils &#x00E9;toient tout aussi d&#x00E9;guis&#x00E9;s que le reste de la carross&#x00E9;e ; &#x0026; ce qui tend &#x00E0; me le confirmer, c'est que leur brave mere a fait une visite aux Enfants-Trouv&#x00E9;s, toujours couverte du m&#x00EA;me travestissement ; elle y a promen&#x00E9; ses regards inquiets &#x0026; incertains ; l&#x00E0;, elle y a recommand&#x00E9; &#x00E0; notre chere Dauphine
+<pb n="9"/>
+l'humanit&#x00E9; &#x0026; la sensibilit&#x00E9;. A examiner le motif de cette parade, j'y distingue un but assez naturel ; car si l'ancien Duc de Normandie f&#x00DB;t n&#x00E9; dans la classe du Peuple, &#x0026; sous les yeux d'un artisan moins endurant que le bon Louis, il e&#x00DB;t couru de tr&#x00E8;s-gros risques d'augmenter le nombre de ces enfans infortun&#x00E9;s qui ignorent le nom de leurs peres./</p>
+        <p>Mais MONSIEUR ! ah ! bien, tr&#x00E8;s-bien d&#x00E9;guis&#x00E9; ! &#x0026; je jure que si vous n'aviez pas mis d'entraves &#x00E0; mes parties, je l'aurois choisi pour mon Repr&#x00E9;sentant. Dans le monde, on nous regarde d&#x00E9;j&#x00E0; comme gemeaux 1) &#x0026; sa massive corpulence a tant de rapport &#x00E0; la mienne, que, foi de Mardi-Gras, je suis tent&#x00E9; de croire que nous avons &#x00E9;t&#x00E9; chang&#x00E9;s en nourrice. Ce jour-l&#x00E0; il avoit adopt&#x00E9; le v&#x00EA;tement d'un homme de bien, la caricature d'un honn&#x00EA;te Pl&#x00E9;b&#x00E9;ien, &#x0026; la simplicit&#x00E9; d'un Grand &#x00E0; qui l'on a conseill&#x00E9; de se taire. D'honneur, je m'y serois m&#x00E9;pris ; mais ce grand nigaud de <hi rend="italic">Favras</hi> m'a bien convaincu que l'homme tel qu'il est ne se montre touours pas, malgr&#x00E9; son masque, &#x0026; je me suis dit : voil&#x00E0; encore un de nos fous qui veut aller sur nos bris&#x00E9;es.</p>
+        <pb n="10"/>
+        <p>Quand je vous parlerois sur le reste de la cavalcade, ce seroit &#x00E0; n'en pas finir ; car, malgr&#x00E9; les masques que portoit tout l'entourage, j'y ai reconnu tout le monde ; j'y ai vu des Patriotes pour un morceau de pain, des Poissardes charg&#x00E9;es de lauriers, crier &#x00E0; tue-t&#x00EA;te, <hi rend="italic">vive la libert&#x00E9;</hi> ! &#x0026; qui l'ont trahie, en allant porter des bouquets &#x00E0; Bezenval ; des Gardes-du-Corps travestis en Gardes-Fran&#x00E7;aises, &#x0026; des Gardes-Fran&#x00E7;aises costum&#x00E9;s en brigands ; car vous savez que le masque sert on ne peut mieux, &#x0026; qu'il importe peu qu'on soit honn&#x00EA;te, juste, populaire, pourvu qu'on en ait l'apparence.</p>
+        <p>Convenez donc, une fois dans votre vie, que vous avez pouss&#x00E9; l'extravagance aussi loin qu'elle puisse aller, d'emp&#x00EA;cher les louagers d'employer leurs fournitures de dominos &#x0026; de masques, pour contenter le Peuple : c'est une petite ruse de votre part, qui ne peut pas vous faire d'honneur ; &#x0026; en outre, ces pauvres diables ne pouvoient pas compter sur un grand profit ; car, d'apr&#x00E8;s l'apparence, la grande quantit&#x00E9; de masques que j'ai vu aux Tuileries, &#x00E0; 1'Assembl&#x00E9;e Nationale, au Ch&#x00E2;telet, &#x00E0; l'H&#x00F4;tel-de-Ville, &#x0026; dans
+<pb n="11"/>
+les soixante bals masqu&#x00E9;s privil&#x00E9;gi&#x00E9;s de Paris, vous devez avoir &#x00E9;puis&#x00E9; leur provision. Vous d&#x00E9;fendez aux autres ce que vous pratiquez vous-m&#x00EA;mes. Fi donc ! &#x0026; vous n'avez fait aucune fa&#x00E7;on pour anticiper sur les temps ; car me pr&#x00E9;parant &#x00E0; me bien r&#x00E9;jouir, j'ai vu, quelque-temps avant l'&#x00E9;poque de celui o&#x00F9; je me prom&#x00E8;ne, les grenadiers du District de Saint-Jacques-la Boucherie, rouler au Palais-Royal, d&#x00E9;guis&#x00E9;s en uniforme national, &#x00E0; la suite d'un repas de Corps, ivres &#x0026; affichant les dehors d'une ripaille en v&#x00E9;rit&#x00E9; bien peu convenable. Cette mascarade insultante, vous ne l'avez point emp&#x00EA;ch&#x00E9;e. J'en suis peu &#x00E9;tonn&#x00E9; ; elle &#x00E9;toit de votre ressort.</p>
+        <p>Enfin, vous avez prononc&#x00E9; l'interdiction du Carnaval, &#x0026; vous vous &#x00EA;tes seuls r&#x00E9;serv&#x00E9;s le droit de porter masques &#x0026; habits de mes livr&#x00E9;es, &#x0026; voici comme je le prouve : Aux Tuileries j'ai d'abord vu le Monarque de France d&#x00E9;guise en Soldat de District ; mais je ne sais si c'est &#x00E0; regret qu'il s'est ainsi travesti, ou s'il est jouet de la circonstance ; mais cela ne lui va pas.</p>
+        <p>Sa chere Compagne travestie en prude,
+<pb n="12"/>
+s'est affubl&#x00E9;e d'un domino d'honn&#x00EA;te femme : je vous puis assurer que ce d&#x00E9;guisement paro&#x00EE;t ridicule. Non, en honneur, il n'est pas fait pour elle.</p>
+        <p>MONSIEUR, le gros frere de Leurs Majest&#x00E9;s, habill&#x00E9; en Sancho Panca, ne r&#x00E9;pr&#x00E9;senteroit pas mal le Gouverneur de l'isle de Barataria, s'il conservoit ses &#x00E9;tincelles de bon scns ; il a voulu jouer &#x00E0; la politique ; &#x00E0; son sourire h&#x00E9;b&#x00E9;t&#x00E9;, on l'a reconnu sur-le-champ.</p>
+        <p>Pour M. le Duc d'Or&#x00E9;ans, oh ! c'est diff&#x00E9;rent ! c'est un fin merle ! il a pressenti que le Carnaval seroit pitoyable en France, &#x0026; ne voulant point abondonner le plaisir dont il est parfait sectateur, il est all&#x00E9; le passer en Angleterre, d&#x00E9;guis&#x00E9; en Jocquet &#x0026; en coureur de b.....</p>
+        <p>A l'Assembl&#x00E9;e Nationale, j'en ai vu de toutes les couleurs &#x0026; de toutes les esp&#x00E8;ces : j'y ai vu Clermont-Tonnere d&#x00E9;guis&#x00E9; en Cayus, Chapelier en Pr&#x00E9;dicateur, le Camus en Publicain, le Vicomte de Mirabeau en Porte-faix, M. le Comte, son digne frere, en homme d'honneur, quoiqu'il soit le plus grand frippon de ce si&#x00E9;cle, l'Avocat Target en Pr&#x00E9;sident, &#x0026; Guillotin, le petit Guillotin, en
+<pb n="13"/>
+Bourreau. Le Duc d'Aiguillon a eu beaucoup de peine a se cacher sous la robe de probit&#x00E9; ; tant bien que mal, il en a par&#x00E9; ses &#x00E9;paules : mais moi qui suis p&#x00E9;n&#x00E9;trant, j'y ai toujours reconnu un sc&#x00E9;l&#x00E9;rat ; &#x0026; quand le Carnaval de cette Assembl&#x00E9;e sera fini, &#x0026; que chacun d'eux aura repris la forme qui lui appartient, ah ! mon Dieu ! que de coquins seront d&#x00E9;couvert !</p>
+        <p>On y verra un Goupill rev&#x00EA;tu de la peau d'un ours, l'Abb&#x00E9; Maury d&#x00E9;poser le rabat de D&#x00E9;put&#x00E9;, marmoter des Oraisons funebres, pour avoir du pain, Barnave quitter son masque d'homme libre, pour reprendre sa physionomie arbitraire, &#x0026; le Roux, quitter son manteau, pour aller jauger des grains &#x00E0; Amiens.</p>
+        <p>Ind&#x00E9;pendamment de l'Assembl&#x00E9;e Nationale, un de ceux qui se sont le mieux d&#x00E9;guis&#x00E9;s au Ministere, c'est l'immortel M. Necker : ce Genevois souple &#x0026; adroit, &#x0026; qui fait le mieux jouer avec la fortune, a bien senti qu'il ne pouvoit, dans la circonstance, se montrer avec le m&#x00EA;me habit ; or, pour suivre la m&#x00E9;thode des autres, il a retrouv&#x00E9; dans les archives royales, le manteau de Sully, l'habit complet
+<pb n="14"/>
+de Turgot, &#x0026; le masque de Colbert ; puis il s'est lanc&#x00E9; dans la bande nationale masqu&#x00E9;e ; &#x0026; vous devez juger qu'avec cet attirail, on lui a v&#x00EE;te &#x00E9;rig&#x00E9; des autels ; mais quand il aura, ainsi que moi &#x0026; les autres, une provision de cendres sur la t&#x00EA;te, que restera-t-il ? un fourbe, un intrigant, un P&#x00E9;roreur, un Joueur de gobelets ; en un mot, M. Necker.</p>
+        <p>Je ne puis pas trop vous dire comment se d&#x00E9;guisera M. le Comte de Saint-Priest ; jusqu'alors c'est un mystere ; mais encore quelques jours, &#x0026; le nous le saurons. Del&#x00E0;, je vins au Ch&#x00E2;telet, o&#x00F9; j'ai encore trouv&#x00E9; une foule de masques ; mais comme je possede seul le secret des travestissemens, ils n'ont point &#x00E9;chapp&#x00E9; &#x00E0; mes observations. J'y ai vu le Lieutenant-Criminel, d&#x00E9;guis&#x00E9; en homme sensible &#x0026; vertueux, cachant une ame dure, inflexible, avide &#x0026; int&#x00E9;ress&#x00E9;e sous la robe de Juge &#x00E9;quitable.</p>
+        <p>Boucher d'Argis, avec le bonnet vert sur la t&#x00EA;te, publioit effront&#x00E9;ment qu'avec cette livr&#x00E9;e de banqueroutier, il pouvoit affronter ses cr&#x00E9;anciers, &#x0026; que Marat d&#x00E9;guis&#x00E9; en ami du Peuple, avoit tort de lui reprocher publiquement qu'il &#x00E9;toit un escroc.</p>
+        <pb n="15"/>
+        <p>J'y ai vu Quatremer, habill&#x00E9; en Jurisconsulte, insulter au bon sens, &#x00E0; la raison &#x0026; &#x00E0; la probit&#x00E9;, mentir impudemment, &#x0026; faire des rapports capables d'&#x00E9;mouvoir &#x0026; de faire na&#x00EE;tre la fureur parmi un autre Peuple qui ne seroit pas a lisiere comme le n&#x00F4;tre.</p>
+        <p>J'y ai vu Testard, qui, dans tout autre temps, auroit achet&#x00E9; sous les pilliers des halles, un d&#x00E9;guisement de Secr&#x00E9;taire du Roi, crier &#x00E0; tue-t&#x00EA;te, que la Noblesse avoit perdu ses droits ; &#x0026; rev&#x00EA;tu d'un habit noir, contrefaire le Praticien zel&#x00E9; ; mais, bast ! le gueux s'est montr&#x00E9; tel qu'il est, je l'ai reconnu.</p>
+        <p>Pour les Greffiers, il &#x00E9;toit impossible de s'y m&#x00E9;prendre : &#x00E0; l'instart de ceux du Parlement, ces frippous d&#x00E9;clar&#x00E9;s, desonc&#x00E9;s, reconnus, ne s'&#x00E9;toient-ils pas avis&#x00E9;s de se couvrir des casaques d'honn&#x00EA;tes gens, d&#x00E9;c&#x00E9;d&#x00E9;s &#x00E0; la Greve, &#x0026; dont la vestiture &#x00E9;toit d&#x00E9;pos&#x00E9;e dans leurs armoires. Je me suis amus&#x00E9; &#x00E0; voir leurs audiences, &#x0026; Juges, Rapporteurs, Conseils, Greffiers, tout &#x00E9;toit masqu&#x00E9;.</p>
+        <p>J'&#x00E9;tois trop en train pour borner l&#x00E0; mon examen ; je vins ensuite &#x00E0; l'H&#x00F4;tel-de-Ville ; autre mascarade, &#x0026; bien plus
+<pb n="16"/>
+pitoyable que les autres. J'y reconnus le G&#x00E9;n&#x00E9;ral de la Milice Parisienne cach&#x00E9; sous l'habit bleu, d&#x00E9;cor&#x00E9; des couleurs du patriotisme, &#x0026; perch&#x00E9; sur un escarpolette, essayant de son mieux &#x00E0; conserver l'&#x00E9;quilibre entre la partie r&#x00E9;gnante &#x0026; la partie populaire.</p>
+        <p>J'y ai vu Bailly, le fameux Bailly, cet ancien Pr&#x00E9;sident, qui probablement avoit retrouv&#x00E9; &#x00E0; l'h&#x00F4;tel de la Mairie un des anciens travestissemens de Lenoir, &#x0026; essayant devant une glace les anciens airs de ce Lieutenant de Police : je ne pus m'emp&#x00EA;cher de lui dire : Eh ! mon tr&#x00E8;s-cher, tout Acad&#x00E9;micien Fran&#x00E7;ais que vous soyez, ignorez-vous que fin contre fin, n'est pas bon &#x00E0; faire doublure ? &#x0026; de lui chanter &#x00E0; l'oreille, de maniere que tout le monde l'entende, ce couplet des Vandangeurs :<lb/><hi rend="italic">A cet arr&#x00EA;t, devions-nous nous attendre ?<lb/>
+H&#x00E9;las ! pourquoi nous causer des soupirs ?<lb/>
+Ah ! si pour vous c'est un besoin de prendre, <lb/>
+Prenez nos biens, mais laissez nos plaisirs.<lb/></hi></p>
+        <p>Un districo des Comnunes me repoussa ; c'&#x00E9;toit le sieur de Rosambourg, qui s&#x00DB;rement avoit cru que je ne le reconno&#x00EE;trois pas, de la maniere dont il &#x00E9;toit acco&#x00DB;tr&#x00E9;.
+<pb n="17"/>
+Figurez-vous, mes chers Messieurs dc la Commune, que ce personnage ignoble, avec sa face enlumin&#x00E9;e, s'&#x00E9;toit costum&#x00E9; en P&#x00E9;nitent, &#x0026; vouloit absolument passer pour quelque chose, lui qui n'est moins que rien. D'abord je le pris pour un dc ces pieux C&#x00E9;nobites, qui, arm&#x00E9; dc la haire &#x0026; de la discip1ine, corrigeoit ses sens, en faisant usage des privations : mais bon ! apr&#x00E8;s un moment d'examen, je reconnus que mon homme &#x00E9;toit de la trempe des autres, &#x0026; que son d&#x00E9;guisement consistoit en forfanteries &#x0026; cn basses man&#x0153;uvres.</p>
+        <p><hi rend="italic">C&#x00E9;l&#x00E9;rier</hi> s'&#x00E9;toit habill&#x00E9; en Berger ; vous conviendrez que ce faux &#x0026; ridicule personnage est un des plus vils gredins dc tous ceux qui composent votre auguste Assembl&#x00E9;e : il contrefait donc le <hi rend="italic">Pastor fida</hi>. Savez-vous pourquoi c'est que Madame M&#x00E9;nard, dont le commerce consiste &#x00E0; vendre des cocardes nationales, a d&#x00E9;core en sa faveur M. son &#x00E9;poux d'un panache royal, &#x0026; lui a donn&#x00E9; l'uniforme de cocu, sans en avoir la paye? Et cette jolie Marchande de la rue de la F&#x00E9;ronerie sert de s&#x00E9;conde au C&#x00E9;l&#x00E9;rier, &#x0026; le tout gratis ; car son Amant, Vice-Pr&#x00E9;sident de la Commune, n'a pas le fou.</p>
+        <pb n="18"/>
+        <p>Si&#x00E9;geant tout &#x00E0; c&#x00F4;t&#x00E9;, je distinguai la Crepiniaire, qui &#x00E9;toit masqu&#x00E9; d'un visage de Capitaine ; mais le butor &#x00E9;toit tojours le m&#x00EA;me ; vain, frippon &#x0026; m&#x00E9;chant, vantant ses services, &#x0026; n'en rendant jamais, dur envers ses inf&#x00E9;rieurs bas et rampant avec l'illustre G&#x00E9;n&#x00E9;ral, enfin l'homme &#x00E0; toutes mains.</p>
+        <p>Brousse des Faucherets se cachoit dans un coin, d&#x00E9;guis&#x00E9; en Colporteur de billets de Loterie : en le voyant, je me mis a dire : Pas mal ! pas mal ! notre homme est dans centre.</p>
+        <p>Mais qui croirez-vous que je rencontrai ? C'&#x00E9;toit le Vauvillers, d&#x00E9;guis&#x00E9; en Recruteur : cela ne m'&#x00E9;tonna pas, sachant tr&#x00E8;s-bien qu'il avoit couch&#x00E9; trois mois cons&#x00E9;cutifs avec la Demoiselle de Bissy, &#x0026; qu'il avoit pr&#x00EA;t&#x00E9; de l'argent &#x00E0; l'Abb&#x00E9; d'Adh&#x00E9;mar : on se ressent toujours de ce qu'on ch&#x00E9;rit le plus, &#x0026; le caque sent toujours le hareng.</p>
+        <p>J'en ai, je crois, assez dit pour vous prouver que vous n'avez retranch&#x00E9; le Carnaval au Peuple que pour pouvoir en s&#x00DB;ret&#x00E9; vaquer aux amusemens du votre ; que vous ne nous privez de nos agr&#x00E9;mens que pour avoir la libert&#x00E9; de pouvoir,
+<pb n="19"/>
+dans les trois jours fameux qui me sont consacr&#x00E9;s, celle de continuer vos orgies, vos soupers de confraternit&#x00E9;, &#x0026; vous r&#x00E9;jouir aux d&#x00E9;pens de ce pauvre Peuple, qui passera ses jours gras sur le perron e l'H&#x00F4;tel-de-Ville, lorsque vous serez chez le restaurateur, ou dans la chambre voisine, &#x00E0; vous r&#x00E9;conforter l'estomac, en buvant force liqueurs ou syrops, aux d&#x00E9;pens de vos opprim&#x00E9;s.</p>
+        <p>Mais quelle nouvelle entends-je? Eh quoi! c'est &#x00E0; la M&#x00E9;tropole que vous avez transport&#x00E9; le grand Sallon, &#x0026; c'est &#x00E0; Notre-Darne que se r&#x00E9;unissent tous les masques!  Au-lieu d'une valse, c'est un <hi rend="italic">Te Deum</hi> que vous chantez solemnellement. Ah ! je vous reconnois bien l&#x00E0;, mis&#x00E9;rables pantins ! Ne cesserez-vous jamais d'&#x00E9;blouir ce pauvre Peuple par de perp&#x00E9;tuelles mascarades, quand vous d&#x00E9;fendez les n&#x00F4;tres ?</p>
+        <p>Sans dout&#x00E9; le chef de la Nation viendra remercier l'Etre supr&#x00EA;me d'avoir &#x00E9;t&#x00E9; inspir&#x00E9; par lui, au point de faire une promenade de son appartement royal &#x00E0; la salle de bal de Assembl&#x00E9;e Nationale.</p>
+        <p>Sa tr&#x00E8;s-digne &#x0026; chaste &#x00E9;pouse ne manquera pas d'y venir aussi afficher sa mine hypocrite ; elle rira de votre b&#x00EA;tise &#x0026; 
+<pb n="20"/>
+de vos parades, &#x0026; sera tr&#x00E8;s-bien ; car au fait, depuis l'heureux moment que vous vous &#x00EA;tes mis, pour notre malheur, en possession de l'autorit&#x00E9;, vos pasquinades ne peuvent op&#x00E9;rer que des plaisanteries.</p>
+        <p>Sera-ce aussi sur son cheval blanc que le G&#x00E9;n&#x00E9;ral des Districos montera, pour se mettre &#x00E0; la t&#x00EA;te des fain&#x00E9;ans &#x0026; indisciplin&#x00E9;s de la Capitale ? Ma foi, de telle maniere qu'il s'y montre, qu lieu de crier au <hi rend="italic">chant-lit</hi>, je conseille &#x00E0; mes frustr&#x00E9;s d'amusemens, de crier bravo, bravo ! l'homme fin &#x0026; politique.</p>
+        <p>Le Maire Bailly a-t-il arrang&#x00E9; dans sa t&#x00EA;te acad&#x00E9;mique un discours ? Dira-t-il au Roi, en sa maniere accoutum&#x00E9;e, qu'il est le Restaurateur de la Libert&#x00E9; ? Foin de la libert&#x00E9;, si vous y mettez journellement de nouvelles entraves ! &#x0026; encore une fois, bon Dieu :<lb/>
+Ah ! si pour vous c'est un besoin de prendre,<lb/>
+Prenez nos biens ; mais laissez nos plaisirs.<lb/></p>
+        <p>Mais cessons de quereller ensemble ; faisons la paix, &#x0026; engagez sur-tout Garnier, Pr&#x00E9;sident du District Saint-Honor&#x00E9;, &#x00E0; ne pas se dire l'envoy&#x00E9; des soixante Districts, &#x0026; ne pas mentir avec autant
+<pb n="21"/>
+d'iimpudence. Qu'il se d&#x00E9;guise, si bon lui semble, qu'il se couvre de l'enveloppe d'un homme grave, rien de mieux ; mais quand moi, Mardi-Gras, je lirai son discours au Roi &#x0026; &#x00E0; la Reine, imprim&#x00E9; chez J. G............, cela me donnera toujours de l'humeur, &#x0026; lui soutiendrai envers &#x0026; contre tous, que sa pr&#x00E9;sidence est suspecte, &#x0026; qu'il tient la place d'un menteur. Ses phrascs mal arrang&#x00E9;es ne servent-elles pas &#x00E0; en convaincre ?</p>
+        <p>Ce M. Garnier assure au Roi de France, soi-disant de la part des soixante Districts, qu'ils sont p&#x00E9;n&#x00E9;tr&#x00E9;s que S. M. ait fait un tour aux Tuileries ; &#x0026; moi aussi;  mais je ne serai pas persuad&#x00E9; de l'efficacit&#x00E9; de cette promenade, que quand on aura retrouv&#x00E9; la clef &#x00E9;gar&#x00E9;e du Tr&#x00E9;sor royal, ou qu'on se sera d&#x00E9;cid&#x00E9; &#x00E0; en briser le cadenas. M. Necker pourroit trancher la difficult&#x00E9; ; mais comme il ess aussi difficile d'op&#x00E9;rer des miracles que d'y croire, on me permettra de dire : je n'en crois rien.</p>
+        <p>Les transports vifs &#x0026; multipli&#x00E9;s des habitans de la Capitale, sont encore un probl&#x00E8;me pour moi. Eh ! o&#x00F9; diable les voit-il donc ses transports vifs &#x0026; multipli&#x00E9;s ? Est-ce dans les traits des pauvres
+<pb n="22"/>
+malheureux qui attendent apr&#x00E8;s les dixhuit mois d'arr&#x00E9;rages de leurs rentes, amass&#x00E9;es par leurs anc&#x00EA;tres &#x00E0; la suite d'un long travail, qui ont pr&#x00EA;t&#x00E9; &#x00E0; celui qui doit le premier donner l'exemple de rendre, &#x0026; auxquels on donne cong&#x00E9; par Huissier, d'un mis&#x00E9;rable galetas, qu'ils n'occupent que parce que le Roi de France ne paye pas ? Mais il ne peut pas, me dira-t-on ; mais ni moi non plus, &#x0026; cela n'emp&#x00EA;che pas les mis&#x00E9;rables barbouilleurs de papier timbr&#x00E9;, d'exploiter encore. Si les Repr&#x00E9;sentans de la Commune payoient les frais ! mais je t'en f...., ces coquins-l&#x00E0; ont jur&#x00E9; de gruger jusqu'&#x00E0; notre dernier sou.</p>
+        <p>Ce M. Gamier s'adresse ensuite &#x00E0; Madame la Reine, &#x0026; lui dit gravement qu'elle est l'<hi rend="italic">exemple auguste de la tendresse maternelle</hi>. On ne sauroit mentir avec plus d'impudence ! Peut-on, sans bassesses, faire un tel compliment &#x00E0; Madame Antoinette ? Ah ! pour le coup, si elle est l'exemple de l'amour maternel, je ne m'y connois donc plus ? Mais &#x00E0;-propos, c'est une mascarade, &#x0026; je suis de l'avis g&#x00E9;n&#x00E9;ral : <hi rend="italic">Tout est de carnaval.</hi></p>
+        <p>Elle rend <hi rend="italic">aux familles, les p&#x00E8;res infortun&#x00E9;s</hi>.
+<pb n="23"/>
+Eh morbleu ! qu'elle nous rende notre argent, &#x0026; les familles retrouveront leurs peres sans le secours de personne, pas m&#x00EA;me le sien ; car toutes ces parades de bienfaisances , sont, &#x00E0; proprement parler, de la poudre aux yeux.</p>
+        <p><hi rend="italic">Vous encouragez les meres dans l'exercice du plus saint de leurs devoirs.</hi> Allons c'est une attrape de plus, &#x0026; tout Car&#x00EA;meprenant que je suis, je ne m'y laisserai pas prendre ; non, en v&#x00E9;rit&#x00E9;, non, &#x0026; si j'avois &#x00E9;t&#x00E9; &#x00E0; la place de la Reine de France, en &#x00E9;coutant ce pompeux galimatias, j'aurois cru, non sans raison, que M. le Pr&#x00E9;sident du District de S. - Honor&#x00E9; se seroit fourr&#x00E9; dans la t&#x00EA;te le dessein d m'injurier avec l'apparence de me combler de fadeurs honorifiques.</p>
+        <p>En continuant, &#x0026; lorsque ce m&#x00EA;me adulateur dit que sa pr&#x00E9;sence dans la Capitale y ramene <hi rend="italic">le bonheur &#x0026; les vertus</hi>, c'est encore une mauvaise plaisanterie de Carnaval. Le bonheur ! Il est impossible d'y songer. Les vertus ! &#x00E0; moins qu'elles ne se soient servies du rnastque de l'impudicit&#x00E9;, je ne les reconno&#x00EE;trai pas.</p>
+        <p>Quant &#x00E0; l'article des petits enfans, tout aussi ridicule que les autres, c'est toucher
+<pb n="24"/>
+Une corde injurieuse &#x0026; diffamante, que d'oser parler de ce chapitre ; c'est une extravagance, pour ne pas dire une sottise.</p>
+        <p>Je ne visiterai pas cette ann&#x00E9;e l'Op&#x00E9;ra, ni les Porcherons ; mais je pourrai exister &#x00E0; l'Assembl&#x00E9;e Nationale, aux Tuileries &#x0026; l'H&#x00F4;tel-de-Ville : tout coup vaille; ne pouvant &#x00EA;tre mieux, il faut bien que je m'en contente : j'ai tant de fois pr&#x00E9;sid&#x00E9; aux temples de la Divinit&#x00E9;, en habit de Moine, Chanoine, &#x0026; Pere indigne des Capucins !</p>
+        <p>L'Archev&#x00EA;que dc Bordeaux, qui cette ann&#x00E9;e, s'est m&#x00E9;tamorphos&#x00E9; en Chancelier, ne figure pas mal sous ce travestissment, Le grand-bal du monde, &#x0026; la danse du finances, &#x0026; l'Assembl&#x00E9;e masqu&#x00E9;e de la Jurisprudence, ont l&#x00E0; un bon support.</p>
+        <p>Pour cette ann&#x00E9;e, je m'en tiens l&#x00E0; ; mais de grace, ne continuez pas. Je vous abandonne toute autre chose : mais pour Dieu ! c'est le Mardi-gras outrag&#x00E9; qui vous le dit:<lb/>
+Ah ! si pour vous c'est un besoin de prendre,<lb/> 
+Pren&#x00E9;s nos biens ; mais laiss&#x00E9;s nos plaisirs.<lb/></p>
+      </div1>
+    </body>
+    <back id="carn_1003"><!-- <div1 id="carn_figures">
+<p><figure entity="carn01" n="1"><figDesc>Image of page 1</figDesc></figure></p>
+<p><figure entity="carn02" n="2"><figDesc>Image of page 2</figDesc></figure></p>
+<p><figure entity="carn03" n="3"><figDesc>Image of page 3</figDesc></figure></p>
+<p><figure entity="carn04" n="4"><figDesc>Image of page 4</figDesc></figure></p>
+<p><figure entity="carn05" n="5"><figDesc>Image of page 5</figDesc></figure></p>
+<p><figure entity="carn06" n="6"><figDesc>Image of page 6</figDesc></figure></p>
+<p><figure entity="carn07" n="7"><figDesc>Image of page 7</figDesc></figure></p>
+<p><figure entity="carn08" n="8"><figDesc>Image of page 8</figDesc></figure></p>
+<p><figure entity="carn09" n="9"><figDesc>Image of page 9</figDesc></figure></p>
+<p><figure entity="carn10" n="10"><figDesc>Image of page 10</figDesc></figure></p>
+<p><figure entity="carn11" n="11"><figDesc>Image of page 11</figDesc></figure></p>
+<p><figure entity="carn12" n="12"><figDesc>Image of page 12</figDesc></figure></p>
+<p><figure entity="carn13" n="13"><figDesc>Image of page 13</figDesc></figure></p>
+<p><figure entity="carn14" n="14"><figDesc>Image of page 14</figDesc></figure></p>
+<p><figure entity="carn15" n="15"><figDesc>Image of page 15</figDesc></figure></p>
+<p><figure entity="carn16" n="16"><figDesc>Image of page 16</figDesc></figure></p>
+<p><figure entity="carn17" n="17"><figDesc>Image of page 17</figDesc></figure></p>
+<p><figure entity="carn18" n="18"><figDesc>Image of page 18</figDesc></figure></p>
+<p><figure entity="carn19" n="19"><figDesc>Image of page 19</figDesc></figure></p>
+<p><figure entity="carn20" n="20"><figDesc>Image of page 20</figDesc></figure></p>
+<p><figure entity="carn21" n="21"><figDesc>Image of page 21</figDesc></figure></p>
+<p><figure entity="carn22" n="22"><figDesc>Image of page 22</figDesc></figure></p>
+<p><figure entity="carn23" n="23"><figDesc>Image of page 23</figDesc></figure></p>
+<p><figure entity="carn24" n="24"><figDesc>Image of page 24</figDesc></figure></p>
+/div1> --></back>
+  </text>
+</TEI.2>
