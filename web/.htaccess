@@ -1,4 +1,0 @@
-Options -MultiViews 
-RewriteEngine on
-RewriteBase /~rsutton/frenchrevolution/
-RewriteRule ^oai/?$	oai/oai2.php 
