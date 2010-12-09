@@ -3,8 +3,8 @@
 /* Configuration settings for entire site */
 // set level of php error reporting --  ONLY display errors
 // (will hide ugly warnings if databse goes offline/is unreachable)
-$in_production = "true";
-if($in_production) {
+$in_production = "false";
+if($in_production == "true") {
   error_reporting(E_ALL ^ E_NOTICE);	// for production
  } else {
   error_reporting(E_ERROR | E_PARSE);    // for development
@@ -13,11 +13,11 @@ if($in_production) {
 
 
 /* exist settings  */
-if($in_production) {
+if($in_production == "true") {
   $server = "bohr.library.emory.edu";
   $port = "7080";
  } else {
-  $server = "wilson.library.emory.edu";
+  $server = "kamina.library.emory.edu";
   $port = "8080";
  }
 $db = "frenchrevolution";
