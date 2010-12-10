@@ -18,6 +18,7 @@ include("header.php");
 include("common_functions.php");
 
 $params = array("sort" => $sort, "view" => $view);
+print "DEBUG: value of view is  $view"; 
 $list =  transform("pamphletlist.xml", "xsl/list.xsl", $params);
 print $list->saveXML();
 
