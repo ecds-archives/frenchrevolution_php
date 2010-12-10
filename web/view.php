@@ -22,8 +22,8 @@ if ($kw)
 
 // retrieve entire document, by docname
 $query = 
-'declare namespace tei+"http://www.tei-c.org/ns/1.0"; 
-"document('/db/$db/$doc.xml')/tei:TEI$filter"'; //[CD - errors with first db and .xml ending on doc]
+'declare namespace tei="http://www.tei-c.org/ns/1.0"'; 
+"document('/db/$db/$doc.xml')/tei:TEI$filter"; 
 $xsl = "xsl/view.xsl";
 
 // run the query 
