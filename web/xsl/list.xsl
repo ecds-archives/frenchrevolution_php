@@ -19,7 +19,7 @@
       <xsl:choose>
         <!-- digital editions only -->
         <xsl:when test="$view = 'digitaled'">
-          <xsl:value-of select="count(//pamphlet[@id])"/>
+          <xsl:value-of select="count(//pamphlet[@xml:id])"/>
 <!-- CD: tei to precede pamphlet? -->
         </xsl:when>
         <!-- all other modes display all pamphlets -->
@@ -110,17 +110,17 @@
     <xsl:choose>
       <!-- pamphlets with digital editions (id = link) -->
       <xsl:when test="$view = 'digitaled' and $sort = 'title'">
-        <xsl:apply-templates select="//pamphlet[@id]">
+        <xsl:apply-templates select="//pamphlet[@xml:id]">
           <xsl:sort select="title"/>
         </xsl:apply-templates>
       </xsl:when>
       <xsl:when test="$view = 'digitaled' and $sort = 'author'">
-        <xsl:apply-templates select="//pamphlet[@id]">
+        <xsl:apply-templates select="//pamphlet[@xml:id]">
           <xsl:sort select="author"/>
         </xsl:apply-templates>
       </xsl:when>
       <xsl:when test="$view = 'digitaled' and $sort = 'date'">
-        <xsl:apply-templates select="//pamphlet[@id]">
+        <xsl:apply-templates select="//pamphlet[@xml:id]">
           <xsl:sort select="date"/>
         </xsl:apply-templates>
       </xsl:when>
@@ -156,10 +156,10 @@
 
   <xsl:template match="tei:title">
     <xsl:choose>
-      <xsl:when test="../@id">
+      <xsl:when test="../@xml:id">
 <!-- CD: appropriate to insert xml: above? -->
         <a>
-          <xsl:attribute name="href">view.php?doc=<xsl:value-of select="../@id"/></xsl:attribute>
+          <xsl:attribute name="href">view.php?doc=<xsl:value-of select="../@xml:id"/></xsl:attribute>
           <xsl:apply-templates/>
         </a>
       </xsl:when>
