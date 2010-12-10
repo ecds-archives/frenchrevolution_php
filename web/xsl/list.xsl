@@ -19,7 +19,7 @@
       <xsl:choose>
         <!-- digital editions only -->
         <xsl:when test="$view = 'digitaled'">
-          <xsl:value-of select="count(//pamphlet[@xml:id])"/>
+          <xsl:value-of select="count(//pamphlet[@id])"/>
 <!-- CD: tei to precede pamphlet? -->
         </xsl:when>
         <!-- all other modes display all pamphlets -->
@@ -154,7 +154,7 @@
     </div>
   </xsl:template>
 
-  <xsl:template match="tei:title">
+  <xsl:template match="title">
     <xsl:choose>
       <xsl:when test="../@xml:id">
 <!-- CD: appropriate to insert xml: above? -->
@@ -169,7 +169,7 @@
     </xsl:choose>
   </xsl:template>
 
-  <xsl:template match="tei:figure">
+  <xsl:template match="figure">
     <div class="pageimage">
 
       <a>
