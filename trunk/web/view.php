@@ -21,9 +21,8 @@ if ($kw)
   $filter = "[. &= '$kw']";
 
 // retrieve entire document, by docname
-$query = 
-'declare namespace tei="http://www.tei-c.org/ns/1.0"'; 
-"document('/db/$db/$doc.xml')/tei:TEI$filter"; 
+$query = "declare namespace tei='http://www.tei-c.org/ns/1.0';";
+$query .= "document('/db/$db/$doc.xml')/tei:TEI$filter"; 
 $xsl = "xsl/view.xsl";
 
 // run the query 
