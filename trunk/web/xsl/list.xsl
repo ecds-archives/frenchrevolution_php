@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+		xmlns:tei="http://www.tei-c.org/ns/1.0"
                 version="1.0">
 
   <xsl:param name="sort"/>
@@ -19,6 +20,7 @@
         <!-- digital editions only -->
         <xsl:when test="$view = 'digitaled'">
           <xsl:value-of select="count(//pamphlet[@id])"/>
+<!-- CD: tei to precede pamphlet? -->
         </xsl:when>
         <!-- all other modes display all pamphlets -->
         <xsl:otherwise>
@@ -147,13 +149,15 @@
 
   <xsl:template match="pamphlet">
     <div class="pamphlet">
+<!-- CD: tei to precede pamphlet? -->
       <xsl:apply-templates/>
     </div>
   </xsl:template>
 
-  <xsl:template match="title">
+  <xsl:template match="tei:title">
     <xsl:choose>
       <xsl:when test="../@id">
+<!-- CD: appropriate to insert xml: above? -->
         <a>
           <xsl:attribute name="href">view.php?doc=<xsl:value-of select="../@id"/></xsl:attribute>
           <xsl:apply-templates/>
@@ -165,8 +169,9 @@
     </xsl:choose>
   </xsl:template>
 
-  <xsl:template match="figure">
+  <xsl:template match="tei:figure">
     <div class="pageimage">
+
       <a>
         <xsl:attribute name="href"><xsl:value-of select="concat($img_url, @entity, '.jpg')"/></xsl:attribute>
         <img>

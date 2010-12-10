@@ -13,7 +13,7 @@ if (!($doc)) {
 }
 
 
-$exist_args{"debug"} = false;
+$exist_args{"debug"} = true;
 $xmldb = new xmlDbConnection($exist_args);
 
 $filter = "";
@@ -21,7 +21,9 @@ if ($kw)
   $filter = "[. &= '$kw']";
 
 // retrieve entire document, by docname
-$query = "document('/db/$db/$doc.xml')/TEI.2$filter";
+$query = 
+'declare namespace tei+"http://www.tei-c.org/ns/1.0"; 
+"document('/db/$db/$doc.xml')/tei:TEI$filter"';
 $xsl = "xsl/view.xsl";
 
 // run the query 
