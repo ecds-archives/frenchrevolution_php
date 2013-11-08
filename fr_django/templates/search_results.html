@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<p>Search results for '{{keyword}}' :</p>
+
+{% if server_error %}{{ server_error }}{% endif %}
+
+{% if searchform.is_valid %}
+  {% for pamphlet in pamphlets %}
+    <p><a href={% url "pamphlet_display" pamphlet.id%}>{{pamphlet.title}}</a>
+    <br>
+    {{keyword_count}}
+    {% if keyword_count = 1 %}
+      match
+    {% else %}
+      matches
+    {% endif %}
+    </p>
+  {% endfor %}
+{% endif %} 
+
+{% endblock %}
