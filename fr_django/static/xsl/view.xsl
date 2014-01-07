@@ -61,4 +61,11 @@
     <span class="match"><xsl:apply-templates/></span>
   </xsl:template>
 
+<!-- highlight matches in text -->
+<xsl:template match="exist:match">
+  <span class="exist-match">
+    <xsl:apply-templates/>
+  </span>
+</xsl:template>
+
 </xsl:stylesheet>

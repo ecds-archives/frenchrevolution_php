@@ -3,6 +3,8 @@ import re
 from collections import Counter
 from urllib import urlencode
 import logging
+from collections import OrderedDict
+from operator import itemgetter
 
 from django.conf import settings
 from django.shortcuts import render, render_to_response
@@ -10,8 +12,8 @@ from django.http import HttpResponse, Http404
 from django.core.paginator import Paginator, InvalidPage, EmptyPage
 from django.template import RequestContext
 
-from frenchrev.models import Pamphlet, Text
-from frenchrev.forms import SearchForm
+from fr_django.models import Pamphlet, Text
+from fr_django.forms import SearchForm
 
 from eulxml.xmlmap.core import load_xmlobject_from_file
 from eulxml.xmlmap.teimap import Tei, TeiDiv, _TeiBase, TEI_NAMESPACE, xmlmap
@@ -38,15 +40,22 @@ def searchform(request):
     if 'keyword' in form.cleaned_data and form.cleaned_data['keyword']:
       search_opts['fulltext_terms'] = '%s' % form.cleaned_data['keyword']          
       pamphlets = Text.objects.filter(**search_opts)
+      pamphlet_dict = {}
+      pamphlet_list = []
 
       for pamphlet in pamphlets:
-        word_list = re.findall(keyword, pamphlet.text_string.lower())
+        word_list = re.findall(r'\b%s\b' % keyword, pamphlet.text_string.lower())
         keyword_count = len(word_list)
-
+        pamphlet_dict[pamphlet.id] = (keyword_count)
+        pamphlet_list = [(k,v) for v,k in sorted([(v,k) for k,v in pamphlet_dict.items()], reverse=True)]
+        
       context['pamphlets'] = pamphlets
       context['keyword'] = keyword
       context['keyword_count'] = keyword_count
       context['form'] = form
+      context['pamphlet_dict'] = pamphlet_dict
+      context['pamphlet_list'] = pamphlet_list
+
            
   return render_to_response('search_results.html', context, context_instance=RequestContext(request))
 
@@ -103,7 +112,14 @@ def digital_editions(request, sort='title'):
     
 
 def pamphlet_display(request, doc_id):
-  pamphlet = Text.objects.get(id__exact=doc_id)
+  if 'keyword' in request.GET:
+    search_terms = request.GET['keyword']
+    url_params = '?' + urlencode({'keyword': search_terms})
+    filter = {'highlight': search_terms}    
+  else:
+    url_params = ''
+    filter = {}
+  pamphlet = Text.objects.filter(**filter).get(id__exact=doc_id)
   format = pamphlet.xsl_transform(filename=os.path.join(settings.BASE_DIR, 'static', 'xsl', 'view.xsl'))
   return render_to_response('pamphlet_display.html', {'pamphlet': pamphlet, 'format': format.serialize()}, context_instance=RequestContext(request)) 
   

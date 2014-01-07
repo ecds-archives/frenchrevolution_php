@@ -16,7 +16,7 @@ declare namespace xml=\'http://www.w3.org/XML/1998/namespace\';
 \n
 declare namespace tei=\'http://www.tei-c.org/ns/1.0\';
 \n
-collection("/db/frenchrev/")
+collection("/db/fr_django/")
 '''
 
 class Fields(XmlObject):
@@ -34,5 +34,7 @@ class Text(XmlModel, Tei):
     ROOT_NAMESPACES = {'tei' : TEI_NAMESPACE}
     objects = Manager('/tei:TEI')
     id = StringField('@xml:id')
+    title = StringField('//tei:docTitle')
+    author = StringField('//tei:docAuthor')
     text_string = StringField('tei:text')
     

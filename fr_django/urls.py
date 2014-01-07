@@ -6,9 +6,9 @@ from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from django.contrib import admin
 admin.autodiscover()
 
-from frenchrev.views import index, overview, tag_guide, handbook, pamphlet_list,  pamphlet_display, digital_editions, research_guide, bibliography, vol_set1, vol_set2, vol_set3, searchform
+from fr_django.views import index, overview, tag_guide, handbook, pamphlet_list,  pamphlet_display, digital_editions, research_guide, bibliography, vol_set1, vol_set2, vol_set3, searchform
 
-urlpatterns = patterns('frenchrev.views',
+urlpatterns = patterns('fr_django.views',
     url(r'^$', 'index', name='index'),
     url(r'^search$', 'searchform', name='searchform'),
     #overview
@@ -20,7 +20,7 @@ urlpatterns = patterns('frenchrev.views',
     url(r'^list/(?P<sort>[^/]+)/$', 'pamphlet_list', name='pamphlet_list'),
     url(r'^list/digital$', 'digital_editions', name='digital_editions'),
     url(r'^list/digital/(?P<sort>[^/]+)/$', 'digital_editions', name='digital_editions'),
-    url(r'^(?P<doc_id>[^/]+)/view$', 'pamphlet_display', name='pamphlet_display'),
+    url(r'^view/(?P<doc_id>[^/]+)$', 'pamphlet_display', name='pamphlet_display'),
     #research guide
     url(r'^revguide$', 'research_guide', name='research_guide'),
     url(r'^biblioguide$', 'bibliography', name='bibliography'),

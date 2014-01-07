@@ -69,9 +69,9 @@ div.volumes {
   text-align:center;
 }
 
-span.match { 
-  color:#FFFFFF;
-  background:#004080;
+span.exist-match { 
+  font-weight:bold;
+  background-color:#d1e1f9;
 }
 
 div.pamphlet { 
